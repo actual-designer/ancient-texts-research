@@ -1,7 +1,7 @@
 # Technology Catalog -- Every "Miracle" Mapped to Plausible Technology
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
-**Scope:** All four foundational texts
+**Scope:** All five foundational texts (`audit/analyses/mahabharata.md` for Mahābhārata dossier)
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---
@@ -68,6 +68,51 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Reconstruction** | A procedure (possibly involving gene therapy or nanoscale intervention delivered through cranial contact) that halts biological aging; the relocation is quarantine or privileged retirement |
 | **Modern analog** | Theoretical: whole-body gene therapy targeting aging pathways, telomere maintenance, cellular senescence elimination |
 
+### 1.7 Invoked Phenotype Insertion (Kuntī's Commissioning Protocol)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata (`audit/analyses/mahabharata.md`) |
+| **Description** | Mantra-mediated "summoning" of devas; sequential births (Yudhiṣṭhira, Bhīma, Arjuna; Karṇa to Sūrya); sons inherit patron operational specialties |
+| **Reconstruction** | Restricted-band access token; senior operators deliver engineered gametes, viral-vector edits, or ex utero implant; multi-donor maternal line as controlled uplift program |
+| **Modern analog** | IVF with synthetic chromosome bundles, CRISPR-tier germline editing, surrogate concealment |
+
+### 1.8 Embryo Division / Clonal Batch (Gandharī's Hundred)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata (`audit/analyses/mahabharata.md`) |
+| **Description** | Single embryo mass partitioned into ~100 Kaurava brothers |
+| **Reconstruction** | Artificial splitting or clonal expansion from one zygotic substrate; batch phenotype with shared lineage marker |
+| **Modern analog** | Artificial twinning at scale, therapeutic cloning expansion (speculative military batching) |
+
+### 1.9 Vessel-Born Fabrication (Droṇa)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata (`audit/analyses/mahabharata.md`) |
+| **Description** | Droṇa arises from a pot/vessel retaining seminal/intellectual substrate of Bharadvāja; adult cognition and śāstra mastery from first depiction |
+| **Reconstruction** | Ex vivo morphogenesis in ceramic bioreactor; accelerated maturation; procedural dataset injection |
+| **Modern analog** | Artificial ectogenesis, neural lace preload, experiential clone imprint |
+
+### 1.10 Fire-Staged Fabrication (Dhṛṣṭadyumna, Drāupadī)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata (`audit/analyses/mahabharata.md`) |
+| **Description** | Figures emerge from yajña fire as adults with tactical/narrative roles pre-encoded |
+| **Reconstruction** | Public ritual as cover for plasma curtain / assembler ingress or timed surrogate reveal |
+| **Modern analog** | Concealed field biofabrication, holographic concealment of mechanical iris |
+
+### 1.11 Bio-Integrated Armor Lattice (Karṇa)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata (`audit/analyses/mahabharata.md`) |
+| **Description** | Kavaca and kuṇḍala fused at birth; stripped by Indra-class operator exchange for single-use Śakti |
+| **Reconstruction** | Dermal nanoweave / metamaterial EMP cloak in earrings; destructive uninstall trades passive defense for terminal kinetic package |
+| **Modern analog** | Graphene-class grafts, metamaterial RF shielding, adrenaline-coupled penetrator munition |
+
 ---
 
 ## 2. AEROSPACE AND VEHICLE TECHNOLOGY
@@ -107,6 +152,15 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Description** | "Wind lifted me up and carried me away"; "clouds invited me, winds lifted me upward and bore me into heaven" |
 | **Reconstruction** | Directed-force transport: tractor beam, gravitational manipulation, or physical boarding of a craft for rapid relocation |
 | **Modern analog** | Theoretical: gravitational manipulation, electromagnetic levitation; practical: helicopter extraction |
+
+### 2.5 Vimāna-Class Aerospace Platforms
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata and adjacent epic tradition (`audit/analyses/mahabharata.md`; Pushpaka class in Rāmāyaṇa-adjacent corpus) |
+| **Description** | Enclosed aerial vehicles with multi-passenger lift, radiant hull phenomena, programmable routing; Garuḍa as persistent escort transport |
+| **Reconstruction** | VTOL / field-propulsion platforms with autonomy and EMI signatures comparable to Merkabah-class encounters; chariot–liaison dyads as forward air control |
+| **Modern analog** | Vectored thrust VTOL, MHD plasma sheath, biocomposite UAV escorts |
 
 ---
 
@@ -157,6 +211,51 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Reconstruction** | Plasma discharges, directed-energy emissions, electromagnetic phenomena associated with high-energy technology |
 | **Modern analog** | Plasma weapons, laser systems, electromagnetic pulse (EMP) |
 
+### 3.6 Strategic-Grade Astra Suite (Brahmāstra)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata (`audit/analyses/mahabharata.md`) |
+| **Description** | Weapon of last resort; blinding brilliance, environmental denuding, generational aftermath motifs (barren wombs, poisoned land/water in expanded tellings); dual-key initiation and withdrawal drills |
+| **Reconstruction** | High-energy thermal pulse with ionizing aftermath and sustained environmental chemistry; lineage-trained arming interlocks |
+| **Modern analog** | Enhanced radiation device, orbital kinetic with radiothermal secondary, nanite aerosol area denial |
+
+### 3.7 Existential-Grade Permissioned Weapon (Pāśupatastra)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata (`audit/analyses/mahabharata.md`) |
+| **Description** | Granted after Śiva-field ordeal; capable of "destroying all worlds" if misused; tier-restricted release |
+| **Reconstruction** | Firmware-level planetary infrastructure strike authority or unrestrained autonomous hunter targeting cloud |
+| **Modern analog** | MIRV-analog with geographical unbinding; speculative total atmospheric ionization event |
+
+### 3.8 Adaptive Area Denial (Nārāyaṇāstra)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata (`audit/analyses/mahabharata.md`) |
+| **Description** | Seekers whose lethality rises with resistance; halts when hostility withdrawn / weapons laid down |
+| **Reconstruction** | Feedback-guided lethality keyed to active defenses or hostility biomarkers; stand-down code removes stimulus |
+| **Modern analog** | Loitering munitions with spectral armed/unarmed discrimination |
+
+### 3.9 Elemental Astra Packages (Agni / Varuṇa / Vāyu)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata (`audit/analyses/mahabharata.md`) |
+| **Description** | Interchangeable munition classes -- fire, water/neutralization, wind/vortex -- with explicit counter-matrix (water vs fire) |
+| **Reconstruction** | Non-kinetic effect matrix: incendiary gel, oxidizer scavenger / foam, fuel-air or vortex munitions; authorization checks per shot |
+| **Modern analog** | Thermobarics, napalm analogues, meteorological seeding drones |
+
+### 3.10 Precision Projectile Platform (Gāṇḍīva)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata (`audit/analyses/mahabharata.md`) |
+| **Description** | Arjuna's bow with resonance on draw; replenishable quiver motifs; operator-rated fire rates |
+| **Reconstruction** | Electromechanical assist inside composite cladding; forward ammunition logistics collapsed into "inexhaustible" quiver framing |
+| **Modern analog** | Servo-assisted compound bow, graphene limbs, magnetic sabot micro-guidance |
+
 ---
 
 ## 4. FACILITIES AND INFRASTRUCTURE
@@ -196,6 +295,15 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Description** | Enki's domain "below"; freshwater source; location of the anti-aging plant; described as both a physical place and a cosmic concept |
 | **Reconstruction** | Subsurface or aquatic facility/domain controlled by Enki; houses biological research assets including the anti-senescence plant |
 | **Modern analog** | Underwater research station, subsurface laboratory complex |
+
+### 4.5 Indian Epic Arcologies and Command Nodes
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata and adjacent tradition (`audit/analyses/mahabharata.md`) |
+| **Description** | Laṅkā: golden defenses and aerospace sorties (Rāmāyaṇa-adjacent); Indraprastha: assembly hall with perceptual trap (Viśvakarman / Maya); Amarāvatī: Indra's celestial capital above weather |
+| **Reconstruction** | Composite-material arcology with integrated ADS; psychoacoustic / metamaterial maze hall; high-altitude station or orbital torus venting condensate as rainfall attribution |
+| **Modern analog** | Graphene-clad C4ISR hive; ultrasonic confusion architecture; rotating habitat meteorology processors |
 
 ---
 
@@ -237,6 +345,15 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Reconstruction** | Remote surveillance of the target providing real-time status updates to the ground team |
 | **Modern analog** | Satellite reconnaissance, drone surveillance, ISR (Intelligence, Surveillance, Reconnaissance) |
 
+### 5.5 Full-Spectrum Tactical Display (Viśvarūpa)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata -- Bhagavad Gītā segment (`audit/analyses/mahabharata.md`) |
+| **Description** | Kṛṣṇa reveals "universal form" -- manifold mouths, consuming visuals, blinding splendor; Arjuna overcome, sensory overwhelm |
+| **Reconstruction** | Multi-band emission mapped to volumetric humanoid projection or induced perceptual override; high-information-density HUD / neural coupling hazard comparable to Merkabah occupant radiance |
+| **Modern analog** | Terahertz volumetric projector + ultrasonic skull coupling; battlefield AR overload |
+
 ---
 
 ## 6. MEDICAL AND REANIMATION
@@ -258,6 +375,24 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Description** | "I will remove the heart of stone from your body and give you a heart of flesh. I will put my Spirit within you." |
 | **Reconstruction** | Behavioral/biological modification: removal of unresponsive pathways ("heart of stone") and replacement with responsive ones ("heart of flesh"); installation of a compliance/guidance system ("my Spirit within you") |
 | **Modern analog** | Gene therapy for behavioral modification, neural implants for behavioral guidance, deep brain stimulation |
+
+### 6.3 Biochemical Immortality Compound (Amṛta)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata tradition -- churning of the ocean (`audit/analyses/mahabharata.md`) |
+| **Description** | Amṛta consumption confers deathlessness within narrative physics; ciranjīvin roster; Aśvatthāmā's immortality framed as punitive quarantine |
+| **Reconstruction** | Telomere-reset or cellular error-correction nanotech; indefinite-span asset registry vs witness geofencing sentence |
+| **Modern analog** | Senolytics + autophagy amplifiers; viral immortalization of stem niches; RF geofencing implants as "curse" |
+
+### 6.4 Remote Battlefield Viewing (Divya Drishti -- Sañjaya)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Mahābhārata (`audit/analyses/mahabharata.md`) |
+| **Description** | Dhṛtarāṣṭra granted narration of distant war action -- divya dṛṣṭi |
+| **Reconstruction** | Real-time ISR feed or induced remote sensing link from command tier to cleared human recipient |
+| **Modern analog** | Satellite / UAV datalink to neural display; augmented cognition briefing channel |
 
 ---
 

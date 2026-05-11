@@ -14,8 +14,9 @@
 | 2 | Book of Enoch (1 Enoch) | Pre-diluvian through post-Flood | 193 | Watchers' descent, technology transfer, Nephilim, heavenly facilities |
 | 3 | Epic of Gilgamesh | Post-Flood (Uruk period) | 83 | Hybrid king, biological fabrication, Utnapishtim's Flood account, immortality research |
 | 4 | Book of Ezekiel | 593 BCE (precisely dated) | 66 | Merkabah craft, transport events, reanimation protocol, Temple blueprints |
-
-Pending future audit: **Mahabharata** (two volumes in `texts/`).
+| 5 | Mahābhārata | Epic timeframe (Puranic/Iron Age horizon in tradition) | Vol. varies | Vimānas, astras, commissioned births, Kurukshetra combined arms, hierarchy parallels |
+| 6 | Popol Vuh | Deep antiquity (creation cycle) | 285 | Iterative creation R&D (4 prototypes), deliberate flood, engineered amnesia, Xibalbá facility |
+| 7 | Ancient Egyptian Pyramid Texts | Old Kingdom (~2353-2150 BCE) | 394 | Post-mortem processing pipeline (Duat→Akhet→Sky), body reconstitution protocol, gated access, Cannibal Hymn, celestial geography |
 
 ---
 
@@ -29,6 +30,9 @@ Pending future audit: **Mahabharata** (two volumes in `texts/`).
 | [analyses/enoch-watchers.md](analyses/enoch-watchers.md) | Book of Enoch -- Watchers descent, technology transfer, Nephilim, heavenly journeys, crystal structures |
 | [analyses/gilgamesh.md](analyses/gilgamesh.md) | Epic of Gilgamesh -- Enkidu creation, Cedar Forest, Bull of Heaven, Utnapishtim Flood, plant of immortality |
 | [analyses/ezekiel-merkabah.md](analyses/ezekiel-merkabah.md) | Book of Ezekiel -- Merkabah vision, transport events, Valley of Dry Bones, Temple blueprints |
+| [analyses/mahabharata.md](analyses/mahabharata.md) | Mahābhārata -- Vimānas, astras, genetic commissioning, Kurukshetra warfighting, immortality/quarantine motifs |
+| [analyses/popol-vuh.md](analyses/popol-vuh.md) | Popol Vuh -- Iterative creation R&D, command council, flood of wood people, engineered cognitive limitation, Xibalbá facility |
+| [analyses/pyramid-texts.md](analyses/pyramid-texts.md) | Pyramid Texts -- Post-mortem processing pipeline, body reconstitution, gated transit (ferryman/doorkeeper), Cannibal Hymn capability absorption, celestial geography |
 
 ### Cross-Cutting Synthesis
 
@@ -36,9 +40,11 @@ Pending future audit: **Mahabharata** (two volumes in `texts/`).
 |------|---------|
 | [01-entity-registry.md](01-entity-registry.md) | All non-human actors catalogued and classified across sources |
 | [02-technology-catalog.md](02-technology-catalog.md) | Every "miracle" mapped to a plausible technology |
-| [03-event-timeline.md](03-event-timeline.md) | Unified chronology across all four sources |
+| [03-event-timeline.md](03-event-timeline.md) | Unified chronology across foundational sources |
 | [04-cross-references.md](04-cross-references.md) | Parallel accounts, corroborating descriptions, shared entities |
 | [05-great-reset.md](05-great-reset.md) | The Flood as Sterilization Protocol; the Ark as Genetic Seed Vault; technical requirements for preserving "all kinds" |
+| [06-weapons-doctrine.md](06-weapons-doctrine.md) | Weapons authorization hierarchy, escalation arc, countermeasure distribution, regret grammar across all five sources |
+| [07-the-human-project.md](07-the-human-project.md) | The complete arc: creation as labor solution, management, contamination crisis, reset/rebuild cycle, operator withdrawal |
 
 ---
 

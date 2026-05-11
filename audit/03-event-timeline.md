@@ -1,14 +1,14 @@
 # Event Timeline -- Unified Chronology Across All Sources
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
-**Scope:** All four foundational texts
+**Scope:** All five foundational texts (`audit/analyses/mahabharata.md` for Mahābhārata internal chronology)
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---
 
 ## Methodology
 
-This timeline synthesizes internal chronological references from all four texts. Dates before Ezekiel are relative (expressed as sequences and durations); only Ezekiel provides absolute dating (593 BCE). Where texts offer conflicting or ambiguous chronology, the most internally consistent reading is adopted and discrepancies noted.
+This timeline synthesizes internal chronological references from all five foundational texts. Dates before Ezekiel are relative (expressed as sequences and durations); only Ezekiel provides absolute dating (593 BCE). Where texts offer conflicting or ambiguous chronology, the most internally consistent reading is adopted and discrepancies noted. The Mahābhārata places core narrative action in the Dvapara Yuga with traditional calendrical handoffs (~3102 BCE for Kali onset); absolute placement remains hypothetical and is bracketed between post-Flood reconstruction and first-millennium BCE prophetic literature for synthesis purposes only.
 
 ---
 
@@ -145,6 +145,38 @@ This timeline synthesizes internal chronological references from all four texts.
 
 ---
 
+## ERA 5.5: MAHĀBHĀRATA THEATER (DVAPARA YUGA PLACEMENT)
+
+**Timing: Traditionally end of Dvapara Yuga / onset of Kali Yuga ~3102 BCE per Hindu cosmological reckoning -- not independently corroborated stratigraphically. Archive placement: after Mesopotamian post-Flood epic stratum, before Ezekiel's documented 593 BCE encounters.** Source dossier: `audit/analyses/mahabharata.md`.
+
+### Phase 5.5.1 -- Genetic Commissions and Instructor Pipeline
+
+| Event | Source | Detail |
+|-------|--------|--------|
+| Kuntī mantra-mediated births; Karṇa solar commission | Mahābhārata (`audit/analyses/mahabharata.md`) | Multi-donor germline program; failed containment on Karṇa exposure |
+| Gandharī embryo mass division (~100 Kauravas) | Mahābhārata (`audit/analyses/mahabharata.md`) | Clonal batch expansion narrative |
+| Droṇa vessel fabrication | Mahābhārata (`audit/analyses/mahabharata.md`) | Ex vivo instructor phenotype; weapons pedagogy chain |
+| Dhṛṣṭadyumna / Drāupadī fire emergence | Mahābhārata (`audit/analyses/mahabharata.md`) | Staged adult fabrication tied to yajña optics |
+
+### Phase 5.5.2 -- Aerospace, Facilities, and Doctrine
+
+| Event | Source | Detail |
+|-------|--------|--------|
+| Vimāna-class logistics (Pushpaka adjacent); Garuḍa escort framing | Mahābhārata (`audit/analyses/mahabharata.md`) | VTOL transport parallels to Merkabah-class radiant hazard profiles |
+| Indraprastha / Laṅkā / Amarāvatī infrastructure motifs | Mahābhārata (`audit/analyses/mahabharata.md`) | Arcologies, integrated defenses, high-altitude command nodes |
+| Khāṇḍava clearance | Mahābhārata (`audit/analyses/mahabharata.md`) | Ecological burn / perimeter interdiction operation |
+
+### Phase 5.5.3 -- Kurukshetra Combined Arms and Astra Escalation
+
+| Event | Source | Detail |
+|-------|--------|--------|
+| Eighteen-day war logging; vyūha formations | Mahābhārata (`audit/analyses/mahabharata.md`) | Standing doctrinal updates; chariot-strike liaison pattern (Kṛṣṇa–Arjuna) |
+| Elemental and strategic astras deployed | Mahābhārata (`audit/analyses/mahabharata.md`) | Brahmāstra, Pāśupatastra, Nārāyaṇāstra, Agni/Varuṇa/Vāyu packages -- dual-key regret arc |
+| Viśvarūpa display | Mahābhārata (`audit/analyses/mahabharata.md`) | Full-spectrum tactical visualization; observer trauma parallel to throne radiance accounts |
+| Vyāsa compilation | Mahābhārata (`audit/analyses/mahabharata.md`) | Mass oral-text RAID equivalent; scribe-liaison pattern |
+
+---
+
 ## ERA 6: HISTORICAL PERIOD
 
 ### 593 BCE -- Ezekiel's Encounters
@@ -202,6 +234,13 @@ POST-FLOOD CIVILIZATION
   ├── Cedar Forest assault
   ├── Bull of Heaven incident
   └── Gilgamesh's quest for immortality
+         │
+MAHĀBHĀRATA THEATER (Dvapara Yuga -- dating uncertain; ~3102 BCE traditional boundary)
+  │
+  ├── Genetic commissions (Kuntī, Gandharī, Droṇa, fire-born assets)
+  ├── Vimāna logistics and epic arcologies
+  ├── Kurukshetra combined arms; astra escalation
+  └── Vyāsa compilation / liaison scribe throughput
          │
          ├── (~millennia pass; operators withdraw)
          │

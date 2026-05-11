@@ -1,7 +1,7 @@
 # Entity Registry -- Non-Human Actors Across All Sources
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
-**Scope:** All four foundational texts
+**Scope:** All seven foundational texts (see `audit/analyses/mahabharata.md` for Indian epic theater; `audit/analyses/popol-vuh.md` for Mesoamerican tradition; `audit/analyses/pyramid-texts.md` for Egyptian tradition)
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---
@@ -34,6 +34,94 @@ MANAGED SPECIES
   ├── Nephilim / Giants -- Unauthorized hybrid offspring (failed)
   ├── Gilgamesh -- Engineered hybrid ruler
   └── Enkidu -- Rapid-fabricated humanoid
+
+MESOAMERICAN THEATER (Popol Vuh -- parallel roster; source: audit/analyses/popol-vuh.md)
+  TIER 1 (supreme authorization / creation council)
+    ├── Heart of Sky (Huracan) -- Triple entity: Thunderbolt Huracan, Youngest Thunderbolt, Sudden Thunderbolt
+    └── The Council -- Heart of Sky + Sovereign + Quetzal Serpent + Xpiyacoc/Xmucane (consensus-driven)
+
+  TIER 2 (creation executives / specialist consultants)
+    ├── Sovereign (Tepew) -- Strategic planning and execution
+    ├── Quetzal Serpent (Q'ukumatz) -- Luminous aquatic creative implementer (cf. Enki aquatic domain)
+    ├── Framer (Tz'aqol) -- Structural assembly specialist
+    ├── Shaper (B'itol) -- Substrate manipulation specialist (cf. Aruru)
+    ├── Xpiyacoc -- Male elder; probabilistic modeling / feasibility consultant
+    └── Xmucane -- Female elder; bioengineering assessment / midwifery specialist (cf. Nintu)
+
+  FACILITY OPERATORS (Xibalbá underworld complex)
+    ├── One Death / Seven Death -- Facility supreme lords
+    ├── Gathered Blood -- Biological intake department
+    ├── Scab Stripper, Blood Gatherer -- Processing specialists
+    └── Wing, Packstrap, Bone Staff, Skull Staff -- Subordinate functionaries
+
+  COUNTER-OPERATIVES
+    └── Hero Twins (Hunahpu / Xbalanque) -- Exploited facility protocols to dismantle Xibalbá operation
+
+  FAILED PROTOTYPES
+    ├── Animals -- Communication failure; demoted to food source
+    ├── Mud Person -- Structural failure; dissolved
+    ├── Wood People -- Behavioral failure; no consciousness; destroyed by flood + multi-vector protocol
+    └── Wood People remnants -- Degraded into spider monkeys (biological trace of failed run)
+
+INDIAN EPIC THEATER (Mahābhārata -- parallel roster; source: audit/analyses/mahabharata.md)
+  TIER 1 (supreme coordination / continuity-of-government personas)
+    ├── Brahmā -- Creator function (parallel to Anu-tier ratification / fabrication authority)
+    ├── Viṣṇu -- Preserver / operational overseer (forward liaison pattern: Kṛṣṇa)
+    └── Śiva -- Destroyer / reset and existential-weapons custodian
+
+  TIER 2 (theater commands)
+    ├── Indra -- Atmospheric / military operations (parallel to Enlil / storm commander)
+    ├── Agni -- Energy / thermal weapons and clearance operations
+    ├── Vāyu -- Atmospheric operations (wind-field packages)
+    ├── Varuṇa -- Aquatic / oceanic surveillance and neutralization effects
+    ├── Yama -- Biological termination / ledger authority (death-registration systems)
+    ├── Viśvakarman -- Engineering / construction (parallel to Enki's fabrication role)
+    └── Sūrya -- Solar operations (parallel to Shamash)
+
+  TIER 3 (workforce / client species / uplifted lines)
+    ├── Gandharva -- Aerial / entertainment and morale specialists
+    ├── Apsaras -- Diplomatic / sensory / reproductive agents
+    ├── Rākṣasa -- Antagonist faction or rival uplift lineage (heavy infantry analogues)
+    ├── Nāga -- Serpentine entities; subterranean or aquatic engineered line
+    └── Vānara -- Engineered primate soldiers (Rāmāyaṇa-adjacent corpus)
+
+  MANAGED HYBRIDS / COMMISSIONS
+    ├── Pāṇḍavas -- Targeted genetic selection (each sired by different deva donors)
+    ├── Kauravas -- Clonal multiplication (100 brothers from single embryo mass / division protocol)
+    ├── Karṇa -- Integrated armor / earring subsystems at birth; solar-linked commissioning
+    ├── Droṇa -- Extra-uterine fabrication (vessel / pot substrate)
+    ├── Dhṛṣṭadyumna & Drāupadī -- Fire-born staged deployment; instant adult fabrication
+    └── Vyāsa -- Human compiler-scribe; liaison to non-human throughput (Gaṇeśa framing)
+
+EGYPTIAN THEATER (Pyramid Texts -- parallel roster; source: audit/analyses/pyramid-texts.md)
+  TIER 1 (supreme authority / destination command)
+    ├── Atum / Sun (Ra) -- Creator; "oldest of all the gods"; station commander at destination
+    └── Ennead (Big / Little) -- Council of nine gods; ratifies ascent and operator status
+
+  TIER 2 (processing / transit / domain operators)
+    ├── Osiris -- Duat king; rebirth catalyst; identity template for the reconstituted subject
+    ├── Horus -- Living kingship; ritual executor ("Your son Horus has acted for you")
+    ├── Nut -- Sky goddess; the processing environment itself (womb/birth canal = facility)
+    ├── Geb -- Terrestrial domain authority
+    ├── Shu -- Atmospheric boundary; separates processing stages
+    ├── Isis / Nephthys -- Reconstitution and nurturing specialists
+    ├── Thoth -- Communications, documentation; announces arrivals to quadrant commands
+    └── Seth -- Opposition/storm/propulsion; paradoxically bears the subject in transit
+
+  GATE OPERATORS (transit pipeline)
+    ├── The Ferryman ("Face Behind Him" / "Sees Behind Him") -- Inter-zone transit
+    ├── Ka-Allocater -- Arrival intake; receives announcements at Field of Reeds
+    └── Unnamed doorkeepers -- Gate authentication at Akhet boundaries
+
+  PROCESSING SPECIALISTS (Cannibal Hymn personnel)
+    ├── Grasper of Forelocks -- Acquisition/lassoing
+    ├── Serpent with Sweeping Head -- Containment/guarding
+    ├── Gory All Over -- Binding
+    ├── Courser -- Extraction ("slits their throats... takes out what is in their belly")
+    └── Shezmu -- Butchery/processing ("cooks a meal of them for me")
+
+  PROCESSED SUBJECTS
+    └── The deceased king (Unis, Teti, Pepi I, etc.) -- Biological human upgraded to akh (operator-tier)
 ```
 
 ---
@@ -208,6 +296,76 @@ MANAGED SPECIES
 
 ---
 
+## MAHĀBHĀRATA TIER 1: SUPREME COORDINATION PERSONAS
+
+### Brahmā (Mahābhārata)
+
+| Attribute | Detail |
+|-----------|--------|
+| **Source** | Mahābhārata tradition (`audit/analyses/mahabharata.md`) |
+| **Domain** | Creation / commissioning authority |
+| **Role** | Creator-function persona; ratifies or seeds fabrication protocols (parallel to Anu-tier mandate in Mesopotamian roster) |
+| **Archive classification** | Tier 1 command mask or departmental persona -- not necessarily exclusive of trimūrti as factional continuity |
+
+### Viṣṇu / Kṛṣṇa (Mahābhārata)
+
+| Attribute | Detail |
+|-----------|--------|
+| **Source** | Mahābhārata (`audit/analyses/mahabharata.md`) |
+| **Domain** | Preservation, battlefield liaison, weapons-release counseling |
+| **Role** | Operational overseer embedded with strike packages (Arjuna dyad); Viśvarūpa display -- full-spectrum tactical visualization |
+| **Archive classification** | Tier 1 preserver portfolio with forward-deployed liaison phenotype |
+
+### Śiva (Mahābhārata)
+
+| Attribute | Detail |
+|-----------|--------|
+| **Source** | Mahābhārata (`audit/analyses/mahabharata.md`) |
+| **Domain** | Existential-grade weapons custody (Pāśupatastra); reset rhetoric |
+| **Role** | Tier 1 custodian of unrestrained strike authority; field-certifies operators through ordeal protocols |
+| **Archive classification** | Tier 1 destruction / ROE enforcement persona |
+
+---
+
+## MAHĀBHĀRATA TIER 2: THEATER COMMANDS
+
+| Entity | Domain | Role | Archive parallel |
+|--------|--------|------|------------------|
+| **Indra** | Storm / aerial logistics | Atmospheric and military operations; astras and inventory control motifs | Enlil / storm commander |
+| **Agni** | Thermal / clearance | Energy weapon packages; ecological burn authorization (e.g., Khāṇḍava) | Directed energy / area denial |
+| **Vāyu** | Wind fields | Vāyavyastra and atmospheric mobility framing | Shamash "winds" bouquet |
+| **Varuṇa** | Ocean / binding | Aquatic surveillance; neutralization payloads (Vāruṇastra) | Hydrological / surveillance tier |
+| **Yama** | Termination | Death-ledger authority; moral-legal framing as biometric registry | Population accounting systems |
+| **Viśvakarman** | Fabrication | Celestial engineer; Indraprastha / assembly infrastructure | Enki-class engineering |
+| **Sūrya** | Solar | Patron of Karṇa; solar insignia and commissioning | Shamash solar operations |
+
+---
+
+## MAHĀBHĀRATA TIER 3: WORKFORCE AND CLIENT SPECIES
+
+| Class | Function | Archive classification |
+|-------|----------|------------------------|
+| **Gandharva** | Aerial envoys, musicians, morale | Psychological warfare / liaison corps |
+| **Apsaras** | Diplomatic, sensory, reproductive diplomacy | Specialist agents |
+| **Rākṣasa** | Antagonist polities and shock troops | Rival faction or uplifted megafaunal humanoids |
+| **Nāga** | Serpentine, subterranean/aquatic | Engineered lineage / habitat engineers |
+| **Vānara** | Simian military auxiliaries | Engineered primate soldiers (epic-adjacent tradition) |
+
+---
+
+## MAHĀBHĀRATA MANAGED HYBRIDS AND FABRICATIONS
+
+| Asset | Origin narrative | Archive reading |
+|-------|------------------|-----------------|
+| **Pāṇḍavas** | Kuntī's mantra-invocations; each son attributed to a different deva | Controlled multi-donor germline program; trait fidelity to patron portfolios |
+| **Kauravas** | Gandharī's embryo division -- 100 from one mass | Clonal batch expansion / artificial splitting protocol |
+| **Karṇa** | Born with kavaca/kuṇḍala fused to body | Bio-integrated defensive lattice and sensory augments |
+| **Droṇa** | Vessel-born from Bharadvāja substrate | Ex vivo morphogenesis with procedural knowledge preload |
+| **Dhṛṣṭadyumna / Drāupadī** | Yajña fire emergence | Staged dual-output run: assassin phenotype + diplomatic marriage asset |
+| **Vyāsa** | Epic compiler with Gaṇeśa scribe framing | Selected human liaison for massive redaction throughput |
+
+---
+
 ## MANAGED SPECIES AND HYBRIDS
 
 ### Homo sapiens (created humans)
@@ -254,14 +412,19 @@ MANAGED SPECIES
 
 ## CROSS-SOURCE EQUIVALENCES
 
-| Entity Group | Atrahasis | Gilgamesh | Enoch | Ezekiel |
-|-------------|-----------|-----------|-------|---------|
-| Supreme authority | Anu | Anu | Most High / Lord of Spirits | The Lord / Glory |
-| Ground commander | Ellil (Enlil) | Enlil | -- (implied) | -- (implied) |
-| Chief scientist | Enki (Ea) | Ea | -- | -- |
-| Bioengineering lead | Nintu / Mami | Aruru | -- | -- |
-| Operational workforce | Igigi | Igigi (referenced) | Watchers | -- |
-| Command council | Anunnaki | Anunnaki | Holy angels | -- |
-| Vehicle/throne | -- | -- | Crystal throne w/ wheels | Merkabah |
-| Flood survivor | Atrahasis | Utanapishtim | Noah | -- |
-| Hybrid offspring | Created humans | Enkidu, Gilgamesh | Nephilim | -- |
+| Entity Group | Atrahasis | Gilgamesh | Enoch | Ezekiel | Mahābhārata | Popol Vuh | Pyramid Texts |
+|-------------|-----------|-----------|-------|---------|-------------|-----------|---------------|
+| Supreme authority | Anu | Anu | Most High / Lord of Spirits | The Lord / Glory | Brahmā / Viṣṇu / Śiva (trimūrti) | Heart of Sky (triple: Huracan) | Atum / Sun (Ra) |
+| Ground commander | Ellil (Enlil) | Enlil | -- (implied) | -- (implied) | Indra | -- (council-based) | Geb (earth domain) |
+| Chief scientist | Enki (Ea) | Ea | -- | -- | Viśvakarman | Quetzal Serpent (aquatic, creative) | Thoth (knowledge/documentation) |
+| Bioengineering lead | Nintu / Mami | Aruru | -- | -- | Mantra commissioning | Xmucane ("Midwife") + Framer/Shaper | Isis / Nephthys (reconstitution) |
+| Feasibility consultant | -- | -- | -- | -- | ṛṣi network | Xpiyacoc/Xmucane (divination = modeling) | -- |
+| Operational workforce | Igigi | Igigi (ref.) | Watchers | -- | Gandharva / Apsaras / etc. | Xibalbá lords (processing facility) | Ferryman; Ka-Allocater; gate operators |
+| Command council | Anunnaki | Anunnaki | Holy angels | -- | Deva assembly | Heart of Sky + Sovereign + Quetzal Serpent | Big Ennead / Little Ennead |
+| Vehicle/throne | -- | -- | Crystal throne w/ wheels | Merkabah | Vimāna-class | -- | Dayboat / Nightboat / reedfloats |
+| Flood survivor | Atrahasis | Utanapishtim | Noah | -- | Manu (thematic) | -- (wood people all destroyed) | -- |
+| Hybrid / prototype | Created humans | Enkidu, Gilgamesh | Nephilim | -- | Pāṇḍavas; Kauravas | 4 sequential prototypes (animal→mud→wood→corn) | -- (subject = processed human) |
+| Engineered amnesia | -- | -- | Watchers punished for transfer | -- | Astra ROE anxiety | Corn people blinded ("breath on mirror") | -- |
+| Post-mortem processing | -- | -- | Enoch's "translation" (alive) | Valley of Dry Bones (reconstitution) | -- | -- | Full pipeline: Duat→Akhet→Sky; *akh* upgrade |
+| Gated facility | -- | Cedar Forest (guardian) | Heavenly tours (7 heavens) | Temple (nested zones) | Laṅkā / Indraprastha | Xibalbá (sequential chambers) | Duat→Akhet→Sky (ferryman, doorkeeper) |
+| Capability absorption | -- | -- | -- | -- | -- | -- | Cannibal Hymn: "eats magic, swallows akhs" |

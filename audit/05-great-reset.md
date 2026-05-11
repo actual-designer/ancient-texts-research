@@ -1,14 +1,14 @@
 # The Great Reset -- Sterilization Protocol and the Genetic Seed Vault
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
-**Scope:** Cross-cutting synthesis of Atrahasis, Gilgamesh (Tablet XI), and Enoch (Book 1)
+**Scope:** Cross-cutting synthesis of Atrahasis, Gilgamesh (Tablet XI), Enoch (Book 1), and Popol Vuh (Mesoamerican tradition)
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---
 
 ## Executive Summary
 
-Three independent textual traditions preserve overlapping accounts of a single catastrophic event: a planetary-scale environmental reset that eliminated exposed surface life. When the accounts are merged and stripped of theological overlay, the event does not read as a natural disaster. It reads as a **deliberate sterilization protocol** -- authorized at the highest level of the command hierarchy, executed using multi-vector weapons systems, and preceded by an unauthorized biological preservation operation conducted by a dissenting senior operative.
+Four independent textual traditions -- including one from a culture with **zero contact** with the Near Eastern cluster -- preserve overlapping accounts of a deliberately authorized environmental reset that eliminated exposed surface life. When the accounts are merged and stripped of theological overlay, the event does not read as a natural disaster. It reads as a **deliberate sterilization protocol** -- authorized at the highest level of the command hierarchy, executed using multi-vector weapons systems, and preceded by an unauthorized biological preservation operation conducted by a dissenting senior operative.
 
 The survival vessel described in these accounts is not a boat. Its cubic geometry, compartmentalized interior, hermetic sealing, and cargo manifest are consistent with a **genetic seed vault**: a hardened containment facility designed to preserve biological diversity at the cellular level through a total surface-clearance event.
 
