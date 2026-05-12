@@ -428,3 +428,40 @@ EGYPTIAN THEATER (Pyramid Texts -- parallel roster; source: audit/analyses/pyram
 | Post-mortem processing | -- | -- | Enoch's "translation" (alive) | Valley of Dry Bones (reconstitution) | -- | -- | Full pipeline: Duat→Akhet→Sky; *akh* upgrade |
 | Gated facility | -- | Cedar Forest (guardian) | Heavenly tours (7 heavens) | Temple (nested zones) | Laṅkā / Indraprastha | Xibalbá (sequential chambers) | Duat→Akhet→Sky (ferryman, doorkeeper) |
 | Capability absorption | -- | -- | -- | -- | -- | -- | Cannibal Hymn: "eats magic, swallows akhs" |
+
+---
+
+## VEDIC ENTITIES (Rig Veda)
+
+The Rig Veda presents a distributed command hierarchy with specialized operators, each associated with distinct capabilities and jurisdictions. Unlike the narrative epics (Mahābhārata, Gilgamesh), the Rig Veda is a **liturgical archive** — each hymn is an invocation directed at a named operator, preserving their functional roles across 1,205 hymns.
+
+### TIER 1: Supreme Coordination / Source Entities
+
+| Entity | Role | Source Hymn | Cross-Source Parallel |
+|--------|------|-------------|----------------------|
+| **Hiranyagarbha** | Primary gestation chamber / source entity. Generates the first operator (Prajapati) who deploys all infrastructure. | X.121 | Popol Vuh Heart of Sky (creation source), Atrahasis Nintu (fabrication) |
+| **Purusa** | Primary intelligence entity ("thousand heads, eyes, feet"). Dismantled into distributed subsystems — the universe itself is his body. | X.90 | Egyptian Osiris (dismemberment into nome-guardians), Popol Vuh first men (clay prototypes) |
+
+### TIER 2: Theater Commands / Departmental Leads
+
+| Entity | Role | Source Hymn | Cross-Source Parallel |
+|--------|------|-------------|----------------------|
+| **Indra** | Operations / Defense commander. Deploys directed-energy weapons (Vajra), authorized for kinetic and environmental strikes. | I.32, passim | Mahābhārata Indra (weapons authority), Enoch archangel Michael (combat commander), Gilgamesh Shamash (strike authorization) |
+| **Agni** | Communications / Energy Interface. The Hotar (invoking priest) who relays human transmissions to operator tier and dispatches operator responses. Functions as the universal relay. | I.1, passim | Ezekiel Merkabah (transport/relay system), Enoch crystal structures (communication conduits) |
+| **Varuna** | Surveillance / Law Enforcement. "Thousand eyes" monitoring network. Enforces cosmic law (Rta) via tracking tags and remote restraint systems. | I.25, VII.86 | Enoch Watchers (surveillance reporting), Egyptian Ma'at (cosmic order enforcement) |
+| **Mitra** | Contracts / Agreements. Guarantees binding operational commitments between operators and between operators and humans. | I.2, III.59 | — |
+| **The Asvins (Nasatyas, Dasras)** | Biomedical Engineering Corps. Twin operators performing regeneration, prosthetics, ocular restoration, emergency rescue, and life extension. | I.112, I.116-120 | Enoch Watchers (technology transfer, but Asvins = genuine engineering vs surface cosmetics), Egyptian Thoth (medical knowledge) |
+| **Yama** | Afterlife Processing / Gatekeeper. First mortal to undergo post-mortem protocol. Now manages transport and integration of deceased subjects into operator facility. | X.10, X.14, X.135 | Egyptian Osiris (afterlife gatekeeper), Enoch Enoch (mortal elevated to operator status) |
+| **Rudra** | Bioweapons / Disease. "Howler" — associated with storms, disease, and destructive force. Functions as a biological-warfare or pestilence-control specialist. | I.114, II.33 | — |
+| **Tvastar** | Fabrication / Engineering. Master craftsman who forges weapons (Vajra), shapes forms in the womb, and constructs vehicles. | I.32, X.10 | Hephaestus/Vulcan (forge god), Egyptian Ptah (craftsman) |
+| **Vishnu** | Perimeter / Infrastructure. Demarcates three-tier operational zone (terrestrial, atmospheric, orbital) and maintains orbital habitat. | I.154 | — |
+| **The Adityas** | Council of Eight Overseers. Collective decision-making body including Varuna, Mitra, Aryaman, Bhaga, etc. | II.27, VIII.67 | Egyptian Ennead (council of nine), Mesopotamian Annunaki (council of fifty) |
+
+### TIER 3: Workforce, Client Species, and Combat Units
+
+| Entity | Role | Source Hymn | Cross-Source Parallel |
+|--------|------|-------------|----------------------|
+| **The Maruts** | Storm / Combat Unit. A troop of warriors who accompany Indra. Armed with lightning, described as "youthful, strong, terrible." | I.38, I.64-66, V.52-61 | Mahābhārata Gandharvas (aerial combat unit), Enoch Nephilim (hybrid warriors) |
+| **Vayu** | Atmospheric Control. Wind / air operator who manages atmospheric currents and breathable-air distribution. | I.2, I.134 | — |
+| **Surya** | Illumination / Timing. Solar operator providing light, heat, and temporal reference (day/night cycle). | I.50, I.115 | Egyptian Ra (solar deity), Mesopotamian Shamash (sun god) |
+| **Soma** | Bioactive Compound / Nootropic. Ritual substance consumed by both humans and operators. Functions as a metabolic interface compound. | IX.1-114 (entire Mandala) | Gilgamesh plant of immortality, Genesis Tree of Knowledge fruit |

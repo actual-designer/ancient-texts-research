@@ -162,6 +162,16 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Reconstruction** | VTOL / field-propulsion platforms with autonomy and EMI signatures comparable to Merkabah-class encounters; chariot–liaison dyads as forward air control |
 | **Modern analog** | Vectored thrust VTOL, MHD plasma sheath, biocomposite UAV escorts |
 
+### Vedic Parallel: Aerial Chariots
+
+**Source:** Rig Veda (multiple hymns; `audit/analyses/rig-veda.md`)
+
+**Description:** The gods' vehicles described as "rapid as an arrow," "radiant," drawn by multiple steeds. The Asvins operate a chariot for rapid medical response. Vishnu possesses a "wheel-less car" used for afterlife transport.
+
+**Literal Reconstruction:** Aerospace vehicles with propulsion systems described through the only available metaphor (horses/steeds as power plants). The Asvins' chariot functions as a rapid-response medevac platform. Vishnu's wheel-less car suggests field-propulsion or levitation technology for personnel transport to a post-mortem processing facility.
+
+**Cross-Source Parallel:** Merkabah-class vehicles (Ezekiel), Vimāna platforms (Mahābhārata)
+
 ---
 
 ## 3. WEAPONS SYSTEMS
@@ -256,6 +266,16 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Reconstruction** | Electromechanical assist inside composite cladding; forward ammunition logistics collapsed into "inexhaustible" quiver framing |
 | **Modern analog** | Servo-assisted compound bow, graphene limbs, magnetic sabot micro-guidance |
 
+### Vedic Parallel: Vajra (Indra's Thunderbolt)
+
+**Source:** Rig Veda (Indra hymns; `audit/analyses/rig-veda.md`)
+
+**Description:** Forged by Tvastar, the divine engineer/fabricator. A weapon of blinding brilliance used to strike down Vrtra. "Smote him with his bolt between the shoulders" suggests precision targeting against a stationary defensive installation.
+
+**Literal Reconstruction:** Directed-energy weapon or precision kinetic strike system, manufactured by a designated fabrication specialist (Tvastar). Deployed against a fortified target (Vrtra) with anatomical precision. The "thunderbolt" metaphor masks a high-energy discharge or hypervelocity projectile.
+
+**Cross-Source Parallel:** Brahmāstra (Mahābhārata), "Fire of God" / directed-energy weapons (Enoch, Ezekiel)
+
 ---
 
 ## 4. FACILITIES AND INFRASTRUCTURE
@@ -304,6 +324,36 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Description** | Laṅkā: golden defenses and aerospace sorties (Rāmāyaṇa-adjacent); Indraprastha: assembly hall with perceptual trap (Viśvakarman / Maya); Amarāvatī: Indra's celestial capital above weather |
 | **Reconstruction** | Composite-material arcology with integrated ADS; psychoacoustic / metamaterial maze hall; high-altitude station or orbital torus venting condensate as rainfall attribution |
 | **Modern analog** | Graphene-clad C4ISR hive; ultrasonic confusion architecture; rotating habitat meteorology processors |
+
+### Vedic Parallel: Hiranyagarbha (Golden Womb)
+
+**Source:** Rig Veda X.121 (`audit/analyses/rig-veda.md`)
+
+**Description:** The "golden womb" or golden egg from which the creator arose. Described as a primary production facility generating operator entities and the cosmos itself.
+
+**Literal Reconstruction:** Primary biological fabrication or gestation chamber. A core production facility for generating entities (operator-class beings), analogous to a central cloning or bioengineering complex.
+
+**Cross-Source Parallel:** Human Creation Protocol (Atrahasis), Crystal House / Command Facility (Enoch)
+
+### Vedic Parallel: Vishnu's Highest Footstep
+
+**Source:** Rig Veda I.154 (`audit/analyses/rig-veda.md`)
+
+**Description:** Vishnu's "highest footstep" where a "well of meath" (Soma) is found. Described as a luminous realm beyond mortal reach, the "Home of Gods."
+
+**Literal Reconstruction:** Orbital habitat or command nexus. The "well of meath" functions as a life-support depot or resource reservoir for the operator population. A high-altitude or orbital station serving as headquarters.
+
+**Cross-Source Parallel:** Temple/Facility Complex (Ezekiel), Indian Epic Arcologies (Mahābhārata)
+
+### Vedic Parallel: Yama's Realm
+
+**Source:** Rig Veda (Yama hymns; `audit/analyses/rig-veda.md`)
+
+**Description:** The realm of Yama where the deceased arrive. Described as a structured domain with pathways and classification of souls, a "Home of Gods" where deceased subjects are integrated.
+
+**Literal Reconstruction:** Post-mortem processing facility. A controlled environment for receiving, evaluating, and integrating deceased human subjects, possibly involving consciousness extraction, data archiving, or biological recycling.
+
+**Cross-Source Parallel:** Detention Facilities (Enoch), "The Apsu" (Atrahasis, Gilgamesh)
 
 ---
 
@@ -354,6 +404,26 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Reconstruction** | Multi-band emission mapped to volumetric humanoid projection or induced perceptual override; high-information-density HUD / neural coupling hazard comparable to Merkabah occupant radiance |
 | **Modern analog** | Terahertz volumetric projector + ultrasonic skull coupling; battlefield AR overload |
 
+### Vedic Parallel: Agni Relay System
+
+**Source:** Rig Veda (Agni hymns; `audit/analyses/rig-veda.md`)
+
+**Description:** Agni as the messenger between humans and gods. Ritual fire acts as a terminal; offerings placed in fire are "consumed" and transmitted. The flames rise upward, carrying the signal to the divine realm.
+
+**Literal Reconstruction:** Directed-energy communications interface. The ritual fire serves as a physical terminal. Offering consumption acts as a chemical or thermal authentication protocol. The rising flame/heat plume functions as the transmission medium or antenna array.
+
+**Cross-Source Parallel:** "Open Ear" (Atrahasis), Covert Communication "Reed Wall" (Gilgamesh)
+
+### Vedic Parallel: Varuna's Surveillance Network
+
+**Source:** Rig Veda (Varuna hymns; `audit/analyses/rig-veda.md`)
+
+**Description:** Varuna possesses "a thousand eyes" watching all human action. His "noose of law" binds transgressors remotely. Associated with waters and cosmic order.
+
+**Literal Reconstruction:** Distributed sensor grid with comprehensive coverage ("thousand eyes"). Remote restraint system ("noose") capable of neutralizing targets without physical presence. Water-based or aquatic sensor arrays.
+
+**Cross-Source Parallel:** Distributed Sensor Arrays "Eyes on Rims" (Ezekiel), Shamash Surveillance (Gilgamesh)
+
 ---
 
 ## 6. MEDICAL AND REANIMATION
@@ -394,6 +464,26 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Reconstruction** | Real-time ISR feed or induced remote sensing link from command tier to cleared human recipient |
 | **Modern analog** | Satellite / UAV datalink to neural display; augmented cognition briefing channel |
 
+### Vedic Parallel: Asvins Biomedical Suite
+
+**Source:** Rig Veda (Asvins hymns; `audit/analyses/rig-veda.md`)
+
+**Description:** The Asvins perform full regeneration (restoring Cyavana's youth and skin), cybernetic prosthetics (Vispala's iron leg), ocular restoration (Rjrasva), life extension, and emergency extraction from distress.
+
+**Literal Reconstruction:** Comprehensive biomedical intervention platform: dermal regeneration, mechanical prosthesis implantation, ocular repair/replacement, senescence reversal, and rapid patient retrieval. A mobile medical team operating advanced field surgery and restorative biotechnology.
+
+**Cross-Source Parallel:** Tissue Regeneration / Bioassembly (Ezekiel), "New Heart / New Spirit" (Ezekiel), Amṛta compound (Mahābhārata)
+
+### Vedic Parallel: Soma Compound
+
+**Source:** Rig Veda (Soma hymns; `audit/analyses/rig-veda.md`)
+
+**Description:** A sacred substance consumed by both gods and humans. Described as conferring "a thousand powers," strength, inspiration, and longevity. Pressed from plant material in a ritual process.
+
+**Literal Reconstruction:** Bio-enhancement or nootropic compound. Shared consumption between human and operator populations suggests a metabolic interface or compatibility agent. "Thousand powers" implies a multi-compound formulation with broad-spectrum cognitive and physiological enhancement.
+
+**Cross-Source Parallel:** Biochemical Immortality Compound Amṛta (Mahābhārata), Anti-Aging Plant (Gilgamesh)
+
 ---
 
 ## 7. KNOWLEDGE SYSTEMS (Transferred by Watchers)
@@ -412,3 +502,13 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | Geology | Araqiel | "Signs of the earth" | Seismology, terrain analysis |
 | Solar science | Shamsiel | "Signs of the sun" | Solar physics, helioseismology |
 | Lunar science | Sariel | "Course of the moon" | Lunar orbital mechanics, tidal prediction |
+
+### Vedic Parallel: Vedas as Encoded Operational Data
+
+**Source:** Rig Veda X.90 Purusa Sukta (`audit/analyses/rig-veda.md`)
+
+**Description:** "From him the Rcas and Sama-hymns were born... the Yajus had its birth from it." The hymns are described as emergent from a primordial intelligence (Purusa), distributed across multiple formats (Rk, Sama, Yajur).
+
+**Literal Reconstruction:** The hymns themselves constitute a distributed knowledge base extracted from a primary intelligence system (Purusa). Multiple hymn classes (Rk, Sama, Yajur) represent distinct data formats or transmission protocols, encoding operational instructions, entity profiles, and technical specifications.
+
+**Cross-Source Parallel:** Knowledge Systems transferred by Watchers (Enoch)

@@ -7,6 +7,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.3.0] — 2026-05-12
+
+### Added
+
+- **Per-text analysis:**
+  - **Rig Veda** (`audit/analyses/rig-veda.md`) — 10-incident forensic analysis covering: Nasadiya Sukta (facility activation), Hiranyagarbha (operator gestation chamber), Purusa Sukta (primary intelligence decomposition), Indra's Vajra (directed-energy weapon), Asvins biomedical corps (regeneration, prosthetics, ocular restoration), Vishnu's three strides (orbital demarcation), Soma (bio-enhancement compound), Yama (post-mortem transport and processing), Varuna (surveillance network), and Agni (communications relay).
+
+### Updated
+
+- **Cross-cutting synthesis documents** — all extended to integrate Rig Veda findings:
+  - `audit/01-entity-registry.md` — 14 Vedic entities mapped to 3-tier hierarchy (Tier 1: Hiranyagarbha/Purusa; Tier 2: Indra, Agni, Varuna, Asvins, Yama, Tvastar, Vishnu, Adityas; Tier 3: Maruts, Vayu, Surya, Soma).
+  - `audit/02-technology-catalog.md` — Vedic entries added across all sections: aerospace (vimanas), weapons (Vajra), facilities (Hiranyagarbha, orbital habitats), communication (Agni relay), medical (Asvins protocols, Soma), surveillance (Varuna network), and knowledge systems.
+  - `audit/03-event-timeline.md` — new ERA 0: VEDIC CREATION CYCLE inserted before Era 1, with 7 events predating all other sources (facility activation, entity generation, system decomposition, Vrtra engagement, Asvins protocols, Soma program, Yama processing).
+  - `audit/04-cross-references.md` — new CR-11 (Creation from Void / Cosmic Egg) added, plus Vedic evidence appended to 7 existing cross-references.
+  - `audit/00-INDEX.md` — Rig Veda added as source #8 with analysis entry.
+
+---
+
+## [0.2.0] — 2026-05-11
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+---
+
 ## [0.2.0] — 2026-05-11
 
 ### Added

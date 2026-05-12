@@ -12,6 +12,24 @@ This timeline synthesizes internal chronological references from all five founda
 
 ---
 
+## ERA 0: VEDIC CREATION CYCLE (Pre-Operational)
+
+> **Source Material:** Rig Veda X.129, X.121, X.90 (`audit/analyses/rig-veda.md`)
+
+The Rig Veda preserves the oldest operational account in the archive — events predating all other sources. These hymns describe a **pre-operational state** followed by the generation of operators and infrastructure.
+
+| Event | Vedic Reference | Timeline Placement | Description |
+|-------|----------------|-------------------|-------------|
+| Facility Activation | Nasadiya Sukta (X.129) | Pre-Era 1 | Containment chamber transitions from dormancy to active state. "Warmth" (thermal energy) triggers generation vat. "Desire" (initialization command) boots the first process. |
+| Primary Entity Generation | Hiranyagarbha (X.121) | Pre-Era 1 | Golden womb / gestation chamber produces Prajapati, the first operator. Entity deploys earth, atmosphere, and heaven infrastructure. |
+| System Decomposition | Purusa Sukta (X.90) | Pre-Era 1 | Primary intelligence (Purusa) dismantled into distributed subsystems. 75% redeployed to orbital tier. 25% repurposed as terrestrial substrate: Moon = mind, Sun = eye, atmosphere = breath, social hierarchy = body parts. |
+| Vrtra Engagement | Indra vs. Vrtra (I.32) | ~Era 1 boundary | First documented directed-energy weapon deployment. Indra's Vajra (engineered by Tvastar) neutralizes Vrtra, a stationary defensive installation blocking water flow. |
+| Asvins Medical Protocols | I.112, I.116-120 | Inter-Era | Biomedical engineering unit performs documented interventions: regeneration, prosthetics, ocular restoration, rescue. Indicates continuous medical operations across eras. |
+| Soma Program Initiation | Book IX (entire Mandala) | Inter-Era | Bio-enhancement compound enters operational use. Consumed by both operators and qualified humans. Standardized extraction and preparation protocol established. |
+| Yama Processing | X.10, X.14, X.135 | Post-Era 5 | First mortal undergoes post-mortem transport and processing. Becomes gatekeeper of afterlife facility. Establishment of credential-token system ("funeral gift") for retrieval. |
+
+---
+
 ## ERA 1: PRE-HUMAN OPERATIONS
 
 **Duration: Indefinite (possibly millions of years)**

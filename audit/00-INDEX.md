@@ -17,6 +17,7 @@
 | 5 | Mahābhārata | Epic timeframe (Puranic/Iron Age horizon in tradition) | Vol. varies | Vimānas, astras, commissioned births, Kurukshetra combined arms, hierarchy parallels |
 | 6 | Popol Vuh | Deep antiquity (creation cycle) | 285 | Iterative creation R&D (4 prototypes), deliberate flood, engineered amnesia, Xibalbá facility |
 | 7 | Ancient Egyptian Pyramid Texts | Old Kingdom (~2353-2150 BCE) | 394 | Post-mortem processing pipeline (Duat→Akhet→Sky), body reconstitution protocol, gated access, Cannibal Hymn, celestial geography |
+| 8 | Rig Veda | ~1500-1200 BCE (composition) / Deep antiquity (events) | 750 | Vimanas, Vajra weapon, Asvins biomedical corps, Soma bio-enhancement, Yama afterlife protocol, Agni communications relay, Vedic operator hierarchy, creation hymns (Nasadiya, Hiranyagarbha, Purusa) |
 
 ---
 
@@ -33,6 +34,7 @@
 | [analyses/mahabharata.md](analyses/mahabharata.md) | Mahābhārata -- Vimānas, astras, genetic commissioning, Kurukshetra warfighting, immortality/quarantine motifs |
 | [analyses/popol-vuh.md](analyses/popol-vuh.md) | Popol Vuh -- Iterative creation R&D, command council, flood of wood people, engineered cognitive limitation, Xibalbá facility |
 | [analyses/pyramid-texts.md](analyses/pyramid-texts.md) | Pyramid Texts -- Post-mortem processing pipeline, body reconstitution, gated transit (ferryman/doorkeeper), Cannibal Hymn capability absorption, celestial geography |
+| [analyses/rig-veda.md](analyses/rig-veda.md) | Rig Veda — Creation cycle (Nasadiya, Hiranyagarbha, Purusa), operator hierarchy, Vajra directed-energy weapon, Asvins biomedical interventions, Soma bio-enhancement compound, Yama post-mortem transport protocol, Agni communications relay, Varuna surveillance network |
 
 ### Cross-Cutting Synthesis
 

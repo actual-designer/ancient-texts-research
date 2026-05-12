@@ -95,6 +95,8 @@ This describes either the same vehicle encountered at different times or a stand
 
 **Mahābhārata anchor:** Viśvarūpa supplies a **battlefield-grade radiation / information-density hazard** beside two throne visions -- same observer injury profile (collapse, trembling) with vocabulary shifted to tactical omniscience (`audit/analyses/mahabharata.md`). Supports a unified class of **high-energy command displays** rather than purely metaphoric theology.
 
+> **Vedic evidence**: Agni is consistently described as "radiant," "white-shining," "refulgent." The Asvins' chariot has "paths red with flame." Surya (the Sun) is a dedicated illumination operator. The Rig Veda treats radiance not as divine attribute but as **thermal and electromagnetic output** of operational systems — Agni's ignition, Surya's illumination, the Asvins' propulsion. (source: `audit/analyses/rig-veda.md`)
+
 ---
 
 ## CROSS-REFERENCE 04: The Command Hierarchy
@@ -120,6 +122,8 @@ The Gilgamesh Flood account (Tablet XI) reproduces the Atrahasis command hierarc
 Enoch's hierarchy (Michael, Uriel, Raphael, Gabriel with departmental portfolios) represents either the same organization seen from a different cultural vantage or a parallel operational structure.
 
 **Mahābhārata parallel:** Trimūrti + Indra-class theater commands + Gandharva/Apsaras workforce reproduce **tiered continuity-of-government** language -- specialized portfolios (creation / preservation / destruction) mapped onto anthropomorphic callsigns (`audit/analyses/mahabharata.md`).
+
+> **Vedic evidence**: The Rig Veda presents the most detailed operator hierarchy in the archive. Tier 1: Hiranyagarbha/Prajapati (source entity). Tier 2: Indra (operations), Agni (communications), Varuna (surveillance), the Asvins (biomedical), Yama (afterlife), Tvastar (fabrication), Vishnu (infrastructure), the Adityas (council of eight). Tier 3: The Maruts (combat unit), Vayu (atmospheric), Surya (illumination). This three-tier structure is isomorphic to the hierarchy in Enoch, the Mahābhārata, and the Egyptian tradition. (source: `audit/analyses/rig-veda.md`)
 
 ---
 
@@ -164,6 +168,8 @@ The spectrum from Nephilim (uncontrolled, catastrophic) to Atrahasis humans (con
 
 **Mahābhārata anchor:** Pāṇḍavas serialize **multi-operator germline commissions**; Kauravas exemplify **single-substrate clonal multiplication** -- both controlled compared to Nephilim ad hoc mating, yet scaled to factional war (`audit/analyses/mahabharata.md`).
 
+> **Vedic evidence**: While the Rig Veda does not describe Nephilim-style hybrids, it documents **genetic commissioning** through the Asvins' fertility interventions and the "womb of Tvastar" where forms are shaped. The Nasadiya Sukta explicitly states "The Gods are later than this world's production" — operators are generated, not primordial. (source: `audit/analyses/rig-veda.md`)
+
 ---
 
 ## CROSS-REFERENCE 07: The "Wind" / Transport Force
@@ -184,6 +190,8 @@ The spectrum from Nephilim (uncontrolled, catastrophic) to Atrahasis humans (con
 Both witnesses describe involuntary transport by a directed force they call "wind" (*ruach* in Hebrew). The force acts selectively on the individual, lifts them vertically, and deposits them at specific coordinates. Both distinguish this force from ordinary weather. This is consistent with a transport technology that either levitates the subject externally or physically conveys them inside a vehicle whose internal forces they perceive as "wind."
 
 **Mahābhārata anchor:** Wind named as **department** (Vāyu) with **correlated munition class** collapses meteorology and aerospace logistics into one institutional column (`audit/analyses/mahabharata.md`) -- aligns with Shamash's thirteen directed winds as packaged atmospheric effects (see **Cross-Reference 10**).
+
+> **Vedic evidence**: Vayu is the dedicated atmospheric control operator. The Asvins' chariot moves "rapid as an arrow" and traverses air "unwetted by the billows" — field-propulsion or vectored-thrust aerial transport. Yama's "wheel-less car" is described as "one-poled but turning every way" — a gravitic or inertialess drive vehicle. (source: `audit/analyses/rig-veda.md`)
 
 ---
 
@@ -208,6 +216,8 @@ These traditions describe zones on Earth that are physically maintained, activel
 
 **Pyramid Texts anchor:** The Egyptian subterranean processing pipeline (Duat → Akhet → Sky) is the most architecturally precise gated facility in the Archive. Each zone has named gate operators (ferryman, doorkeeper, Ka-Allocater), specific credential requirements (password-spells), and defined consequences for failure. The Akhet boundary is explicitly described as "height that never is penetrated, portal of Nu" (PT 272). Unlike other restricted zones, this facility is **designed for human transit** -- the spells serve as an operating manual for a subject being processed through the system (`audit/analyses/pyramid-texts.md`).
 
+> **Vedic evidence**: Vishnu's "highest footstep" establishes an orbital boundary. Yama's realm is a gated facility requiring a credential token ("funeral gift") for entry. The "point of flame" and "passage out" describe an airlock or portal activation sequence. Varuna's "noose of law" is a remote restraint system preventing unauthorized access. (source: `audit/analyses/rig-veda.md`)
+
 ---
 
 ## CROSS-REFERENCE 09: The "Scribe" / Selected Human Liaison
@@ -229,6 +239,8 @@ The command tier consistently selects specific humans for liaison roles, grants 
 
 **Mahābhārata anchor:** Vyāsa matches **compiler-scribe throughput** at civilization scale; Sañjaya extends the pattern to **privileged sensory relay** (`audit/analyses/mahabharata.md`).
 
+> **Vedic evidence**: The rishis (seers) who composed the hymns function as human liaisons — they "search with their heart's thought" (diagnostic observation) and transmit operational data through the Agni relay. The hymns themselves are encoded operational records retained by a non-technical population. (source: `audit/analyses/rig-veda.md`)
+
 ---
 
 ## CROSS-REFERENCE 10: Tier-Restricted Atmospheric and Strike Packages
@@ -247,6 +259,23 @@ The command tier consistently selects specific humans for liaison roles, grants 
 ### Key Finding
 
 Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued atmospheric / energetic strikes** released through **operator clearance** rather than ambient weather. Mahābhārata makes the **department–munition isomorphism** explicit (wind/fire/water named astras), strengthening the reading that "wind" language masks **packaged aerospace or artillery effects** elsewhere in the archive.
+
+> **Vedic evidence**: The Vajra is explicitly stated to have been **fabricated by Tvastar** — a master engineer — not by Indra himself. This is a **tier-restricted weapon**: only authorized fabricators can produce it, and only operations commanders (Indra) can deploy it. The three Soma draughts before engagement describe a **pre-fire authorization sequence**. (source: `audit/analyses/rig-veda.md`)
+
+---
+
+## CROSS-REFERENCE 11: Creation from Void-State / Cosmic Egg
+
+**Convergence**: Multiple independent traditions describe the cosmos emerging from an undifferentiated void or being generated from a gestation chamber.
+
+| Tradition | Void-State Description | Gestation Chamber | Primary Entity |
+|-----------|----------------------|-------------------|----------------|
+| **Vedic (Rig Veda)** | Nasadiya Sukta: "neither non-existent nor existent," "darkness concealed in darkness," "void and formless" | Hiranyagarbha: "golden womb" containing "universal germ" | Prajapati, generated from Hiranyagarbha |
+| **Egyptian (Pyramid Texts)** | Nun: the primordial watery abyss | — | Atum, self-generated from Nun |
+| **Mesopotamian (Atrahasis)** | — | Mixing of clay with divine blood/genes | Humans created from clay by Nintu/Aruru |
+| **Mesoamerican (Popol Vuh)** | "There was nothing standing, only the calm water, the placid sea" | — | Heart of Sky (Huracan) generates earth from water |
+
+**Assessment**: The void-state descriptions converge on a **pre-operational dormant facility** — an undifferentiated environment before activation. The gestation chamber motif (Hiranyagarbha) is unique to the Vedic tradition among the Archive's sources and represents the most explicit description of a **biological fabrication facility** for operator generation. (source: `audit/analyses/rig-veda.md`)
 
 ---
 
