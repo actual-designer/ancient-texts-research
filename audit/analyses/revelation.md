@@ -224,7 +224,7 @@ The "three and a half days" matches the "time, times, and half a time" and "42 m
 
 ### Plausible Mechanism
 
-**Forward-deployed operatives with environmental-control capabilities and a guaranteed extraction protocol.** The 3.5-year mission timeline is consistent with other duration references in the text. The death-reanimation-extraction sequence matches the post-mortem processing pipeline ([Pyramid Texts](pyramid-texts.md): Duat processing -> akh transformation -> sky transit). The "beast from the bottomless pit" is a competing ground force that intercepts the operatives before their scheduled extraction.
+**Forward-deployed operatives with environmental-control capabilities and a guaranteed extraction protocol.** The 3.5-year mission timeline is consistent with other duration references in the text. The death-reanimation-extraction sequence matches the post-mortem processing pipeline (see [book-of-the-dead.md](book-of-the-dead.md): Weighing of the Heart; [Pyramid Texts](pyramid-texts.md): Duat processing -> akh transformation -> sky transit). The "beast from the bottomless pit" is a competing ground force that intercepts the operatives before their scheduled extraction.
 
 ---
 

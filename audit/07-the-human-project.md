@@ -107,7 +107,7 @@ The Mesoamerican tradition ([Popol Vuh](analyses/popol-vuh.md)), with **zero con
 | 3. Wood People | Vegetable (tz'ite wood / reeds) | Speech, mobility, reproduction | No consciousness, no memory, mask-faces, no blood, rigid bodies | Flood + multi-vector destruction; remnants degrade to spider monkeys |
 | 4. Corn People | Grain (maize) | All specs met; full cognition achieved | **Exceeded parameters**: "perfect was their sight, and perfect was their knowledge of everything beneath the sky" | **Cognitive throttling** -- vision deliberately blurred by Heart of Sky |
 
-The mud/clay parallel to Atrahasis is precise. Both traditions independently describe a mineral-substrate prototype as the base material for the human creation project, and in both cases the substrate alone is insufficient.
+The mud/clay parallel to [Atrahasis](analyses/atrahasis.md) is precise. Both traditions independently describe a mineral-substrate prototype as the base material for the human creation project, and in both cases the substrate alone is insufficient.
 
 ### 2.6 The Spectrum
 
@@ -132,10 +132,10 @@ The spectrum's endpoints are instructive: **controlled production yields stable 
 
 The texts describe continuous surveillance of the human population from the command tier:
 
-- **Atrahasis:** "The country was as noisy as a bellowing bull" -- population metrics detectable from command-tier monitoring systems; "noise" (*rigmu*) likely denotes resource consumption and environmental footprint rather than literal sound.
-- **Enoch:** "Michael, Uriel, Raphael and Gabriel looked down from heaven and saw much blood being shed upon the earth" -- overhead ISR reporting ecological and social collapse to the command tier.
-- **Mahābhārata:** Sañjaya's *divya dṛṣṭi* -- real-time battlefield feed from the command tier to a cleared human recipient; the Viśvarūpa display itself is a full-spectrum visualization of multi-domain activity.
-- **Ezekiel:** The Merkabah's wheels are "full of eyes all around" (1:18) -- distributed sensor arrays on the vehicle's mobility systems.
+- **[Atrahasis](analyses/atrahasis.md):** "The country was as noisy as a bellowing bull" -- population metrics detectable from command-tier monitoring systems; "noise" (*rigmu*) likely denotes resource consumption and environmental footprint rather than literal sound.
+- **[Enoch](analyses/enoch-watchers.md):** "Michael, Uriel, Raphael and Gabriel looked down from heaven and saw much blood being shed upon the earth" -- overhead ISR reporting ecological and social collapse to the command tier.
+- **[Mahābhārata](analyses/mahabharata.md):** Sañjaya's *divya dṛṣṭi* -- real-time battlefield feed from the command tier to a cleared human recipient; the Viśvarūpa display itself is a full-spectrum visualization of multi-domain activity.
+- **[Ezekiel](analyses/ezekiel-merkabah.md):** The Merkabah's wheels are "full of eyes all around" (1:18) -- distributed sensor arrays on the vehicle's mobility systems.
 
 ### 3.2 The Liaison Model
 
@@ -143,11 +143,11 @@ Rather than govern directly, the command tier operates through selected human in
 
 | Liaison | Source | Function | Access Level |
 |---------|--------|----------|-------------|
-| Atrahasis/Utnapishtim | Atrahasis, Gilgamesh | Covert informant; executes survival protocol | Direct Enki channel ("ear was open") |
-| Enoch | 1 Enoch | "Scribe of righteousness"; mediates between command tier and rogue Watchers; tours facilities | Unprecedented: multiple facility tours, audience with the Most High |
-| Ezekiel | Ezekiel | Priest-observer; receives architectural blueprints; witnesses vehicle and reanimation tech | Elevated: direct vehicle observation, involuntary transport, detailed briefings |
-| Vyāsa | Mahābhārata | Epic compiler; biological technician (divides Gāndhārī's embryo mass); civilization-scale documentation mandate | Dual-role: operator and recorder |
-| Sañjaya | Mahābhārata | Real-time ISR relay; receives *divya dṛṣṭi* feed for Dhṛtarāṣṭra's briefings | Passive sensor recipient |
+| Atrahasis/Utnapishtim | [Atrahasis](analyses/atrahasis.md), [Gilgamesh](analyses/gilgamesh.md) | Covert informant; executes survival protocol | Direct Enki channel ("ear was open") |
+| Enoch | [Enoch](analyses/enoch-watchers.md) | "Scribe of righteousness"; mediates between command tier and rogue Watchers; tours facilities | Unprecedented: multiple facility tours, audience with the Most High |
+| Ezekiel | [Ezekiel](analyses/ezekiel-merkabah.md) | Priest-observer; receives architectural blueprints; witnesses vehicle and reanimation tech | Elevated: direct vehicle observation, involuntary transport, detailed briefings |
+| Vyāsa | [Mahābhārata](analyses/mahabharata.md) | Epic compiler; biological technician (divides Gāndhārī's embryo mass); civilization-scale documentation mandate | Dual-role: operator and recorder |
+| Sañjaya | [Mahābhārata](analyses/mahabharata.md) | Real-time ISR relay; receives *divya dṛṣṭi* feed for Dhṛtarāṣṭra's briefings | Passive sensor recipient |
 
 The pattern is consistent: **selected humans with above-average observational or administrative capacity are granted unusual access and commanded to record what they witness.** This is an information-preservation strategy -- ensuring that selected records survive among the managed population even as the operators withdraw.
 
@@ -157,13 +157,13 @@ Before the terminal reset (the Flood), the command tier attempted multiple propo
 
 | Step | Method | Outcome | Source |
 |------|--------|---------|--------|
-| 1 | Suruppu-disease (weaponized pathogen) | Neutralized -- Enki provided counter-strategy | Atrahasis Ch. 7 |
-| 2 | Predator deployment (lion, wolf) | Failed or insufficient | Gilgamesh XI (Ea's retrospective speech) |
-| 3 | Drought / famine | Failed or insufficient | Gilgamesh XI (Ea's retrospective) |
-| 4 | Additional pestilence | Failed or insufficient | Gilgamesh XI (Ea's retrospective) |
+| 1 | Suruppu-disease (weaponized pathogen) | Neutralized -- Enki provided counter-strategy | [Atrahasis](analyses/atrahasis.md) Ch. 7 |
+| 2 | Predator deployment (lion, wolf) | Failed or insufficient | [Gilgamesh](analyses/gilgamesh.md) XI (Ea's retrospective speech) |
+| 3 | Drought / famine | Failed or insufficient | [Gilgamesh](analyses/gilgamesh.md) XI (Ea's retrospective) |
+| 4 | Additional pestilence | Failed or insufficient | [Gilgamesh](analyses/gilgamesh.md) XI (Ea's retrospective) |
 | 5 | **The Flood (terminal)** | Total surface clearance achieved | All three Mesopotamian/Enochic sources |
 
-Each prior measure was **targeted and reversible**. The Flood was neither. This is a recognizable escalation-of-force doctrine -- and its terminal phase is the subject of `05-great-reset.md` and `06-weapons-doctrine.md`.
+Each prior measure was **targeted and reversible**. The Flood was neither. This is a recognizable escalation-of-force doctrine -- and its terminal phase is the subject of [05-great-reset.md](05-great-reset.md) and [06-weapons-doctrine.md](06-weapons-doctrine.md).
 
 ---
 
@@ -202,7 +202,7 @@ Together these made the managed species **unsalvageable by targeted measures**. 
 
 The Indian epic theater documents a **second-generation contamination cycle** with the same structural features:
 
-| Watcher Incident (Enoch) | Kurukshetra Escalation (Mahābhārata) |
+| Watcher Incident ([Enoch](analyses/enoch-watchers.md)) | Kurukshetra Escalation ([Mahābhārata](analyses/mahabharata.md)) |
 |--------------------------|--------------------------------------|
 | Unauthorized ground deployment | Genetic commissions proliferate beyond political containment |
 | Technology transfer to humans | Astra curricula distributed to multiple operator lineages |
@@ -296,17 +296,17 @@ REBUILD UNDER MODIFIED PARAMETERS
 
 | Era | Creation | Crisis | Reset | Preservation | Rebuild |
 |-----|----------|--------|-------|-------------|---------|
-| **Popol Vuh R&D** | 4 sequential prototypes (animal→mud→wood→corn) | Each prototype fails specification (speech, cognition, memory) | Destruction of each failed run; flood for wood people | Corn people preserved but **cognitively throttled** | Blinded humans populate the earth under limited perception |
-| **Pre-Flood** | 14 prototypes (Atrahasis) | Population overshoot + Nephilim contamination | The Flood | Utnapishtim's seed vault; Enki's covert warning | Post-Flood civilization under human kings |
-| **Post-Flood Mesopotamia** | Gilgamesh engineered; Enkidu fabricated | Gilgamesh's unauthorized incursions (Cedar Forest, Bull of Heaven); Enkidu's death as punishment | Enkidu terminated; Gilgamesh denied immortality | Gilgamesh returns to Uruk; records preserved | Uruk continues under mortal governance |
-| **Mahābhārata theater** | Multi-donor Pāṇḍavas; batch Kauravas; specialist fabrications | Astra proliferation; ROE erosion; night massacre | Kurukshetra war; Brahmāstra deployment; fetal casualties | Parīkṣit revived by Kṛṣṇa; Vyāsa compiles the record | Dharma-diminished Kali Yuga under Parīkṣit's lineage |
-| **Ezekiel era** | (No new creation documented) | Jerusalem's corruption; temple desecration | Commanded destruction of Jerusalem (Ch. 9) | Ezekiel preserved as witness; Valley of Dry Bones demonstrates reconstruction capability | New facility blueprints dictated (Chs. 40-48) |
+| **[Popol Vuh](analyses/popol-vuh.md) R&D** | 4 sequential prototypes (animal→mud→wood→corn) | Each prototype fails specification (speech, cognition, memory) | Destruction of each failed run; flood for wood people | Corn people preserved but **cognitively throttled** | Blinded humans populate the earth under limited perception |
+| **Pre-Flood** | 14 prototypes ([Atrahasis](analyses/atrahasis.md)) | Population overshoot + Nephilim contamination | The Flood | Utnapishtim's seed vault; Enki's covert warning | Post-Flood civilization under human kings |
+| **Post-Flood Mesopotamia** | [Gilgamesh](analyses/gilgamesh.md) engineered; Enkidu fabricated | Gilgamesh's unauthorized incursions (Cedar Forest, Bull of Heaven); Enkidu's death as punishment | Enkidu terminated; Gilgamesh denied immortality | Gilgamesh returns to Uruk; records preserved | Uruk continues under mortal governance |
+| **[Mahābhārata](analyses/mahabharata.md) theater** | Multi-donor Pāṇḍavas; batch Kauravas; specialist fabrications | Astra proliferation; ROE erosion; night massacre | Kurukshetra war; Brahmāstra deployment; fetal casualties | Parīkṣit revived by Kṛṣṇa; Vyāsa compiles the record | Dharma-diminished Kali Yuga under Parīkṣit's lineage |
+| **[Ezekiel](analyses/ezekiel-merkabah.md) era** | (No new creation documented) | Jerusalem's corruption; temple desecration | Commanded destruction of Jerusalem (Ch. 9) | Ezekiel preserved as witness; Valley of Dry Bones demonstrates reconstruction capability | New facility blueprints dictated (Chs. 40-48) |
 
 ### 6.3 The Invariants
 
 Across all four instances:
 
-1. **A dissenting insider enables survival.** Enki warns Atrahasis. Kṛṣṇa revives Parīkṣit. Uriel warns Noah. The command tier is never monolithic -- there is always a faction that subverts the termination order.
+1. **A dissenting insider enables survival.** Enki warns [Atrahasis](analyses/atrahasis.md). Kṛṣṇa revives Parīkṣit. Uriel warns Noah. The command tier is never monolithic -- there is always a faction that subverts the termination order.
 
 2. **The scribe survives.** Enoch, Vyāsa, Ezekiel, Utnapishtim -- the record-keeper is always preserved. The command tier values institutional memory even when it authorizes institutional destruction.
 

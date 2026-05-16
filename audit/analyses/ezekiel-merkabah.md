@@ -241,7 +241,7 @@ The temple dimensions are engineered, not symbolic. The progressive narrowing of
 | Description in Text | Archive Interpretation |
 |---------------------|----------------------|
 | Merkabah (Ch. 1 complete) | VTOL craft with omnidirectional ground mobility |
-| "Wheel within a wheel" | Gyroscopic omnidirectional propulsion unit |
+| "Wheel within a wheel" | Gyroscopic omnidirectional propulsion unit (see [enoch-watchers.md](enoch-watchers.md): wheels like sun) |
 | "Eyes all around the rims" | Distributed optical/sensor arrays |
 | "Spirit in the wheel" | Integrated AI navigation system |
 | "Platform like ice" | Transparent composite hull material |
@@ -249,7 +249,7 @@ The temple dimensions are engineered, not symbolic. The progressive narrowing of
 | "Wind" transporting Ezekiel | Directed-force transport (tractor beam or levitation) |
 | Dry bones reassembly sequence | Tissue regeneration / nanoscale bioassembly demonstration |
 | "Breath from four winds" | Quadrilateral energy broadcast for biological activation |
-| Temple measurements (Ch. 40-42) | Precision architectural blueprints for controlled-access facility |
+| Temple measurements (Ch. 40-42) | Precision architectural blueprints for controlled-access facility (see [09-location-registry.md](../09-location-registry.md)) |
 | "Glory entering the east gate" | Vehicle landing at facility main entrance |
 | Linen garments for inner court | Contamination-control clothing (cleanroom protocol) |
 | Gate sealed after operator entry | Secured access point, biometric lock |

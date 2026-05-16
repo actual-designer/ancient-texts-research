@@ -13,7 +13,7 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 
 ---
 
-### 1.1 Atrahasis (Zero Links)
+### 1.1 [Atrahasis](analyses/atrahasis.md)
 
 **Unique angle:** Administrative transparency -- the most bureaucratically explicit account of the human creation project. The text reads as an after-action report documenting a labor dispute, the bioengineering response, and subsequent population-control measures.
 
@@ -27,11 +27,11 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | Enki as institutional dissident | Popol Vuh: Prometheus as knowledge-liberator; Gilgamesh: Ea warns Utnapishtim |
 | Flood as deliberate environmental reset | Gilgamesh (Tablet XI full account); Popol Vuh: wood people destroyed by flood |
 
-**Relevant synthesis docs:** 01-entity-registry (Igigi/Anunnaki hierarchy), 02-technology-catalog (bioengineering protocol), 05-great-reset (flood as sterilization), 07-the-human-project (creation arc), 03-event-timeline (chronological anchor)
+**Relevant synthesis docs:** [01-entity-registry.md](01-entity-registry.md) (Igigi/Anunnaki hierarchy), [02-technology-catalog.md](02-technology-catalog.md) (bioengineering protocol), [05-great-reset.md](05-great-reset.md) (flood as sterilization), [07-the-human-project.md](07-the-human-project.md) (creation arc), [03-event-timeline.md](03-event-timeline.md) (chronological anchor)
 
 ---
 
-### 1.2 Enoch-Watchers (Zero Links)
+### 1.2 [Enoch-Watchers](analyses/enoch-watchers.md)
 
 **Unique angle:** Internal command conflict from the enforcement perspective -- the most detailed account of a rogue ground deployment, including a named unit roster (200 operatives, 20 squad leaders), systematic technology transfer, and the judicial aftermath.
 
@@ -48,11 +48,11 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | "Prison of the stars" for schedule violations | Revelation: bottomless pit; Theogony: Tartarus |
 | 7 named holy angels with domain responsibilities | Theogony: 12 Olympian portfolios; Zoroastrian: 7 Amesha Spenta |
 
-**Relevant synthesis docs:** 01-entity-registry (entity hierarchy expansion), 02-technology-catalog (technology transfer, facility descriptions), 03-event-timeline (pre-Flood chronology), 04-cross-references (Watcher parallel analysis), 06-weapons-doctrine (escalation triggers), 07-the-human-project (genetic engineering), 09-location-registry (Mount Hermon, heavenly facilities)
+**Relevant synthesis docs:** [01-entity-registry.md](01-entity-registry.md) (entity hierarchy expansion), [02-technology-catalog.md](02-technology-catalog.md) (technology transfer, facility descriptions), [03-event-timeline.md](03-event-timeline.md) (pre-Flood chronology), [04-cross-references.md](04-cross-references.md) (Watcher parallel analysis), [06-weapons-doctrine.md](06-weapons-doctrine.md) (escalation triggers), [07-the-human-project.md](07-the-human-project.md) (genetic engineering), [09-location-registry.md](09-location-registry.md) (Mount Hermon, heavenly facilities)
 
 ---
 
-### 1.3 Gilgamesh (Zero Links)
+### 1.3 [Gilgamesh](analyses/gilgamesh.md)
 
 **Unique angle:** Human-perspective biography of a second-generation hybrid ruler navigating a post-cataclysm world. Provides the most engineering-specific Flood record (Tablet XI) and documents multiple bioengineered entities.
 
@@ -69,11 +69,11 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | Plant of immortality in the Apsu | Poetic Edda: Mead of Poetry; Rig Veda: Soma; Mahabharata: Amṛta |
 | Ea's "reed wall" communication device | Book of the Dead: Words of Power; Ezekiel: "wind" transport |
 
-**Relevant synthesis docs:** 01-entity-registry (hybrid entities), 02-technology-catalog (weapons platforms, flood vessel), 03-event-timeline (chronological anchor), 04-cross-references (flood accounts), 05-great-reset (flood as sterilization), 07-the-human-project (bioengineering arc), 09-location-registry (Cedar Forest, Uruk, Apsu)
+**Relevant synthesis docs:** [01-entity-registry.md](01-entity-registry.md) (hybrid entities), [02-technology-catalog.md](02-technology-catalog.md) (weapons platforms, flood vessel), [03-event-timeline.md](03-event-timeline.md) (chronological anchor), [04-cross-references.md](04-cross-references.md) (flood accounts), [05-great-reset.md](05-great-reset.md) (flood as sterilization), [07-the-human-project.md](07-the-human-project.md) (bioengineering arc), [09-location-registry.md](09-location-registry.md) (Cedar Forest, Uruk, Apsu)
 
 ---
 
-### 1.4 Ezekiel-Merkabah (Zero Links)
+### 1.4 [Ezekiel-Merkabah](analyses/ezekiel-merkabah.md)
 
 **Unique angle:** The most technically precise observation of an advanced aerospace vehicle in any ancient text. Ezekiel is a trained priest with above-average observational discipline, and his account includes mechanical specifics unmatched in the archive.
 
@@ -90,11 +90,11 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | "Man whose appearance was like bronze" | Enoch: angelic guides; Revelation: angel with measuring reed |
 | Gate sealed after operator entry | Book of the Dead: named gates; Popol Vuh: Xibalbá access system |
 
-**Relevant synthesis docs:** 01-entity-registry (cherubim/living beings entity type), 02-technology-catalog (aerospace vehicles, sensors, propulsion), 03-event-timeline (593 BCE dating), 04-cross-references (Merkabah parallels), 09-location-registry (Chebar Canal, temple site)
+**Relevant synthesis docs:** [01-entity-registry.md](01-entity-registry.md) (cherubim/living beings entity type), [02-technology-catalog.md](02-technology-catalog.md) (aerospace vehicles, sensors, propulsion), [03-event-timeline.md](03-event-timeline.md) (593 BCE dating), [04-cross-references.md](04-cross-references.md) (Merkabah parallels), [09-location-registry.md](09-location-registry.md) (Chebar Canal, temple site)
 
 ---
 
-### 1.5 Revelation (Zero Links)
+### 1.5 [Revelation](analyses/revelation.md)
 
 **Unique angle:** Projected operational timeline -- a mission briefing describing a planned terminal sterilization sequence, regime-change warfare, and replacement habitat deployment. Unique as the archive's endgame document.
 
@@ -118,11 +118,11 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | Tree of Life with monthly fruit | Gilgamesh: plant of immortality; Mahabharata: Amṛta |
 | Lake of fire as containment/disposal | Theogony: Tartarus; Enoch: prison of the stars |
 
-**Relevant synthesis docs:** 01-entity-registry (Dragon, Lamb, elders, beasts), 02-technology-catalog (environmental weapons, biometric systems), 03-event-timeline (endgame chronology), 04-cross-references (eschaton parallels), 05-great-reset (flood/terminal event comparison), 06-weapons-doctrine (escalation to total), 07-the-human-project (terminal phase), 09-location-registry (Armageddon, Euphrates, New Jerusalem)
+**Relevant synthesis docs:** [01-entity-registry.md](01-entity-registry.md) (Dragon, Lamb, elders, beasts), [02-technology-catalog.md](02-technology-catalog.md) (environmental weapons, biometric systems), [03-event-timeline.md](03-event-timeline.md) (endgame chronology), [04-cross-references.md](04-cross-references.md) (eschaton parallels), [05-great-reset.md](05-great-reset.md) (flood/terminal event comparison), [06-weapons-doctrine.md](06-weapons-doctrine.md) (escalation to total), [07-the-human-project.md](07-the-human-project.md) (terminal phase), [09-location-registry.md](09-location-registry.md) (Armageddon, Euphrates, New Jerusalem)
 
 ---
 
-### 1.6 Book of the Dead (Zero Links)
+### 1.6 [Book of the Dead](analyses/book-of-the-dead.md)
 
 **Unique angle:** User procedural manual for consciousness migration -- the most complete guide for entity transition from biological to post-biological status within the non-human facility network.
 
@@ -141,11 +141,11 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | Heart Spells as identity-substrate locking | Revelation: seal/salvation security |
 | Amemit as automated termination unit | Revelation: lake of fire; Theogony: Kronos swallowing children |
 
-**Relevant synthesis docs:** 01-entity-registry (Osiris, Thoth, Anubis, Amemit), 02-technology-catalog (consciousness transfer, identity verification, facility design), 03-event-timeline (post-mortem processing), 04-cross-references (underworld parallels), 07-the-human-project (human-to-operator upgrade), 09-location-registry (Tuat, Field of Reeds, Hall of Maati)
+**Relevant synthesis docs:** [01-entity-registry.md](01-entity-registry.md) (Osiris, Thoth, Anubis, Amemit), [02-technology-catalog.md](02-technology-catalog.md) (consciousness transfer, identity verification, facility design), [03-event-timeline.md](03-event-timeline.md) (post-mortem processing), [04-cross-references.md](04-cross-references.md) (underworld parallels), [07-the-human-project.md](07-the-human-project.md) (human-to-operator upgrade), [09-location-registry.md](09-location-registry.md) (Tuat, Field of Reeds, Hall of Maati)
 
 ---
 
-### 1.7 Poetic Edda (Zero Links)
+### 1.7 [Poetic Edda](analyses/poetic-edda.md)
 
 **Unique angle:** Norse pantheon as entity faction with predicted cascading system collapse (Ragnarök). The arc -- creation, factional conflict, containment breaches, terminal destruction, rebirth -- mirrors the archive's pattern from a geographically/culturally isolated tradition.
 
@@ -165,11 +165,11 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | Thor's Mjöllnir as guided homing weapon | Mahabharata: astras; Gilgamesh: Shamash's thirteen winds |
 | Rígsþula as social structure engineering | Mahabharata: caste/varna system; Popol Vuh: cognitive limitation |
 
-**Relevant synthesis docs:** 01-entity-registry (Norse entity hierarchy), 02-technology-catalog (weapons, infrastructure, cognitive compounds), 03-event-timeline (pre-Flood/post-Ragnarök), 04-cross-references (creation/collapse parallels), 06-weapons-doctrine (escalation patterns), 07-the-human-project (creation arc), 09-location-registry (Yggdrasil, Asgard, Midgard)
+**Relevant synthesis docs:** [01-entity-registry.md](01-entity-registry.md) (Norse entity hierarchy), [02-technology-catalog.md](02-technology-catalog.md) (weapons, infrastructure, cognitive compounds), [03-event-timeline.md](03-event-timeline.md) (pre-Flood/post-Ragnarök), [04-cross-references.md](04-cross-references.md) (creation/collapse parallels), [06-weapons-doctrine.md](06-weapons-doctrine.md) (escalation patterns), [07-the-human-project.md](07-the-human-project.md) (creation arc), [09-location-registry.md](09-location-registry.md) (Yggdrasil, Asgard, Midgard)
 
 ---
 
-### 1.8 Theogony & Works and Days (Zero Links)
+### 1.8 [Theogony & Works and Days](analyses/theogony-works-and-days.md)
 
 **Unique angle:** Sequential command coups (castration pattern) documenting Tier 1 replacement cycles, plus the most explicit iterative human prototype series (Five Ages) with distinct failure modes and termination events.
 
@@ -188,11 +188,11 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | Atlas as structural payload-assignment punishment | Poetic Edda: Loki's binding; Revelation: Dragon in pit |
 | Tartarus as subsurface containment | Enoch: prison of the stars; Revelation: bottomless pit |
 
-**Relevant synthesis docs:** 01-entity-registry (Greek entity hierarchy, coup sequence), 02-technology-catalog (weapons, fabrication), 03-event-timeline (chronology of coups/ages), 04-cross-references (flood, creation parallels), 05-great-reset (Deucalion's flood), 06-weapons-doctrine (factional warfare), 07-the-human-project (iterative prototypes), 09-location-registry (Olympos, Tartarus, Delphi)
+**Relevant synthesis docs:** [01-entity-registry.md](01-entity-registry.md) (Greek entity hierarchy, coup sequence), [02-technology-catalog.md](02-technology-catalog.md) (weapons, fabrication), [03-event-timeline.md](03-event-timeline.md) (chronology of coups/ages), [04-cross-references.md](04-cross-references.md) (flood, creation parallels), [05-great-reset.md](05-great-reset.md) (Deucalion's flood), [06-weapons-doctrine.md](06-weapons-doctrine.md) (factional warfare), [07-the-human-project.md](07-the-human-project.md) (iterative prototypes), [09-location-registry.md](09-location-registry.md) (Olympos, Tartarus, Delphi)
 
 ---
 
-### 1.9 Zoroastrian Gathas (Zero Links)
+### 1.9 [Zoroastrian Gathas](analyses/zoroastrian-gathas.md)
 
 **Unique angle:** First-person whistleblower report of entity corruption. Unique in the archive as direct doctrinal transmission rather than cultural narrative -- Zarathushtra describes the non-human command structure as he claims to have witnessed it and prescribes breaking from corrupted intermediaries.
 
@@ -209,7 +209,7 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | House of Song / House of Darkness as disposition destinations | Book of the Dead: Field of Reeds / Tuat; Revelation: New Jerusalem / lake of fire |
 | Universal resurrection as full entity restoration | Revelation: first resurrection; Pyramid Texts: Imperishable Stars |
 
-**Relevant synthesis docs:** 01-entity-registry (dual-operator ontology, Daeva corruption), 02-technology-catalog (assessment gateway, renewal protocol), 03-event-timeline (eschaton prediction), 04-cross-references (judgment parallels), 06-weapons-doctrine (entity integrity standards), 07-the-human-project (entity lifecycle arc)
+**Relevant synthesis docs:** [01-entity-registry.md](01-entity-registry.md) (dual-operator ontology, Daeva corruption), [02-technology-catalog.md](02-technology-catalog.md) (assessment gateway, renewal protocol), [03-event-timeline.md](03-event-timeline.md) (eschaton prediction), [04-cross-references.md](04-cross-references.md) (judgment parallels), [06-weapons-doctrine.md](06-weapons-doctrine.md) (entity integrity standards), [07-the-human-project.md](07-the-human-project.md) (entity lifecycle arc)
 
 ---
 
@@ -227,7 +227,7 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 - Viśvarūpa → Merkabah occupant hazard
 - Amṛta → Gilgamesh plant, Pyramid Texts immortality
 
-**Synthesis docs already linked:** 01-entity-registry, 02-technology-catalog, 03-event-timeline, 04-cross-references, 05-great-reset
+**Synthesis docs already linked:** [01-entity-registry.md](01-entity-registry.md), [02-technology-catalog.md](02-technology-catalog.md), [03-event-timeline.md](03-event-timeline.md), [04-cross-references.md](04-cross-references.md), [05-great-reset.md](05-great-reset.md)
 
 ---
 
@@ -281,7 +281,7 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 
 ### 2.1 Creation & Engineering of Humans
 
-| Aspect | Atrahasis | Popol Vuh | Theogony | Gilgamesh | Enoch | Mahabharata |
+| Aspect | [Atrahasis](analyses/atrahasis.md) | [Popol Vuh](analyses/popol-vuh.md) | [Theogony](analyses/theogony-works-and-days.md) | [Gilgamesh](analyses/gilgamesh.md) | [Enoch](analyses/enoch-watchers.md) | [Mahabharata](analyses/mahabharata.md) |
 |--------|-----------|-----------|----------|-----------|-------|-------------|
 | Creation motive | Labor replacement | Provider/sustainer | -- | -- | -- | -- |
 | Substrate | Clay (mineral) | Mud → Wood → Corn | Gold → Silver → Bronze → Heroic → Iron | Clay (Enkidu) | -- | Vessel/pot (Droṇa) |
@@ -290,26 +290,26 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | Cognitive outcome | Intelligent laborers | Deliberately limited (too capable) | Declining cognition | Enkidu: animal → socialized | Nephilim: unstable | Enhanced (Pāṇḍava) |
 | Termination | Flood + disease | Flood + aerial + biological | Flood (Deucalion) + Iron Age predicted | -- | Flood | War (Kurukshetra) |
 
-**Links to build:** Atrahasis → Popol Vuh, Theogony; Gilgamesh → Mahabharata; Enoch → Popol Vuh
+**Links to build:** [Atrahasis](analyses/atrahasis.md) → [Popol Vuh](analyses/popol-vuh.md), [Theogony](analyses/theogony-works-and-days.md); [Gilgamesh](analyses/gilgamesh.md) → [Mahabharata](analyses/mahabharata.md); [Enoch](analyses/enoch-watchers.md) → [Popol Vuh](analyses/popol-vuh.md)
 
 ---
 
 ### 2.2 Entity Hierarchy & Command Structure
 
-| Tier | Atrahasis | Enoch | Theogony | Revelation | Zoroastrian | Mahabharata |
+| Tier | [Atrahasis](analyses/atrahasis.md) | [Enoch](analyses/enoch-watchers.md) | [Theogony](analyses/theogony-works-and-days.md) | [Revelation](analyses/revelation.md) | [Zoroastrian](analyses/zoroastrian-gathas.md) | [Mahabharata](analyses/mahabharata.md) |
 |------|-----------|-------|----------|-------------|--------------|-------------|
 | Tier 0 (Supreme) | Anu (sky/off-world) | Head of Days | Ouranos → Kronos → Zeus | The One on Throne | Ahura Mazda | Brahmā |
 | Tier 1 (Executive) | Enlil (ground), Enki (apsu) | Michael, Uriel, etc. | Gaia, Rhea, Prometheus | 24 elders, Lamb | Spenta Mainyu, Angra Mainyu | Viṣṇu, Śiva |
 | Tier 2 (Functional) | Ninurta, Nintu | 7 holy angels | Olympians (12) | 4 living beings | 7 Amesha Spenta | Indra, Agni, Vāyu, Varuṇa |
 | Tier 3 (Workforce) | Igigi (laborers), Anunnaki (command) | 200 Watchers | Titans | Beasts, locusts, angels | Daevas (corrupted) | Gandharva, Apsaras, Rākṣasa |
 
-**Links to build:** All unlinked texts → 01-entity-registry.md; cross-text links between command coup accounts
+**Links to build:** All unlinked texts → [01-entity-registry.md](01-entity-registry.md); cross-text links between command coup accounts
 
 ---
 
 ### 2.3 Aerospace Vehicles & Facilities
 
-| Vehicle/Feature | Ezekiel | Enoch | Revelation | Mahabharata | Gilgamesh |
+| Vehicle/Feature | [Ezekiel](analyses/ezekiel-merkabah.md) | [Enoch](analyses/enoch-watchers.md) | [Revelation](analyses/revelation.md) | [Mahabharata](analyses/mahabharata.md) | [Gilgamesh](analyses/gilgamesh.md) |
 |-----------------|---------|-------|-------------|-------------|-----------|
 | VTOL/plasma sheath | Merkabah | Crystal house fire perimeter | -- | Vimanas | -- |
 | Gyroscopic wheels | Wheel within wheel | Throne wheels like sun | -- | -- | -- |
@@ -318,29 +318,29 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | Radiation shielding | Amber glow | Great Glory lethal | Rainbow around throne | Viśvarūpa | -- |
 | Operator in command | Throne figure | Occupant on throne | The One on throne | Kṛṣṇa's universal form | -- |
 
-**Links to build:** Ezekiel → Enoch, Revelation, Mahabharata; Enoch → Revelation, Ezekiel
+**Links to build:** [Ezekiel](analyses/ezekiel-merkabah.md) → [Enoch](analyses/enoch-watchers.md), [Revelation](analyses/revelation.md), [Mahabharata](analyses/mahabharata.md); [Enoch](analyses/enoch-watchers.md) → [Revelation](analyses/revelation.md), [Ezekiel](analyses/ezekiel-merkabah.md)
 
 ---
 
 ### 2.4 Flood / Great Reset
 
-| Element | Gilgamesh (Tablet XI) | Atrahasis | Popol Vuh | Theogony |
+| Element | [Gilgamesh](analyses/gilgamesh.md) (Tablet XI) | [Atrahasis](analyses/atrahasis.md) | [Popol Vuh](analyses/popol-vuh.md) | [Theogony](analyses/theogony-works-and-days.md) |
 |---------|----------------------|-----------|-----------|----------|
 | Authorization | Anu+Enlil council | Ellil orders | Heart of Sky plans | Zeus decides |
 | Warning | Ea → Utnapishtim | Enki → Atrahasis | -- | Prometheus → Deucalion |
 | Vessel | Cubic survival module | (implied) | -- | Chest/ark |
-| Evacuation | Utnapishtim+family | Atrahasis | (wood people not evacuated; destroyed) | Deucalion+Pyrrha |
+| Evacuation | Utnapishtim+family | [Atrahasis](analyses/atrahasis.md) | (wood people not evacuated; destroyed) | Deucalion+Pyrrha |
 | Duration | 6 days, 7 nights | (broken text) | -- | 9 days |
 | Mechanism | Orbital weapons + atmospheric + hydrology | Suruppu-disease + flood | "Resin from sky" + jaguars | -- |
 | Aftermath | Survivor granted immortality | (broken text) | Spider monkeys | Stones → humans |
 
-**Links to build:** All flood texts → 05-great-reset.md; cross-links between the 4 flood accounts
+**Links to build:** All flood texts → [05-great-reset.md](05-great-reset.md); cross-links between the 4 flood accounts
 
 ---
 
 ### 2.5 Weapons & Conflict
 
-| Weapon Type | Mahabharata | Gilgamesh | Revelation | Poetic Edda | Theogony |
+| Weapon Type | [Mahabharata](analyses/mahabharata.md) | [Gilgamesh](analyses/gilgamesh.md) | [Revelation](analyses/revelation.md) | [Poetic Edda](analyses/poetic-edda.md) | [Theogony](analyses/theogony-works-and-days.md) |
 |-------------|-------------|-----------|-------------|-------------|----------|
 | Directed-energy | Brahmāstra, Pāśupatastra | Shamash's 13 winds | Sword from mouth | Surtr's fire | Thunderbolt |
 | Seismic/kinetic | Vāyavyastra | Bull of Heaven | Trumpet strikes | Mjöllnir | -- |
@@ -350,13 +350,13 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | Containment systems | Aśvatthāmā curse | -- | Bottomless pit | Loki's binding | Tartarus |
 | Autonomous weapons | Nārāyaṇāstra | Humbaba guardian | Fifth trumpet drones | -- | Typhoeus |
 
-**Links to build:** All unlinked texts → 06-weapons-doctrine.md; Mahabharata weapons → Gilgamesh, Revelation
+**Links to build:** All unlinked texts → [06-weapons-doctrine.md](06-weapons-doctrine.md); [Mahabharata](analyses/mahabharata.md) weapons → [Gilgamesh](analyses/gilgamesh.md), [Revelation](analyses/revelation.md)
 
 ---
 
 ### 2.6 Eschaton & Terminal Protocols
 
-| Element | Revelation | Poetic Edda | Theogony | Zoroastrian |
+| Element | [Revelation](analyses/revelation.md) | [Poetic Edda](analyses/poetic-edda.md) | [Theogony](analyses/theogony-works-and-days.md) | [Zoroastrian](analyses/zoroastrian-gathas.md) |
 |---------|-------------|-------------|----------|-------------|
 | Pre-event breakdown | 4 Horsemen | Fimbulwinter | Iron Age decay | Daeva corruption |
 | Terminal event | Trumpets + Vials | Surtr's fire + submersion | Zeus will destroy Iron race | Frashokereti |
@@ -365,13 +365,13 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | Final assessment | Great White Throne | -- | -- | Molten metal river |
 | Replacement world | New Jerusalem | Rebirth (green earth) | -- | House of Song |
 
-**Links to build:** All 4 eschaton texts cross-linked; each → 03-event-timeline.md terminal section
+**Links to build:** All 4 eschaton texts cross-linked; each → [03-event-timeline.md](03-event-timeline.md) terminal section
 
 ---
 
 ### 2.7 Post-Mortem Processing
 
-| Stage | Book of the Dead | Pyramid Texts | Zoroastrian | Popol Vuh | Revelation |
+| Stage | [Book of the Dead](analyses/book-of-the-dead.md) | [Pyramid Texts](analyses/pyramid-texts.md) | [Zoroastrian](analyses/zoroastrian-gathas.md) | [Popol Vuh](analyses/popol-vuh.md) | [Revelation](analyses/revelation.md) |
 |-------|-----------------|---------------|-------------|-----------|-------------|
 | Extraction | Opening of the Mouth | Cannibal Hymn | -- | One Hunahpu's skull speaks | Two Witnesses resurrected |
 | Transit | Tuat (vacuum corridor) | Vertical transit shaft | Chinvat Bridge | Rivers of blood/pus | -- |
@@ -381,7 +381,7 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 | Upgrade | 12 transformation forms | Akh → Imperishable Star | House of Song | -- | First resurrection |
 | Failure | Amemit (devoured) | "Second death" | House of Darkness | Killed in chambers | Lake of fire |
 
-**Links to build:** Book of the Dead → Pyramid Texts, Zoroastrian, Popol Vuh, Revelation; each → 02-technology-catalog.md (consciousness transfer section), 01-entity-registry.md (processing entities)
+**Links to build:** [Book of the Dead](analyses/book-of-the-dead.md) → [Pyramid Texts](analyses/pyramid-texts.md), [Zoroastrian](analyses/zoroastrian-gathas.md), [Popol Vuh](analyses/popol-vuh.md), [Revelation](analyses/revelation.md); each → [02-technology-catalog.md](02-technology-catalog.md) (consciousness transfer section), [01-entity-registry.md](01-entity-registry.md) (processing entities)
 
 ---
 
@@ -391,18 +391,18 @@ Extensive location data exists across all 13 texts. Key cross-tradition parallel
 
 | Ancient Name | Archive Interpretation | Appears In |
 |-------------|----------------------|------------|
-| Apsu / Abzu | Aquatic/subsurface domain | Gilgamesh, Atrahasis, Enoch |
-| Tartarus / Abyss / Bottomless Pit | Deep subsurface containment | Theogony, Revelation, Enoch |
-| Olympos / Heaven / Sky | Orbital command platform | Theogony, Enoch, Ezekiel, Revelation, Poetic Edda |
-| Tuat / Duat / Underworld | Vacuum transit corridor/facility | Book of the Dead, Pyramid Texts |
-| Xibalbá | Underground processing complex | Popol Vuh |
-| Field of Reeds / Field of Offerings | Post-processing habitat | Book of the Dead, Pyramid Texts |
-| New Jerusalem | Replacement orbital habitat | Revelation, Ezekiel (temple) |
-| Cedar Forest / Khāṇḍava | Restricted resource zone | Gilgamesh, Mahabharata |
-| Mount Hermon | High-altitude insertion LZ | Enoch |
-| Armageddon (Megiddo) | Named engagement coordinate | Revelation |
+| Apsu / Abzu | Aquatic/subsurface domain | [Gilgamesh](analyses/gilgamesh.md), [Atrahasis](analyses/atrahasis.md), [Enoch](analyses/enoch-watchers.md) |
+| Tartarus / Abyss / Bottomless Pit | Deep subsurface containment | [Theogony](analyses/theogony-works-and-days.md), [Revelation](analyses/revelation.md), [Enoch](analyses/enoch-watchers.md) |
+| Olympos / Heaven / Sky | Orbital command platform | [Theogony](analyses/theogony-works-and-days.md), [Enoch](analyses/enoch-watchers.md), [Ezekiel](analyses/ezekiel-merkabah.md), [Revelation](analyses/revelation.md), [Poetic Edda](analyses/poetic-edda.md) |
+| Tuat / Duat / Underworld | Vacuum transit corridor/facility | [Book of the Dead](analyses/book-of-the-dead.md), [Pyramid Texts](analyses/pyramid-texts.md) |
+| Xibalbá | Underground processing complex | [Popol Vuh](analyses/popol-vuh.md) |
+| Field of Reeds / Field of Offerings | Post-processing habitat | [Book of the Dead](analyses/book-of-the-dead.md), [Pyramid Texts](analyses/pyramid-texts.md) |
+| New Jerusalem | Replacement orbital habitat | [Revelation](analyses/revelation.md), [Ezekiel](analyses/ezekiel-merkabah.md) (temple) |
+| Cedar Forest / Khāṇḍava | Restricted resource zone | [Gilgamesh](analyses/gilgamesh.md), [Mahabharata](analyses/mahabharata.md) |
+| Mount Hermon | High-altitude insertion LZ | [Enoch](analyses/enoch-watchers.md) |
+| Armageddon (Megiddo) | Named engagement coordinate | [Revelation](analyses/revelation.md) |
 
-**Links to build:** All location references → 09-location-registry.md; cross-links between texts sharing locations
+**Links to build:** All location references → [09-location-registry.md](09-location-registry.md); cross-links between texts sharing locations
 
 ---
 

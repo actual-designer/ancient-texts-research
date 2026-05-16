@@ -1,7 +1,7 @@
 # The Great Reset -- Sterilization Protocol and the Genetic Seed Vault
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
-**Scope:** Cross-cutting synthesis of Atrahasis, Gilgamesh (Tablet XI), Enoch (Book 1), and Popol Vuh (Mesoamerican tradition); Revelation (projected terminal sterilization — `audit/analyses/revelation.md`)
+**Scope:** Cross-cutting synthesis of [Atrahasis](analyses/atrahasis.md), [Gilgamesh](analyses/gilgamesh.md) (Tablet XI), [Enoch](analyses/enoch-watchers.md) (Book 1), and [Popol Vuh](analyses/popol-vuh.md) (Mesoamerican tradition); [Revelation](analyses/revelation.md) (projected terminal sterilization)
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---

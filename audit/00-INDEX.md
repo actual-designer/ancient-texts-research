@@ -10,20 +10,20 @@
 
 | # | Text | Est. Period of Events | Pages | Key Subjects |
 |---|------|-----------------------|-------|--------------|
-| 1 | Epic of Atrahasis | Pre-diluvian (deep antiquity) | 13 | Igigi labor revolt, creation of humanity, the Flood |
-| 2 | Book of Enoch (1 Enoch) | Pre-diluvian through post-Flood | 193 | Watchers' descent, technology transfer, Nephilim, heavenly facilities |
-| 3 | Epic of Gilgamesh | Post-Flood (Uruk period) | 83 | Hybrid king, biological fabrication, Utnapishtim's Flood account, immortality research |
-| 4 | Book of Ezekiel | 593 BCE (precisely dated) | 66 | Merkabah craft, transport events, reanimation protocol, Temple blueprints |
-| 5 | Mahābhārata | Epic timeframe (Puranic/Iron Age horizon in tradition) | Vol. varies | Vimānas, astras, commissioned births, Kurukshetra combined arms, hierarchy parallels |
-| 6 | Popol Vuh | Deep antiquity (creation cycle) | 285 | Iterative creation R&D (4 prototypes), deliberate flood, engineered amnesia, Xibalbá facility |
-| 7 | Ancient Egyptian Pyramid Texts | Old Kingdom (~2353-2150 BCE) | 394 | Post-mortem processing pipeline (Duat→Akhet→Sky), body reconstitution protocol, gated access, Cannibal Hymn, celestial geography |
-| 8 | Rig Veda | ~1500-1200 BCE (composition) / Deep antiquity (events) | 750 | Vimanas, Vajra weapon, Asvins biomedical corps, Soma bio-enhancement, Yama afterlife protocol, Agni communications relay, Vedic operator hierarchy, creation hymns (Nasadiya, Hiranyagarbha, Purusa) |
-| 9 | Book of Revelation | ~95 CE (projected events — timeline undetermined) | 41 | Throne room command center, seven-sealed authorization scroll, four horsemen systemic collapse, 144K biometric registration, seven trumpets environmental strikes, war in heaven, two beasts counterfeit governance, seven vials terminal sterilization, Armageddon, millennium containment, New Jerusalem replacement habitat |
-| 10 | The Book of the Dead (Per-t em Hru) | Old Kingdom through XVIIIth dynasty (~2350-1200 BCE, spells in continuous use) | 22 | Weighing of the Heart identity verification, Negative Confession attestation (42 assessors), multi-stage gated transit, 12-form transformation capability, post-mortem processing pipeline (complement to Pyramid Texts) |
-| 11 | The Poetic Edda (Bellows, 1923) | ~900-1050 CE composition / Prehistoric events | 34 poems | Ymir dismantlement (entity-to-infrastructure), Ask/Embla fabrication, Aesir-Vanir War, Yggdrasil nexus, Odin's self-sacrifice rune upgrade, Baldr termination, Loki containment, Ragnarök predicted collapse, Rígsþula class engineering |
-| 12 | Theogony & Works and Days (Hesiod, c. 700 BCE) | Deep antiquity (creation cycle) | ~1,022 lines | Chaos→Gaia→Ouranos initialization, Kronos castration coup, Titanomachy factional war, Typhoeus multi-modal containment, Prometheus knowledge theft, Pandora deliberate-defect fabrication, Five Ages prototype sequence, Deucalion Flood evacuation |
-| 13 | The Zoroastrian Gathas (Mills, 1898) | ~1000 BCE (attributed to Zarathushtra) | 5 hymn collections | Dual-operator ontology (Spenta/Angra Mainyu), seven Amesha Spenta functional terminals, Chinvat Bridge assessment gateway, Daeva identity corruption report, Frashokereti predicted system renewal |
-| 14 | Yoga Sutras (Madhvācārya/Beloved, 2007) | ~200 BCE-400 CE (compilation) | 239 | Citta-vṛtti-nirodha consciousness lockdown protocol, Īśvara reference entity, Aṣṭāṅga 8-stage operator conditioning curriculum, siddhi supernormal capability catalog, Kaivalya full system decoupling |
+| 1 | [Epic of Atrahasis](analyses/atrahasis.md) | Pre-diluvian (deep antiquity) | 13 | Igigi labor revolt, creation of humanity, the Flood |
+| 2 | [Book of Enoch (1 Enoch)](analyses/enoch-watchers.md) | Pre-diluvian through post-Flood | 193 | Watchers' descent, technology transfer, Nephilim, heavenly facilities |
+| 3 | [Epic of Gilgamesh](analyses/gilgamesh.md) | Post-Flood (Uruk period) | 83 | Hybrid king, biological fabrication, Utnapishtim's Flood account, immortality research |
+| 4 | [Book of Ezekiel](analyses/ezekiel-merkabah.md) | 593 BCE (precisely dated) | 66 | Merkabah craft, transport events, reanimation protocol, Temple blueprints |
+| 5 | [Mahābhārata](analyses/mahabharata.md) | Epic timeframe (Puranic/Iron Age horizon in tradition) | Vol. varies | Vimānas, astras, commissioned births, Kurukshetra combined arms, hierarchy parallels |
+| 6 | [Popol Vuh](analyses/popol-vuh.md) | Deep antiquity (creation cycle) | 285 | Iterative creation R&D (4 prototypes), deliberate flood, engineered amnesia, Xibalbá facility |
+| 7 | [Ancient Egyptian Pyramid Texts](analyses/pyramid-texts.md) | Old Kingdom (~2353-2150 BCE) | 394 | Post-mortem processing pipeline (Duat→Akhet→Sky), body reconstitution protocol, gated access, Cannibal Hymn, celestial geography |
+| 8 | [Rig Veda](analyses/rig-veda.md) | ~1500-1200 BCE (composition) / Deep antiquity (events) | 750 | Vimanas, Vajra weapon, Asvins biomedical corps, Soma bio-enhancement, Yama afterlife protocol, Agni communications relay, Vedic operator hierarchy, creation hymns (Nasadiya, Hiranyagarbha, Purusa) |
+| 9 | [Book of Revelation](analyses/revelation.md) | ~95 CE (projected events — timeline undetermined) | 41 | Throne room command center, seven-sealed authorization scroll, four horsemen systemic collapse, 144K biometric registration, seven trumpets environmental strikes, war in heaven, two beasts counterfeit governance, seven vials terminal sterilization, Armageddon, millennium containment, New Jerusalem replacement habitat |
+| 10 | [The Book of the Dead (Per-t em Hru)](analyses/book-of-the-dead.md) | Old Kingdom through XVIIIth dynasty (~2350-1200 BCE, spells in continuous use) | 22 | Weighing of the Heart identity verification, Negative Confession attestation, multi-stage gated transit, 12-form transformation capability, post-mortem processing pipeline (complement to Pyramid Texts) |
+| 11 | [The Poetic Edda (Bellows, 1923)](analyses/poetic-edda.md) | ~900-1050 CE composition / Prehistoric events | 34 poems | Ymir dismantlement (entity-to-infrastructure), Ask/Embla fabrication, Aesir-Vanir War, Yggdrasil nexus, Odin's self-sacrifice rune upgrade, Baldr termination, Loki containment, Ragnarök predicted collapse, Rígsþula class engineering |
+| 12 | [Theogony & Works and Days (Hesiod, c. 700 BCE)](analyses/theogony-works-and-days.md) | Deep antiquity (creation cycle) | ~1,022 lines | Chaos→Gaia→Ouranos initialization, Kronos castration coup, Titanomachy factional war, Typhoeus multi-modal containment, Prometheus knowledge theft, Pandora deliberate-defect fabrication, Five Ages prototype sequence, Deucalion Flood evacuation |
+| 13 | [The Zoroastrian Gathas (Mills, 1898)](analyses/zoroastrian-gathas.md) | ~1000 BCE (attributed to Zarathushtra) | 5 hymn collections | Dual-operator ontology (Spenta/Angra Mainyu), seven Amesha Spenta functional terminals, Chinvat Bridge assessment gateway, Daeva identity corruption report, Frashokereti predicted system renewal |
+| 14 | [Yoga Sutras (Madhvācārya/Beloved, 2007)](analyses/yoga-sutras.md) | ~200 BCE-400 CE (compilation) | 239 | Citta-vṛtti-nirodha consciousness lockdown protocol, Īśvara reference entity, Aṣṭāṅga 8-stage operator conditioning curriculum, siddhi supernormal capability catalog, Kaivalya full system decoupling |
 
 ---
 
@@ -66,7 +66,7 @@
 
 ## Analytical Framework
 
-Each entry follows this structure (per `claude.md` project directives):
+Each entry follows this structure (per [`claude.md`](../claude.md) project directives):
 
 1. **Source Material** -- Direct quote or reference from the text
 2. **Mainstream Interpretation** -- One-sentence summary of the orthodox view

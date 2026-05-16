@@ -1,7 +1,7 @@
 # Weapons Doctrine -- Authorization, Escalation, and Aftermath Across Sources
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis  
-**Scope:** Cross-cutting synthesis of all foundational texts (`audit/analyses/revelation.md` for projected terminal weapons)  
+**Scope:** Cross-cutting synthesis of all foundational texts ([Revelation](analyses/revelation.md) for projected terminal weapons)  
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---
@@ -119,38 +119,38 @@ Phase 4: AFTERMATH / INSTITUTIONAL RESPONSE
 
 | Source | Description |
 |--------|-------------|
-| **Gilgamesh** | Shamash provides ISR and deploys Thirteen Winds against Humbaba within authorized Cedar Forest engagement |
-| **Enoch** | Watcher ground operations initially within tolerable parameters (observation, limited interaction) |
-| **Atrahasis** | Population management via "noise" complaints -- bureaucratic attempts at reduction (disease, drought) |
-| **Mahābhārata** | Kurukshetra opens with vyūha formations, conventional chariot/elephant/infantry exchanges, and elemental astra packages within ROE |
+| **[Gilgamesh](analyses/gilgamesh.md)** | Shamash provides ISR and deploys Thirteen Winds against Humbaba within authorized Cedar Forest engagement |
+| **[Enoch](analyses/enoch-watchers.md)** | Watcher ground operations initially within tolerable parameters (observation, limited interaction) |
+| **[Atrahasis](analyses/atrahasis.md)** | Population management via "noise" complaints -- bureaucratic attempts at reduction (disease, drought) |
+| **[Mahābhārata](analyses/mahabharata.md)** | Kurukshetra opens with vyūha formations, conventional chariot/elephant/infantry exchanges, and elemental astra packages within ROE |
 
 #### Phase 2: ROE Erosion
 
 | Source | Description |
 |--------|-------------|
-| **Gilgamesh** | Ishtar escalates personal grievance to requesting Bull of Heaven from Anu -- weaponized tantrum deploying strategic platform against civilian population |
-| **Enoch** | Watchers violate core directive: interbreed with humans; transfer classified knowledge (metallurgy, weapons, pharmacology); create unstable hybrid offspring |
-| **Atrahasis** | Bureaucratic measures fail; Enlil's frustration escalates from targeted disease to "Let there be a killing" -- authorization boundaries erode |
-| **Mahābhārata** | Abhimanyu's slaughter inside the Chakravyūha by six warriors violates single-combat norms; Droṇa's kill triggers deceit cascade (false announcement of Aśvatthāmā's death); night warfare escalation |
+| **[Gilgamesh](analyses/gilgamesh.md)** | Ishtar escalates personal grievance to requesting Bull of Heaven from Anu -- weaponized tantrum deploying strategic platform against civilian population |
+| **[Enoch](analyses/enoch-watchers.md)** | Watchers violate core directive: interbreed with humans; transfer classified knowledge (metallurgy, weapons, pharmacology); create unstable hybrid offspring |
+| **[Atrahasis](analyses/atrahasis.md)** | Bureaucratic measures fail; Enlil's frustration escalates from targeted disease to "Let there be a killing" -- authorization boundaries erode |
+| **[Mahābhārata](analyses/mahabharata.md)** | Abhimanyu's slaughter inside the Chakravyūha by six warriors violates single-combat norms; Droṇa's kill triggers deceit cascade (false announcement of Aśvatthāmā's death); night warfare escalation |
 
 #### Phase 3: Strategic-Grade Release
 
 | Source | Description |
 |--------|-------------|
 | **[Gilgamesh](analyses/gilgamesh.md)** | The Flood: "The hearts of the Great Gods moved them to inflict the Flood" -- full environmental sterilization authorized by council vote |
-| **Enoch** | Judicial binding of Watchers + extermination order for Nephilim + Flood authorization -- strategic reset to contain genetic contamination |
-| **Atrahasis** | Same Flood: multi-vector deployment -- "Anunnaki lifted torches, setting land ablaze"; dike sabotage; sustained weather assault |
+| **[Enoch](analyses/enoch-watchers.md)** | Judicial binding of Watchers + extermination order for Nephilim + Flood authorization -- strategic reset to contain genetic contamination |
+| **[Atrahasis](analyses/atrahasis.md)** | Same Flood: multi-vector deployment -- "Anunnaki lifted torches, setting land ablaze"; dike sabotage; sustained weather assault |
 | **[Mahābhārata](analyses/mahabharata.md)** | Aśvatthāmā deploys Nārāyaṇāstra (area denial) and Brahmāstra (fetal-grade radiation weapon) -- both strategic packages released without proper authorization chain after Droṇa's death collapses his institutional loyalty |
-| **Ezekiel** | Destruction of Jerusalem described as commanded operation: "Begin at my sanctuary" (9:6) -- targeted urban demolition under divine authorization |
+| **[Ezekiel](analyses/ezekiel-merkabah.md)** | Destruction of Jerusalem described as commanded operation: "Begin at my sanctuary" (9:6) -- targeted urban demolition under divine authorization |
 
 #### Phase 4: Aftermath / Institutional Response
 
 | Source | Aftermath | Response |
 |--------|-----------|----------|
-| **Gilgamesh** | Ishtar weeps; gods "cowered like dogs"; Ea rebukes Enlil for disproportionate response | Utnapishtim granted immortality + quarantine; population controls softened |
+| **[Gilgamesh](analyses/gilgamesh.md)** | Ishtar weeps; gods "cowered like dogs"; Ea rebukes Enlil for disproportionate response | Utnapishtim granted immortality + quarantine; population controls softened |
 | **[Enoch](analyses/enoch-watchers.md)** | Earth devastated; Nephilim slaughtered; Watchers bound "for seventy generations" | Judicial proceedings; detention facilities; environmental remediation order |
-| **Atrahasis** | "Nintu was wailing"; command tier expresses remorse for scope of destruction | Birth control measures substituted for future population management |
-| **Mahābhārata** | Aśvatthāmā sentenced to immortality inside suffering -- "wandering, isolated" with wound that will not heal | Gem extracted from forehead (asset tag removal); quarantine from social graph; Parīkṣit revived by Kṛṣṇa |
+| **[Atrahasis](analyses/atrahasis.md)** | "Nintu was wailing"; command tier expresses remorse for scope of destruction | Birth control measures substituted for future population management |
+| **[Mahābhārata](analyses/mahabharata.md)** | Aśvatthāmā sentenced to immortality inside suffering -- "wandering, isolated" with wound that will not heal | Gem extracted from forehead (asset tag removal); quarantine from social graph; Parīkṣit revived by Kṛṣṇa |
 | **[Ezekiel](analyses/ezekiel-merkabah.md)** | Valley of Dry Bones -- reanimation protocol demonstrated as proof of reconstruction capability | New facility blueprints dictated (Chs. 40-48); covenant renewal |
 
 ---

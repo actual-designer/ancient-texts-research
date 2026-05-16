@@ -7,6 +7,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.5.1] — 2026-05-16
+
+### Updated
+
+- **README.md** — Complete rewrite: added epigraph quote, restructured Project Architecture into Evidence Locker and Cross-Cutting Syntheses subsections with hyperlinks, added "First Doorways" quick-start table with entrance hooks for all synthesis documents.
+- **Phase 2 hyperlink retrofit — completion pass** across 10 documents:
+  - `audit/00-INDEX.md` — Source table text names converted to Markdown links.
+  - `audit/05-great-reset.md` — Scope line bare references linked.
+  - `audit/06-weapons-doctrine.md` — Full hyperlink retrofit of all source references in escalation-phase and aftermath tables.
+  - `audit/07-the-human-project.md` — Full hyperlink retrofit: surveillance, liaison, escalation, cycle-comparison, and invariants sections.
+  - `audit/09-location-registry.md` — All source and cross-reference columns in all location tables retrofitted with Markdown links (~324 line changes).
+  - `audit/10-correlation-map.md` — Full hyperlink retrofit: section headers, relevant-synthesis-doc lists, and all thematic correlation table rows.
+  - `audit/analyses/book-of-the-dead.md` — Xibalbá cross-reference extended with explicit source link.
+  - `audit/analyses/enoch-watchers.md` — Viśvarūpa and Pyramid Texts sky portals cross-references added.
+  - `audit/analyses/ezekiel-merkabah.md` — Enoch wheels and location-registry cross-references added.
+  - `audit/analyses/gilgamesh.md` — Technology catalog and human-project cross-references added.
+  - `audit/analyses/revelation.md` — Book of the Dead cross-reference added.
+
+---
+
 ## [0.5.0] — 2026-05-16
 
 ### Added

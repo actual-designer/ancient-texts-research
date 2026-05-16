@@ -182,11 +182,11 @@ Enoch describes being brought into a multi-chamber facility with the following c
 - Larger than the first
 - "Built of flames of fire" -- the entire structure appears to radiate energy
 - Contains a "lofty throne" with "wheels like the shining sun" -- a mobile command station (note the wheels, echoing [Ezekiel's Merkabah](ezekiel-merkabah.md))
-- The occupant ("Great Glory") emits radiation so intense that no other being can approach: "shone more brightly than the sun," "no flesh could behold Him"
+- The occupant ("Great Glory") emits radiation so intense that no other being can approach: "shone more brightly than the sun," "no flesh could behold Him" (see [mahabharata.md](mahabharata.md): Viśvarūpa)
 
 ### Plausible Mechanism
 
-**A high-energy facility -- possibly a command center, reactor complex, or orbital station.** The "crystal" construction suggests transparent structural materials. The extreme temperatures, energy barriers ("fire" perimeters), and lethal radiation from the central occupant are consistent with proximity to a high-energy power source (fusion reactor, antimatter containment, or similar). The "ten thousand times ten thousand" attending entities suggest either a vast automated workforce or a large-scale operational center.
+**A high-energy facility -- possibly a command center, reactor complex, or orbital station.** The "crystal" construction suggests transparent structural materials. The extreme temperatures, energy barriers ("fire" perimeters), and lethal radiation from the central occupant are consistent with proximity to a high-energy power source (fusion reactor, antimatter containment, or similar). The "ten thousand times ten thousand" attending entities suggest either a vast automated workforce or a large-scale operational center (see [revelation.md](revelation.md): angelic host).
 
 The throne with wheels echoes the [Merkabah](ezekiel-merkabah.md) -- the supreme commander's mobile platform is consistent across Enoch and Ezekiel, suggesting a standardized command vehicle (see also [revelation.md](revelation.md): four beasts).
 
@@ -283,6 +283,6 @@ This is a departmental org chart. Each "angel" is not a spiritual being but a se
 | "Great Glory" emitting lethal radiation | High-energy entity or radiation-suited commander |
 | "Stars" imprisoned for schedule violations | Malfunctioning orbital assets or detained personnel |
 | "Clouds invited me, winds lifted me upward" | Transport via craft or directed-force system |
-| "Portals of heaven" with winds | Atmospheric control systems or transit gates |
+| "Portals of heaven" with winds | Atmospheric control systems or transit gates (see [pyramid-texts.md](pyramid-texts.md): sky portals) |
 | "Closed chambers of the winds" | Environmental control / weather management facility |
 | "Chambers of the sun and moon" | Astronomical observation/tracking stations |

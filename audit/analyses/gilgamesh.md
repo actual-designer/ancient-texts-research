@@ -188,7 +188,7 @@ This is the most detailed operational account of the Flood event in the archive.
 - Ea (Enki) violates operational security by warning Utanapishtim through an intermediary (the "reed wall" -- possibly a communication device disguised as architecture, or a deliberate legal fiction: Ea speaks "to the wall," not to the man) (see [atrahasis.md](atrahasis.md): Enki as dissident)
 - The vessel specifications are precise and engineering-grade: equal length-to-width ratio (a cube or near-cube), roofed, seven internal levels, nine compartments, waterproofed with bitumen and pitch
 
-**Vessel Engineering:**
+**Vessel Engineering** (see [02-technology-catalog.md](../02-technology-catalog.md)):
 
 | Specification | Value | Interpretation |
 |---------------|-------|---------------|
@@ -288,5 +288,5 @@ Utanapishtim discloses the existence and location of a biological compound with 
 | "Anunnaki lifted torches, set land ablaze" | Orbital or atmospheric energy weapons |
 | Gods "ascend to the heaven of Anu" | Evacuation to orbital platform before cataclysm |
 | "Plant against decay" in the Apsu | Aquatic anti-senescence compound (telomerase activator / senolytic) |
-| Utanapishtim "became like gods" | Biological immortality conferred via unknown procedure |
+| Utanapishtim "became like gods" | Biological immortality conferred via unknown procedure (see [07-the-human-project.md](../07-the-human-project.md)) |
 | Ea speaks "to the reed wall" | Communication device or legal-fiction intermediary |

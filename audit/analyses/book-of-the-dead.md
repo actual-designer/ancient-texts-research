@@ -138,7 +138,7 @@ A **multi-chamber, multi-stage access-control system** with 7 or 21 sequential c
 
 Entry requires knowing **four names**: the Hall's name, the porter's name, the watchman's name, and the messenger's name. This is a **four-factor authentication**: destination identifier + three independent operator verifications.
 
-The sequence of chambers (Arit) in the Kingdom of Osiris described in Chapters CXLIV-CXLVII constitutes a **linear processing pipeline** with named thresholds, each with distinct security personnel and access requirements (see [popol-vuh.md](popol-vuh.md): Xibalbá 6 chambers). The system parallels Xibalbá (Popol Vuh: 6 chambers with named tests), Ezekiel's Temple (nested gates with decontamination protocols), and the Pyramid Texts' Duat transit.
+The sequence of chambers (Arit) in the Kingdom of Osiris described in Chapters CXLIV-CXLVII constitutes a **linear processing pipeline** with named thresholds, each with distinct security personnel and access requirements (see [popol-vuh.md](popol-vuh.md): Xibalbá 6 chambers). The system parallels Xibalbá ([popol-vuh.md](popol-vuh.md): 6 chambers with named tests), Ezekiel's Temple (nested gates with decontamination protocols), and the Pyramid Texts' Duat transit.
 
 An important behavioral detail: the subject may issue threats if passage is denied ("If you do not make a place for me, I will make a curse"). The system has an **escalation protocol** -- the subject is authorized to exercise override authority if improperly blocked (see [ezekiel-merkabah.md](ezekiel-merkabah.md): temple gates).
 
