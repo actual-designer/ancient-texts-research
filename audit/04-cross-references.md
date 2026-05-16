@@ -1,7 +1,7 @@
 # Cross-References -- Parallel Accounts Across Sources
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
-**Scope:** All seven foundational texts (`audit/analyses/mahabharata.md` for Mahābhārata parallels; `audit/analyses/popol-vuh.md` for Mesoamerican parallels; `audit/analyses/pyramid-texts.md` for Egyptian parallels)
+**Scope:** All thirteen foundational texts (`audit/analyses/mahabharata.md` for Mahābhārata parallels; `audit/analyses/popol-vuh.md` for Mesoamerican parallels; `audit/analyses/pyramid-texts.md` for Egyptian parallels; `audit/analyses/revelation.md` for projected terminal events; `audit/analyses/book-of-the-dead.md` for Egyptian post-mortem processing; `audit/analyses/poetic-edda.md` for Norse tradition; `audit/analyses/theogony-works-and-days.md` for Greek tradition; `audit/analyses/zoroastrian-gathas.md` for Zoroastrian tradition)
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---
@@ -279,20 +279,264 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ---
 
+---
+
+## CROSS-REFERENCE 12: The Throne Room / Command Center
+
+**Convergence strength: VERY HIGH** — Revelation's throne room (Ch. 4) is structurally identical to Ezekiel's Merkabah vision and Enoch's crystal throne; Book of the Dead's Hall of Maati shares the tiered-seating layout.
+
+### Source Comparison
+
+| Element | Revelation (Ch. 4) | Ezekiel (Ch. 1) | Enoch (Ch. 5) | Book of the Dead |
+|---------|-------------------|-----------------|---------------|------------------|
+| **Throne** | "A throne set in heaven" with rainbow | "Something like a sapphire shaped like a throne" | "A lofty throne, its appearance was as crystal" | Osiris on throne in shrine at end of Hall |
+| **Surrounding structure** | "Sea of glass like unto crystal" — large display surface | "Platform like ice" — transparent floor | — | The Great Balance with pointer in center |
+| **Council seating** | 24 elders on 24 seats around the throne | — | — | 12 gods seated along one wall (Great Company) |
+| **Living beings** | 4 beasts, 6 wings each, full of eyes | 4 living beings, 4 wings each, full of eyes | — | — |
+| **Light/radiation** | Rainbow, lightnings, seven lamps of fire | Amber glow, fire, rainbow brilliance | Fire around, "brighter than the sun" | — |
+| **Document/record** | Seven-sealed scroll | Book/scroll eaten by Ezekiel | — | Thoth recording the verdict |
+| **Access restriction** | Only the Lamb can open the scroll | Ezekiel commanded not to speak | "No flesh could behold Him" | Only the "true of voice" may enter |
+
+**Key Finding:** Four independent witnesses across three millennia describe the same facility configuration: a throne at the center, a transparent display surface, tiered council seating, multi-sensory interface units (living beings), and an authorization document (sealed scroll / book / written verdict). The consistent layout across Mesopotamian, Hebrew, Egyptian, and early Christian traditions describes a **standardized command-center configuration** in continuous operation or preserved in multiple accounts of the same facility.
+
+---
+
+## CROSS-REFERENCE 13: Gated Transit / Access-Control Pipeline
+
+**Convergence strength: VERY HIGH** — Revelation's sequential seals, trumpets, and vials; Book of the Dead's gated halls with porter/watchman/messenger triads; Pyramid Texts' Duat→Akhet→Sky pipeline; and Popol Vuh's Xibalbá chambers all describe multi-stage checkpoint facilities.
+
+### Source Comparison
+
+| Element | Revelation | Book of the Dead | Pyramid Texts | Popol Vuh |
+|---------|-----------|-----------------|---------------|-----------|
+| **Number of stages** | 7 seals → 7 trumpets → 7 vials (3x7 + 1 millennium = 22 stages total) | 7 or 21 gates, each with guardian triad | Duat → Akhet → Sky (3 main zones with multiple thresholds) | 6 chambers of Xibalbá |
+| **Access requirement** | Authorization credential (Lamb opens seals) | Name of gate + porter + watchman + messenger (4-factor) | Password-spells, knowledge of ferryman's name | Must not be frightened by tests |
+| **Guardian structure** | 4 living beings, each living being and elders authorize sequentially | Porter (door) + Watchman (detection) + Messenger (communications) | Ferryman + doorkeeper + Ka-Allocater | Lords of Xibalbá (One Death, Seven Death, etc.) |
+| **Failure consequence** | Not sealed = harmed by strikes | Amemit eats the failed heart | Sinking into the Tuat, not reaching Sky | Deception or death in the chambers |
+| **Success outcome** | Enter New Jerusalem | Reach the Field of Reeds | Become an akh, ascend to the sky | Escape Xibalbá (Hero Twins); become celestial bodies |
+
+**Key Finding:** The multi-stage sequential processing pipeline is the most consistent architectural pattern across the archive. Revelation uniquely applies it to a **future projected sequence** rather than a post-mortem process — but the structure (sequential stages with independent access control, escalating severity, named personnel at each stage, and a terminal destination) is identical to the Egyptian/Mesoamerican traditions.
+
+---
+
+## CROSS-REFERENCE 14: Biometric Identification and Population Tagging
+
+**Convergence strength: HIGH** — Revelation's "seal" and "mark of the beast" (Ch. 7, 13-14) parallel the "seal" in Gilgamesh (Utnapishtim's forehead touch), the Book of the Dead's Heart identification system, and the Popol Vuh's amnesia protocol.
+
+### Source Comparison
+
+| Element | Revelation | Gilgamesh (Tablet XI) | Book of the Dead | Popol Vuh |
+|---------|-----------|----------------------|------------------|-----------|
+| **What is applied** | Seal on forehead (God's mark); mark on hand/forehead (beast's mark) | Enlil touches Utnapishtim's forehead | The heart is checked against the feather of Maat | "Breath on a mirror" — the corn people's vision clouded |
+| **Function** | Exemption from kinetics (seal); economic participation (mark) | Immortality/status conferral | Identity verification for facility access | Engineered cognitive limitation |
+| **Tag type** | Physical identifier (subdermal) | Contact-based procedure | Biometric/quantum identity comparison | Optical/consciousness alteration |
+| **Who is marked** | 144,000 sealed; all who buy/sell must have the mark | Utnapishtim and his wife | Every deceased subject processed through the Hall | All four corn people |
+| **Meaning** | Binary classification: protected vs. controlled | Status upgrade | True identity verification vs. rejection | Prevents subjects from becoming equal to creators |
+
+**Key Finding:** The archive documents three distinct applications of biometric/identity technology: (1) **Exemption tagging** (Revelation seal, Utnapishtim forehead touch) — marks the subject as protected or upgraded, (2) **Access verification** (Book of the Dead heart-weighing) — confirms the subject is who they claim to be, (3) **Cognitive limitation** (Popol Vuh amnesia) — prevents the subject from knowing too much. Revelation uniquely presents a **competing biometric system**: two factions tag their respective populations with identifiers readable by the intervention systems.
+
+---
+
+## CROSS-REFERENCE 15: The Processor Entity Who Died and Was Reassembled
+
+**Convergence strength: MODERATE** — Osiris (Book of the Dead) is murdered, dismembered, reassembled by Isis, and becomes the judge of the dead. The Lamb (Revelation) is slain and holds unique authorization credentials. Both achieve authority through prior death-and-reassembly.
+
+### Source Comparison
+
+| Element | Book of the Dead (Osiris) | Revelation (The Lamb) |
+|---------|--------------------------|-----------------------|
+| **Death event** | Killed by Seth, dismembered into 14 pieces | "Slain" — a prior death event |
+| **Reassembly** | Reassembled by Isis and Nephthys | Resurrection (implied — "as it had been slain") |
+| **Resulting authority** | Becomes judge of the dead; Lord of the Tuat; identity template for all processed subjects | Becomes the only entity qualified to open the seven-sealed scroll; receives the "book out of the right hand of him that sat upon the throne" |
+| **Domain** | Post-mortem processing facility | Authorization execution of the terminal protocol |
+| **Designation** | Called "Un-Nefer" (the Good Being) after reassembly | Called "worthy" — qualified by the death-processing credential |
+
+**Key Finding:** Both traditions describe a processed entity who underwent death, reassembly, and emerged with unique authority over the processing system. The Osiris narrative is more detailed (dismemberment, specific body part gathering, Isis/Nephthys reconstruction). The Lamb narrative is compressed but functionally identical — a death-and-reassembly event produces an entity with system-level authorization privileges. This may describe the same entity or the same class of entity (processed human upgraded to system operator).
+
+---
+
+## CROSS-REFERENCE 16: Post-Mortem Processing and Reanimation
+
+**Convergence strength: HIGH** — Ezekiel's Valley of Dry Bones (Ch. 37) describes component-by-component reconstitution. The Book of the Dead details the consciousness-migration protocol. Revelation describes reanimation of the Two Witnesses (Ch. 11). All three follow the same sequence: disassembly → identity preservation → reassembly → activation.
+
+### Source Comparison
+
+| Element | Ezekiel (Ch. 37) | Book of the Dead | Revelation (Two Witnesses, Ch. 11) |
+|---------|-----------------|------------------|-------------------------------------|
+| **Initial state** | Dry bones scattered in a valley | Sahu ~2n~2 2n~2||
+| **Reassembly sequence** | Bones → sinews → flesh → skin → breath (4-component assembly) | Opening of the Mouth (3-operator activation + separation into Sahu) | Dead for 3.5 days → "spirit of life from God entered them" → stood on feet |
+| **Activation** | "Come from the four winds, O breath" — quadrilateral energy broadcast | Iron knife opens mouth — enables autonomous life-support | Ascended to heaven "in a cloud" — vertical extraction |
+| **Extraction** | Transported by wind (elsewhere in Ezekiel) | Transits the Tuat corridor to the Sky | Ascended in a cloud |
+| **Purpose** | Demonstration of reanimation capability to Ezekiel | Identity migration from biological to post-biological substrate | Mission completion; extraction of ground operatives |
+
+**Key Finding:** Three texts describe the same sequence: (1) component assembly/identity preservation, (2) activation/breathing, (3) vertical extraction/transit. The Two Witnesses sequence is the most compressed (death → 3.5-day delay → reanimation → extraction). The Book of the Dead provides the most detailed procedural manual. Ezekiel provides the clearest multi-component assembly description.
+
+---
+
+## CROSS-REFERENCE 17: The Post-Biological Settlement
+
+**Convergence strength: MODERATE** — The Book of the Dead's Field of Reeds (Sekhet Aaru) and Revelation's New Jerusalem both describe a self-contained habitat for post-processed entities with integrated life-support, controlled environment, and command presence.
+
+### Source Comparison
+
+| Element | Book of the Dead (Field of Reeds) | Revelation (New Jerusalem) |
+|---------|----------------------------------|---------------------------|
+| **Source** | Book of the Dead Ch. VIII | Revelation Ch. 21-22 |
+| **Location** | After the Tuat processing pipeline | Descending from "heaven" after planetary sterilization |
+| **Dimensions** | Flat agricultural zone with canals | Cube, ~1,500 miles per side |
+| **Environment** | No fish, no worms (controlled biosphere) | No sea; no night; self-illuminating |
+| **Sustenance** | "Bread of Everlastingness" — direct matter from Osiris | Tree of Life with 12 monthly fruit crops — continuous production |
+| **Water** | Canals of running water | River from the central throne |
+| **Medical** | Not specified | Tree leaves for "healing the nations" |
+| **Access control** | Ferryman only transports "true of voice" | 12 gates with angelic operators, 3 per side |
+| **Population** | "Souls of his ancestors" already present | The redeemed — "they shall reign for ever and ever" |
+| **Transit within** | "Spirit boats" that "moved of themselves" | Not specified |
+
+**Key Finding:** Both describe a post-processing destination with controlled environment, integrated food/water production, and access control. The Field of Reeds is pastoral (agricultural); New Jerusalem is urban (city). Both are permanent settlements designed for long-term occupancy by processed entities. The parallel strengthens the reading that the post-biological population is housed in purpose-built habitats with closed-loop life support.
+
+---
+
+## CROSS-REFERENCE 18: The War in Heaven / Orbital Regime Change
+
+**Convergence strength: MODERATE** — Revelation's War in Heaven (Ch. 12), the Watcher incident (Enoch), and aspects of the Pyramid Texts and Popol Vuh describe conflict within the non-human command structure leading to one faction's ejection from orbital command.
+
+### Source Comparison
+
+| Element | Revelation (Ch. 12) | Enoch (Watchers) | Pyramid Texts (Cannibal Hymn) | Popol Vuh |
+|---------|---------------------|-----------------|-------------------------------|-----------|
+| **Casus belli** | Dragon's faction vs. Michael's faction | Watchers' unauthorized descent to Earth | — | — |
+| **Location** | "Heaven" (orbital facility) | From Heaven to Mount Hermon | — | Xibalbá (underworld processing facility) |
+| **Outcome** | Dragon cast to Earth with his angels | Watchers bound; Nephilim destroyed; Sheol/lower earth detention | — | Hero Twins dismantle Xibalbá's processing protocol |
+| **Consequence** | Dragon now ground-bound, persecutes human population | Watchers imprisoned until judgment | — | Xibalbá's authority structure collapses |
+| **Timing** | End-times projected event | Pre-Flood | Post-mortem process | Pre-creation cycle |
+
+**Key Finding:** The archive documents multiple instances of conflict within the non-human hierarchy. Revelation presents the latest projected instance: a coup by a rogue commander (the Dragon) who is ejected from the orbital facility by loyalist forces (Michael). While the specific entities differ, the pattern of command-structure conflict followed by one faction's confinement is consistent with the Enochic Watcher incident and the Popol Vuh's Xibalbá dismantlement.
+
+---
+
+## CROSS-REFERENCE 19: Primeval Entity Dismantled into Infrastructure
+
+**Convergence strength: HIGH** — The Rig Veda's Purusa Sukta, the Poetic Edda's Ymir dismantlement, and the Pyramid Texts' Osiris dismemberment all describe a primeval entity processed into distributed system components.
+
+### Source Comparison
+
+| Element | Rig Veda (Purusa) | Poetic Edda (Ymir) | Pyramid Texts (Osiris) |
+|---------|-------------------|--------------------|----------------------|
+| **Entity** | Primary intelligence, "thousand heads, eyes, feet" | Primeval giant generated from fire+ice | Sky god, king of the dead |
+| **Process** | Dismantled into distributed subsystems | Biological repurposing into planetary components | Dismembered into 14+ pieces |
+| **Result** | 75% → orbital tier; 25% → terrestrial (moon=mind, sun=eye, etc.) | Flesh→earth, blood→sea, bones→mountains, skull→sky | Each piece becomes a nome (district) or nome-guardian |
+| **Narrative frame** | Voluntary sacrifice/decomposition | Killed and processed by Odin/Vili/Vé | Murdered by Seth |
+| **Cross-source** | — | — | — |
+
+**Key Finding:** Three independent traditions describe a primeval entity whose body or components are repurposed into the physical infrastructure of the world. The Vedic version is the most abstract (entity → distributed systems), the Norse version is the most anatomical (specific body parts → geological features), and the Egyptian version preserves the political dimension (dismemberment → nome governance units).
+
+---
+
+## CROSS-REFERENCE 20: Iterative Human Prototype Deployment
+
+**Convergence strength: VERY HIGH** — Hesiod's Five Ages (Gold→Silver→Bronze→Heroic→Iron) and the Popol Vuh's four sequential prototypes (animal→mud→wood→corn) describe the same pattern of designed experimental runs terminated upon failure.
+
+### Source Comparison
+
+| Parameter | Popol Vuh (4 prototypes) | Hesiod (5 Ages) |
+|-----------|-------------------------|-----------------|
+| **Number of iterations** | 4 (fauna, mud, wood, corn) | 5 (Gold, Silver, Bronze, Heroic, Iron) |
+| **First** | Animals — communication fail | Gold — optimized, low maintenance |
+| **Second** | Mud — structural fail, dissolves | Silver — cognitive fail, terminated |
+| **Third** | Wood — behavioral fail, no consciousness | Bronze — behavioral violence fail, self-destroyed |
+| **Fourth** | Corn/maize — success, cognition verified | Heroic — hybrid line, preserved (Islands of the Blessed) |
+| **Fifth** | — | Iron — current active prototype, predicted termination |
+| **Mode of failure** | Tested against intelligence+speech+creator-worship | Tested against piety+justice+self-control |
+| **Termination mechanism** | Flood (wood people) | Zeus termination (Silver, Bronze, predicted for Iron) |
+| **Post-termination** | Wood people remnants → spider monkeys | Gold → guardians; Silver "hidden away" |
+
+**Key Finding:** Two independent traditions record the same pattern: a series of human prototype deployments, each with specific design parameters, tested against behavioral specifications, and terminated upon failure. The Greek tradition adds a hybrid lineage (Heroic/demigods) not present in the Popol Vuh. The Atrahasis single-batch 14-prototype event (Era 2) may represent only the successful founding population, not the iterative R&D history preserved in the Popol Vuh and Hesiod.
+
+---
+
+## CROSS-REFERENCE 21: Titanomachy / Aesir-Vanir Parallel — Intra-Pantheon Factional Conflict
+
+**Convergence strength: HIGH** — The Greek Titanomachy (Zeus vs. Kronos, ten-year war) and the Norse Aesir-Vanir War both describe armed conflict between non-human factions resolved by institutional merger or command replacement.
+
+### Source Comparison
+
+| Element | Greek (Theogony) | Norse (Poetic Edda) |
+|---------|------------------|--------------------|
+| **Factions** | Olympians (Zeus) vs. Titans (Kronos) | Aesir (Odin) vs. Vanir (Njörðr, Freyr) |
+| **Duration** | Ten years | Not specified (but ended by treaty) |
+| **Casus belli** | Generational coup: Zeus displaces Kronos | Aesir burn/spear Gollveig repeatedly; each time she reconstitutes |
+| **Turning point** | Hundred-Handed Ones released (previously contained by Kronos) | Treaty negotiation |
+| **Resolution** | Titans contained in Tartarus; divide-and-rule dominant faction | Hostage exchange; joint asset (Kvasir) created |
+| **Post-conflict** | Zeus supreme; defeated faction imprisoned | Aesir and Vanir merged; Vanir members (Njörðr, Freyr) join Aesir |
+
+**Key Finding:** Both traditions record conflict within the non-human command structure resolved by one faction's subordination or absorption. The Norse version is unusual in ending with a merger rather than imprisonment. Together with the Watcher incident (Enoch) and the War in Heaven (Revelation), this establishes factional conflict as a recurring operational pattern.
+
+---
+
+## CROSS-REFERENCE 22: Knowledge Restriction and Unauthorized Technology Transfer
+
+**Convergence strength: HIGH** — Prometheus (Greek), the Watchers (Enoch), and the Eden Serpent (Genesis, referenced in Revelation) all describe restricted knowledge being transferred to humans by a non-human operator.
+
+### Source Comparison
+
+| Element | Greek (Prometheus) | Enoch (Watchers) | Biblical (Serpent/Garden) |
+|---------|-------------------|------------------|--------------------------|
+| **What was transferred** | Fire (energy/technology) | Metallurgy, weapons, astronomy, pharmacology, cosmetics | Knowledge (fruit = cognition/awareness) |
+| **Who transferred it** | Prometheus (Titan) | Azazel, Semjaza, Baraqijal, etc. (200 Watchers) | The Serpent (unidentified entity) |
+| **Recipient** | Humans | Human women / general human population | Eve → Adam (first humans) |
+| **Cover/method** | Fennel stalk (thermal transport vessel) | Direct instruction of human specialists | Dialogue and persuasion |
+| **Punishment** | Prometheus bound, eagle eats liver (regenerative) | Azazel bound in Dudael; Watchers imprisoned 70 generations | Serpent cursed; humans ejected from garden |
+| **Command response** | Pandora fabricated as countermeasure | Flood ordered to destroy hybridized population | Expulsion and restricted access to Tree of Life |
+
+**Key Finding:** Three accounts of unauthorized technology/knowledge transfer from non-human operators to humans, each met with punitive response from the command tier. The punishment consistently includes: (a) binding/confinement of the transferring entity, (b) restriction or contamination of the human population, and (c) long-term access limitations. The Prometheus story uniquely includes a deliberate counter-deployment (Pandora) as part of the command response.
+
+---
+
+## CROSS-REFERENCE 23: Predicted System Renewal After Terminal Collapse
+
+**Convergence strength: HIGH** — Revelation (New Jerusalem), the Poetic Edda (post-Ragnarök rebirth), and the Zoroastrian Gathas (Frashokereti) all describe a terminal collapse followed by a renewed world.
+
+### Source Comparison
+
+| Element | Revelation | Poetic Edda (Ragnarök) | Zoroastrian (Frashokereti) |
+|---------|-----------|----------------------|--------------------------|
+| **Trigger** | Seven seals opened (authorization transfer) | Social breakdown → Fimbulwinter → Gjallarhorn alert | Time limit on adversarial principle |
+| **Destruction mechanism** | Trumpets (33% yield) + Vials (full yield) + Armageddon | Surtr's fire + earth submergence + entity combat | Molten metal purification |
+| **Who is removed** | Dragon, Beasts, False Prophet; all not in Book of Life | Old operators consumed (Odin, Thor, Freyr, etc.) | Druj (falsehood) broken; Angra Mainyu neutralized |
+| **Who survives** | 144,000 sealed + innumerable multitude | Second-generation operators (Vidar, Vali, Modi, Magni) + Baldr retrieved | All resurrected and made immortal |
+| **Replacement world** | New Jerusalem (cubic, ~1,500 miles, self-illuminating) | "Earth rises anew from the waves"; green, fertile, unsowed harvest | Universal perfection; good succeeds absolutely |
+| **Governance** | Lamb and redeemed reign forever | New command echelon (sons and Baldr) | Ahura Mazda supreme; Amesha Spenta terminals restored |
+
+**Key Finding:** Three independent traditions describe a terminal collapse followed by a renewed operational state. The Zoroastrian version is the most optimistic (universal resurrection, all immortal, no permanent damnation). The Norse version preserves the most detail about the transition mechanism (cascading containment breaches → thermal destruction → submergence → rebirth). The Revelation version is the most architecturally specific about the replacement habitat. All three share: (a) removal of a corrupting element, (b) survival of a designated remnant, (c) deployment of a renewed habitat, and (d) continuity of governance authority.
+
+---
+
 ## SUMMARY OF CONVERGENCE
 
 | Cross-Reference | Sources | Strength | Significance |
 |----------------|---------|----------|-------------|
-| The Flood | Atrahasis + Gilgamesh + Enoch + Indian (Manu) + **Popol Vuh** | **VERY HIGH** | Four+ independent traditions including Mesoamerican (zero contact with Near East); Popol Vuh: "A flood was planned by Heart of Sky" to destroy wood people |
-| Clay + divine material creation | Atrahasis + Gilgamesh + Mahābhārata + **Popol Vuh** | **VERY HIGH** | Same mud/clay substrate in Mesopotamia and Mesoamerica; Popol Vuh adds 4-substrate iteration cycle (animal→mud→wood→corn) |
+| The Flood | Atrahasis + Gilgamesh + Enoch + Indian (Manu) + **Popol Vuh** + **Greek (Deucalion)** | **VERY HIGH** | Five+ independent traditions; Greek Deucalion flood matches vessel + repopulation pattern exactly |
+| Clay + divine material creation | Atrahasis + Gilgamesh + Mahābhārata + **Popol Vuh** + **Norse (Ask/Embla)** | **VERY HIGH** | Norse triple-operator activation of pre-biological substrates (ash+elm) parallels Atrahasis clay+flesh protocol |
 | Glory/radiation throne | Enoch + Ezekiel + Mahābhārata (Viśvarūpa) | VERY HIGH | Nearly identical throne-cluster signatures; battlefield-grade display matches observer injury profile |
-| Command hierarchy | Atrahasis + Gilgamesh + Enoch + Mahābhārata + **Popol Vuh** | **VERY HIGH** | Popol Vuh council (Heart of Sky + Sovereign + Quetzal Serpent + Xpiyacoc/Xmucane) mirrors Assembly of the Gods; consensus-driven deliberation identical |
-| Technology transfer regret / cognitive limitation | Atrahasis + Enoch + Mahābhārata + **Popol Vuh** | **HIGH** | Popol Vuh provides the only explicit **engineered amnesia**: corn people blinded because "it is a mistake that they have become like gods" |
-| Hybrid beings / iterative prototypes | Enoch + Gilgamesh + Atrahasis + Mahābhārata + **Popol Vuh** | **VERY HIGH** | Spectrum from controlled to uncontrolled; Popol Vuh adds sequential prototype destruction cycle with biological trace remnants (spider monkeys) |
+| Command hierarchy | Atrahasis + Gilgamesh + Enoch + Mahābhārata + **Popol Vuh** + **Norse (Aesir/Vanir)** + **Zoroastrian (Amesha Spenta)** | **VERY HIGH** | Norse Aesir-Vanir merger adds merger/treaty resolution; Zoroastrian 7-terminal architecture adds domain-specialized functional terminals |
+| Technology transfer regret / cognitive limitation | Atrahasis + Enoch + Mahābhārata + **Popol Vuh** + **Greek (Prometheus)** | **HIGH** | Prometheus fire theft adds third independent knowledge-transfer incident; command response includes counter-deployment (Pandora) |
+| Hybrid beings / iterative prototypes | Enoch + Gilgamesh + Atrahasis + Mahābhārata + **Popol Vuh** + **Greek (Five Ages)** | **VERY HIGH** | Greek Five Ages adds fifth iterative prototype series — same test-and-terminate pattern as Popol Vuh four-substrate cycle |
 | Wind/transport force | Enoch + Ezekiel + Mahābhārata | MODERATE | Directed-force transport + Vāyu/vimāna logistics layer |
 | Restricted zones / underworld facilities | Gilgamesh + Ezekiel + Enoch + Mahābhārata + **Popol Vuh** + **Pyramid Texts** | **VERY HIGH** | Pyramid Texts: most architecturally precise gated facility (Duat→Akhet→Sky); named operators at each gate; credential-spell authentication; designed for human transit |
-| Selected scribe/liaison | Enoch + Ezekiel + Atrahasis + Mahābhārata | MODERATE | Vyāsa compiler throughput; Sañjaya relay |
+| Selected scribe/liaison | Enoch + Ezekiel + Atrahasis + Mahābhārata + **Zoroastrian (Zarathushtra)** | **HIGH** | Zarathushtra as first-person whistleblower adds new liaison category: corruption reporter rather than record-keeper |
 | Tier-restricted atmospheric/strike packages | Gilgamesh + Hebrew-prophetic cluster + Mahābhārata | MODERATE | Wind bouquets, throne plasma motifs, named astras share initiation–release grammar |
-| Post-mortem processing / mortal-to-operator upgrade | **Pyramid Texts** + Enoch + Ezekiel + Gilgamesh | **HIGH** | Pyramid Texts: standardized protocol (reconstitution→credential→transit→integration); Enoch: translation without death; Ezekiel: Valley of Dry Bones reconstitution; Gilgamesh: Utnapishtim's immortality grant |
+| Post-mortem processing / mortal-to-operator upgrade | **Pyramid Texts** + Enoch + Ezekiel + Gilgamesh + **Zoroastrian (Chinvat Bridge)** | **HIGH** | Chinvat Bridge adds independent entity-assessment gateway with tri-specialist evaluation (Mithra, Sraosha, Rashnu) |
 | Body reconstitution from components | **Pyramid Texts** + Ezekiel | **HIGH** | PT 215: each body part mapped to named entity template; Ezekiel 37: bones→sinews→flesh→skin→breath; both describe component-level assembly of a viable entity |
 | Command council ratifies status | Atrahasis + Gilgamesh + Enoch + Mahābhārata + Popol Vuh + **Pyramid Texts** | **VERY HIGH** | Ennead (Big/Little) assesses and ratifies the subject's *akh* status; identical institutional pattern to Assembly of the Gods, Popol Vuh council |
+| Throne room / command center | Revelation + Ezekiel + Enoch + **Book of the Dead** | **VERY HIGH** | Four independent witnesses (three millennia) describe same facility: throne, transparent display, tiered council, multi-sensor interface units, authorization document |
+| Gated transit / access-control pipeline | Revelation + **Book of the Dead** + **Pyramid Texts** + Popol Vuh | **VERY HIGH** | Multi-stage sequential processing with named gatekeepers and access credentials across projected, post-mortem, and Mesoamerican traditions |
+| Biometric identification / population tagging | Revelation + Gilgamesh + **Book of the Dead** + Popol Vuh | **HIGH** | Three distinct applications: exemption tagging, access verification, engineered amnesia; Revelation adds competing biometric systems |
+| Processor entity who died and was reassembled | **Book of the Dead** (Osiris) + Revelation (the Lamb) | MODERATE | Both describe death→reassembly→authority: processed human upgraded to system operator with unique authorization privileges |
+| Post-mortem processing / reanimation sequence | Ezekiel + **Book of the Dead** + Revelation | **HIGH** | Same sequence: component identity preservation → activation (breath/iron knife/spirit) → vertical extraction |
+| Post-biological settlement | **Book of the Dead** (Field of Reeds) + Revelation (New Jerusalem) | MODERATE | Self-contained habitats with integrated life support, controlled biosphere, and access control for processed entities |
+| Orbital regime change / command conflict | Revelation + Enoch + Popol Vuh + **Norse (Aesir-Vanir War)** + **Greek (Titanomachy)** | **HIGH** | Norse and Greek factional conflicts add fifth and sixth instances of intra-pantheon conflict; Aesir-Vanir ends in merger, Titanomachy in containment |
+| **Primeval entity → infrastructure** | Rig Veda (Purusa) + **Norse (Ymir)** + Pyramid Texts (Osiris) | HIGH | Three independent accounts of a primeval being dismantled and its components repurposed as world infrastructure |
+| **Iterative prototype series** | Popol Vuh (4 substrates) + **Greek (5 Ages)** | **VERY HIGH** | Two completely independent R&D cycle descriptions; same pattern of designed experiments terminated upon specification failure |
+| **Intra-pantheon factional war** | **Greek (Titanomachy)** + **Norse (Aesir-Vanir)** + Enoch (Watchers) + Revelation (War in Heaven) | **HIGH** | Four independent accounts of conflict within the non-human command structure; resolutions range from containment to merger to ejection |
+| **Knowledge restriction incident** | **Greek (Prometheus)** + Enoch (Watchers) + Genesis (Serpent) | **HIGH** | Three independent knowledge-transfer incidents; command response consistently includes binding of the transferor and population discipline |
+| **Terminal collapse + renewal** | **Revelation (New Jerusalem)** + **Norse (Ragnarök rebirth)** + **Zoroastrian (Frashokereti)** | **HIGH** | Three independent predicted-terminal-collapse-plus-renewal sequences; shared elements: removal of corrupting element, designated survivor remnant, and replacement habitat |

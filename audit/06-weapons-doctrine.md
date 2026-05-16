@@ -1,7 +1,7 @@
 # Weapons Doctrine -- Authorization, Escalation, and Aftermath Across Sources
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis  
-**Scope:** Cross-cutting synthesis of all five foundational texts  
+**Scope:** Cross-cutting synthesis of all foundational texts (`audit/analyses/revelation.md` for projected terminal weapons)  
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---

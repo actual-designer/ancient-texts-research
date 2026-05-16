@@ -7,6 +7,40 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.4.0] — 2026-05-16
+
+### Added
+
+- **Per-text analyses (5 new):**
+  - **Book of the Dead** (`audit/analyses/book-of-the-dead.md`) — Egyptian post-mortem processing pipeline: Tuat transit, Hall of Maati, Negative Confession before 42 Assessors, the Weighing of the Heart (biometric identity comparator), Osiris throne ratification, and the Field of Reeds as post-biological settlement.
+  - **Poetic Edda** (`audit/analyses/poetic-edda.md`) — Norse creation (Ginnungagap, Ymir → planetary infrastructure), Ask/Embla triple-operator fabrication, Aesir-Vanir factional war and merger, Yggdrasil nexus, Odin's rune upgrade protocol, Baldr's termination and Ragnarök cascade.
+  - **Revelation** (`audit/analyses/revelation.md`) — Projected terminal intervention sequence: throne room command center, seven-sealed scroll authorization transfer, multi-phase calibrated strikes (Four Horsemen, Trumpets at 33% yield, Vials at full yield), War in Heaven, Two Beasts, Armageddon, Millennium, New Jerusalem replacement habitat.
+  - **Theogony & Works and Days** (`audit/analyses/theogony-works-and-days.md`) — Greek creation sequence (Chaos → Gaia → Ouranos), generational command coups (Ouranos→Kronos→Zeus), Titanomachy factional war, Prometheus knowledge theft, Pandora as counter-deployment, and sequential Five Ages human prototypes.
+  - **Zoroastrian Gathas** (`audit/analyses/zoroastrian-gathas.md`) — Ahura Mazda as supreme command, dual-operator system (Spenta/Angra Mainyu), seven Amesha Spenta functional terminals, Zarathushtra as first-person corruption whistleblower, Chinvat Bridge entity-assessment gateway, Frashokereti terminal renewal sequence.
+- **Synthesis documents (2 new):**
+  - `audit/08-translation-key.md` — Terminology mapping from source-text vocabulary to modern technology equivalents across all traditions (Norse, Greek, Egyptian, Zoroastrian, Hebrew, Vedic, Mesoamerican).
+  - `audit/09-location-registry.md` — Geographical and extradimensional registry of all named locations across the archive (Mount Meru, Olympus, Asgard, Tuat, Xibalbá, New Jerusalem, etc.).
+- **Source PDFs (3):**
+  - `texts/Hesiod-Theogony-Works-and-Days.pdf`
+  - `texts/The-Poetic-Edda.pdf`
+  - `texts/The-Yasna.pdf`
+- **Script:** `scripts/validate-links.py` — cross-reference link validation utility.
+- **Plan document:** `PLAN.md` — project roadmap and source backlog.
+
+### Updated
+
+- **All 8 cross-cutting synthesis documents** — extended to integrate findings from all 5 new source analyses:
+  - `audit/00-INDEX.md` — 5 new analyses, 2 new synthesis docs, 3 new sources added to source table.
+  - `audit/01-entity-registry.md` — entities from Greek pantheon (Zeus, Kronos, Ouranos, Prometheus, Pandora, etc.), Norse pantheon (Odin, Thor, Loki, etc.), Egyptian Osiris/42 Assessors, Zoroastrian Amesha Spenta terminals, and Revelation's Dragon/Beasts/Lamb added with hierarchy mapping.
+  - `audit/02-technology-catalog.md` — Norse (Ginnungagap, Yggdrasil, runes), Greek (adamantine sickle, Pandora's jar, Olympic council), Egyptian (Balance of Maat, Tuat, Field of Reeds), Zoroastrian (Chinvat Bridge, Frashokereti), and Revelation (sealed scroll, New Jerusalem, lake of fire) entries added.
+  - `audit/03-event-timeline.md` — 5 new eras added: Norse (Ymir→Ragnarök→rebirth), Greek (Chaos→Iron Age), Zoroastrian (dual-operator ontology→Frashokereti), Egyptian continuous post-mortem processing, and Revelation projected terminal sequence.
+  - `audit/04-cross-references.md` — 12 new cross-references (CR-12 through CR-23): Throne Room/Command Center, Gated Transit Pipeline, Biometric Tagging, Processor Entity Death/Reassembly, Post-Mortem Reanimation, Post-Biological Settlement, War in Heaven, Primeval Entity → Infrastructure, Iterative Prototypes, Intra-Pantheon Factional War, Knowledge Restriction, Terminal Collapse + Renewal.
+  - `audit/05-great-reset.md` — scope expanded to include Revelation's projected terminal sterilization.
+  - `audit/06-weapons-doctrine.md` — scope expanded to include Revelation's multi-phase kinetic and environmental weapon systems.
+  - `audit/07-the-human-project.md` — scope expanded from 7 to 10 foundational texts; Norse, Greek, and Zoroastrian creation arcs integrated.
+
+---
+
 ## [0.3.0] — 2026-05-12
 
 ### Added

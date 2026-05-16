@@ -18,6 +18,11 @@
 | 6 | Popol Vuh | Deep antiquity (creation cycle) | 285 | Iterative creation R&D (4 prototypes), deliberate flood, engineered amnesia, Xibalbá facility |
 | 7 | Ancient Egyptian Pyramid Texts | Old Kingdom (~2353-2150 BCE) | 394 | Post-mortem processing pipeline (Duat→Akhet→Sky), body reconstitution protocol, gated access, Cannibal Hymn, celestial geography |
 | 8 | Rig Veda | ~1500-1200 BCE (composition) / Deep antiquity (events) | 750 | Vimanas, Vajra weapon, Asvins biomedical corps, Soma bio-enhancement, Yama afterlife protocol, Agni communications relay, Vedic operator hierarchy, creation hymns (Nasadiya, Hiranyagarbha, Purusa) |
+| 9 | Book of Revelation | ~95 CE (projected events — timeline undetermined) | 41 | Throne room command center, seven-sealed authorization scroll, four horsemen systemic collapse, 144K biometric registration, seven trumpets environmental strikes, war in heaven, two beasts counterfeit governance, seven vials terminal sterilization, Armageddon, millennium containment, New Jerusalem replacement habitat |
+| 10 | The Book of the Dead (Per-t em Hru) | Old Kingdom through XVIIIth dynasty (~2350-1200 BCE, spells in continuous use) | 22 | Weighing of the Heart identity verification, Negative Confession attestation (42 assessors), multi-stage gated transit, 12-form transformation capability, post-mortem processing pipeline (complement to Pyramid Texts) |
+| 11 | The Poetic Edda (Bellows, 1923) | ~900-1050 CE composition / Prehistoric events | 34 poems | Ymir dismantlement (entity-to-infrastructure), Ask/Embla fabrication, Aesir-Vanir War, Yggdrasil nexus, Odin's self-sacrifice rune upgrade, Baldr termination, Loki containment, Ragnarök predicted collapse, Rígsþula class engineering |
+| 12 | Theogony & Works and Days (Hesiod, c. 700 BCE) | Deep antiquity (creation cycle) | ~1,022 lines | Chaos→Gaia→Ouranos initialization, Kronos castration coup, Titanomachy factional war, Typhoeus multi-modal containment, Prometheus knowledge theft, Pandora deliberate-defect fabrication, Five Ages prototype sequence, Deucalion Flood evacuation |
+| 13 | The Zoroastrian Gathas (Mills, 1898) | ~1000 BCE (attributed to Zarathushtra) | 5 hymn collections | Dual-operator ontology (Spenta/Angra Mainyu), seven Amesha Spenta functional terminals, Chinvat Bridge assessment gateway, Daeva identity corruption report, Frashokereti predicted system renewal |
 
 ---
 
@@ -35,6 +40,11 @@
 | [analyses/popol-vuh.md](analyses/popol-vuh.md) | Popol Vuh -- Iterative creation R&D, command council, flood of wood people, engineered cognitive limitation, Xibalbá facility |
 | [analyses/pyramid-texts.md](analyses/pyramid-texts.md) | Pyramid Texts -- Post-mortem processing pipeline, body reconstitution, gated transit (ferryman/doorkeeper), Cannibal Hymn capability absorption, celestial geography |
 | [analyses/rig-veda.md](analyses/rig-veda.md) | Rig Veda — Creation cycle (Nasadiya, Hiranyagarbha, Purusa), operator hierarchy, Vajra directed-energy weapon, Asvins biomedical interventions, Soma bio-enhancement compound, Yama post-mortem transport protocol, Agni communications relay, Varuna surveillance network |
+| [analyses/revelation.md](analyses/revelation.md) | Book of Revelation — Throne room command center, seven-sealed authorization scroll, four horsemen, 144K biometric sealing, trumpets/vials strike packages, war in heaven, two beasts, Armageddon, millennium, New Jerusalem habitat |
+| [analyses/book-of-the-dead.md](analyses/book-of-the-dead.md) | Book of the Dead — Weighing of the Heart identity verification, Negative Confession attestation, gated transit system, 12-form transformation capability, Opening of the Mouth activation protocol, Tuat facility geography |
+| [analyses/poetic-edda.md](analyses/poetic-edda.md) | Poetic Edda — Ymir dismantlement, Ask/Embla fabrication, Aesir-Vanir merger, Yggdrasil/Norns system, Odin rune upgrade, Baldr termination, Loki binding, Ragnarök cascading collapse, rebirth, Rígsþula stratification, Mead of Poetry cognitive compound |
+| [analyses/theogony-works-and-days.md](analyses/theogony-works-and-days.md) | Theogony & Works and Days — Primeval system deployment (Chaos→Gaia→Ouranos), generational command coups (Kronos castration, Zeus displacement), Titanomachy, Typhoeus containment, Prometheus theft, Pandora delivery munition, Five Ages sequential prototypes, Deucalion Flood |
+| [analyses/zoroastrian-gathas.md](analyses/zoroastrian-gathas.md) | Zoroastrian Gathas — Dual Mainyu operator ontology, seven Amesha Spenta terminals, Chinvat Bridge assessment, Daeva corruption whistleblowing, Frashokereti system renewal |
 
 ### Cross-Cutting Synthesis
 
@@ -47,6 +57,7 @@
 | [05-great-reset.md](05-great-reset.md) | The Flood as Sterilization Protocol; the Ark as Genetic Seed Vault; technical requirements for preserving "all kinds" |
 | [06-weapons-doctrine.md](06-weapons-doctrine.md) | Weapons authorization hierarchy, escalation arc, countermeasure distribution, regret grammar across all five sources |
 | [07-the-human-project.md](07-the-human-project.md) | The complete arc: creation as labor solution, management, contamination crisis, reset/rebuild cycle, operator withdrawal |
+| [09-location-registry.md](09-location-registry.md) | All named geographic zones, facilities, gates, cities, and orbital domains across all 13 source texts, with cross-tradition axis mundi and underworld comparisons |
 
 ---
 

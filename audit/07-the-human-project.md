@@ -1,7 +1,7 @@
 # The Human Project -- Creation, Management, Crisis, and Reset
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis  
-**Scope:** Cross-cutting synthesis of all seven foundational texts and all prior synthesis documents  
+**Scope:** Cross-cutting synthesis of all ten foundational texts and all prior synthesis documents  
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---
@@ -427,4 +427,4 @@ PHASE 8: SILENCE (Post-573 BCE)
 
 ## Status
 
-**Updated with Pyramid Texts (Egyptian) integration.** The Egyptian material introduces Phase 7b -- the Integration Protocol -- revealing that the human project includes a **return path**: deceased humans can be processed through a standardized pipeline (Duat→Akhet→Sky) and upgraded to operator-tier ("imperishable akh") status. This transforms the project's arc: it is not merely creation→management→reset→silence. There exists a **re-integration mechanism** by which select humans are reconstituted, credentialed, and absorbed into the operator community. The Cannibal Hymn (PT 273-274) describes the most aggressive form: direct capability absorption from existing gods. The Popol Vuh's engineered amnesia remains the strongest evidence of deliberate cognitive limitation. The Pyramid Texts now provide the strongest evidence of deliberate cognitive *restoration* -- for those who pass through the pipeline. Integrates all seven foundational texts.
+**Updated with Pyramid Texts (Egyptian) integration.** The Egyptian material introduces Phase 7b -- the Integration Protocol -- revealing that the human project includes a **return path**: deceased humans can be processed through a standardized pipeline (Duat→Akhet→Sky) and upgraded to operator-tier ("imperishable akh") status. This transforms the project's arc: it is not merely creation→management→reset→silence. There exists a **re-integration mechanism** by which select humans are reconstituted, credentialed, and absorbed into the operator community. The Cannibal Hymn (PT 273-274) describes the most aggressive form: direct capability absorption from existing gods. The Popol Vuh's engineered amnesia remains the strongest evidence of deliberate cognitive limitation. The Pyramid Texts now provide the strongest evidence of deliberate cognitive *restoration* -- for those who pass through the pipeline. Integrates all ten foundational texts.
