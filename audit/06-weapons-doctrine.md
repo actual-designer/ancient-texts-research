@@ -137,10 +137,10 @@ Phase 4: AFTERMATH / INSTITUTIONAL RESPONSE
 
 | Source | Description |
 |--------|-------------|
-| **Gilgamesh** | The Flood: "The hearts of the Great Gods moved them to inflict the Flood" -- full environmental sterilization authorized by council vote |
+| **[Gilgamesh](analyses/gilgamesh.md)** | The Flood: "The hearts of the Great Gods moved them to inflict the Flood" -- full environmental sterilization authorized by council vote |
 | **Enoch** | Judicial binding of Watchers + extermination order for Nephilim + Flood authorization -- strategic reset to contain genetic contamination |
 | **Atrahasis** | Same Flood: multi-vector deployment -- "Anunnaki lifted torches, setting land ablaze"; dike sabotage; sustained weather assault |
-| **Mahābhārata** | Aśvatthāmā deploys Nārāyaṇāstra (area denial) and Brahmāstra (fetal-grade radiation weapon) -- both strategic packages released without proper authorization chain after Droṇa's death collapses his institutional loyalty |
+| **[Mahābhārata](analyses/mahabharata.md)** | Aśvatthāmā deploys Nārāyaṇāstra (area denial) and Brahmāstra (fetal-grade radiation weapon) -- both strategic packages released without proper authorization chain after Droṇa's death collapses his institutional loyalty |
 | **Ezekiel** | Destruction of Jerusalem described as commanded operation: "Begin at my sanctuary" (9:6) -- targeted urban demolition under divine authorization |
 
 #### Phase 4: Aftermath / Institutional Response
@@ -148,10 +148,10 @@ Phase 4: AFTERMATH / INSTITUTIONAL RESPONSE
 | Source | Aftermath | Response |
 |--------|-----------|----------|
 | **Gilgamesh** | Ishtar weeps; gods "cowered like dogs"; Ea rebukes Enlil for disproportionate response | Utnapishtim granted immortality + quarantine; population controls softened |
-| **Enoch** | Earth devastated; Nephilim slaughtered; Watchers bound "for seventy generations" | Judicial proceedings; detention facilities; environmental remediation order |
+| **[Enoch](analyses/enoch-watchers.md)** | Earth devastated; Nephilim slaughtered; Watchers bound "for seventy generations" | Judicial proceedings; detention facilities; environmental remediation order |
 | **Atrahasis** | "Nintu was wailing"; command tier expresses remorse for scope of destruction | Birth control measures substituted for future population management |
 | **Mahābhārata** | Aśvatthāmā sentenced to immortality inside suffering -- "wandering, isolated" with wound that will not heal | Gem extracted from forehead (asset tag removal); quarantine from social graph; Parīkṣit revived by Kṛṣṇa |
-| **Ezekiel** | Valley of Dry Bones -- reanimation protocol demonstrated as proof of reconstruction capability | New facility blueprints dictated (Chs. 40-48); covenant renewal |
+| **[Ezekiel](analyses/ezekiel-merkabah.md)** | Valley of Dry Bones -- reanimation protocol demonstrated as proof of reconstruction capability | New facility blueprints dictated (Chs. 40-48); covenant renewal |
 
 ---
 

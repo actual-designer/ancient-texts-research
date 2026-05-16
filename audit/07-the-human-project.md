@@ -20,7 +20,7 @@ This document reconstructs the complete arc from inception to the latest atteste
 
 Before humanity existed, the texts describe a two-tier non-human workforce operating on Earth:
 
-**Atrahasis Ch. 1:**
+**[Atrahasis](analyses/atrahasis.md) Ch. 1:**
 
 > "When the gods instead of man, did the work, bore the loads, the gods' load was too great, the work too hard, the punishment too much. The great Anunnaki made the Igigi carry the workload sevenfold."
 
@@ -70,7 +70,7 @@ The creation of humanity was a laboratory procedure, not a miraculous act:
 
 ### 2.2 The Rapid-Fabrication Protocol (Enkidu)
 
-A second, faster protocol is recorded in Gilgamesh:
+A second, faster protocol is recorded in [Gilgamesh](analyses/gilgamesh.md):
 
 > "Aruru pinched off clay and threw it into the wilderness." (Tablet I)
 
@@ -86,7 +86,7 @@ An engineered hybrid with a non-standard genome ratio, designed to specification
 
 ### 2.4 The Mahābhārata Commissioning Programs
 
-The Indian epic theater documents the **most diversified genetic engineering portfolio** in the Archive:
+The Indian epic theater ([Mahābhārata](analyses/mahabharata.md)) documents the **most diversified genetic engineering portfolio** in the Archive:
 
 | Program | Method | Output | Control Level |
 |---------|--------|--------|---------------|
@@ -98,7 +98,7 @@ The Indian epic theater documents the **most diversified genetic engineering por
 
 ### 2.5 The Popol Vuh Iteration Cycle
 
-The Mesoamerican tradition, with **zero contact** with the Near Eastern or Indian corpus, documents the most explicit R&D program in the Archive -- four sequential creation attempts, each tested and destroyed:
+The Mesoamerican tradition ([Popol Vuh](analyses/popol-vuh.md)), with **zero contact** with the Near Eastern or Indian corpus, documents the most explicit R&D program in the Archive -- four sequential creation attempts, each tested and destroyed:
 
 | Run | Substrate | Achievement | Failure Mode | Disposition |
 |-----|-----------|-------------|--------------|-------------|

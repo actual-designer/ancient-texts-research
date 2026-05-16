@@ -23,6 +23,7 @@
 | 11 | The Poetic Edda (Bellows, 1923) | ~900-1050 CE composition / Prehistoric events | 34 poems | Ymir dismantlement (entity-to-infrastructure), Ask/Embla fabrication, Aesir-Vanir War, Yggdrasil nexus, Odin's self-sacrifice rune upgrade, Baldr termination, Loki containment, Ragnarök predicted collapse, Rígsþula class engineering |
 | 12 | Theogony & Works and Days (Hesiod, c. 700 BCE) | Deep antiquity (creation cycle) | ~1,022 lines | Chaos→Gaia→Ouranos initialization, Kronos castration coup, Titanomachy factional war, Typhoeus multi-modal containment, Prometheus knowledge theft, Pandora deliberate-defect fabrication, Five Ages prototype sequence, Deucalion Flood evacuation |
 | 13 | The Zoroastrian Gathas (Mills, 1898) | ~1000 BCE (attributed to Zarathushtra) | 5 hymn collections | Dual-operator ontology (Spenta/Angra Mainyu), seven Amesha Spenta functional terminals, Chinvat Bridge assessment gateway, Daeva identity corruption report, Frashokereti predicted system renewal |
+| 14 | Yoga Sutras (Madhvācārya/Beloved, 2007) | ~200 BCE-400 CE (compilation) | 239 | Citta-vṛtti-nirodha consciousness lockdown protocol, Īśvara reference entity, Aṣṭāṅga 8-stage operator conditioning curriculum, siddhi supernormal capability catalog, Kaivalya full system decoupling |
 
 ---
 
@@ -45,6 +46,7 @@
 | [analyses/poetic-edda.md](analyses/poetic-edda.md) | Poetic Edda — Ymir dismantlement, Ask/Embla fabrication, Aesir-Vanir merger, Yggdrasil/Norns system, Odin rune upgrade, Baldr termination, Loki binding, Ragnarök cascading collapse, rebirth, Rígsþula stratification, Mead of Poetry cognitive compound |
 | [analyses/theogony-works-and-days.md](analyses/theogony-works-and-days.md) | Theogony & Works and Days — Primeval system deployment (Chaos→Gaia→Ouranos), generational command coups (Kronos castration, Zeus displacement), Titanomachy, Typhoeus containment, Prometheus theft, Pandora delivery munition, Five Ages sequential prototypes, Deucalion Flood |
 | [analyses/zoroastrian-gathas.md](analyses/zoroastrian-gathas.md) | Zoroastrian Gathas — Dual Mainyu operator ontology, seven Amesha Spenta terminals, Chinvat Bridge assessment, Daeva corruption whistleblowing, Frashokereti system renewal |
+| [analyses/yoga-sutras.md](analyses/yoga-sutras.md) | Yoga Sutras — Citta-vṛtti-nirodha consciousness lockdown, Īśvara reference-grade entity, five kleśas cognitive lock-in architecture, Aṣṭāṅga 8-stage operator curriculum, siddhi catalog (40+ supernormal capabilities), Kaivalya system decoupling |
 
 ### Cross-Cutting Synthesis
 
@@ -58,6 +60,7 @@
 | [06-weapons-doctrine.md](06-weapons-doctrine.md) | Weapons authorization hierarchy, escalation arc, countermeasure distribution, regret grammar across all five sources |
 | [07-the-human-project.md](07-the-human-project.md) | The complete arc: creation as labor solution, management, contamination crisis, reset/rebuild cycle, operator withdrawal |
 | [09-location-registry.md](09-location-registry.md) | All named geographic zones, facilities, gates, cities, and orbital domains across all 13 source texts, with cross-tradition axis mundi and underworld comparisons |
+| [10-correlation-map.md](10-correlation-map.md) | Phase 1 deliverable: per-text perspective inventory, 8 thematic correlation clusters, complete linking blueprint for Phase 2 hyperlink retrofit |
 
 ---
 

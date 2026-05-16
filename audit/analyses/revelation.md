@@ -10,15 +10,15 @@
 
 Revelation is unique in the archive as a **projected operational timeline** -- a mission briefing delivered to a human intermediary describing an authorized planetary sterilization sequence and regime-change protocol. Under the Amnesia hypothesis, it documents:
 
-1. A **command-center operations room** (the Throne Room -- Ch. 4) with tiered seating, visual display systems, and a central intelligence
-2. A **sealed authorization document** (the Seven-Sealed Scroll -- Ch. 5) requiring specific clearance to execute
-3. **Sequenced strike packages** (Seals, Trumpets, Vials) calibrated to progressively escalate environmental effects
-4. A **biometric identification and population-tagging system** (the Mark/Seal -- Ch. 7, 13-14)
-5. **Orbital regime-change warfare** (War in Heaven -- Ch. 12)
-6. **Counterfeit governance structures** (the Two Beasts -- Ch. 13)
-7. A **final ground engagement** at a named geographic coordinate (Armageddon -- Ch. 16)
-8. **Containment protocol** for a rogue entity (the Abyss/Lake of Fire -- Ch. 20)
-9. **Replacement habitat specifications** (New Jerusalem -- Ch. 21-22)
+1. A **command-center operations room** (the Throne Room -- Ch. 4) with tiered seating, visual display systems, and a central intelligence (see [ezekiel-merkabah.md](ezekiel-merkabah.md))
+2. A **sealed authorization document** (the Seven-Sealed Scroll -- Ch. 5) requiring specific clearance to execute (see [zoroastrian-gathas.md](zoroastrian-gathas.md): Ahura Mazda decrees)
+3. **Sequenced strike packages** (Seals, Trumpets, Vials) calibrated to progressively escalate environmental effects (see [05-great-reset.md](../05-great-reset.md))
+4. A **biometric identification and population-tagging system** (the Mark/Seal -- Ch. 7, 13-14) (see [book-of-the-dead.md](book-of-the-dead.md): Weighing of the Heart)
+5. **Orbital regime-change warfare** (War in Heaven -- Ch. 12) (see [theogony-works-and-days.md](theogony-works-and-days.md): Titanomachy)
+6. **Counterfeit governance structures** (the Two Beasts -- Ch. 13) (see [poetic-edda.md](poetic-edda.md): Loki/rogue operator)
+7. A **final ground engagement** at a named geographic coordinate (Armageddon -- Ch. 16) (see [09-location-registry.md](../09-location-registry.md))
+8. **Containment protocol** for a rogue entity (the Abyss/Lake of Fire -- Ch. 20) (see [poetic-edda.md](poetic-edda.md): Loki's binding)
+9. **Replacement habitat specifications** (New Jerusalem -- Ch. 21-22) (see [ezekiel-merkabah.md](ezekiel-merkabah.md): temple blueprints)
 
 Revelation reads as the terminal document in the archive's timeline -- a forecast of a future/pending intervention that completes the arc of entity management, population control, and habitat replacement implied by the earlier texts.
 
@@ -52,12 +52,12 @@ John describes an orbital command center with clearly identifiable components:
 | "Rainbow round about the throne" | Multi-spectral holographic display or atmospheric refraction through hull shielding |
 | "Lightnings and thunderings" | Power systems cycling or energy transmission through the structure |
 | "Seven lamps of fire" | Seven independent power sources or status indicators |
-| "Sea of glass like unto crystal" | Large transparent display surface -- a hemispherical viewscreen or data visualization floor |
+| "Sea of glass like unto crystal" | Large transparent display surface -- a hemispherical viewscreen or data visualization floor (see [enoch-watchers.md](enoch-watchers.md): crystal houses) |
 | "Four beasts full of eyes" | Four automated sensor/interface units with 360-degree optical coverage |
 | "Six wings" per beast | Multi-jointed manipulator arms or articulated sensor booms |
-| "Twenty-four elders" | Twenty-four seated operator positions (council or staff) |
+| "Twenty-four elders" | Twenty-four seated operator positions (council or staff) (see [01-entity-registry.md](../01-entity-registry.md)) |
 
-The "four beasts" are functionally identical to Ezekiel's "living beings" (four faces, many eyes, multiple wings) but described at a later generation of the same platform type. Ezekiel saw the vehicle; John sees the command facility within which such vehicles are directed.
+The "four beasts" are functionally identical to [Ezekiel's "living beings"](ezekiel-merkabah.md) (four faces, many eyes, multiple wings) but described at a later generation of the same platform type. Ezekiel saw the vehicle; John sees the command facility within which such vehicles are directed.
 
 ### Plausible Mechanism
 
@@ -85,7 +85,7 @@ A symbolic scroll containing God's judgment sealed until the worthy Lamb opens i
 
 A sealed authorization document, written on both sides (dense format), secured with seven independent locks or authentication seals. The crisis -- "no man was found worthy" -- indicates a permissions failure: no entity in the existing system holds the required clearance level.
 
-A previously processed human (the Lamb, identified as "slain" -- i.e., having undergone death and reanimation) presents with the correct biometric credentials: "seven horns" (full authority) and "seven eyes" (full sensory/ intelligence capability). He qualifies precisely because of his prior death-and-reactivation event -- a clearance level tied to having completed the biological-death processing pipeline.
+A previously processed human (the Lamb, identified as "slain" -- i.e., having undergone death and reanimation) presents with the correct biometric credentials: "seven horns" (full authority) and "seven eyes" (full sensory/ intelligence capability). He qualifies precisely because of his prior death-and-reactivation event -- a clearance level tied to having completed the biological-death processing pipeline (see [book-of-the-dead.md](book-of-the-dead.md): heart weighing).
 
 The document is then *transferred* to this entity. This is a formal delegation of authority: the command structure authorizes a specific operator to execute a pre-written mission plan.
 
@@ -113,7 +113,7 @@ Four symbolic riders representing conquest, war, famine, and death -- apocalypti
 
 ### The Archive's Literal Reconstruction
 
-The first four seal-openings release a **calibrated four-stage systemic destabilization**:
+The first four seal-openings release a **calibrated four-stage systemic destabilization** (see [mahabharata.md](mahabharata.md): Kurukshetra total war):
 
 - **White horse (Conquest):** A military/political takeover ("bow" = weaponry, "crown" = authority, "conquering" = territorial acquisition)
 - **Red horse (War):** Societal breakdown into active conflict ("take peace from the earth" = cessation of civil order, "kill one another")
@@ -146,7 +146,7 @@ A literal or symbolic 144,000 Jewish evangelists sealed for protection during th
 
 Two distinct population groups are described:
 
-**Group 1 (144,000):** A precisely counted, biometrically tagged cohort of 12,000 from each of 12 tribes. The "seal in their foreheads" is a physical identifier -- subdermal marking, biometric chip, or genetic tag -- that distinguishes them from the general population. The seal is applied *before* the destruction sequence begins (7:3), marking them for exemption.
+**Group 1 (144,000):** A precisely counted, biometrically tagged cohort of 12,000 from each of 12 tribes. The "seal in their foreheads" is a physical identifier -- subdermal marking, biometric chip, or genetic tag -- that distinguishes them from the general population. The seal is applied *before* the destruction sequence begins (7:3), marking them for exemption (see [book-of-the-dead.md](book-of-the-dead.md): 42 Assessors).
 
 **Group 2 (innumerable multitude):** A second, uncounted population from "all nations" who have undergone some prior processing (white robes = status indicator) and appear before the command center. They "came out of great tribulation" -- survivors of the preceding collapse.
 
@@ -184,17 +184,17 @@ Seven sequential kinetic strikes, each affecting exactly one third of a targeted
 | 2 | Oceans | Impact event ("mountain burning with fire") | 33% of sea life dies, 33% of ships destroyed |
 | 3 | Fresh water | Atmospheric or orbital payload ("star burning as a lamp") | 33% of rivers/fountains contaminated |
 | 4 | Celestial bodies | Atmospheric particulate blocking | 33% reduction in solar/lunar/stellar illumination |
-| 5 | Human population (Woe 1) | Aerial drone deployment from the Abyss | Targeted torment for 5 months |
+| 5 | Human population (Woe 1) | Aerial drone deployment from the Abyss (see [enoch-watchers.md](enoch-watchers.md): prison of stars) | Targeted torment for 5 months |
 | 6 | Human population (Woe 2) | Large-scale military mobilization from the Euphrates | 200 million-strong force, kills 33% of remaining population |
 | 7 | Atmosphere | Declaration of operational completion | Transition to final phase |
 
-The repeated "third part" calibration is not random -- it is a **pre-set yield parameter**, exactly like the "fourth part" in the Four Horsemen. This is a weapons system with adjustable power settings. The 33% effect on each domain suggests a protocol designed to degrade planetary systems without rendering them inoperable.
+The repeated "third part" calibration is not random -- it is a **pre-set yield parameter**, exactly like the "fourth part" in the Four Horsemen (see [06-weapons-doctrine.md](../06-weapons-doctrine.md)). This is a weapons system with adjustable power settings. The 33% effect on each domain suggests a protocol designed to degrade planetary systems without rendering them inoperable.
 
-The fifth trumpet (Ch. 9:1-12) is particularly striking: a "star" (re-entry vehicle or orbital drop pod) opens a shaft ("the bottomless pit") from which aerial entities emerge -- "locusts" with "faces of men, hair of women, teeth of lions, breastplates of iron, wings that sound like chariots, tails like scorpions." This reads as a description of **armed drones or aerial combat units**: humanoid facial features (sensor array), metallic armor, scorpion-like venom delivery systems, coordinated swarm operation, and a named commander (Abaddon/Apollyon -- "the Destroyer").
+The fifth trumpet (Ch. 9:1-12) is particularly striking: a "star" (re-entry vehicle or orbital drop pod) opens a shaft ("the bottomless pit") from which aerial entities emerge (see [theogony-works-and-days.md](theogony-works-and-days.md): Typhoeus) -- "locusts" with "faces of men, hair of women, teeth of lions, breastplates of iron, wings that sound like chariots, tails like scorpions." This reads as a description of **armed drones or aerial combat units**: humanoid facial features (sensor array), metallic armor, scorpion-like venom delivery systems, coordinated swarm operation, and a named commander (Abaddon/Apollyon -- "the Destroyer").
 
 ### Plausible Mechanism
 
-**Orbital kinetic and biological warfare systems with pre-set fractional yields.** Each trumpet corresponds to a specific weapon system or deployment protocol. The "third part" calibration is a munitions-setting choice. The fifth-trumpet entities are combat drones deployed from a subsurface facility or orbital delivery system. Trumpet 6 mobilizes a 200-million-strong force from the Euphrates corridor -- a ground invasion force controlled or manipulated by the orbital command.
+**Orbital kinetic and biological warfare systems with pre-set fractional yields** (see [02-technology-catalog.md](../02-technology-catalog.md)). Each trumpet corresponds to a specific weapon system or deployment protocol. The "third part" calibration is a munitions-setting choice. The fifth-trumpet entities are combat drones deployed from a subsurface facility or orbital delivery system. Trumpet 6 mobilizes a 200-million-strong force from the Euphrates corridor -- a ground invasion force controlled or manipulated by the orbital command.
 
 ---
 
@@ -220,11 +220,11 @@ Two operatives are deployed on Earth for a timed mission: 1,260 days (3.5 years)
 
 At mission completion, they are killed by an opposing entity ("the beast from the bottomless pit"), but undergo a **reanimation and extraction sequence**: after 3.5 days, a life-restoration protocol reactivates them ("spirit of life from God entered into them"), and they are extracted vertically ("ascended up to heaven in a cloud"). This is a documented extraction procedure: the operatives complete their mission, are eliminated by local opposing forces, undergo the same reanimation protocol described for Enoch and Utnapishtim, and are recovered by their command structure.
 
-The "three and a half days" matches the "time, times, and half a time" and "42 months" / "1,260 days" patterns throughout Revelation -- a consistent chronological module of 3.5 years or its equivalent.
+The "three and a half days" matches the "time, times, and half a time" and "42 months" / "1,260 days" patterns throughout Revelation -- a consistent chronological module of 3.5 years or its equivalent (see [03-event-timeline.md](../03-event-timeline.md)).
 
 ### Plausible Mechanism
 
-**Forward-deployed operatives with environmental-control capabilities and a guaranteed extraction protocol.** The 3.5-year mission timeline is consistent with other duration references in the text. The death-reanimation-extraction sequence matches the post-mortem processing pipeline (Pyramid Texts: Duat processing -> akh transformation -> sky transit). The "beast from the bottomless pit" is a competing ground force that intercepts the operatives before their scheduled extraction.
+**Forward-deployed operatives with environmental-control capabilities and a guaranteed extraction protocol.** The 3.5-year mission timeline is consistent with other duration references in the text. The death-reanimation-extraction sequence matches the post-mortem processing pipeline ([Pyramid Texts](pyramid-texts.md): Duat processing -> akh transformation -> sky transit). The "beast from the bottomless pit" is a competing ground force that intercepts the operatives before their scheduled extraction.
 
 ---
 
@@ -246,7 +246,7 @@ A cosmic battle between Michael and Satan -- the original fall of Lucifer from h
 
 ### The Archive's Literal Reconstruction
 
-A **physical engagement in an off-world facility** ("heaven" = orbital platform or space-based habitat). The antagonist is described as a "great red dragon" -- a multi-headed, multi-horned entity or vehicle with command authority ("seven crowns"). His action of drawing "the third part of the stars of heaven" and casting them to Earth describes the destruction or de-orbiting of a portion of the orbital infrastructure.
+A **physical engagement in an off-world facility** ("heaven" = orbital platform or space-based habitat). The antagonist is described as a "great red dragon" -- a multi-headed, multi-horned entity or vehicle with command authority ("seven crowns") (see [theogony-works-and-days.md](theogony-works-and-days.md): Titanomachy). His action of drawing "the third part of the stars of heaven" and casting them to Earth describes the destruction or de-orbiting of a portion of the orbital infrastructure (see [enoch-watchers.md](enoch-watchers.md): prison of stars).
 
 The engagement is fought between two organized forces ("Michael and his angels" vs. "the dragon and his angels"). The outcome is one-sided: the dragon's forces "prevail not" and are ejected from the orbital facility to Earth's surface. The entity is identified as "that old serpent" -- linking him to the Eden narrative -- and "Satan" / "the Devil" (adversary/slanderer).
 
@@ -278,7 +278,7 @@ Two end-times entities: a political/military ruler (the Beast from the Sea) and 
 
 ### The Archive's Literal Reconstruction
 
-Two distinct governance structures are deployed by the Dragon after his orbital ejection:
+Two distinct governance structures are deployed by the Dragon after his orbital ejection (see [zoroastrian-gathas.md](zoroastrian-gathas.md): Daeva corruption):
 
 **Beast from the Sea (Political/Military Authority):** A political entity that rises from "the sea" (the masses, the nations). It has attributes from three apex predators (leopard, bear, lion) -- a composite structure suggesting a multi-ethnic or multi-system empire. The Dragon delegates his authority to this entity ("the dragon gave him his power, and his seat, and great authority"). A notable detail: "one of his heads was as it were wounded to death; and his deadly wound was healed" -- this entity or its leader undergoes a death-and-revival event, paralleling the Lamb's credential and suggesting counterfeit immortality processing.
 
@@ -286,7 +286,7 @@ Two distinct governance structures are deployed by the Dragon after his orbital 
 1. Enforce worship of the first beast (ideological control)
 2. Deceive through "miracles" (technological demonstrations)
 3. Commission an "image of the beast" (manufactured autonomous entity)
-4. Enforce a **biometric economic control system** -- the "mark" in right hand or forehead required for all commerce
+4. Enforce a **biometric economic control system** -- the "mark" in right hand or forehead required for all commerce (see [book-of-the-dead.md](book-of-the-dead.md): Negative Confession as ID protocol)
 
 The number "666" is explicitly identified as "the number of a man" -- a human identifier, not a supernatural cipher. This is an ID code, possibly a genetic or biometric reference number.
 
@@ -360,7 +360,7 @@ The final battle between Christ and the armies of the Antichrist at Armageddon, 
 
 ### The Archive's Literal Reconstruction
 
-The counter-insurgency operation reaches its terminal phase. Command authority ("heaven opened") deploys orbital assets to Earth's surface -- a cavalry force on "white horses" (aerial or reentry vehicles, maintaining the equine analogy from Ezekiel and the Four Horsemen). The commander is described with the same physical characteristics as the Throne-Room entity: "eyes as a flame of fire" and "many crowns" (multi-domain authority).
+The counter-insurgency operation reaches its terminal phase. Command authority ("heaven opened") deploys orbital assets to Earth's surface -- a cavalry force on "white horses" (aerial or reentry vehicles, maintaining the equine analogy from Ezekiel and the Four Horsemen). The commander is described with the same physical characteristics as the Throne-Room entity: "eyes as a flame of fire" and "many crowns" (multi-domain authority) (see [mahabharata.md](mahabharata.md): Brahmāstra as directed-energy weapon).
 
 The engagement is one-sided: the ground forces of the Beast and his allied kings are annihilated. The two leadership entities (Beast and False Prophet) are captured alive and placed in a high-temperature containment facility ("lake of fire burning with brimstone"). The ground forces are eliminated by a directed-energy weapon ("sword out of his mouth").
 
@@ -394,7 +394,7 @@ A literal 1,000-year reign of Christ on Earth followed by Satan's final rebellio
 
 This is a **containment-and-test protocol**:
 
-**Phase 1 -- Containment (1,000 years):** The Dragon is physically confined in the "bottomless pit" (a deep subsurface containment facility) and sealed. During this period, the processed humans ("first resurrection") operate under restored command authority.
+**Phase 1 -- Containment (1,000 years):** The Dragon is physically confined in the "bottomless pit" (a deep subsurface containment facility) and sealed (see [07-the-human-project.md](../07-the-human-project.md)). During this period, the processed humans ("first resurrection") operate under restored command authority.
 
 **Phase 2 -- Release and Test (after 1,000 years):** The Dragon is deliberately released. His re-release is not an accident -- it is a **test of the restored system**. He immediately resumes deception, marshaling a force ("Gog and Magog") against the restored population. The containment boundary is apparently not structural; the Dragon is released because the test requires it. The rebel force is annihilated by orbital fire ("fire from God out of heaven"), and the Dragon is permanently contained in the "lake of fire."
 
@@ -426,7 +426,7 @@ The eternal dwelling place of the redeemed -- a symbolic, perfect city represent
 
 ### The Archive's Literal Reconstruction
 
-A **precision-engineered orbital or extraterrestrial habitat** deployed after the planetary sterilization is complete. Specifications:
+A **precision-engineered orbital or extraterrestrial habitat** deployed after the planetary sterilization is complete (see [ezekiel-merkabah.md](ezekiel-merkabah.md): temple blueprints). Specifications:
 
 | Dimension | Measurement | Conversion |
 |-----------|-------------|------------|
@@ -453,7 +453,7 @@ The "tree of life" on either side of the river (22:2) with "twelve manner of fru
 
 ## KEY ENTITIES
 
-| Designation | Role | Archive Classification |
+| Designation | Role | Archive Classification (see [01-entity-registry.md](../01-entity-registry.md)) |
 |-------------|------|----------------------|
 | The One on the Throne | Central command authority | Tier 0 -- Primary command intelligence |
 | The Lamb (slain) | Authorization holder, scroll-opener | Upgraded human -- completed death-processing pipeline |
@@ -470,7 +470,7 @@ The "tree of life" on either side of the river (22:2) with "twelve manner of fru
 
 ---
 
-## TECHNOLOGY INDEX
+## TECHNOLOGY INDEX (see [02-technology-catalog.md](../02-technology-catalog.md))
 
 | Description in Text | Archive Interpretation |
 |---------------------|----------------------|

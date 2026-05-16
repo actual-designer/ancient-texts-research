@@ -42,7 +42,7 @@ The oath of secrecy is the decisive detail. Natural disasters do not require non
 
 The Flood was not a first resort. It was the terminal measure in a sequence of failed population-control operations.
 
-**Atrahasis Ch. 7:**
+**[Atrahasis](analyses/atrahasis.md) Ch. 7:**
 
 > "600 years, less than 600, passed, and the country was as noisy as a bellowing bull... He addressed the great gods, 'The noise of mankind has become too much, I am losing sleep over their racket. Give the order that suruppu-disease shall break out.'"
 
@@ -71,7 +71,7 @@ The Atrahasis and Enoch traditions preserve two distinct but compatible justific
 
 The term "noise" (*rigmu*) denotes not literal sound but population pressure: resource consumption, territorial expansion, environmental footprint exceeding the parameters set by the command tier for their managed species.
 
-**Enoch motive -- Genetic Contamination:**
+**[Enoch](analyses/enoch-watchers.md) motive -- Genetic Contamination:**
 > "The earth laid accusation against the lawless ones." (Enoch, Book 1)
 
 The Watcher incident introduced two uncontrolled variables: (a) an unauthorized technology transfer that collapsed the managed development timeline, and (b) genetic contamination through unregulated hybridization producing the Nephilim -- organisms that were physically unstable, ecologically devastating, and outside the command tier's design parameters.
@@ -80,7 +80,7 @@ The Watcher incident introduced two uncontrolled variables: (a) an unauthorized 
 
 ### 1.4 Operator Evacuation
 
-**Gilgamesh Tablet XI:**
+**[Gilgamesh](analyses/gilgamesh.md) Tablet XI:**
 
 > "The gods were frightened by the Flood, and retreated, ascending to the heaven of Anu."
 
@@ -176,7 +176,7 @@ The arithmetic eliminates the livestock interpretation. Even at the vessel's gen
 
 > "Whatever I had I loaded on it: whatever I had of silver I loaded on it, whatever I had of gold I loaded on it, whatever I had of all the living beings I loaded on it. I sent into the boat all my kith and kin, the beasts and animals of the field and the craftsmen, all of them."
 
-**Enoch (Uriel's warning to Noah):**
+**[Enoch](analyses/enoch-watchers.md) (Uriel's warning to Noah):**
 
 > "Preserve his seed for all generations of the world."
 

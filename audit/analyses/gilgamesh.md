@@ -10,12 +10,12 @@
 
 The Gilgamesh epic operates on two levels under the Amnesia hypothesis: (1) it is the biography of a second-generation hybrid ruler navigating a post-cataclysm world where the non-human operators have largely withdrawn, and (2) it preserves, through Utanapishtim's account, the most engineering-specific record of the Flood event and its aftermath. Key reconstructions:
 
-1. Gilgamesh as a genetically engineered hybrid (2/3 non-human, 1/3 human)
-2. Enkidu as a rapid biological fabrication -- a purpose-built organism
-3. Humbaba as a bioengineered guardian of a restricted zone
-4. The Bull of Heaven as a deployed weapons platform
-5. Utanapishtim's Flood account as the definitive operational record of the cataclysm
-6. The "plant of immortality" as an anti-aging compound
+1. Gilgamesh as a genetically engineered hybrid (2/3 non-human, 1/3 human) (see [mahabharata.md](mahabharata.md): commissioned births)
+2. Enkidu as a rapid biological fabrication -- a purpose-built organism (see [atrahasis.md](atrahasis.md): 14 prototypes)
+3. Humbaba as a bioengineered guardian of a restricted zone (see [02-technology-catalog.md](../02-technology-catalog.md))
+4. The Bull of Heaven as a deployed weapons platform (see [06-weapons-doctrine.md](../06-weapons-doctrine.md))
+5. Utanapishtim's Flood account as the definitive operational record of the cataclysm (see [05-great-reset.md](../05-great-reset.md))
+6. The "plant of immortality" as an anti-aging compound (see [rig-veda.md](rig-veda.md): Soma)
 
 ---
 
@@ -35,9 +35,9 @@ A literary device establishing Gilgamesh as a semi-divine hero -- his divine par
 
 ### The Archive's Literal Reconstruction
 
-Gilgamesh is described with unusual genetic specificity: not half-god and half-human, but *two-thirds* god and *one-third* human. This is genetically impossible through standard sexual reproduction (which always produces a 50/50 hybrid). The 2:1 ratio implies a non-standard reproductive process:
+Gilgamesh is described with unusual genetic specificity: not half-god and half-human, but *two-thirds* god and *one-third* human (see [mahabharata.md](mahabharata.md): Droṇa vessel-birth). This is genetically impossible through standard sexual reproduction (which always produces a 50/50 hybrid). The 2:1 ratio implies a non-standard reproductive process:
 
-- **Aruru "designed the model for his body"** -- direct bioengineering, not natural conception
+- **Aruru "designed the model for his body"** -- direct bioengineering, not natural conception (see [popol-vuh.md](popol-vuh.md): Xmucane as "Midwife")
 - **Father: Lugalbanda** (a deified king -- possibly a first-generation human with significant non-human genetic contribution)
 - **Mother: Rimat-Ninsun** (described as a goddess -- possibly a full non-human entity)
 - The 2/3 ratio could result from a triploid genome (three sets of chromosomes rather than two), with two sets from the non-human parent and one from the human, or from selective gene editing that replaced approximately two-thirds of the human genome with non-human sequences
@@ -66,11 +66,11 @@ A creation myth introducing Gilgamesh's companion -- a "wild man" shaped from cl
 
 ### The Archive's Literal Reconstruction
 
-Enkidu's creation follows the same procedural pattern as the Atrahasis human-creation protocol, but with critical differences:
+Enkidu's creation follows the same procedural pattern as the [Atrahasis human-creation protocol](atrahasis.md), but with critical differences:
 
 1. **Commission:** The gods (command tier) order Aruru -- the same entity who "designed" Gilgamesh -- to produce a counterpart
 2. **Material:** "Clay" -- the same substrate term used in Atrahasis for the base biological material
-3. **Procedure:** Aruru "pinches off clay and throws it into the wilderness" -- rapid fabrication and deployment into an uncontrolled environment
+3. **Procedure:** Aruru "pinches off clay and throws it into the wilderness" -- rapid fabrication and deployment into an uncontrolled environment (see [popol-vuh.md](popol-vuh.md): mud person prototype)
 4. **Specifications:** The product must be "equal to Gilgamesh's stormy heart" -- a strength and temperament match
 5. **Result:** A humanoid organism with anomalous features: extreme hairiness, animal-level cognition, and instinctive rather than learned behavior ("knew neither people nor settled living")
 
@@ -106,21 +106,21 @@ The archetypal hero's journey into the wilderness to slay a monster -- a test of
 
 ### The Archive's Literal Reconstruction
 
-The Cedar Forest is described not as wild woodland but as a **restricted zone**: maintained paths ("roads led straight on, the path was excellent"), a designated guardian, and a connection to the command tier ("Dwelling of the Gods, the throne dais of Irnini"). This is an exclusion zone -- a protected resource area patrolled by Humbaba.
+The Cedar Forest is described not as wild woodland but as a **restricted zone**: maintained paths ("roads led straight on, the path was excellent"), a designated guardian, and a connection to the command tier ("Dwelling of the Gods, the throne dais of Irnini"). This is an exclusion zone -- a protected resource area patrolled by Humbaba (see [mahabharata.md](mahabharata.md): Khāṇḍava forest).
 
 **Humbaba** is anomalous:
 - "Face keeps changing" -- either a holographic/adaptive camouflage system or a biomechanical entity with reconfigurable facial structure
-- "Seven coats of armor" -- layered defensive systems that can be engaged or disengaged individually
+- "Seven coats of armor" -- layered defensive systems that can be engaged or disengaged individually (see [mahabharata.md](mahabharata.md): Karṇa's integrated armor)
 - Appointed by Enlil as Guardian -- an authorized deployment, not a natural creature
 - Capable of speech, negotiation, and tactical reasoning
 
-**Shamash's intervention** is explicit tactical support from orbit or high altitude: thirteen distinct "winds" (directed energy or atmospheric weapons) are deployed against Humbaba to immobilize him, enabling Gilgamesh and Enkidu to close for the kill. Shamash also provides real-time intelligence ("He has not put on his seven coats of armor") -- battlefield surveillance and status updates.
+**Shamash's intervention** is explicit tactical support from orbit or high altitude: thirteen distinct "winds" (directed energy or atmospheric weapons) are deployed against Humbaba to immobilize him, enabling Gilgamesh and Enkidu to close for the kill (see [mahabharata.md](mahabharata.md): elemental astras). Shamash also provides real-time intelligence ("He has not put on his seven coats of armor") -- battlefield surveillance and status updates.
 
 ### Plausible Mechanism
 
 **Humbaba is a bioengineered or biomechanical guardian deployed to secure a restricted resource zone.** The Cedar Forest is an exclusion zone under the authority of Enlil. Gilgamesh's assault on it is an unauthorized incursion, enabled by Shamash (a rival or sympathetic member of the command tier) providing tactical air support in the form of directed atmospheric weapons. The "thirteen winds" are distinct weapon types deployed from above: kinetic, thermal, cryogenic, particulate, and pressure-differential systems that incapacitate the guardian.
 
-Humbaba's "seven coats of armor" may be layered energy shields or physical armor plates that can be activated independently -- the fact that Shamash knows the current state of their deployment confirms real-time monitoring.
+Humbaba's "seven coats of armor" may be layered energy shields or physical armor plates that can be activated independently -- the fact that Shamash knows the current state of their deployment confirms real-time monitoring (see [mahabharata.md](mahabharata.md): Karṇa's integrated armor subsystems).
 
 ---
 
@@ -140,9 +140,9 @@ A mythological beast sent by a scorned goddess to punish Gilgamesh for rejecting
 
 ### The Archive's Literal Reconstruction
 
-Ishtar requests a weapon platform from Anu (orbital/off-world authority). Key observations:
+Ishtar requests a weapon platform from Anu (orbital/off-world authority) (see [01-entity-registry.md](../01-entity-registry.md): Ishtar/Inanna). Key observations:
 
-- The Bull is not summoned or conjured -- it is "let down to earth" from Anu's domain (orbit or high altitude). This is a deployment, not a creation.
+- The Bull is not summoned or conjured -- it is "let down to earth" from Anu's domain (orbit or high altitude). This is a deployment, not a creation (see [revelation.md](revelation.md): Trumpet strikes as kinetic weapons).
 - Its primary weapon effect is ground displacement: "snorting" that opens massive pits in the earth. This is consistent with directed seismic or concussive weapons -- each "snort" generates a shockwave that collapses the surface.
 - The weapon produces casualties proportional to proximity: 100, then 200, then catching Enkidu at close range.
 - Gilgamesh and Enkidu defeat it through coordinated close-quarters combat: one distracts while the other strikes the critical point ("thrust his sword between the nape, the horns, and the tendon").
@@ -183,9 +183,9 @@ The Mesopotamian Flood myth, paralleling the biblical account of Noah, explainin
 
 This is the most detailed operational account of the Flood event in the archive. Decomposed:
 
-**Pre-Event Planning:**
+**Pre-Event Planning** (see [05-great-reset.md](../05-great-reset.md)):
 - The Flood is authorized by the full command tier (Anu, Enlil, Ninurta, Ennugi) under an oath of secrecy
-- Ea (Enki) violates operational security by warning Utanapishtim through an intermediary (the "reed wall" -- possibly a communication device disguised as architecture, or a deliberate legal fiction: Ea speaks "to the wall," not to the man)
+- Ea (Enki) violates operational security by warning Utanapishtim through an intermediary (the "reed wall" -- possibly a communication device disguised as architecture, or a deliberate legal fiction: Ea speaks "to the wall," not to the man) (see [atrahasis.md](atrahasis.md): Enki as dissident)
 - The vessel specifications are precise and engineering-grade: equal length-to-width ratio (a cube or near-cube), roofed, seven internal levels, nine compartments, waterproofed with bitumen and pitch
 
 **Vessel Engineering:**
@@ -201,9 +201,9 @@ This is the most detailed operational account of the Flood event in the archive.
 | Construction labor | Thousands of workers, described as a festival atmosphere | Mass mobilization under cover story |
 
 **The Event:**
-- "Anunnaki lifted up torches, setting the land ablaze with their flare" -- the command tier deploys high-energy systems visible from the ground, igniting the atmosphere or terrain
+- "Anunnaki lifted up torches, setting the land ablaze with their flare" -- the command tier deploys high-energy systems visible from the ground, igniting the atmosphere or terrain (see [revelation.md](revelation.md): hail and fire)
 - Storm-god Adad provides the kinetic mechanism (extreme weather), while other named entities manage specific infrastructure (Erragal pulls mooring poles, Ninurta overflows dikes)
-- The gods themselves "retreat to the heaven of Anu" -- they evacuate to orbit or high altitude before the event reaches full intensity
+- The gods themselves "retreat to the heaven of Anu" -- they evacuate to orbit or high altitude before the event reaches full intensity (see [enoch-watchers.md](enoch-watchers.md): heavenly ascent)
 - Duration: six days and seven nights of continuous storm
 - Result: total surface flattening ("terrain as flat as a roof"), complete biological extinction of exposed populations
 
@@ -240,14 +240,14 @@ A parable about the futility of the human quest for immortality -- the snake ste
 
 ### The Archive's Literal Reconstruction
 
-Utanapishtim discloses the existence and location of a biological compound with anti-aging properties:
+Utanapishtim discloses the existence and location of a biological compound with anti-aging properties (see [poetic-edda.md](poetic-edda.md): Mead of Poetry):
 
 - **Location:** Submerged in the Apsu (deep water / subsurface)
 - **Appearance:** A thorned aquatic plant
 - **Effect:** Reversal of biological aging ("The Old Man Becomes a Young Man")
 - **Name:** Explicitly an anti-senescence compound, not an immortality elixir -- it restores youth, implying cellular regeneration
 - **Gilgamesh's plan:** To test it on an elderly subject first -- a scientific approach to verification
-- **Loss:** The compound is consumed by a serpent, which then "sloughs off its casing" -- demonstrating the effect (dermal regeneration/renewal)
+- **Loss:** The compound is consumed by a serpent, which then "sloughs off its casing" -- demonstrating the effect (dermal regeneration/renewal) (see [mahabharata.md](mahabharata.md): Amṛta churning)
 
 ### Plausible Mechanism
 
@@ -257,7 +257,7 @@ Utanapishtim discloses the existence and location of a biological compound with 
 
 ## KEY ENTITIES
 
-| Designation | Role | Archive Classification |
+| Designation | Role | Archive Classification (see [01-entity-registry.md](../01-entity-registry.md)) |
 |-------------|------|----------------------|
 | Gilgamesh | King of Uruk, 2/3 divine hybrid | Engineered hybrid ruler, second-generation |
 | Enkidu | Created companion | Rapid-fabricated humanoid, purpose-built |
@@ -273,16 +273,16 @@ Utanapishtim discloses the existence and location of a biological compound with 
 
 ---
 
-## TECHNOLOGY INDEX
+## TECHNOLOGY INDEX (see [02-technology-catalog.md](../02-technology-catalog.md))
 
 | Description in Text | Archive Interpretation |
 |---------------------|----------------------|
-| Gilgamesh: "2/3 god, 1/3 human" | Non-standard hybrid genome (triploid or gene-edited) |
+| Gilgamesh: "2/3 god, 1/3 human" | Non-standard hybrid genome (triploid or gene-edited) (see [mahabharata.md](mahabharata.md): commissioned births) |
 | Aruru "pinches clay, throws into wilderness" | Rapid biological fabrication from substrate |
 | Enkidu's "civilizing" through Shamhat | Cognitive activation via hormonal/neurological triggering |
 | Humbaba's "changing face" | Adaptive camouflage or reconfigurable biomechanical system |
 | "Seven coats of armor" | Layered defensive energy shields or modular armor |
-| Shamash's "thirteen winds" | Directed atmospheric/energy weapons from orbit or altitude |
+| Shamash's "thirteen winds" | Directed atmospheric/energy weapons from orbit or altitude (see [06-weapons-doctrine.md](../06-weapons-doctrine.md)) |
 | Bull of Heaven's "snorts" opening pits | Directed seismic or concussive weapon system |
 | Flood vessel: cubic, 7 levels, 9 compartments | Sealed survival module (not a navigation vessel) |
 | "Anunnaki lifted torches, set land ablaze" | Orbital or atmospheric energy weapons |

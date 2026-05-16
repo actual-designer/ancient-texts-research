@@ -24,7 +24,7 @@ The archive's texts document a consistent geographic ontology across independent
 
 | Location | Source | Tradition | Description | Cross-Reference |
 |----------|--------|-----------|-------------|-----------------|
-| Heaven of Anu / Sky | atrahasis | Mesopotamian | Orbital/off-world command domain; tier evacuated to during Flood | Heaven of Anu (Gilgamesh), Seventh Heaven (Enoch) |
+| Heaven of Anu / Sky | [atrahasis](analyses/atrahasis.md) | Mesopotamian | Orbital/off-world command domain; tier evacuated to during Flood | Heaven of Anu ([Gilgamesh](analyses/gilgamesh.md)), Seventh Heaven ([Enoch](analyses/enoch-watchers.md)) |
 | Heaven of Anu | gilgamesh | Mesopotamian | Orbital platform; Anu domain; Bull of Heaven deployment origin | Heaven of Anu (Atrahasis), Seventh Heaven (Enoch) |
 | Prison of the Stars | enoch-watchers | Hebrew | Detention facility at boundary of heaven and earth; Lagrange-point containment | Tartarus (Greek), Abyss (Rev) |
 | End of Heaven and Earth | enoch-watchers | Hebrew | Boundary location; deep-space containment | — |
@@ -57,7 +57,7 @@ The archive's texts document a consistent geographic ontology across independent
 | Mesopotamia | atrahasis | Mesopotamian | Region of infrastructure projects | — |
 | Cedar Forest / Cedar Mountain | gilgamesh | Mesopotamian | Restricted exclusion zone; guarded by Humbaba | Garden of Eden (guarded) |
 | The Wilderness | gilgamesh | Mesopotamian | Uncontrolled terrestrial deployment zone | — |
-| Mount Hermon | enoch-watchers | Hebrew | High-altitude Watcher landing zone (9,232 ft) | Mount of Assembly, Mount Zaphon |
+| Mount Hermon | [enoch-watchers](analyses/enoch-watchers.md) | Hebrew | High-altitude Watcher landing zone (9,232 ft) | Mount of Assembly, Mount Zaphon |
 | Earth | revelation | Christian | Planetary surface targeted by all strike sequences | — |
 | Armageddon (Har Megiddo) | revelation | Christian | Named geographic engagement coordinate in northern Israel | Kurukshetra (Indian) |
 | New Earth | revelation | Christian | Replacement planetary surface post-sterilization | — |
@@ -83,7 +83,7 @@ The archive's texts document a consistent geographic ontology across independent
 
 | Location | Source | Tradition | Description | Cross-Reference |
 |----------|--------|-----------|-------------|-----------------|
-| The Apsu | atrahasis | Mesopotamian | Enki's subsurface/aquatic domain | Abzu, Tehom (Hebrew) |
+| The Apsu | [atrahasis](analyses/atrahasis.md) | Mesopotamian | Enki's subsurface/aquatic domain | Abzu, Tehom (Hebrew) |
 | The Apsu | gilgamesh | Mesopotamian | Deep water domain; anti-aging plant location | Abzu, Tehom |
 | Tartarus | enoch-watchers | Hebrew | Uriel's detention facility | Tartarus (Greek), Abyss (Rev) |
 | The Abyss / Bottomless Pit | revelation | Christian | Deep subsurface facility; drone deployment shaft and Dragon prison | Tuat (Egyptian), Xibalbá (Maya) |
@@ -103,7 +103,7 @@ The archive's texts document a consistent geographic ontology across independent
 | Location | Source | Tradition | Description | Cross-Reference |
 |----------|--------|-----------|-------------|-----------------|
 | Room of Fate | atrahasis | Mesopotamian | Controlled bioengineering laboratory | — |
-| Crystal Houses | enoch-watchers | Hebrew | Multi-chamber transparent-composite energy facility | Merkabah (Ezekiel), Crystal Sea (Rev) |
+| Crystal Houses | [enoch-watchers](analyses/enoch-watchers.md) | Hebrew | Multi-chamber transparent-composite energy facility | Merkabah ([Ezekiel](analyses/ezekiel-merkabah.md)), Crystal Sea ([Revelation](analyses/revelation.md)) |
 | Second House (Inner Throne) | enoch-watchers | Hebrew | Mobile command throne with lethal radiation | Merkabah chariot-throne (Ezekiel) |
 | Closed Chambers of Winds | enoch-watchers | Hebrew | Weather management/atmospheric regulation | — |
 | Chambers of Sun and Moon | enoch-watchers | Hebrew | Astronomical observation/tracking | — |

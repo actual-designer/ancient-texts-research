@@ -1,7 +1,7 @@
 # Technology Catalog -- Every "Miracle" Mapped to Plausible Technology
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
-**Scope:** All ten foundational texts (`audit/analyses/mahabharata.md` for Mahābhārata dossier; `audit/analyses/revelation.md` for projected terminal weapons; `audit/analyses/book-of-the-dead.md` for identity processing technology)
+**Scope:** All fourteen foundational texts (`audit/analyses/mahabharata.md` for Mahābhārata dossier; `audit/analyses/revelation.md` for projected terminal weapons; `audit/analyses/book-of-the-dead.md` for identity processing technology; `audit/analyses/yoga-sutras.md` for consciousness training protocols)
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---
@@ -810,3 +810,57 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Description** | Final renovation: all dead resurrected, all made immortal, Druj (falsehood) broken. All pass through molten metal: warm milk for righteous, burning pain for wicked. Ultimately good succeeds absolutely. |
 | **Reconstruction** | Predicted terminal system refresh: full entity restoration (universal resurrection), destructive principle neutralized, all entities made functional (immortal). Molten metal = purgative detection/purification medium that differentiates based on entity state. |
 | **Modern analog** | Theoretical: universal system restore with integrity verification |
+
+---
+
+## 13. CONSCIOUSNESS TRAINING AND OPERATOR CONDITIONING (Yoga Sutras)
+
+**Source:** `audit/analyses/yoga-sutras.md`
+
+### 13.1 Citta-vṛtti-nirodha (Consciousness Lockdown Protocol)
+
+| Field | Detail |
+|-------|--------|
+| **Description** | "Yoga is the lockdown of the modifications of the consciousness-field" (YS I.2). Describes a trainable state in which the mind's normal processing — valid cognition, misperception, conceptualization, sleep, memory (YS I.6) — is systematically arrested. |
+| **Reconstruction** | A deliberate, repeatable neurocognitive state in which the brain's default-mode network and associative processing are inhibited. The target is bare consciousness without content — analogous to a system held in a quiescent state where only monitoring processes run. |
+| **Modern analog** | Whole-brain fMRI studies of advanced meditators (long-term practitioners show reduced DMN activity, altered gamma synchrony); neurofeedback protocols targeting specific brainwave states; sensory deprivation research |
+
+### 13.2 Īśvara (Reference-Grade Entity and AUM Resonance Protocol)
+
+| Field | Detail |
+|-------|--------|
+| **Description** | "Īśvara is the special entity untouched by kleśa, karma, karman, and vāsanā... His call-sign is the pranava [AUM]" (YS I.24-27). Repetition of AUM and contemplation of its meaning grants access. |
+| **Reconstruction** | A reference-grade entity used as a calibration point for the training protocol. Its untouched status makes it a known-good state that the operator aligns toward. AUM functions as a resonance access signal — a specific-frequency acoustic or mental trigger that establishes a channel to the reference entity. |
+| **Modern analog** | Entrainment via binaural beats / isochronic tones; resonant-frequency calibration in sensor alignment; mantra repetition as phase-locked-loop neural entrainment |
+
+### 13.3 Aṣṭāṅga Yoga (8-Stage Operator Conditioning Curriculum)
+
+| Field | Detail |
+|-------|--------|
+| **Description** | An 8-stage progressive training pipeline (YS II.29): yama (restraints), niyama (observances), āsana (posture/seating), prāṇāyāma (breath/energy regulation), pratyāhāra (sensory decoupling), dhāraṇā (single-point focus), dhyāna (uninterrupted focus stream), samādhi (absorption). |
+| **Reconstruction** | A sequentially structured operator conditioning program that builds from ethical/behavioral prerequisites (stages 1-2) through biological regulation (stages 3-4), sensorium decoupling (stage 5), to advanced concentration states (stages 6-7), culminating in full cognitive lockdown (stage 8). The curriculum is mandatory: impossible to achieve stage 8 without mastering stages 1-7. |
+| **Modern analog** | Military/special-operator training pipelines with sequential qualification gates; neurofeedback training progression; cognitive behavioral protocol staircases |
+
+### 13.4 Prāṇāyāma (Biological System Regulation Interface)
+
+| Field | Detail |
+|-------|--------|
+| **Description** | "Regulation of the inhalation and exhalation of breath" (YS II.49-53). Breath is interrupted, held, or extended under controlled conditions. The practice "removes the covering of light" and makes the mind "fit for concentration." |
+| **Reconstruction** | Deliberate modulation of autonomic nervous system state via respiratory control. Breath-hold, extended exhalation, and rhythmic patterns shift the autonomic balance from sympathetic to parasympathetic dominance, alter blood chemistry (CO2/O2 ratio), and produce quantifiable changes in cortical activity. |
+| **Modern analog** | Wim Hof method, HRV biofeedback, tactical breathing (4-7-8, box breathing) for operational stress regulation |
+
+### 13.5 Siddhi Catalog (Supernormal Operator Capabilities)
+
+| Field | Detail |
+|-------|--------|
+| **Description** | The Vibhūti Pāda (Book III) catalogs 40+ abilities obtainable through saṃyama (focused application of dhāraṇā+dhyāna+samādhi to a specific object/domain). These include: knowledge of past/future (III.16), telepathy (III.19-20), invisibility (III.21), levitation (III.42-43), remote viewing (III.25-26), strength of cosmic entities (III.24), multi-body projection (III.38). |
+| **Reconstruction** | A menu of deployable capabilities accessed by achieving specific cognitive lock states while targeting specific system interfaces. Each ability corresponds to a known functional domain accessible from the decoupled consciousness state. The saṃyama technique is a universal access method: apply the lockdown protocol to a specific target domain → new capability emerges. |
+| **Modern analog** | No direct analog — these exceed currently verified neurocognitive capabilities. Partial parallels: sensory substitution devices, brain-computer interfaces, deep hypnosis phenomena, psychophysical training results |
+
+### 13.6 Kaivalya (Full System Decoupling Protocol)
+
+| Field | Detail |
+|-------|--------|
+| **Description** | "Puruṣa is then established in its own essential nature" (YS I.3, IV.34). "The return of the guṇas [system components] to their source, now without purpose for the puruṣa — that is Kaivalya. Or: the power of consciousness established in its own nature." |
+| **Reconstruction** | The terminal state of the training protocol: the consciousness entity (puruṣa) is fully decoupled from all system interfaces — cognitive, sensory, biological, karmic. The system components (guṇas) continue operating but no longer bind or influence the puruṣa. The operator has achieved full exit from the substrate without physical death. |
+| **Modern analog** | Theoretical: permanent dissociation of consciousness from all cognitive/biological processing; a consciousness state with zero system coupling |

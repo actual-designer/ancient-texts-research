@@ -7,6 +7,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.5.0] — 2026-05-16
+
+### Added
+
+- **Per-text analysis:**
+  - **Yoga Sutras** (`audit/analyses/yoga-sutras.md`) — 6-incident forensic analysis covering: citta-vṛtti-nirodha (consciousness lockdown protocol), Īśvara as reference-grade entity with AUM resonance call-sign, five kleśas as cognitive lock-in architecture, Aṣṭāṅga yoga as 8-stage operator conditioning curriculum, siddhi catalog (40+ supernormal capabilities), Kaivalya as full system decoupling.
+- **Source files (2):**
+  - `texts/yoga-sutras-patanjali.pdf` — Madhvācārya/Beloved 2007 translation (239 pp).
+  - `texts/yoga-sutras-patanjali.txt` — plain-text extraction for search indexing.
+- **Planning document:**
+  - `audit/10-correlation-map.md` — Phase 1 deliverable: per-text perspective inventory, 8 thematic correlation clusters, complete linking blueprint for Phase 2 hyperlink retrofit.
+
+### Updated
+
+- **Phase 2 hyperlink retrofit — all 20 content documents** received cross-reference links:
+  - **9 previously unlinked per-text analyses** (atrahasis, book-of-the-dead, enoch-watchers, ezekiel-merkabah, gilgamesh, poetic-edda, revelation, rig-veda, theogony-works-and-days, zoroastrian-gathas) — ~218 inline links added connecting parallel incidents across sources.
+  - **4 already-linked analyses** (pyramid-texts, rig-veda, mahabharata, popol-vuh) — ~19 gap-fill links added.
+  - **4 synthesis documents** (05-great-reset, 06-weapons-doctrine, 07-the-human-project, 09-location-registry) — ~16 inline source citation links added.
+  - `audit/00-INDEX.md` — 10-correlation-map.md entry added to synthesis table.
+  - `audit/01-entity-registry.md` — Yoga Sutras theater added: Īśvara (Tier 2 reference entity), Patañjali (Tier 3 human compiler), system architecture (puruṣa, citta), managed principles (kleśas, Kaivalya). Scope updated to 14 foundational texts.
+  - `audit/02-technology-catalog.md` — New section 13 (Consciousness Training and Operator Conditioning): 6 entries covering the full Yoga Sutras protocol stack. Scope updated to 14 texts.
+  - `audit/04-cross-references.md` — 4 new cross-reference rows: consciousness training/operator conditioning, consciousness lockdown state, multi-stage operator qualification, omega-point consciousness state. Scope updated to 14 texts.
+
+---
+
 ## [0.4.0] — 2026-05-16
 
 ### Added

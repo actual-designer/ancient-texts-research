@@ -10,11 +10,11 @@
 
 The Gathas are the oldest Zoroastrian texts (attributed to Zarathushtra, ~1000 BCE). Unlike narrative mythologies, the Gathas are liturgical hymns — direct doctrinal transmission from Zarathushtra documenting:
 
-1. A **dual-operator ontology** (Spenta Mainyu — creative intelligence vs. Angra Mainyu — destructive counter-entity)
-2. Seven **Amesha Spenta functional terminals** (Ameshaspends = divine operational aspects)
-3. A **soul lifecycle and judgment protocol** (Chinvat Bridge — post-body assessment)
-4. A **predicted system renewal** (*Frashokereti* — final purification and restoration)
-5. A **manifesto against existing non-human command** (the Daevas — inferior entities worshipped by corrupt priests)
+1. A **dual-operator ontology** (Spenta Mainyu — creative intelligence vs. Angra Mainyu — destructive counter-entity) (see [theogony-works-and-days.md](theogony-works-and-days.md): Ouranos/Kronos/Zeus succession)
+2. Seven **Amesha Spenta functional terminals** (Ameshaspends = divine operational aspects) (see [enoch-watchers.md](enoch-watchers.md): 7 holy angels)
+3. A **soul lifecycle and judgment protocol** (Chinvat Bridge — post-body assessment) (see [book-of-the-dead.md](book-of-the-dead.md): Weighing of the Heart)
+4. A **predicted system renewal** (*Frashokereti* — final purification and restoration) (see [revelation.md](revelation.md): New Heaven/Earth)
+5. A **manifesto against existing non-human command** (the Daevas — inferior entities worshipped by corrupt priests) (see [enoch-watchers.md](enoch-watchers.md): Watcher judgment)
 
 The Gathas differ fundamentally from other archive sources: they are first-person revelation claims from a single human prophet, not cultural narrative. This is significant — Zarathushtra describes the non-human command structure as he claims to have directly witnessed it, and prescribes a break from its existing forms.
 
@@ -34,11 +34,11 @@ Zoroastrian dualism: two opposing spirits representing good and evil.
 
 ### The Archive's Literal Reconstruction
 
-The Gathas describe two co-original operating principles, not gods. Spenta Mainyu ("Bounteous/Progressive Spirit") is the creative intelligence driving ordered reality (*Asha* — cosmic law). Angra Mainyu ("Destructive/Hostile Spirit") is a counter-principle of active opposition. They are "twins" — generated from the same source but making divergent choices. This is a dual-operator system at the highest level, below Ahura Mazda (the uncreated wise lord). Both operate within the framework of Ahura Mazda's sovereignty — the Gathas are monist in final authority, not absolute dualist.
+The Gathas describe two co-original operating principles, not gods (see [theogony-works-and-days.md](theogony-works-and-days.md): Chaos → Gaia → Ouranos). Spenta Mainyu ("Bounteous/Progressive Spirit") is the creative intelligence driving ordered reality (*Asha* — cosmic law). Angra Mainyu ("Destructive/Hostile Spirit") is a counter-principle of active opposition. They are "twins" — generated from the same source but making divergent choices. This is a dual-operator system at the highest level, below Ahura Mazda (the uncreated wise lord). Both operate within the framework of Ahura Mazda's sovereignty — the Gathas are monist in final authority, not absolute dualist.
 
 ### Plausible Mechanism
 
-**A dual-operator system at the executive level below supreme command.** One operator manages constructive/ordered reality; the second operates as deliberate adversarial counter-force — a designed opposition to test or stress the system.
+**A dual-operator system at the executive level below supreme command** (see [poetic-edda.md](poetic-edda.md): Aesir/Vanir). One operator manages constructive/ordered reality; the second operates as deliberate adversarial counter-force — a designed opposition to test or stress the system.
 
 ---
 
@@ -63,7 +63,7 @@ The seven archangels or divine emanations.
 
 ### The Archive's Literal Reconstruction
 
-The Amesha Spenta are functional operational terminals — each governing a domain of reality. This is a seven-terminal command architecture with Ahura Mazda at the head. Each has a specific operational jurisdiction:
+The Amesha Spenta are functional operational terminals — each governing a domain of reality (see [01-entity-registry.md](../01-entity-registry.md)). This is a seven-terminal command architecture with Ahura Mazda at the head. Each has a specific operational jurisdiction:
 
 | Terminal | Domain | Archive Interpretation |
 |----------|--------|----------------------|
@@ -75,7 +75,7 @@ The Amesha Spenta are functional operational terminals — each governing a doma
 | Ameretat | Immortality | Entity lifecycle extension |
 | Ahura Mazda (Supreme) | All | Supreme command / oversight |
 
-Each Amesha Spenta is paired with a material domain that it "presides over": Khshatra Vairya = sky/metal, Spenta Armaiti = earth, Haurvatat = water, Ameretat = plants, Asha Vahishta = fire, Vohu Manah = cattle. This maps operational responsibility onto planetary systems.
+Each Amesha Spenta is paired with a material domain that it "presides over": Khshatra Vairya = sky/metal, Spenta Armaiti = earth, Haurvatat = water, Ameretat = plants, Asha Vahishta = fire, Vohu Manah = cattle (see [mahabharata.md](mahabharata.md): deva portfolios). This maps operational responsibility onto planetary systems.
 
 ### Plausible Mechanism
 
@@ -97,7 +97,7 @@ Zoroastrian judgment after death: the Chinvat Bridge.
 
 ### The Archive's Literal Reconstruction
 
-The Chinvat Bridge is an entity assessment gateway that evaluates individual entities post-body-interface termination. Criteria: conformity to *Asha* (system order/truth). Three assessment operators preside: Mithra (contract compliance), Sraosha (disciplined observance), Rashnu (exact measurement). Successful passage → House of Song (light, knowledge, functional continuation). Failure → House of Darkness (informational/temporal isolation). Unlike eternal damnation, Zoroastrian punishment is reformative and time-limited — leading to eventual restoration.
+The Chinvat Bridge is an entity assessment gateway that evaluates individual entities post-body-interface termination (see [book-of-the-dead.md](book-of-the-dead.md): 42 Assessors). Criteria: conformity to *Asha* (system order/truth). Three assessment operators preside: Mithra (contract compliance), Sraosha (disciplined observance), Rashnu (exact measurement) (see [popol-vuh.md](popol-vuh.md): Xibalbá lords). Successful passage → House of Song (light, knowledge, functional continuation) (see [book-of-the-dead.md](book-of-the-dead.md): Field of Reeds). Failure → House of Darkness (informational/temporal isolation) (see [book-of-the-dead.md](book-of-the-dead.md): Tuat). Unlike eternal damnation, Zoroastrian punishment is reformative and time-limited — leading to eventual restoration.
 
 ### Plausible Mechanism
 
@@ -119,7 +119,7 @@ Zarathushtra denounces pagan gods (Daevas) as demons.
 
 ### The Archive's Literal Reconstruction
 
-This is the most politically explosive incident. The Daevas are existing non-human entities worshipped by the established priesthood. Zarathushtra issues a direct integrity report: these entities are compromised — they have aligned with the destructive counter-principle (Angra Mainyu) instead of the constructive one. He exposes their operators as deceitful ("of the Druj"). The Gathas record that the Daevas "rushed into Wrath" (*Aeshma*), indicating a known behavioral deviation. Zarathushtra's mission is to restore correct protocol compliance — worship of Ahura Mazda through the proper terminals, not through corrupted intermediaries.
+This is the most politically explosive incident. The Daevas are existing non-human entities worshipped by the established priesthood (see [revelation.md](revelation.md): Dragon as rogue commander). Zarathushtra issues a direct integrity report: these entities are compromised — they have aligned with the destructive counter-principle (Angra Mainyu) instead of the constructive one. He exposes their operators as deceitful ("of the Druj"). The Gathas record that the Daevas "rushed into Wrath" (*Aeshma*), indicating a known behavioral deviation. Zarathushtra's mission is to restore correct protocol compliance — worship of Ahura Mazda through the proper terminals, not through corrupted intermediaries (see [enoch-watchers.md](enoch-watchers.md): Watcher rogue deployment).
 
 ### Plausible Mechanism
 
@@ -141,11 +141,11 @@ Zoroastrian eschatology: final judgment, resurrection, world renewal.
 
 ### The Archive's Literal Reconstruction
 
-*Frashokereti* ("making wonderful/excellent") is a predicted terminal system refresh: all dead operators are restored (universal resurrection), the destructive principle (Angra Mainyu/Druj) is neutralized, all entities become functional (immortal = no further degradation). The final assessment involves a river of molten metal — all entities must walk through it; for the righteous it is warm milk, for the wicked it is burning pain — a purgative detection protocol. Time is finite: good succeeds absolutely.
+*Frashokereti* ("making wonderful/excellent") is a predicted terminal system refresh: all dead operators are restored (universal resurrection), the destructive principle (Angra Mainyu/Druj) is neutralized, all entities become functional (immortal = no further degradation) (see [revelation.md](revelation.md): Vials/New Jerusalem). The final assessment involves a river of molten metal — all entities must walk through it; for the righteous it is warm milk, for the wicked it is burning pain — a purgative detection protocol (see [revelation.md](revelation.md): lake of fire). Time is finite: good succeeds absolutely.
 
 ### Plausible Mechanism
 
-**Predicted terminal system renewal with full entity restoration and purification.** Molten metal is a detection/purification medium that differentiates based on entity state.
+**Predicted terminal system renewal with full entity restoration and purification** (see [pyramid-texts.md](pyramid-texts.md): Imperishable Stars). Molten metal is a detection/purification medium that differentiates based on entity state.
 
 ---
 
@@ -172,7 +172,7 @@ Zoroastrian eschatology: final judgment, resurrection, world renewal.
 
 ---
 
-## TECHNOLOGY INDEX
+## TECHNOLOGY INDEX (see [02-technology-catalog.md](../02-technology-catalog.md))
 
 | Description in Text | Archive Interpretation |
 |---------------------|----------------------|

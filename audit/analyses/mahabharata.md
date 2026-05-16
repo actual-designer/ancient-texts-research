@@ -147,7 +147,7 @@ The Mahābhārata is the archive's densest operational dossier: a longitudinal r
 |-------|---------|
 | **Source Material** | The hierarchy is displayed during Arjuna's birth: "Dhatri, Aryaman, Mitra, Varuna, Bhaga, Indra, Vivaswat, Pushan, Tvastri, Parjanya and Vishnu: the twelve Adityas come to that hermitage... these eleven Rudras also come to see and bless the glorious child. The Aswin twins, the eight Vasus, the mighty Maruts, the Viswedevas, and the Sadhyas come to Satasringa, too" (Menon, Canto 123). Below them: "Among the Apsaras that dance to the music of the Gandharvas" -- Rambhā, Tilottamā, Urvāśī and dozens more are listed as arriving. The Brāhmaṇs at the Svayaṃvara note overhead traffic: "Bright Immortals gaily crowding viewed the scene surpassing fair, / Heavenly blossoms soft descending with a perfume filled the air, / Bright celestial cars in concourse sailed upon the cloudless sky" (Dutt, Book II). |
 | **Mainstream Interpretation** | Polytheistic cosmology with specialized portfolios. |
-| **The Archive's Literal Reconstruction** | **Tier 1:** Trimūrti not necessarily three bodies -- plausible **department masks** for continuity-of-government across extinction-grade events (creation/maintenance/destruction portfolios). **Tier 2:** Indra etc. = regional/theater commanders with discrete budgets (weather, oceans, death-registration systems literalized as Yama's ledger). **Tier 3:** Gandharva/Apsaras = psychological warfare + morale division; Rākṣasa = uplifted megafaunal humanoids or power-armored infantry mistaken for ogres; Nāga = subterranean habitat engineers / nanite vein miners. Ṛṣis correspond to **Enoch-class scribes** bridging clearance gaps ([01-entity-registry.md](../01-entity-registry.md)). |
+| **The Archive's Literal Reconstruction** | **Tier 1:** Trimūrti not necessarily three bodies -- plausible **department masks** for continuity-of-government across extinction-grade events (creation/maintenance/destruction portfolios). **Tier 2:** Indra etc. = regional/theater commanders with discrete budgets (weather, oceans, death-registration systems literalized as Yama's ledger). **Tier 3:** Gandharva/Apsaras = psychological warfare + morale division (see [poetic-edda.md](poetic-edda.md): Valkyries as extraction/retrieval units); Rākṣasa = uplifted megafaunal humanoids or power-armored infantry mistaken for ogres; Nāga = subterranean habitat engineers / nanite vein miners. Ṛṣis correspond to **Enoch-class scribes** bridging clearance gaps ([01-entity-registry.md](../01-entity-registry.md)). |
 | **Plausible Mechanism** | Factional extraterrestrial administrative corps; earth-native uplifted clades; symbolic consolidation of independent AI departments under anthropomorphic callsigns. |
 
 ---
@@ -158,7 +158,7 @@ The Mahābhārata is the archive's densest operational dossier: a longitudinal r
 |-------|---------|
 | **Source Material** | Churning of the ocean produces *amṛta* (consumption confers deathlessness within narrative physics). When Garuḍa steals the Amṛta for the Nāgas, the snakes tell him: "Bring us the Amrita and then, O Bird, you will be free" (Menon, Canto 27). Seven *ciranjīvin* figures endure across epochs. Aśvatthāmā is punished with immortality inside suffering -- wandering, isolated -- after deploying the forbidden astra against Uttarā's womb: "Krishna tells Kunti to take the lifeless child onto her lap, and he says, 'I will revive this child of six months'" (Menon, Canto 95). |
 | **Mainstream Interpretation** | Mythic nectar rewarding gods; moral curse narrative. |
-| **The Archive's Literal Reconstruction** | Amṛta = **telomere-reset compound** or **cellular error-correction nanotech** administered orally (cultural metaphor: nectar). Theft/asura interception parallels Gilgamesh plant-snake loss sequence ([gilgamesh.md](gilgamesh.md)). Ciranjīvin roster = **confirmed Tier 2 retirees** kept on asset registry without aging decay (compare Utanapištim grant). Aśvatthāmā sentence = **witness quarantine**: indestructible recorder barred from social graph -- prevents information bleed while preserving interrogation option ([03-event-timeline.md](../03-event-timeline.md)). |
+| **The Archive's Literal Reconstruction** | Amṛta = **telomere-reset compound** or **cellular error-correction nanotech** administered orally (cultural metaphor: nectar). Theft/asura interception parallels Gilgamesh plant-snake loss sequence ([gilgamesh.md](gilgamesh.md)). Ciranjīvin roster = **confirmed Tier 2 retirees** kept on asset registry without aging decay (compare Utanapištim grant). Aśvatthāmā sentence = **witness quarantine**: indestructible recorder barred from social graph -- prevents information bleed while preserving interrogation option ([03-event-timeline.md](../03-event-timeline.md)) (see [zoroastrian-gathas.md](zoroastrian-gathas.md): Daeva corruption as comparable integrity report). |
 | **Plausible Mechanism** | Senolytics + autophagy cascade amplifier; viral vectors immortalizing stem niche; ostracism enforced by RF geofencing implants interpreted as cosmic curse. |
 
 ---
@@ -271,6 +271,9 @@ The Mahābhārata is the archive's densest operational dossier: a longitudinal r
 | **The Archive's Literal Reconstruction** | Adds detail layer atop INCIDENT 16: **operator-bound stochastic exploit** -- dice keyed to Śakuni's EM signature or ferrous sweat chemistry altering tumble distribution while appearing fair to spectators lacking instrumentation. Cognitive warfare complements kinetic postponement -- delaying Pandava readiness allows procurement cycles favorable to Kurus for upgraded armor bundles sourced via allied kingdom industrial bases (implicit logistics epic rarely sung). |
 | **Plausible Mechanism** | Weight-biased tesserae + practiced throwing kinematics; mundane cheating elevated by bardic inflation -- Archive retains weaker hypothesis pending metallurgical sampling fictionally unavailable. |
 
+## TECHNOLOGY INDEX
+Key technologies: Viśvakarman-fabricated weapons (see [02-technology-catalog.md](../02-technology-catalog.md)), vimanas as field-propulsion aerospace platforms, astras as tier-restricted weapons packages, bio-integrated armor subsystems.
+
 ---
 
 ## Cross-Cutting Synthesis & Archive Hooks
@@ -283,6 +286,8 @@ The Mahābhārata is the archive's densest operational dossier: a longitudinal r
 | Throne-class radiant hazard | Viśvarūpa / deva manifestations | [ezekiel-merkabah.md](ezekiel-merkabah.md), [enoch-watchers.md](enoch-watchers.md) |
 | Rapid fabrication biology | Droṇa vessel birth; fire-born siblings | [gilgamesh.md](gilgamesh.md), [atrahasis.md](atrahasis.md) |
 | Technology embargo & dual-key custody | Astra initiation curricula | [02-technology-catalog.md](../02-technology-catalog.md) |
+| Orbital regime-change parallel | War in Heaven (Dragon's ejection) | [revelation.md](revelation.md) |
+| Command coup sequence | Ouranos→Kronos→Zeus succession | [theogony-works-and-days.md](theogony-works-and-days.md) |
 
 ---
 

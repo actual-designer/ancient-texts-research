@@ -10,12 +10,12 @@
 
 The Book of the Dead (*Per-t em Hru* -- "Coming Forth by Day") is the companion procedural manual to the Pyramid Texts. Where the Pyramid Texts provide the **architectural schematic** of the post-mortem processing pipeline (Duat -> Akhet -> Sky), the Book of the Dead provides the **user credentials and navigation protocols** for traversing it. Under the Amnesia hypothesis, it documents:
 
-1. A **credential verification system** (the Weighing of the Heart/Great Reckoning) that assesses subject eligibility for processing
-2. A **distributed identity-attestation protocol** (the Negative Confession) -- the subject declares their fitness before a panel of 42 assessors
-3. A **multi-stage gated transit system** with named gatekeepers, porters, and watchmen -- each requiring specific passwords or identity declarations
-4. A **form-reassignment capability** (the Chapters of Transformation) allowing the processed entity to assume 12 distinct operational configurations
-5. A **consciousness-extraction and reintegration protocol** (the Heart Spells, Opening of the Mouth)
-6. A mapped **facility geography** (the Tuat, the Hall of Maati, the Field of Reeds) with named zones, barriers, and transit craft
+1. A **credential verification system** (the Weighing of the Heart/Great Reckoning) that assesses subject eligibility for processing (see [zoroastrian-gathas.md](zoroastrian-gathas.md): Chinvat Bridge)
+2. A **distributed identity-attestation protocol** (the Negative Confession) -- the subject declares their fitness before a panel of 42 assessors (see [pyramid-texts.md](pyramid-texts.md): Duat judgment)
+3. A **multi-stage gated transit system** with named gatekeepers, porters, and watchmen -- each requiring specific passwords or identity declarations (see [popol-vuh.md](popol-vuh.md): Xibalbá)
+4. A **form-reassignment capability** (the Chapters of Transformation) allowing the processed entity to assume 12 distinct operational configurations (see [poetic-edda.md](poetic-edda.md): Odin's runes)
+5. A **consciousness-extraction and reintegration protocol** (the Heart Spells, Opening of the Mouth) (see [ezekiel-merkabah.md](ezekiel-merkabah.md): Valley of Dry Bones)
+6. A mapped **facility geography** (the Tuat, the Hall of Maati, the Field of Reeds) with named zones, barriers, and transit craft (see [02-technology-catalog.md](../02-technology-catalog.md))
 
 The Book of the Dead is a **procedural handbook for identity migration**: a complete guide for a human consciousness to transition from biological substrate to post-biological operational status within the non-human facility network.
 
@@ -46,7 +46,7 @@ The text's claimed origin -- cut into stone "inlaid with lapis lazuli" -- descri
 
 ### Plausible Mechanism
 
-**Consciousness-migration protocol for transition from biological to post-biological substrate.** The text functions as both operating manual and access credential. Its encoding in stone and lapis lazuli suggests data preservation on a durable medium. The dietary restrictions for the reciting operator suggest physiological prerequisites -- the operator must be in a specific metabolic state.
+**Consciousness-migration protocol for transition from biological to post-biological substrate** (see [07-the-human-project.md](../07-the-human-project.md)). The text functions as both operating manual and access credential. Its encoding in stone and lapis lazuli suggests data preservation on a durable medium. The dietary restrictions for the reciting operator suggest physiological prerequisites -- the operator must be in a specific metabolic state.
 
 ---
 
@@ -66,12 +66,12 @@ A moral judgment scene: the deceased's heart is weighed against truth to determi
 
 ### The Archive's Literal Reconstruction
 
-The "Weighing of the Heart" is an **identity verification and integrity check**. The heart (*ab*) was considered the seat of consciousness, will, and identity. Placing it on a balance against the "feather of truth" (*Maat*) is a metaphor for a **biometric or quantum-state comparison**: is the subject's identity signature identical to its recorded reference?
+The "Weighing of the Heart" is an **identity verification and integrity check** (see [revelation.md](revelation.md): Book of Life). The heart (*ab*) was considered the seat of consciousness, will, and identity. Placing it on a balance against the "feather of truth" (*Maat*) is a metaphor for a **biometric or quantum-state comparison**: is the subject's identity signature identical to its recorded reference?
 
 Supporting details:
 - The balance is operated by Anubis (Anpu), who is explicitly "in charge of the pointer" -- a calibration authority
 - Thoth records the result in writing -- a formal assessment document
-- The monster Amemit ("Eater of the Dead") waits to consume hearts that fail -- failed entities are **terminated and consumed**, not stored
+- The monster Amemit ("Eater of the Dead") waits to consume hearts that fail -- failed entities are **terminated and consumed**, not stored (see [revelation.md](revelation.md): lake of fire)
 - The beam "remained perfectly horizontal" for Ani -- his identity signature matched perfectly
 - The gods declare Ani "true of voice" and call him "Osiris" -- he is granted the same designation as the original processed entity, indicating successful replication of the target state
 
@@ -101,7 +101,7 @@ A ritual declaration of innocence before the gods -- the deceased lists sins the
 
 ### The Archive's Literal Reconstruction
 
-The "Negative Confession" is a **structured identity attestation protocol** before a panel of 42 assessors. Each assessor is named and has a specific geographic origin ("comer forth from Anu," "from Khemenu," etc.), which may represent their jurisdiction or facility of origin. The subject addresses each by name and declares compliance with a specific rule.
+The "Negative Confession" is a **structured identity attestation protocol** before a panel of 42 assessors (see [01-entity-registry.md](../01-entity-registry.md)). Each assessor is named and has a specific geographic origin ("comer forth from Anu," "from Khemenu," etc.), which may represent their jurisdiction or facility of origin. The subject addresses each by name and declares compliance with a specific rule.
 
 The 42 declarations cover: social ethics (no murder, no theft), economic integrity (no false weights, no land theft), ritual purity (no defilement), environmental responsibility (no dam blocking, no fire suppression), and administrative compliance (no altering of measures, no false testimony).
 
@@ -111,7 +111,7 @@ After the confession, the subject must repeat the **magical names of the doors, 
 
 ### Plausible Mechanism
 
-**Multi-stage identity verification with distributed attestation.** The 42 assessors are a verification panel, each confirming a specific aspect of the subject's operational history. The naming of assessors and door components functions as an authentication challenge: an unauthorized entity would not know the correct names. The threshold naming is a physical access-control system -- each component (door, bolt, frame, floor) verifies the subject independently before opening.
+**Multi-stage identity verification with distributed attestation** (see [zoroastrian-gathas.md](zoroastrian-gathas.md): 3 assessment operators). The 42 assessors are a verification panel, each confirming a specific aspect of the subject's operational history. The naming of assessors and door components functions as an authentication challenge: an unauthorized entity would not know the correct names. The threshold naming is a physical access-control system -- each component (door, bolt, frame, floor) verifies the subject independently before opening.
 
 ---
 
@@ -131,16 +131,16 @@ Mythological gates and guardians that the soul must pass through on its journey 
 
 ### The Archive's Literal Reconstruction
 
-A **multi-chamber, multi-stage access-control system** with 7 or 21 sequential checkpoints (depending on the version). Each checkpoint has:
+A **multi-chamber, multi-stage access-control system** with 7 or 21 sequential checkpoints (depending on the version) (see [popol-vuh.md](popol-vuh.md): Xibalbá). Each checkpoint has:
 - A **porter** who controls the door mechanism
 - A **watchman** who detects approaching subjects
 - A **messenger** who communicates with central command
 
 Entry requires knowing **four names**: the Hall's name, the porter's name, the watchman's name, and the messenger's name. This is a **four-factor authentication**: destination identifier + three independent operator verifications.
 
-The sequence of chambers (Arit) in the Kingdom of Osiris described in Chapters CXLIV-CXLVII constitutes a **linear processing pipeline** with named thresholds, each with distinct security personnel and access requirements. The system parallels Xibalbá (Popol Vuh: 6 chambers with named tests), Ezekiel's Temple (nested gates with decontamination protocols), and the Pyramid Texts' Duat transit.
+The sequence of chambers (Arit) in the Kingdom of Osiris described in Chapters CXLIV-CXLVII constitutes a **linear processing pipeline** with named thresholds, each with distinct security personnel and access requirements (see [popol-vuh.md](popol-vuh.md): Xibalbá 6 chambers). The system parallels Xibalbá (Popol Vuh: 6 chambers with named tests), Ezekiel's Temple (nested gates with decontamination protocols), and the Pyramid Texts' Duat transit.
 
-An important behavioral detail: the subject may issue threats if passage is denied ("If you do not make a place for me, I will make a curse"). The system has an **escalation protocol** -- the subject is authorized to exercise override authority if improperly blocked.
+An important behavioral detail: the subject may issue threats if passage is denied ("If you do not make a place for me, I will make a curse"). The system has an **escalation protocol** -- the subject is authorized to exercise override authority if improperly blocked (see [ezekiel-merkabah.md](ezekiel-merkabah.md): temple gates).
 
 ### Plausible Mechanism
 
@@ -162,7 +162,7 @@ The heavenly courtroom where the soul is judged by Osiris and his divine tribuna
 
 ### The Archive's Literal Reconstruction
 
-The Hall of Maati is a **single assessment facility** with a defined layout:
+The Hall of Maati is a **single assessment facility** with a defined layout (see [pyramid-texts.md](pyramid-texts.md): Duat processing):
 
 | Component | Position | Function |
 |-----------|----------|----------|
@@ -201,15 +201,15 @@ The Egyptian paradise -- a heavenly version of the Nile Valley where the blessed
 
 ### The Archive's Literal Reconstruction
 
-The Field of Reeds (Sekhet Aaru) is a **post-processing settlement zone** -- a habitable environment designed for entities that have completed the assessment protocol. Key features:
+The Field of Reeds (Sekhet Aaru) is a **post-processing settlement zone** -- a habitable environment designed for entities that have completed the assessment protocol (see [pyramid-texts.md](pyramid-texts.md): Field of Offerings). Key features:
 
 - **Controlled environment:** Canals of running water, no fish or worms (no biological decay vectors)
 - **Access control:** The "Island of Truth" requires ferry passage, and the ferryman only transports verified entities ("true of word")
 - **Pre-existing population:** The subject finds "the souls of his ancestors" already present -- a maintained community of prior processed entities
 - **Productive activity:** The subjects engage in agriculture -- but the descriptions also note "spirit boats" that "moved of themselves" and carried inhabitants "without any trouble or fatigue" -- suggesting automation is available but manual activity is permitted
-- **Physical transformation:** Inhabitants are described as "seven cubits in height" (~12 feet / 3.7 meters) -- the processed entities are physically larger than baseline humans
+- **Physical transformation:** Inhabitants are described as "seven cubits in height" (~12 feet / 3.7 meters) -- the processed entities are physically larger than baseline humans (see [revelation.md](revelation.md): New Jerusalem inhabitants)
 
-The wheat they harvest is described as the "members of Osiris" -- a direct statement that the settlement's food production is interlinked with the command entity's own substance. Osiris is called "the Wheat-god" and the "personification of Maat." The inhabitants "live upon the body of their god and ate him daily" -- the "Bread of Everlastingness" sustains them through direct integration with the command entity's matter-energy system.
+The wheat they harvest is described as the "members of Osiris" -- a direct statement that the settlement's food production is interlinked with the command entity's own substance. Osiris is called "the Wheat-god" and the "personification of Maat." The inhabitants "live upon the body of their god and ate him daily" -- the "Bread of Everlastingness" sustains them through direct integration with the command entity's matter-energy system (see [gilgamesh.md](gilgamesh.md): immortality grant).
 
 ### Plausible Mechanism
 
@@ -229,7 +229,7 @@ Magical transformations allowing the soul to take various forms to navigate the 
 
 ### The Archive's Literal Reconstruction
 
-The 12 Chapters of Transformation list **distinct operational configurations** the processed entity can assume. Each form has specific functional properties:
+The 12 Chapters of Transformation list **distinct operational configurations** the processed entity can assume (see [mahabharata.md](mahabharata.md): vibhuti). Each form has specific functional properties:
 
 | Form | Domain | Likely Function |
 |------|--------|-----------------|
@@ -276,7 +276,7 @@ The Tuat is described with **specific physical properties**: no air, no water, n
 
 The deceased's complaint -- "What is this to which I have come?" -- suggests the Tuat was understood as a necessary transitional zone, not a destination. The "dead rot and decay" there because it is an **unprocessed holding area** -- bodies brought here without completing the assessment protocol would simply deteriorate.
 
-The Tuat's position "extending from the earth to the sky" and "on the borders of the visible world" describes a **vertical transit corridor** connecting the surface (Earth) to an orbital or high-altitude destination (Sky). This is the same transit path described in the Pyramid Texts: the corridor connecting the burial chamber (Duat) to the exit point (Akhet) and ultimately to the sky.
+The Tuat's position "extending from the earth to the sky" and "on the borders of the visible world" describes a **vertical transit corridor** connecting the surface (Earth) to an orbital or high-altitude destination (Sky) (see [pyramid-texts.md](pyramid-texts.md): vertical transit shaft). This is the same transit path described in the Pyramid Texts: the corridor connecting the burial chamber (Duat) to the exit point (Akhet) and ultimately to the sky.
 
 ### Plausible Mechanism
 
@@ -298,7 +298,7 @@ A funerary ritual to restore the deceased's ability to eat, drink, and speak in 
 
 ### The Archive's Literal Reconstruction
 
-The Opening of the Mouth is a **system activation sequence** for the post-biological entity. The mummy (biological remains) has its mouth opened with a specific tool (an "iron knife" -- a metal instrument, explicitly distinct from the stone tools used in traditional burial). Three operators perform distinct roles:
+The Opening of the Mouth is a **system activation sequence** for the post-biological entity. The mummy (biological remains) has its mouth opened with a specific tool (an "iron knife" -- a metal instrument, explicitly distinct from the stone tools used in traditional burial) (see [ezekiel-merkabah.md](ezekiel-merkabah.md): Dry Bones reanimation). Three operators perform distinct roles:
 - **Thoth:** Recites the activation sequence ("spells")
 - **Ptah:** Physically unties the mummy's bandages
 - **Shu:** Performs the mechanical opening with a metal blade
@@ -307,7 +307,7 @@ After activation, the entity obtains "power to breathe and think and drink and e
 
 Chapter IB's mention of "Nine Worms that lived on the dead" describes biological decomposers -- if the body is not processed quickly enough, it decays. The protocol must be executed before biological degradation is complete.
 
-The "iron knife" is significant: metal tools were associated with the gods (the "iron of heaven" -- meteoric iron). The Opening of the Mouth is a **technological activation procedure**, not a ritual.
+The "iron knife" is significant: metal tools were associated with the gods (the "iron of heaven" -- meteoric iron). The Opening of the Mouth is a **technological activation procedure**, not a ritual (see [theogony-works-and-days.md](theogony-works-and-days.md): adamantine sickle).
 
 ### Plausible Mechanism
 
@@ -343,7 +343,7 @@ Chapter XLIV is described as "an ancient and mighty spell, the recital of which 
 
 ## KEY ENTITIES
 
-| Designation | Role | Archive Classification |
+| Designation | Role | Archive Classification (see [01-entity-registry.md](../01-entity-registry.md)) |
 |-------------|------|----------------------|
 | Ra / Amen-Ra | Solar command authority, King of the Gods | Tier 1 -- Primary system intelligence, diurnal cycle regulator |
 | Osiris (Un-Nefer) | Post-mortem processing authority, Judge of the Dead | Tier 1 -- Deceased and reassembled entity, operational commander of the Tuat facility |
@@ -360,7 +360,7 @@ Chapter XLIV is described as "an ancient and mighty spell, the recital of which 
 
 ---
 
-## TECHNOLOGY INDEX
+## TECHNOLOGY INDEX (see [02-technology-catalog.md](../02-technology-catalog.md))
 
 | Description in Text | Archive Interpretation |
 |---------------------|----------------------|

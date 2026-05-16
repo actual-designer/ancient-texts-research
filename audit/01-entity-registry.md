@@ -1,7 +1,7 @@
 # Entity Registry -- Non-Human Actors Across All Sources
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
-**Scope:** All thirteen foundational texts (see `audit/analyses/mahabharata.md` for Indian epic theater; `audit/analyses/popol-vuh.md` for Mesoamerican tradition; `audit/analyses/pyramid-texts.md` for Egyptian tradition; `audit/analyses/revelation.md` for projected terminal events; `audit/analyses/book-of-the-dead.md` for Egyptian post-mortem processing; `audit/analyses/poetic-edda.md` for Norse tradition; `audit/analyses/theogony-works-and-days.md` for Greek tradition; `audit/analyses/zoroastrian-gathas.md` for Zoroastrian tradition)
+**Scope:** All fourteen foundational texts (see `audit/analyses/mahabharata.md` for Indian epic theater; `audit/analyses/popol-vuh.md` for Mesoamerican tradition; `audit/analyses/pyramid-texts.md` for Egyptian tradition; `audit/analyses/revelation.md` for projected terminal events; `audit/analyses/book-of-the-dead.md` for Egyptian post-mortem processing; `audit/analyses/poetic-edda.md` for Norse tradition; `audit/analyses/theogony-works-and-days.md` for Greek tradition; `audit/analyses/zoroastrian-gathas.md` for Zoroastrian tradition; `audit/analyses/yoga-sutras.md` for Indian consciousness-training tradition)
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---
@@ -684,3 +684,33 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 |-------------|-------------|----------------------|
 | **Asha (Cosmic Order)** | Fundamental system law/integrity protocol | Protocol — System operating framework |
 | **Druj (Falsehood)** | Active counter-informational agent opposing Asha | Protocol — System corruption vector |
+
+---
+
+## YOGA SUTRAS THEATER (Consciousness Training Tradition)
+
+**Source:** `audit/analyses/yoga-sutras.md`
+**Chronological placement:** Non-narrative procedural manual (compiled ~200 BCE-400 CE, describing persistent operator training protocols)
+**Nature:** **Operator conditioning curriculum** — 8-stage training pipeline for human operators to achieve system-decoupled consciousness (Kaivalya)
+
+Unlike the narrative texts, the Yoga Sutras contain no named entities in the traditional sense. Instead, it describes **system architecture** — the components of consciousness that act as agents within the human cognitive system.
+
+### SYSTEM ARCHITECTURE — Components of Consciousness
+
+| Component | Description | Archive Classification |
+|-----------|-------------|----------------------|
+| **Īśvara** | Special entity untouched by kleśa/karma/karman/vāsanā; "teacher of the ancients"; referenced via AUM resonance call-sign | Tier 2 — Reference calibration entity; operating outside normal system constraints |
+| **Puruṣa (Draṣṭṛ)** | Pure consciousness/observer; inherently uninvolved, only "seeing" | Tier 2 — Baseline witness consciousness; Kaivalya restores this state |
+| **Citta** | The consciousness field being operated on; includes mind (manas), intelligence (buddhi), ego (ahaṃkāra) | System component — Target of the training protocol |
+| **Patañjali** | Compiler/editor of the sūtras; arranger of the training curriculum (2nd c. BCE-4th c. CE) | Tier 3 — Human compiler (cf. Vyāsa, Zarathushtra) |
+
+### MANAGED PRINCIPLES AND PHENOMENA
+
+| Designation | Description | Archive Classification |
+|-------------|-------------|----------------------|
+| **Citta-vṛtti-nirodha** (YS I.2) | Lockdown of consciousness-field modifications ("yoga") | Protocol — Consciousness lockdown state |
+| **Five Kleśas** (YS II.3) | Cognitive lock-in architecture: avidyā (identity blindness), asmitā (ego-fixation), rāga (attraction to past rewards), dveṣa (aversion to past threats), abhiniveśa (persistence-of-self drive) | Protocol — Substrate-level cognitive constraints engineered to bind consciousness to the system |
+| **Samprajñāta Samādhi** | Lower samādhi with cognitive scaffolding/object | Training state — Assisted consciousness lockdown |
+| **Asamprajñāta Samādhi** | Higher samādhi — mental modifications fully arrested | Training state — Complete consciousness lockdown |
+| **Dharma-megha-samādhi** | "Cloud of truth" samādhi; penultimate state before Kaivalya | Training state — Wisdom precipitation just prior to full decoupling |
+| **Kaivalya** (YS IV.34) | Complete system decoupling; puruṣa established in its own nature, fully independent of all system constraints | Terminal state — Full operator decoupling from system |

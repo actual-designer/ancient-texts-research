@@ -10,10 +10,10 @@
 
 Ezekiel is unique in the archive for three reasons: (1) it is precisely dated, (2) the witness is a trained priest with above-average observational discipline, and (3) the descriptions are mechanically specific to a degree unmatched by any other ancient text. Under the Amnesia hypothesis, Ezekiel documents:
 
-1. Close-range observation of an advanced aerial vehicle (the Merkabah)
-2. Forced transport of a human subject via directed energy or tractor-beam technology
-3. A reanimation protocol demonstrated on desiccated biological material (Valley of Dry Bones)
-4. Detailed architectural blueprints for a facility dictated by a non-human intelligence
+1. Close-range observation of an advanced aerial vehicle (the Merkabah) (see [enoch-watchers.md](enoch-watchers.md): crystal throne)
+2. Forced transport of a human subject via directed energy or tractor-beam technology (see [book-of-the-dead.md](book-of-the-dead.md): soul extraction)
+3. A reanimation protocol demonstrated on desiccated biological material (Valley of Dry Bones) (see [pyramid-texts.md](pyramid-texts.md): body reconstitution)
+4. Detailed architectural blueprints for a facility dictated by a non-human intelligence (see [revelation.md](revelation.md): New Jerusalem)
 
 ---
 
@@ -56,7 +56,7 @@ Ezekiel describes a complex aerial vehicle arriving from the north during a stor
 
 | Observed Feature | Technical Interpretation |
 |-----------------|------------------------|
-| "Four living beings" with "human form" | Four symmetrically arranged structural supports or robotic appendages |
+| "Four living beings" with "human form" | Four symmetrically arranged structural supports or robotic appendages (see [revelation.md](revelation.md): four beasts) |
 | "Four faces" per being (man, lion, ox, eagle) | Multi-directional sensor arrays or decorative insignia on each face of a tetrahedral structure |
 | "Four wings" per being | Articulated panels -- two in operational (extended) position, two in stowed (body-covering) position |
 | "Straight legs, calves' feet" | Cylindrical landing struts with broad, flat footpads |
@@ -69,7 +69,7 @@ Ezekiel describes a complex aerial vehicle arriving from the north during a stor
 | Observed Feature | Technical Interpretation |
 |-----------------|------------------------|
 | "Wheel on the ground beside each being" | Four ground-contact propulsion units |
-| "Wheel within a wheel" | Gyroscopic or omnidirectional wheel mechanism (a sphere-within-frame or gimbal system) |
+| "Wheel within a wheel" | Gyroscopic or omnidirectional wheel mechanism (a sphere-within-frame or gimbal system) (see [enoch-watchers.md](enoch-watchers.md): wheels like sun) |
 | "Could go in any of four directions without turning" | Omnidirectional movement -- confirms gyroscopic ball-drive or similar |
 | "Rims full of eyes all around" | Sensor arrays: optical, infrared, or LIDAR elements distributed around the rim |
 | "Spirit of the living being was in the wheel" | Integrated control system -- the navigation intelligence resides in the propulsion unit itself |
@@ -79,15 +79,15 @@ Ezekiel describes a complex aerial vehicle arriving from the north during a stor
 
 | Observed Feature | Technical Interpretation |
 |-----------------|------------------------|
-| "Platform glittering like ice" over their heads | Transparent or translucent hull panel (possibly electrochromic material) |
+| "Platform glittering like ice" over their heads | Transparent or translucent hull panel (possibly electrochromic material) (see [enoch-watchers.md](enoch-watchers.md): crystal houses) |
 | "Sapphire shaped like a throne" above the platform | Command chair/station visible through transparent hull, illuminated by blue-spectrum light |
 | "Form that appeared to be a man" on the throne | Pilot or operator, humanoid in appearance |
-| "Amber glow / fire enclosed from waist up" | Radiation shielding or energy field surrounding the operator's upper body |
+| "Amber glow / fire enclosed from waist up" | Radiation shielding or energy field surrounding the operator\'s upper body (see [mahabharata.md](mahabharata.md): Viśvarūpa) |
 | "Fire from waist down" | Exhaust or energy emission from the lower section of the command module |
 | "Rainbow appearance" | Chromatic dispersion of light through the vehicle's energy field -- spectral diffraction |
 
 **Acoustic Signature:**
-- "Sound of rushing waters" -- broadband noise consistent with turbine or plasma propulsion
+- "Sound of rushing waters" -- broadband noise consistent with turbine or plasma propulsion (see [mahabharata.md](mahabharata.md): vimana acoustics)
 - "Voice of the Almighty" -- low-frequency vibration (infrasound) felt as much as heard
 - "Tumult of an army" -- complex harmonic resonance from multiple systems operating simultaneously
 
@@ -101,7 +101,7 @@ The Merkabah is a **VTOL (Vertical Take-Off and Landing) craft** with:
 - **Transparent composite hull** (the "ice" platform)
 - **Radiation-shielded command module** (the "throne" with its amber glow and fire envelope)
 
-The closest modern analogue is a combination of gyroscopic omnidirectional mobility platforms (like Mecanum-wheel systems) with VTOL capability and advanced sensor fusion. The "four living beings" serve as the structural interface between the ground-mobility system (wheels) and the aerial platform (hull), functioning as articulated landing gear with embedded sensor suites.
+The closest modern analogue is a combination of gyroscopic omnidirectional mobility platforms (like Mecanum-wheel systems) with VTOL capability and advanced sensor fusion (see [02-technology-catalog.md](../02-technology-catalog.md)). The "four living beings" serve as the structural interface between the ground-mobility system (wheels) and the aerial platform (hull), functioning as articulated landing gear with embedded sensor suites.
 
 ---
 
@@ -130,11 +130,11 @@ Ezekiel describes involuntary physical transport on multiple occasions. The cons
 3. A powerful physical sensation accompanies the transport ("hand of the Lord rested powerfully on me")
 4. He arrives at a distant location in a disoriented state
 
-The Hebrew *ruach* can mean wind, breath, or spirit. In context, Ezekiel distinguishes this force from ordinary weather -- it acts selectively on him, lifts him vertically, and deposits him at specific coordinates. The "great rumbling sound" heard during one transport is consistent with the acoustic signature of the Merkabah in motion.
+The Hebrew *ruach* can mean wind, breath, or spirit. In context, Ezekiel distinguishes this force from ordinary weather -- it acts selectively on him, lifts him vertically, and deposits him at specific coordinates (see [book-of-the-dead.md](book-of-the-dead.md): Tuat transit corridor). The "great rumbling sound" heard during one transport is consistent with the acoustic signature of the Merkabah in motion.
 
 ### Plausible Mechanism
 
-**Directed-force transport via the Merkabah's tractor or levitation system.** Alternatively, physical boarding of the craft followed by rapid relocation. The "bitterness" and "fury" Ezekiel reports during one transport may reflect physiological distress from acceleration forces or altitude change. The "hand of the Lord resting powerfully" describes a sustained force acting on his body -- consistent with gravitational manipulation or magnetic field effects.
+**Directed-force transport via the Merkabah's tractor or levitation system** (see [enoch-watchers.md](enoch-watchers.md): clouds lifted him). Alternatively, physical boarding of the craft followed by rapid relocation. The "bitterness" and "fury" Ezekiel reports during one transport may reflect physiological distress from acceleration forces or altitude change. The "hand of the Lord resting powerfully" describes a sustained force acting on his body -- consistent with gravitational manipulation or magnetic field effects.
 
 ---
 
@@ -156,20 +156,20 @@ A prophetic allegory of national restoration -- the "bones" represent the exiled
 
 ### The Archive's Literal Reconstruction
 
-While the text itself frames this as a vision with allegorical meaning (37:11-14 makes the Israel metaphor explicit), the *mechanical sequence* described is remarkably precise for a mere metaphor:
+While the text itself frames this as a vision with allegorical meaning (37:11-14 makes the Israel metaphor explicit), the *mechanical sequence* described is remarkably precise for a mere metaphor (see [pyramid-texts.md](pyramid-texts.md): body reconstitution sequence):
 
 1. **Skeletal reassembly:** Bones articulate and join ("bone to bone") with an audible mechanical sound ("rattling")
 2. **Connective tissue regeneration:** Tendons form on the reassembled skeleton
 3. **Muscular tissue growth:** Muscles layer over the tendon framework
 4. **Dermal covering:** Skin grows over the musculature "from above" (directionally specified)
 5. **Pause state:** The reconstructed bodies are anatomically complete but inert -- "no breath in them"
-6. **Animation:** "Breath" (*ruach*) enters from "the four winds" and the bodies activate, stand upright, and function as a coordinated unit ("an extremely great army")
+6. **Animation:** "Breath" (*ruach*) enters from "the four winds" and the bodies activate, stand upright, and function as a coordinated unit ("an extremely great army") (see [book-of-the-dead.md](book-of-the-dead.md): Opening of the Mouth)
 
 The sequence follows the precise order of biological development: skeleton > connective tissue > musculature > integument > neural activation. A metaphor-writer has no reason to get the developmental biology sequence correct in this order. Ezekiel is either describing something he witnessed or was shown a simulation/holographic demonstration of the process.
 
 ### Plausible Mechanism
 
-**Advanced tissue regeneration or nanoscale bioassembly.** The sequence maps to:
+**Advanced tissue regeneration or nanoscale bioassembly** (see [02-technology-catalog.md](../02-technology-catalog.md)). The sequence maps to:
 - **3D bioprinting:** Layer-by-layer reconstruction of biological structures from a skeletal scaffold
 - **Nanotechnology-driven tissue regeneration:** Programmable assemblers reconstructing organic tissue in situ
 - The two-phase activation (structural assembly, then "breath"/power) mirrors the distinction between hardware assembly and software activation in modern systems
@@ -197,26 +197,26 @@ A visionary blueprint for an idealized future temple, never physically built, re
 
 ### The Archive's Literal Reconstruction
 
-Chapters 40-48 of Ezekiel contain the most detailed architectural specification in any ancient text. A non-human guide ("a man whose appearance was like bronze" -- metallic-skinned or suit-wearing) systematically measures and dictates:
+Chapters 40-48 of Ezekiel contain the most detailed architectural specification in any ancient text. A non-human guide ("a man whose appearance was like bronze" -- metallic-skinned or suit-wearing) systematically measures and dictates (see [enoch-watchers.md](enoch-watchers.md): angelic guides):
 
-- **Gate complexes** with standardized alcoves, jambs, porches, and windows (40:6-37)
+- **Gate complexes** with standardized alcoves, jambs, porches, and windows (40:6-37) (see [revelation.md](revelation.md): New Jerusalem measurements)
 - **An inner court** 175 feet square with precise gate-to-gate measurements (40:27-37)
 - **Sacrificial infrastructure** including carved stone tables with specific dimensions to the inch (40:39-43)
 - **The sanctuary** with outer and inner rooms, three stories of side chambers, and progressive width increases at each level (41:1-11)
 - **The "most holy place"** -- 35 feet square (41:4)
-- **A total perimeter** of 875 feet x 875 feet, with the explicit purpose of "separating the holy and common places" (42:20)
+- **A total perimeter** of 875 feet x 875 feet, with the explicit purpose of "separating the holy and common places" (42:20) (see [book-of-the-dead.md](book-of-the-dead.md): named gates)
 - **Decorative specifications** including alternating cherubim and palm trees on all walls (41:18-20)
 - **Altar dimensions** with exact measurements for the base, ledges, hearth, and horns (43:13-17)
 
 The guide's explicit command -- "write it all down in their sight" -- frames this as a technical handoff: the blueprints are being transferred to a human recipient for future construction.
 
-The gate that was "shut" after the "Lord, the God of Israel, entered by it" (44:1-2) reads as a secured entrance -- locked after the operator passed through, with only the "prince" authorized to use its vestibule.
+The gate that was "shut" after the "Lord, the God of Israel, entered by it" (44:1-2) reads as a secured entrance -- locked after the operator passed through, with only the "prince" authorized to use its vestibule (see [popol-vuh.md](popol-vuh.md): Xibalbá chamber protocol).
 
 ### Plausible Mechanism
 
 **Architectural specifications for a facility designed to house non-human operators.** The complex includes:
 - **Controlled access** (multiple nested gates with guard alcoves)
-- **Decontamination protocols** (priests changing garments between inner and outer courts, 42:14)
+- **Decontamination protocols** (priests changing garments between inner and outer courts, 42:14) (see [popol-vuh.md](popol-vuh.md): Xibalbá chamber protocol)
 - **Atmospheric separation** ("separating the holy and common places" may describe a pressurized or atmospherically distinct interior)
 - **The "glory" entering the east gate** (43:2-5) with "the sound of rushing water" and "the earth radiating his glory" -- the Merkabah vehicle landing at the facility's main entrance
 
@@ -226,7 +226,7 @@ The temple dimensions are engineered, not symbolic. The progressive narrowing of
 
 ## KEY ENTITIES
 
-| Designation | Role | Archive Classification |
+| Designation | Role | Archive Classification (see [01-entity-registry.md](../01-entity-registry.md)) |
 |-------------|------|----------------------|
 | "The Lord" / "The Glory" | Entity on the Merkabah throne | Command-tier operator, high radiation signature |
 | "Living beings" (Ch. 1) | Four-faced, four-winged structures | Vehicle structural/sensor components or biomechanical drones |
@@ -236,7 +236,7 @@ The temple dimensions are engineered, not symbolic. The progressive narrowing of
 
 ---
 
-## TECHNOLOGY INDEX
+## TECHNOLOGY INDEX (see [02-technology-catalog.md](../02-technology-catalog.md))
 
 | Description in Text | Archive Interpretation |
 |---------------------|----------------------|

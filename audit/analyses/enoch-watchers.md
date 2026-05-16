@@ -10,11 +10,11 @@
 
 1 Enoch is the most operationally detailed text in the archive regarding the actions and motivations of the non-human actors. It provides:
 
-1. A named roster of 200 operatives who conducted an unauthorized ground deployment (the Watchers)
-2. A detailed catalog of technologies and knowledge systems transferred to humans
-3. Descriptions of genetic hybridization and its catastrophic results (the Nephilim)
-4. First-person accounts of guided tours through advanced facilities ("heavenly" structures)
-5. The judicial proceedings against the unauthorized operatives
+1. A named roster of 200 operatives who conducted an unauthorized ground deployment (the Watchers) (see [01-entity-registry.md](../01-entity-registry.md))
+2. A detailed catalog of technologies and knowledge systems transferred to humans (see [02-technology-catalog.md](../02-technology-catalog.md))
+3. Descriptions of genetic hybridization and its catastrophic results (the Nephilim) (see [07-the-human-project.md](../07-the-human-project.md))
+4. First-person accounts of guided tours through advanced facilities ("heavenly" structures) (see [ezekiel-merkabah.md](ezekiel-merkabah.md))
+5. The judicial proceedings against the unauthorized operatives (see [theogony-works-and-days.md](theogony-works-and-days.md): Titanomachy)
 6. Astronomical and meteorological data of unusual precision
 
 Enoch himself is positioned as a literate human intermediary -- a "scribe" -- selected for liaison duties between the command tier and the rogue operatives.
@@ -39,12 +39,12 @@ A mythological account of angelic rebellion -- celestial beings transgress divin
 
 ### The Archive's Literal Reconstruction
 
-Two hundred operatives from the non-human tier ("children of heaven") conduct an unauthorized ground deployment. Key operational details:
+Two hundred operatives from the non-human tier ("children of heaven") conduct an unauthorized ground deployment (see [poetic-edda.md](poetic-edda.md): Loki as rogue operator). Key operational details:
 
 - **Unit strength:** 200, organized into squads of 10 under 20 named squad leaders
 - **Commander:** Semjaza (Samlazaz), who explicitly notes the risk of individual accountability -- he demands collective commitment before proceeding
 - **Method:** A sworn pact with "mutual imprecations" -- a binding oath of operational security, ensuring no individual can defect without implicating all
-- **Landing zone:** Mount Hermon (9,232 ft elevation, anti-Lebanon mountain range) -- a high-altitude, remote insertion point
+- **Landing zone:** Mount Hermon (9,232 ft elevation, anti-Lebanon mountain range) -- a high-altitude, remote insertion point (see [09-location-registry.md](../09-location-registry.md))
 - **Timing:** "In the days of Jared" -- a chronological anchor within the pre-Flood genealogy
 - **Mission:** To interbreed with human females and establish a permanent ground presence
 
@@ -76,7 +76,7 @@ The Watchers conducted a systematic, multi-domain technology transfer to human p
 
 | Instructor | Subject Taught | Modern Equivalent |
 |-----------|---------------|-------------------|
-| Azazel | Swords, knives, shields, breastplates | Weapons engineering, armor manufacturing |
+| Azazel | Swords, knives, shields, breastplates | Weapons engineering, armor manufacturing (see [theogony-works-and-days.md](theogony-works-and-days.md): Prometheus fire theft) |
 | Azazel | "Metals of the earth and the art of working them" | Metallurgy, mining, smelting |
 | Azazel | Bracelets, ornaments, antimony, cosmetics | Materials science, chemistry, cosmetology |
 | Azazel | "Costly stones and colouring tinctures" | Gemology, dye chemistry |
@@ -89,11 +89,11 @@ The Watchers conducted a systematic, multi-domain technology transfer to human p
 | Shamsiel | "Signs of the sun" | Solar astronomy, solar cycle prediction |
 | Sariel | "Course of the moon" | Lunar orbital mechanics, tidal prediction |
 
-The command tier's response is unambiguous: this transfer was unauthorized and is classified as the primary crime of the Watchers. The phrase "eternal secrets which were in heaven, which men were striving to learn" explicitly frames the transferred knowledge as proprietary -- classified information that humans were not authorized to receive.
+The command tier's response is unambiguous: this transfer was unauthorized and is classified as the primary crime of the Watchers (see [06-weapons-doctrine.md](../06-weapons-doctrine.md): technology embargo escalation). The phrase "eternal secrets which were in heaven, which men were striving to learn" explicitly frames the transferred knowledge as proprietary -- classified information that humans were not authorized to receive.
 
 ### Plausible Mechanism
 
-**Systematic violation of a technology embargo.** The Watchers introduced pre-industrial and early-industrial technologies to a Neolithic or early Bronze Age human population, collapsing thousands of years of natural technological development. The instructor-specialist model (each Watcher teaching a specific domain) suggests these were not generalists but domain experts -- engineers, scientists, and technicians from a technologically advanced civilization.
+**Systematic violation of a technology embargo** (see [02-technology-catalog.md](../02-technology-catalog.md)). The Watchers introduced pre-industrial and early-industrial technologies to a Neolithic or early Bronze Age human population, collapsing thousands of years of natural technological development. The instructor-specialist model (each Watcher teaching a specific domain) suggests these were not generalists but domain experts -- engineers, scientists, and technicians from a technologically advanced civilization.
 
 The command tier's extreme reaction (imprisonment for "seventy generations," eventual destruction) is proportional not to the act of teaching per se, but to the strategic risk: an uncontrolled technological uplift of a managed species.
 
@@ -122,11 +122,11 @@ The hybridization between Watcher operatives and human females produced offsprin
 - **Behavioral instability** (turned against humans, engaged in inter-species predation, cannibalism)
 - **Classified as neither fully human nor fully "divine"** -- a distinct category ("evil spirits upon the earth")
 
-The hybrids were a failed product. The non-human genome, when combined with human biology through natural reproduction rather than controlled laboratory hybridization (as in the Atrahasis creation protocol), produced unstable organisms: physically oversized, metabolically unsustainable, and behaviorally uncontrollable.
+The hybrids were a failed product. The non-human genome, when combined with human biology through natural reproduction rather than controlled laboratory hybridization (as in the [Atrahasis creation protocol](atrahasis.md)), produced unstable organisms: physically oversized, metabolically unsustainable, and behaviorally uncontrollable.
 
 ### Plausible Mechanism
 
-**Uncontrolled interspecies hybridization producing genetically unstable offspring.** Unlike the Atrahasis creation (which was a carefully controlled laboratory process directed by a specialist), the Watchers' breeding program was ad hoc and unregulated. The result was genetic incompatibility manifesting as:
+**Uncontrolled interspecies hybridization producing genetically unstable offspring** (see [mahabharata.md](mahabharata.md): commissioned births). Unlike the Atrahasis creation (which was a carefully controlled laboratory process directed by a specialist), the Watchers' breeding program was ad hoc and unregulated. The result was genetic incompatibility manifesting as:
 
 - **Gigantism** (growth hormone or IGF-1 pathway dysregulation from incompatible gene expression)
 - **Hyperphagia** (metabolic regulation failure)
@@ -164,9 +164,9 @@ Enoch's vision of heaven -- the celestial throne room of God, described in apoca
 
 Enoch describes being brought into a multi-chamber facility with the following characteristics:
 
-**Outer Structure:**
-- Walls of "crystals" -- transparent or translucent building material (glass, crystal composites, or transparent aluminum-analog)
-- "Tongues of fire" surrounding the walls -- energy barriers or plasma containment fields at the perimeter
+**Outer Structure** (see [ezekiel-merkabah.md](ezekiel-merkabah.md): Merkabah parallel):
+- Walls of "crystals" -- transparent or translucent building material (glass, crystal composites, or transparent aluminum-analog) (see [revelation.md](revelation.md): sea of glass)
+- "Tongues of fire" surrounding the walls -- energy barriers or plasma containment fields at the perimeter (see [ezekiel-merkabah.md](ezekiel-merkabah.md): amber glow)
 - "Tesselated floor of crystals" -- structured transparent flooring (possibly a cleanroom-grade surface)
 
 **Environmental Conditions:**
@@ -178,17 +178,17 @@ Enoch describes being brought into a multi-chamber facility with the following c
 - "Fiery cherubim" between the star paths -- autonomous systems or display elements interspersed with the astronomical data
 - "Their heaven was water" -- possibly a liquid-crystal display medium, or a water-cooling layer visible above
 
-**Inner Chamber (the "Second House"):**
+**Inner Chamber (the "Second House")** (see [revelation.md](revelation.md): throne room parallel):
 - Larger than the first
 - "Built of flames of fire" -- the entire structure appears to radiate energy
-- Contains a "lofty throne" with "wheels like the shining sun" -- a mobile command station (note the wheels, echoing Ezekiel's Merkabah)
+- Contains a "lofty throne" with "wheels like the shining sun" -- a mobile command station (note the wheels, echoing [Ezekiel's Merkabah](ezekiel-merkabah.md))
 - The occupant ("Great Glory") emits radiation so intense that no other being can approach: "shone more brightly than the sun," "no flesh could behold Him"
 
 ### Plausible Mechanism
 
 **A high-energy facility -- possibly a command center, reactor complex, or orbital station.** The "crystal" construction suggests transparent structural materials. The extreme temperatures, energy barriers ("fire" perimeters), and lethal radiation from the central occupant are consistent with proximity to a high-energy power source (fusion reactor, antimatter containment, or similar). The "ten thousand times ten thousand" attending entities suggest either a vast automated workforce or a large-scale operational center.
 
-The throne with wheels echoes the Merkabah -- the supreme commander's mobile platform is consistent across Enoch and Ezekiel, suggesting a standardized command vehicle.
+The throne with wheels echoes the [Merkabah](ezekiel-merkabah.md) -- the supreme commander's mobile platform is consistent across Enoch and Ezekiel, suggesting a standardized command vehicle (see also [revelation.md](revelation.md): four beasts).
 
 ---
 
@@ -212,9 +212,9 @@ A vision of imprisoned fallen angels and wayward celestial bodies, awaiting fina
 
 Enoch is shown two distinct detention facilities:
 
-1. **"Stars" imprisoned like "burning mountains"** -- entities described as stars who "transgressed" by failing to operate on schedule ("did not come forth at their appointed times"). These are either malfunctioning orbital platforms/satellites or rogue operatives whose designations are "stars" (a naming convention for orbital personnel). Their prison is at "the end of heaven and earth" -- possibly a Lagrange point or deep-space containment facility.
+1. **"Stars" imprisoned like "burning mountains"** -- entities described as stars who "transgressed" by failing to operate on schedule ("did not come forth at their appointed times"). These are either malfunctioning orbital platforms/satellites or rogue operatives whose designations are "stars" (a naming convention for orbital personnel). Their prison is at "the end of heaven and earth" -- possibly a Lagrange point or deep-space containment facility (see [revelation.md](revelation.md): bottomless pit).
 
-2. **The Watcher detention site** -- a separate location where the operatives who bred with human women are held. Sentence: binding "for seventy generations" (per Ch. 4) or "ten thousand years" in this passage.
+2. **The Watcher detention site** -- a separate location where the operatives who bred with human women are held. Sentence: binding "for seventy generations" (per Ch. 4) or "ten thousand years" in this passage (see [theogony-works-and-days.md](theogony-works-and-days.md): Tartarus).
 
 The guide (Uriel) explicitly distinguishes between the two categories of prisoners: the "stars" who violated operational schedules and the "angels" who violated the prohibition on human contact. Both are detained, but in separate facilities for different infractions.
 
@@ -236,7 +236,7 @@ The named archangels with their respective divine portfolios.
 
 ### The Archive's Literal Reconstruction
 
-Seven named senior operatives with specific domain responsibilities:
+Seven named senior operatives with specific domain responsibilities (see [zoroastrian-gathas.md](zoroastrian-gathas.md): 7 Amesha Spenta):
 
 | Operative | Domain | Archive Interpretation |
 |-----------|--------|----------------------|
@@ -248,13 +248,13 @@ Seven named senior operatives with specific domain responsibilities:
 | Gabriel | "Over Paradise, the serpents, and the Cherubim" | Security of restricted zones and autonomous systems |
 | Remiel | "Over those who rise" | Resurrection/reanimation technology or ascension protocols |
 
-This is a departmental org chart. Each "angel" is not a spiritual being but a senior operative with a defined area of responsibility within a planetary management structure.
+This is a departmental org chart. Each "angel" is not a spiritual being but a senior operative with a defined area of responsibility within a planetary management structure (see [01-entity-registry.md](../01-entity-registry.md)).
 
 ---
 
 ## KEY ENTITIES
 
-| Designation | Role | Archive Classification |
+| Designation | Role | Archive Classification (see [01-entity-registry.md](../01-entity-registry.md)) |
 |-------------|------|----------------------|
 | The Lord of Spirits / Most High | Supreme authority | Off-world/dimensional command authority |
 | The Head of Days | Described with "white wool" head | Senior command figure, possibly elderly or distinct species |
@@ -268,18 +268,18 @@ This is a departmental org chart. Each "angel" is not a spiritual being but a se
 
 ---
 
-## TECHNOLOGY INDEX
+## TECHNOLOGY INDEX (see [02-technology-catalog.md](../02-technology-catalog.md))
 
 | Description in Text | Archive Interpretation |
 |---------------------|----------------------|
-| Descent of 200 to Mount Hermon | Atmospheric insertion at high-altitude LZ |
-| "Taught men to make swords, metals" | Metallurgy and weapons-engineering transfer |
+| Descent of 200 to Mount Hermon | Atmospheric insertion at high-altitude LZ (see [09-location-registry.md](../09-location-registry.md)) |
+| "Taught men to make swords, metals" | Metallurgy and weapons-engineering transfer (see [06-weapons-doctrine.md](../06-weapons-doctrine.md)) |
 | "Enchantments and root-cuttings" | Pharmacology, possible plant genetic modification |
 | "Constellations, signs of the sun/moon" | Astronomical instrumentation and orbital mechanics |
-| Crystal houses with fire perimeters | Energy-shielded transparent-walled facility |
+| Crystal houses with fire perimeters | Energy-shielded transparent-walled facility (see [revelation.md](revelation.md): sea of glass) |
 | Ceiling "like the path of the stars" | Real-time astronomical display / star chart |
 | "Hot as fire and cold as ice" | Cryogenic cooling + high-energy systems |
-| Throne with "wheels like the shining sun" | Mobile command platform (Merkabah-class) |
+| Throne with "wheels like the shining sun" | Mobile command platform (Merkabah-class) (see [ezekiel-merkabah.md](ezekiel-merkabah.md)) |
 | "Great Glory" emitting lethal radiation | High-energy entity or radiation-suited commander |
 | "Stars" imprisoned for schedule violations | Malfunctioning orbital assets or detained personnel |
 | "Clouds invited me, winds lifted me upward" | Transport via craft or directed-force system |
