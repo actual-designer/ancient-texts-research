@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.6.0] — 2026-05-17
+
+### Added
+
+- **Capstone synthesis document:**
+  - `audit/11-unified-hypothesis.md` — Singular hypothesis unifying all fourteen foundational texts and all prior synthesis documents. Eight chapters covering: operator origin and ontology (agnostic on extraterrestrial vs. precursor vs. multidimensional), the human project from labor solution to candidate civilization, the structural contamination cycles, the Flood as failed sterilization protocol, the withdrawal as planned handoff accelerated by institutional entropy, the post-mortem integration pipeline as a promotion track, the current autonomous test phase under active amnesia architecture, and the Revelation briefing as a standing operational plan. Includes single-sentence hypothesis statement, full unified statement, 5 testable predictions, 5 falsification conditions, 5 acknowledged open questions, and complete arc ASCII timeline from pre-operational void to present.
+
+### Updated
+
+- `audit/00-INDEX.md` — 11-unified-hypothesis.md entry added to cross-cutting synthesis table.
+
+---
+
 ## [0.5.2] — 2026-05-16
 
 ### Fixed
