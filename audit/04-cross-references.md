@@ -283,7 +283,7 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ## CROSS-REFERENCE 12: The Throne Room / Command Center
 
-**Convergence strength: VERY HIGH** — Revelation's throne room (Ch. 4) is structurally identical to Ezekiel's Merkabah vision and Enoch's crystal throne; Book of the Dead's Hall of Maati shares the tiered-seating layout.
+**Convergence strength: VERY HIGH**. Revelation's throne room (Ch. 4) is structurally identical to Ezekiel's Merkabah vision and Enoch's crystal throne; Book of the Dead's Hall of Maati shares the tiered-seating layout.
 
 ### Source Comparison
 
@@ -303,7 +303,7 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ## CROSS-REFERENCE 13: Gated Transit / Access-Control Pipeline
 
-**Convergence strength: VERY HIGH** — Revelation's sequential seals, trumpets, and vials; Book of the Dead's gated halls with porter/watchman/messenger triads; Pyramid Texts' Duat→Akhet→Sky pipeline; and Popol Vuh's Xibalbá chambers all describe multi-stage checkpoint facilities.
+**Convergence strength: VERY HIGH**. Revelation's sequential seals, trumpets, and vials; Book of the Dead's gated halls with porter/watchman/messenger triads; Pyramid Texts' Duat→Akhet→Sky pipeline; and Popol Vuh's Xibalbá chambers all describe multi-stage checkpoint facilities.
 
 ### Source Comparison
 
@@ -321,7 +321,7 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ## CROSS-REFERENCE 14: Biometric Identification and Population Tagging
 
-**Convergence strength: HIGH** — Revelation's "seal" and "mark of the beast" (Ch. 7, 13-14) parallel the "seal" in Gilgamesh (Utnapishtim's forehead touch), the Book of the Dead's Heart identification system, and the Popol Vuh's amnesia protocol.
+**Convergence strength: HIGH**. Revelation's "seal" and "mark of the beast" (Ch. 7, 13-14) parallel the "seal" in Gilgamesh (Utnapishtim's forehead touch), the Book of the Dead's Heart identification system, and the Popol Vuh's amnesia protocol.
 
 ### Source Comparison
 
@@ -339,7 +339,7 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ## CROSS-REFERENCE 15: The Processor Entity Who Died and Was Reassembled
 
-**Convergence strength: MODERATE** — Osiris (Book of the Dead) is murdered, dismembered, reassembled by Isis, and becomes the judge of the dead. The Lamb (Revelation) is slain and holds unique authorization credentials. Both achieve authority through prior death-and-reassembly.
+**Convergence strength: MODERATE**. Osiris (Book of the Dead) is murdered, dismembered, reassembled by Isis, and becomes the judge of the dead. The Lamb (Revelation) is slain and holds unique authorization credentials. Both achieve authority through prior death-and-reassembly.
 
 ### Source Comparison
 
@@ -357,7 +357,7 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ## CROSS-REFERENCE 16: Post-Mortem Processing and Reanimation
 
-**Convergence strength: HIGH** — Ezekiel's Valley of Dry Bones (Ch. 37) describes component-by-component reconstitution. The Book of the Dead details the consciousness-migration protocol. Revelation describes reanimation of the Two Witnesses (Ch. 11). All three follow the same sequence: disassembly → identity preservation → reassembly → activation.
+**Convergence strength: HIGH**. Ezekiel's Valley of Dry Bones (Ch. 37) describes component-by-component reconstitution. The Book of the Dead details the consciousness-migration protocol. Revelation describes reanimation of the Two Witnesses (Ch. 11). All three follow the same sequence: disassembly → identity preservation → reassembly → activation.
 
 ### Source Comparison
 
@@ -375,7 +375,7 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ## CROSS-REFERENCE 17: The Post-Biological Settlement
 
-**Convergence strength: MODERATE** — The Book of the Dead's Field of Reeds (Sekhet Aaru) and Revelation's New Jerusalem both describe a self-contained habitat for post-processed entities with integrated life-support, controlled environment, and command presence.
+**Convergence strength: MODERATE**. The Book of the Dead's Field of Reeds (Sekhet Aaru) and Revelation's New Jerusalem both describe a self-contained habitat for post-processed entities with integrated life-support, controlled environment, and command presence.
 
 ### Source Comparison
 
@@ -398,7 +398,7 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ## CROSS-REFERENCE 18: The War in Heaven / Orbital Regime Change
 
-**Convergence strength: MODERATE** — Revelation's War in Heaven (Ch. 12), the Watcher incident (Enoch), and aspects of the Pyramid Texts and Popol Vuh describe conflict within the non-human command structure leading to one faction's ejection from orbital command.
+**Convergence strength: MODERATE**. Revelation's War in Heaven (Ch. 12), the Watcher incident (Enoch), and aspects of the Pyramid Texts and Popol Vuh describe conflict within the non-human command structure leading to one faction's ejection from orbital command.
 
 ### Source Comparison
 
@@ -416,7 +416,7 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ## CROSS-REFERENCE 19: Primeval Entity Dismantled into Infrastructure
 
-**Convergence strength: HIGH** — The Rig Veda's Purusa Sukta, the Poetic Edda's Ymir dismantlement, and the Pyramid Texts' Osiris dismemberment all describe a primeval entity processed into distributed system components.
+**Convergence strength: HIGH**. The Rig Veda's Purusa Sukta, the Poetic Edda's Ymir dismantlement, and the Pyramid Texts' Osiris dismemberment all describe a primeval entity processed into distributed system components.
 
 ### Source Comparison
 
@@ -434,7 +434,7 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ## CROSS-REFERENCE 20: Iterative Human Prototype Deployment
 
-**Convergence strength: VERY HIGH** — Hesiod's Five Ages (Gold→Silver→Bronze→Heroic→Iron) and the Popol Vuh's four sequential prototypes (animal→mud→wood→corn) describe the same pattern of designed experimental runs terminated upon failure.
+**Convergence strength: VERY HIGH**. Hesiod's Five Ages (Gold→Silver→Bronze→Heroic→Iron) and the Popol Vuh's four sequential prototypes (animal→mud→wood→corn) describe the same pattern of designed experimental runs terminated upon failure.
 
 ### Source Comparison
 
@@ -456,7 +456,7 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ## CROSS-REFERENCE 21: Titanomachy / Aesir-Vanir Parallel — Intra-Pantheon Factional Conflict
 
-**Convergence strength: HIGH** — The Greek Titanomachy (Zeus vs. Kronos, ten-year war) and the Norse Aesir-Vanir War both describe armed conflict between non-human factions resolved by institutional merger or command replacement.
+**Convergence strength: HIGH**. The Greek Titanomachy (Zeus vs. Kronos, ten-year war) and the Norse Aesir-Vanir War both describe armed conflict between non-human factions resolved by institutional merger or command replacement.
 
 ### Source Comparison
 
@@ -475,7 +475,7 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ## CROSS-REFERENCE 22: Knowledge Restriction and Unauthorized Technology Transfer
 
-**Convergence strength: HIGH** — Prometheus (Greek), the Watchers (Enoch), and the Eden Serpent (Genesis, referenced in Revelation) all describe restricted knowledge being transferred to humans by a non-human operator.
+**Convergence strength: HIGH**. Prometheus (Greek), the Watchers (Enoch), and the Eden Serpent (Genesis, referenced in Revelation) all describe restricted knowledge being transferred to humans by a non-human operator.
 
 ### Source Comparison
 
@@ -494,7 +494,7 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ## CROSS-REFERENCE 23: Predicted System Renewal After Terminal Collapse
 
-**Convergence strength: HIGH** — Revelation (New Jerusalem), the Poetic Edda (post-Ragnarök rebirth), and the Zoroastrian Gathas (Frashokereti) all describe a terminal collapse followed by a renewed world.
+**Convergence strength: HIGH**. Revelation (New Jerusalem), the Poetic Edda (post-Ragnarök rebirth), and the Zoroastrian Gathas (Frashokereti) all describe a terminal collapse followed by a renewed world.
 
 ### Source Comparison
 
