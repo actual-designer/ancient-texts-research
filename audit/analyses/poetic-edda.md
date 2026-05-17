@@ -18,7 +18,7 @@ The Poetic Edda preserves Norse mythological poetry composed ~900-1050 CE and co
 6. A **social-structure engineering event** (Rígsþula's class creation) (see [mahabharata.md](mahabharata.md): caste system)
 7. A **rogue-entity containment system** (Loki's binding) (see [theogony-works-and-days.md](theogony-works-and-days.md): Tartarus)
 
-The Edda's narrative arc — creation → conflict → predicted destruction → rebirth — mirrors the archive's recurring pattern of iterative prototype management, internal command conflicts, and eventual system reset.
+The Edda's narrative arc: creation → conflict → predicted destruction → rebirth, mirrors the archive's recurring pattern of iterative prototype management, internal command conflicts, and eventual system reset.
 
 ---
 
@@ -36,7 +36,7 @@ A creation myth: the gods kill a primordial giant and build the world from his b
 
 ### The Archive's Literal Reconstruction
 
-Ymir is a primeval entity of enormous scale. The "sons of Bur" (Odin, Vili, Vé) dismantle him and repurpose his biological mass into planetary infrastructure (see [rig-veda.md](rig-veda.md): Purusa Sukta). Each anatomical component maps to a geological or atmospheric domain: flesh→soil, blood→oceans, bones→mountains, hair→vegetation, skull→sky vault. The "yawning gap" (Ginnungagap) is a pre-operational void — comparable to the Vedic Nasadiya Sukta (see [theogony-works-and-days.md](theogony-works-and-days.md): Chaos). Ymir is generated from the interaction of fire and ice in this gap — extreme thermal gradients producing organic substrate.
+Ymir is a primeval entity of enormous scale. The "sons of Bur" (Odin, Vili, Vé) dismantle him and repurpose his biological mass into planetary infrastructure (see [rig-veda.md](rig-veda.md): Purusa Sukta). Each anatomical component maps to a geological or atmospheric domain: flesh→soil, blood→oceans, bones→mountains, hair→vegetation, skull→sky vault. The "yawning gap" (Ginnungagap) is a pre-operational void: comparable to the Vedic Nasadiya Sukta (see [theogony-works-and-days.md](theogony-works-and-days.md): Chaos). Ymir is generated from the interaction of fire and ice in this gap: extreme thermal gradients producing organic substrate.
 
 ### Plausible Mechanism
 
@@ -56,7 +56,7 @@ The gods create the first human couple from two trees.
 
 ### The Archive's Literal Reconstruction
 
-Three operators encounter two pre-existing but non-functional forms — "empty of might." Each contributes a specific functional enhancement:
+Three operators encounter two pre-existing but non-functional forms: "empty of might." Each contributes a specific functional enhancement:
 
 | Operator | Attribute Granted | Technical Interpretation |
 |----------|------------------|------------------------|
@@ -64,7 +64,7 @@ Three operators encounter two pre-existing but non-functional forms — "empty o
 | Hœnir | *óðr* (sense/mind) | Cognitive processing capability |
 | Lothur | *lá* (heat/bloom) and *litr* (goodly hue) | Metabolic activation + appearance finish |
 
-The substrate is "ash and elm" — the names Ask and Embla mean "ash" and "elm." This parallels the Mesopotamian "clay" substrate and the [Popol Vuh's](popol-vuh.md) sequential prototype materials.
+The substrate is "ash and elm": the names Ask and Embla mean "ash" and "elm." This parallels the Mesopotamian "clay" substrate and the [Popol Vuh's](popol-vuh.md) sequential prototype materials.
 
 ### Plausible Mechanism
 
@@ -86,7 +86,7 @@ A mythological war between Aesir and Vanir, ending in truce.
 
 ### The Archive's Literal Reconstruction
 
-Two non-human factions engage in armed conflict (see [theogony-works-and-days.md](theogony-works-and-days.md): Titanomachy). Gollveig ("Gold-drunk"), a Vanir entity, is repeatedly killed and reconstitutes herself — a resilient post-biological entity surviving standard termination (see [mahabharata.md](mahabharata.md): Aśvatthāmā's curse). Resolution: a hostage exchange and merger. Hœnir and Mimir go to the Vanir; Njörðr and Freyr come to the Aesir. All spit into a vat, creating Kvasir (the wisest being) — a joint asset generated from the merger treaty.
+Two non-human factions engage in armed conflict (see [theogony-works-and-days.md](theogony-works-and-days.md): Titanomachy). Gollveig ("Gold-drunk"), a Vanir entity, is repeatedly killed and reconstitutes herself: a resilient post-biological entity surviving standard termination (see [mahabharata.md](mahabharata.md): Aśvatthāmā's curse). Resolution: a hostage exchange and merger. Hœnir and Mimir go to the Vanir; Njörðr and Freyr come to the Aesir. All spit into a vat, creating Kvasir (the wisest being): a joint asset generated from the merger treaty.
 
 ### Plausible Mechanism
 
@@ -106,7 +106,7 @@ The world-tree Yggdrasil; the Norns weave fate.
 
 ### The Archive's Literal Reconstruction
 
-Yggdrasil is a central infrastructure nexus connecting nine operational zones (see [pyramid-texts.md](pyramid-texts.md): Djed pillar). Its three roots draw from Urth's well (data archive), Mimir's well (intelligence core), and Hvergelmir (power source). The Norns are entity lifecycle management terminals: Urth (past — records initialization), Verthandi (present — real-time data logging), Skuld (future — predictive modeling) (see [book-of-the-dead.md](book-of-the-dead.md): Heart Spells). Ratatoskr (squirrel) is a data relay between command (eagle at top) and processing (Níðhöggr at bottom).
+Yggdrasil is a central infrastructure nexus connecting nine operational zones (see [pyramid-texts.md](pyramid-texts.md): Djed pillar). Its three roots draw from Urth's well (data archive), Mimir's well (intelligence core), and Hvergelmir (power source). The Norns are entity lifecycle management terminals: Urth (past: records initialization), Verthandi (present: real-time data logging), Skuld (future: predictive modeling) (see [book-of-the-dead.md](book-of-the-dead.md): Heart Spells). Ratatoskr (squirrel) is a data relay between command (eagle at top) and processing (Níðhöggr at bottom).
 
 ### Plausible Mechanism
 
@@ -146,7 +146,7 @@ Baldr killed by mistletoe dart thrown by blind Höðr, tricked by Loki.
 
 ### The Archive's Literal Reconstruction
 
-Baldr is a hardened operator — all materials have sworn oaths not to harm him, except mistletoe (deemed insignificant). Loki weaponizes this single unhardened component. The strike is delivered through a proxy (Höðr). After death, retrieval from Hel requires unanimous consent ("all things must weep for him"); one entity refuses (Þökk = Loki in disguise). Without Baldr's stabilizing presence, the system cascades toward Ragnarök (see [revelation.md](revelation.md): Two Witnesses killed).
+Baldr is a hardened operator: all materials have sworn oaths not to harm him, except mistletoe (deemed insignificant). Loki weaponizes this single unhardened component. The strike is delivered through a proxy (Höðr). After death, retrieval from Hel requires unanimous consent ("all things must weep for him"); one entity refuses (Þökk = Loki in disguise). Without Baldr's stabilizing presence, the system cascades toward Ragnarök (see [revelation.md](revelation.md): Two Witnesses killed).
 
 ### Plausible Mechanism
 
@@ -166,7 +166,7 @@ Loki is punished by being bound in a cave with serpent venom dripping on him.
 
 ### The Archive's Literal Reconstruction
 
-High-risk containment: bound with the entrails of his own son (genetically keyed biological restraint), a serpent drips venom (maintained chemical deterrent), Sigyn catches it in a bowl (requires active maintenance). Loki's writhing causes earthquakes — he is physically coupled to geophysical infrastructure. The containment is time-limited: Loki breaks free at Ragnarök.
+High-risk containment: bound with the entrails of his own son (genetically keyed biological restraint), a serpent drips venom (maintained chemical deterrent), Sigyn catches it in a bowl (requires active maintenance). Loki's writhing causes earthquakes; he is physically coupled to geophysical infrastructure. The containment is time-limited: Loki breaks free at Ragnarök.
 
 ### Plausible Mechanism
 
@@ -227,7 +227,7 @@ Heimdall (as Rígr) fathers the ancestors of the three social classes.
 
 ### The Archive's Literal Reconstruction
 
-Heimdall deploys in human form and visits three generational levels of households, fathering distinct genetic lines: Thrall (servant, labor phenotype), Karl (freeman, farmer/craftsman), Jarl (noble/warrior, taught "runes" = operational knowledge). Jarl's son Kon receives a catalog of capabilities (bird-speech for reconnaissance, fire-quenching, healing, sea-calming) matching Odin's in Hávamál — selective transmission of operational capability to the ruling class only.
+Heimdall deploys in human form and visits three generational levels of households, fathering distinct genetic lines: Thrall (servant, labor phenotype), Karl (freeman, farmer/craftsman), Jarl (noble/warrior, taught "runes" = operational knowledge). Jarl's son Kon receives a catalog of capabilities (bird-speech for reconnaissance, fire-quenching, healing, sea-calming) matching Odin's in Hávamál: selective transmission of operational capability to the ruling class only.
 
 ### Plausible Mechanism
 
@@ -247,7 +247,7 @@ The story of poetic inspiration's origin.
 
 ### The Archive's Literal Reconstruction
 
-Kvasir — a joint operational asset — is terminated and processed into a consumable compound containing his cognitive properties. Odin infiltrates a restricted facility (Suttungr's mountain hall) and extracts the compound. This parallels [Soma](rig-veda.md) (Rig Veda), the Plant of Immortality (Gilgamesh), and the Bread of Everlastingness (Pyramid Texts) — a nootropic or knowledge-upload medium from a processed entity.
+Kvasir: a joint operational asset, is terminated and processed into a consumable compound containing his cognitive properties. Odin infiltrates a restricted facility (Suttungr's mountain hall) and extracts the compound. This parallels [Soma](rig-veda.md) (Rig Veda), the Plant of Immortality (Gilgamesh), and the Bread of Everlastingness (Pyramid Texts): a nootropic or knowledge-upload medium from a processed entity.
 
 ### Plausible Mechanism
 
@@ -279,22 +279,22 @@ Thor is a designated threat-management operator with Mjöllnir (forged by dwarfs
 
 | Designation | Role | Archive Classification (see [01-entity-registry.md](../01-entity-registry.md)) |
 |-------------|------|----------------------|
-| Odin (Othin) | Chief of the Aesir, all-father | Tier 1 — Command authority |
-| Thor (Þórr) | Thunder god, threat management | Tier 2 — Security/weapons specialist |
-| Loki | Trickster, shape-shifter | Tier 2 — Rogue operator |
-| Heimdall | Watchman, guards Bifröst | Tier 2 — Perimeter/surveillance |
-| Baldr | The shining god | Tier 2 — Key operator (retrieved) |
-| Frigg | Odin's wife | Tier 2 — Advisory/intelligence |
-| Freyr | Vanir to Aesir, fertility | Tier 2 — Agricultural operations |
-| Hœnir | Hostage to Vanir | Tier 2 — Cognition donor |
-| Týr | God of justice | Tier 2 — Contract authority |
-| Ymir | Primeval giant | Tier 0 — Processed into infrastructure |
-| Fenrir | Wolf, bound | Tier 3 — Contained threat |
-| Jörmungandr | Midgard Serpent | Tier 3 — Contained planetary entity |
-| Surtr | Fire giant | Tier 3 — Terminal destruction operator |
-| Norns (Urth, Verthandi, Skuld) | Lifecycle managers | Tier 2 — Data processing terminals |
-| Valkyries | Choosers of slain | Tier 3 — Extraction/retrieval units |
-| Dwarfs | Fabrication specialists | Tier 3 — Engineering/manufacturing |
+| Odin (Othin) | Chief of the Aesir, all-father | Tier 1: Command authority |
+| Thor (Þórr) | Thunder god, threat management | Tier 2: Security/weapons specialist |
+| Loki | Trickster, shape-shifter | Tier 2: Rogue operator |
+| Heimdall | Watchman, guards Bifröst | Tier 2: Perimeter/surveillance |
+| Baldr | The shining god | Tier 2: Key operator (retrieved) |
+| Frigg | Odin's wife | Tier 2: Advisory/intelligence |
+| Freyr | Vanir to Aesir, fertility | Tier 2: Agricultural operations |
+| Hœnir | Hostage to Vanir | Tier 2: Cognition donor |
+| Týr | God of justice | Tier 2: Contract authority |
+| Ymir | Primeval giant | Tier 0: Processed into infrastructure |
+| Fenrir | Wolf, bound | Tier 3: Contained threat |
+| Jörmungandr | Midgard Serpent | Tier 3: Contained planetary entity |
+| Surtr | Fire giant | Tier 3: Terminal destruction operator |
+| Norns (Urth, Verthandi, Skuld) | Lifecycle managers | Tier 2: Data processing terminals |
+| Valkyries | Choosers of slain | Tier 3: Extraction/retrieval units |
+| Dwarfs | Fabrication specialists | Tier 3: Engineering/manufacturing |
 
 ---
 
