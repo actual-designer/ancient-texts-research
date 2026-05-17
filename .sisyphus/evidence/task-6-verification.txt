@@ -1,0 +1,19 @@
+PRE-EDIT COUNTS:
+Table cell | — | markers: 4
+Total em dashes: 108
+
+POST-EDIT COUNTS:
+Table cell | — | markers: 4
+Total em dash occurrences: 10
+
+CHANGES MADE:
+- Replaced all "Tier X — " patterns with "Tier X: " in Archive Classification column
+- Replaced other category labels (Upgraded human, Protected population, etc.) from " — " to ": "
+- Replaced prose em dashes in paragraphs (lines 436, 694, 696) with semicolons
+
+PRESERVED (intentionally not changed):
+- All 4 "| — |" table cell no-cross-reference markers
+- Box-drawing characters in hierarchy diagram
+- Heading dashes (line 698: SYSTEM ARCHITECTURE — Components of Consciousness)
+- Em dashes inside non-tier table cell descriptions (lines 443, 455, 555, 599, 714)
+- All entity names, descriptions, and factual information

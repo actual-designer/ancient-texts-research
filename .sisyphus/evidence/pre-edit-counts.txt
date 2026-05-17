@@ -1,0 +1,15 @@
+=== Pre-edit Em Dash Counts ===
+Audit captured 2026-05-17
+
+yoga-sutras.md:             85
+11-unified-hypothesis.md:   85
+theogony-works-and-days.md: 44
+zoroastrian-gathas.md:      41
+poetic-edda.md:             40
+01-entity-registry.md:      108  (mostly table cells — expect ~15-20 changeable)
+09-location-registry.md:    95   (mostly table cells)
+04-cross-references.md:     50   (mixed)
+10-correlation-map.md:      74   (mixed)
+03-event-timeline.md:       31
+08-translation-key.md:      69   (mostly table)
+02-technology-catalog.md:   13   (mostly table)

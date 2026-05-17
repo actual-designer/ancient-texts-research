@@ -1,0 +1,44 @@
+=== Task 2 Verification: Em Dash Reduction in audit/11-unified-hypothesis.md ===
+
+1. Total em dashes remaining:
+32
+   (Target: 25-42. PASS)
+
+2. Blockquote em dashes:
+0
+   (Target: 0. PASS)
+
+3. "This is not" pattern intact:
+68:Five independent traditions describe the same pre-operational condition: an undifferentiated environment before activation. The language varies — void, water, gap, chaos, deep — but the ontology is identical. This is not a creation myth. It is a description of a **dormant facility transitioning to active state**.
+92:This is not a cosmological model. It is a **deployed operational platform** with three functional zones connected by gated transit corridors. The [axis mundi structures](../09-location-registry.md) (Yggdrasil, Mount Meru, the Temple, Vishnu's strides, the Winding Canal) are not symbolic world-trees. They are the **infrastructure that connects the tiers** — transit systems, data conduits, and command nexus points that are always guarded and always require authentication.
+124:This is not theological dualism. It is **institutional factionalism** within a single continuous organization. The pattern is consistent: a hardline faction advocating for control/termination and a dissident faction advocating for preservation/mercy. The dissident faction consistently enables human survival ([Enki warns Atrahasis](analyses/atrahasis.md), [Prometheus warns Deucalion](analyses/theogony-works-and-days.md), [Uriel warns Noah](analyses/enoch-watchers.md), [Kṛṣṇa revives Parīkṣit](analyses/mahabharata.md)). This is not coincidence — it is a structural feature of the organization.
+201:This is not the behavior of an organization managing a labor species. This is the behavior of an organization running a **long-term developmental experiment** — or, more provocatively, **grooming a candidate successor civilization**.
+205:The human project includes a **return path**. This is not a labor species. This is a **candidate civilization**.
+249:**1. A dissenting insider enables survival.** [Enki warns Atrahasis](analyses/atrahasis.md). [Kṛṣṇa revives Parīkṣit](analyses/mahabharata.md). [Uriel warns Noah](analyses/enoch-watchers.md). [Prometheus warns Deucalion](analyses/theogony-works-and-days.md). The command tier is never monolithic — there is always a faction that subverts the termination order. This is not a bug in the system. It is a feature: the organization preserves a redundancy mechanism that prevents total extinction even when it authorizes it.
+280:3. **Construction:** A cubic vessel (120 cubits per side), seven levels, divided into nine compartments (the archive reads this as nine per level, yielding 63 total isolated compartments — though the source text is ambiguous), sealed with industrial quantities of bitumen and pitch. No propulsion. No navigation. This is not a boat.
+378:3. **Gate Authentication ([21 Gates](analyses/book-of-the-dead.md)):** Each gate requires four-factor authentication: the name of the gate, the porter, the watchman, and the messenger. This is not mythology. This is access control.
+403:The Cannibal Hymn's language is instructive: the processed subject doesn't just join the operators. The subject **absorbs the capabilities of existing gods**. This is not assimilation. This is **succession**.
+423:This is not a conspiracy. It is an **engineered cognitive filter** — and its continued operation explains why the archive's hypothesis sounds extraordinary. The amnesia architecture is functioning exactly as designed.
+   (All reframing lines preserved. PASS)
+
+4. "reads as" / "reads like" preserved:
+180:This passage transforms the Amnesia hypothesis from an interpretive framework into a **documented engineering decision**. The corroborating evidence from other traditions now reads as variations of the same institutional policy:
+   (PASS)
+
+5. Headings with em dashes preserved:
+1:# The Unified Hypothesis — A Reconstruction of the Forgotten History
+56:## Chapter I — The Operators: Origin, Ontology, and Infrastructure
+128:## Chapter II — The Human Project: From Labor Solution to Something More
+209:## Chapter III — The Contamination Cycles: Why Everything Keeps Breaking
+270:## Chapter IV — The Great Reset and Its Aftermath
+321:## Chapter V — The Withdrawal: Planned Handoff or Institutional Collapse?
+368:## Chapter VI — The Integration Protocol: The Return Path
+407:## Chapter VII — The Current State: Where We Are in the Arc
+435:## Chapter VIII — The Unified Hypothesis
+   (PASS)
+
+6. Summary:
+   - Original count: ~85
+   - Final count: 32
+   - Reduction: 53/85 (~62%)
+   - All guardrails respected.

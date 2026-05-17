@@ -1,0 +1,33 @@
+=== Verification Results ===
+
+1. Em dash count (target 25-42):
+38
+PASS
+
+2. Blockquote dashes (target: zero):
+(none found)
+PASS
+
+3. Heading dashes preserved:
+## INCIDENT 01: The Definition — Consciousness Lockdown Protocol
+## INCIDENT 02: Īśvara — The Reference Entity
+## INCIDENT 03: The Five Kleśas — Cognitive Lock-In Mechanism
+## INCIDENT 04: Aṣṭāṅga Yoga — The Eight-Stage Operator Training Curriculum
+## INCIDENT 05: The Siddhis — Supernormal Operator Capabilities
+## INCIDENT 06: Kaivalya — System Decoupling Protocol
+PASS
+
+4. "This is not" pattern intact:
+50:This is not a mystical claim but a **measurable change in cognitive operating mode**. The text describes a state transition from "merged with processing" to "pure perception": a decoupling of the observer function from its own computational substrate. The five types of *vṛttis* (vibrations) catalogued in I.6: correct perception, incorrect perception, imagination, sleep, and memory represent **the full range of baseline cognitive operations**. Each is a processing mode that can be selectively suppressed.
+249:This is not transcendence to another realm but **full architectural separation** from the default cognitive framework. The operator no longer operates through the *citta*'s constrained processing. They exist in a mode where the *citta* is a tool they use, not the framework they inhabit.
+PASS
+
+5. Title dash preserved:
+# The Yoga Sutras of Patañjali — Forensic Analysis
+PASS
+
+=== Summary ===
+- Initial em dash count: 85
+- Final em dash count: 38
+- Reduction: 47 em dashes removed (55% reduction)
+- All guardrails respected

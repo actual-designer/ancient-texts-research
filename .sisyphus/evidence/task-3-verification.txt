@@ -1,0 +1,27 @@
+Verification for task-3: Reduce prose em dash usage in audit/analyses/theogony-works-and-days.md
+
+1. grep -c '—' audit/analyses/theogony-works-and-days.md
+13
+(PASS: 13 is within 13-22 range)
+
+2. grep '^>' audit/analyses/theogony-works-and-days.md | grep '—'
+> "Hephaestus at Zeus's command made from earth the likeness of a modest maiden. Athena dressed her, the Charites and Peitho adorned her, Hermes gave her a cunning mind and treacherous heart, and a lying nature. She held a jar containing all evils, which when opened scattered them over mankind — only Hope remained." (Works and Days 60-105)
+> "The immortals on Olympos made a golden race of mortal men... they lived like gods without sorrow of heart... After them a second race, of silver, worse... they could not keep from sin... Then a third race, of bronze, terrible and strong... with adamantine houses... Then a fourth race, of godlike heroes, the generation before Troy. Then the fifth race, of iron — I wish I were not among them." (Works and Days 109-201)
+(PASS: 2 blockquote dashes, both in source material lines starting with >)
+
+3. grep '^##.*—' audit/analyses/theogony-works-and-days.md
+## INCIDENT 01: Chaos-to-Cosmos — Primeval System Initialization
+## INCIDENT 02: Ouranos Containment — Command Coup and Castration
+## INCIDENT 03: Kronos Coup and Containment — Child-Swallowing Protocol
+## INCIDENT 04: The Titanomachy — Ten-Year Factional War
+## INCIDENT 05: Typhoeus — Post-War Threat Containment
+## INCIDENT 06: Prometheus — Privileged Knowledge Theft
+## INCIDENT 07: Pandora — Deliberately Defective Human Prototype
+## INCIDENT 08: The Five Ages — Sequential Human Prototype Series
+## INCIDENT 09: Deucalion's Flood — Survivor Evacuation Protocol
+(PASS: 9 heading dashes preserved)
+
+Remaining dashes (13 total):
+- Lines 15, 18: Executive Summary parenthetical cross-references (kept per stylistic choice)
+- Lines 26, 46, 66, 86, 106, 127, 147, 167, 195: INCIDENT headings (protected)
+- Lines 151, 171: Blockquoted source material (protected)

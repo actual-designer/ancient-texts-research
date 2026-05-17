@@ -1,0 +1,48 @@
+TASK 5 VERIFICATION: Reduce prose em dash usage in audit/analyses/poetic-edda.md
+================================================================================
+
+1. TOTAL EM DASH COUNT
+   Command: grep -o '—' audit/analyses/poetic-edda.md | wc -l
+   Result: 15
+   Status: PASS (target 12-20, actual 15)
+
+2. BLOCKQUOTE DASHES
+   Command: grep '^>' audit/analyses/poetic-edda.md | grep -o '—' | wc -l
+   Result: 3
+   Status: PASS (zero blockquote dashes modified; all 3 preserved in source quotations)
+
+3. HEADING DASHES
+   Command: grep '^##.*—' audit/analyses/poetic-edda.md | wc -l
+   Result: 12
+   Status: PASS (all 12 INCIDENT heading dashes preserved)
+
+4. GUARDRAIL CHECKS
+   - Title "# The Poetic Edda -- Forensic Analysis": PASS (uses -- not em dash)
+   - "This is not... This is..." pattern: N/A (not present in file)
+   - "reads as" / "reads like" vocabulary: N/A (not present in file)
+   - Factual/technical/interpretive content: PASS (no content changed)
+
+5. REPLACEMENT SUMMARY
+   Prose em dashes replaced: 17
+   - Line 21: 2 dashes → colon + comma (narrative arc appositive)
+   - Line 39: 2 dashes → colons (explanations)
+   - Line 59: 1 dash → colon (appositive)
+   - Line 67: 1 dash → colon (appositive)
+   - Line 89: 2 dashes → colons (appositives)
+   - Line 109: 3 dashes → colons (parenthetical explanations)
+   - Line 149: 1 dash → colon (explanation)
+   - Line 169: 1 dash → semicolon (related independent clause)
+   - Line 230: 1 dash → colon (explanation)
+   - Line 250: 3 dashes → colon + comma + colon (appositives and explanation)
+
+   Table em dashes replaced: 15
+   - All "Tier X — Description" changed to "Tier X: Description" in KEY ENTITIES table
+
+6. FINAL COUNT BREAKDOWN
+   - Heading dashes: 12
+   - Blockquote dashes: 3
+   - Prose dashes: 0
+   - Table dashes: 0
+   - Total: 15
+
+Verification completed: 2026-05-17

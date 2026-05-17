@@ -1,0 +1,5 @@
+=== Pre-verification counts ===
+Initial em dash count: 85
+Final em dash count: 38
+Target range: 25-42
+Status: PASS
