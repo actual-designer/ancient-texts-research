@@ -7,6 +7,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.6.1] — 2026-05-17
+
+### Updated
+
+- **README.md** — Added `11-unified-hypothesis.md` to "Cross-Cutting Syntheses" listing and "First Doorways" table; moved `08-translation-key.md` from "Evidence Locker" into syntheses section where it belongs.
+- **Style pass — em dash reduction** across 10 documents to comply with audit style conventions:
+  - `audit/01-entity-registry.md`, `audit/03-event-timeline.md`, `audit/04-cross-references.md`, `audit/09-location-registry.md`, `audit/10-correlation-map.md`, `audit/11-unified-hypothesis.md`
+  - `audit/analyses/poetic-edda.md`, `audit/analyses/theogony-works-and-days.md`, `audit/analyses/yoga-sutras.md`, `audit/analyses/zoroastrian-gathas.md`
+- `audit/11-unified-hypothesis.md` — Comprehensive hyperlink retrofit adding cross-references to all source analyses and synthesis documents.
+
+### Added
+
+- `.sisyphus/` — Sisyphus tool working state (plans, evidence logs, run-continuation state, boulder config).
+- `.obsidian/` — Obsidian workspace and editor configuration (themes, plugins, workspace layout).
+- `.sisyphus/evidence/` — Em dash audit verification files documenting pre/post counts across all modified documents.
+
+### Fixed
+
+- `audit/10-correlation-map.md` — Table column alignment formatting in remaining unaligned tables.
+
+---
+
 ## [0.6.0] — 2026-05-17
 
 ### Added
