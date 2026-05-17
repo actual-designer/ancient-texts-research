@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.5.2] — 2026-05-16
+
+### Fixed
+
+- `audit/10-correlation-map.md` — Table column alignment formatting in all 8 thematic correlation tables (cosmetic/readability).
+
+---
+
 ## [0.5.1] — 2026-05-16
 
 ### Updated

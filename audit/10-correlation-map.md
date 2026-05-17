@@ -17,15 +17,15 @@ Each of the 13 per-text analyses views the shared operational reality through a 
 
 **Unique angle:** Administrative transparency -- the most bureaucratically explicit account of the human creation project. The text reads as an after-action report documenting a labor dispute, the bioengineering response, and subsequent population-control measures.
 
-| Key Correlations | Parallel Text(s) |
-|-----------------|-------------------|
-| Igigi labor revolt as workforce exhaustion | Enoch: Watcher deployment as unauthorized ground insertion |
-| Geshtu-E genetic donor extraction | Gilgamesh: Aruru's clay fabrication; Mahabharata: Kunti's mantra-invoked births |
-| Nintu/Mami as bioengineering lead | Popol Vuh: Xmucane as "Midwife"; Gilgamesh: Aruru |
-| 14 prototypes (7 pairs) as founder population | Gilgamesh: Enkidu as single rapid-fabrication unit |
-| Suruppu-disease as directed biological warfare | Revelation: Trumpets/Vials as calibrated pathogen deployment |
-| Enki as institutional dissident | Popol Vuh: Prometheus as knowledge-liberator; Gilgamesh: Ea warns Utnapishtim |
-| Flood as deliberate environmental reset | Gilgamesh (Tablet XI full account); Popol Vuh: wood people destroyed by flood |
+| Key Correlations                               | Parallel Text(s)                                                                |
+| ---------------------------------------------- | ------------------------------------------------------------------------------- |
+| Igigi labor revolt as workforce exhaustion     | Enoch: Watcher deployment as unauthorized ground insertion                      |
+| Geshtu-E genetic donor extraction              | Gilgamesh: Aruru's clay fabrication; Mahabharata: Kunti's mantra-invoked births |
+| Nintu/Mami as bioengineering lead              | Popol Vuh: Xmucane as "Midwife"; Gilgamesh: Aruru                               |
+| 14 prototypes (7 pairs) as founder population  | Gilgamesh: Enkidu as single rapid-fabrication unit                              |
+| Suruppu-disease as directed biological warfare | Revelation: Trumpets/Vials as calibrated pathogen deployment                    |
+| Enki as institutional dissident                | Popol Vuh: Prometheus as knowledge-liberator; Gilgamesh: Ea warns Utnapishtim   |
+| Flood as deliberate environmental reset        | Gilgamesh (Tablet XI full account); Popol Vuh: wood people destroyed by flood   |
 
 **Relevant synthesis docs:** [01-entity-registry.md](01-entity-registry.md) (Igigi/Anunnaki hierarchy), [02-technology-catalog.md](02-technology-catalog.md) (bioengineering protocol), [05-great-reset.md](05-great-reset.md) (flood as sterilization), [07-the-human-project.md](07-the-human-project.md) (creation arc), [03-event-timeline.md](03-event-timeline.md) (chronological anchor)
 
