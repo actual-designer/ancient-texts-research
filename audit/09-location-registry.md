@@ -1,7 +1,7 @@
 # Location Registry — Geographic and Operational Zones Across All Traditions
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
-**Scope:** All 13 source texts — 78+ named locations across Mesopotamian, Hebrew, Christian, Egyptian, Indian, Mesoamerican, Norse, Greek, and Zoroastrian traditions
+**Scope:** All 13 source texts: 78+ named locations across Mesopotamian, Hebrew, Christian, Egyptian, Indian, Mesoamerican, Norse, Greek, and Zoroastrian traditions
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---
@@ -11,8 +11,8 @@
 The archive's texts document a consistent geographic ontology across independent traditions:
 
 1. **Three-tier vertical structure** (subsurface → surface → orbital) appears in every tradition
-2. **Axis Mundi convergence** — world-tree, cosmic mountain, or central pillar connects all three tiers in 5+ independent traditions
-3. **Gated/assessed transit** between tiers is universal — no tradition allows unrestricted access upward
+2. **Axis Mundi convergence**: world-tree, cosmic mountain, or central pillar connects all three tiers in 5+ independent traditions
+3. **Gated/assessed transit** between tiers is universal; no tradition allows unrestricted access upward
 4. **Underworld processing facilities** share remarkable structural parallels (sequential chambers, identity assessment, lethal failure modes)
 5. **Post-diluvian landing sites** and **post-processing settlements** share functional characteristics across traditions
 
@@ -235,7 +235,7 @@ Multiple independent traditions describe a **central connective structure** link
 | Vedic | Vishnu's three strides (vertical demarcation) | Stride-axis | Earth → Antariksha → Dyaus | Vishnu + Adityas |
 | Egyptian | Winding Canal / Beaten Path of Stars | Sky corridor | Duat → Akhet → Sky | Thoth, Osiris |
 
-**Key observation:** Every tradition locates its connective axis at or near a **command/assessment node** staffed by multiple operators. The axis is never unguarded — access requires authentication.
+**Key observation:** Every tradition locates its connective axis at or near a **command/assessment node** staffed by multiple operators. The axis is never unguarded; access requires authentication.
 
 ---
 
