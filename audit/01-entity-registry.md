@@ -433,7 +433,7 @@ EGYPTIAN THEATER (Pyramid Texts -- parallel roster; source: audit/analyses/pyram
 
 ## VEDIC ENTITIES (Rig Veda)
 
-The Rig Veda presents a distributed command hierarchy with specialized operators, each associated with distinct capabilities and jurisdictions. Unlike the narrative epics (Mahābhārata, Gilgamesh), the Rig Veda is a **liturgical archive** — each hymn is an invocation directed at a named operator, preserving their functional roles across 1,205 hymns.
+The Rig Veda presents a distributed command hierarchy with specialized operators, each associated with distinct capabilities and jurisdictions. Unlike the narrative epics (Mahābhārata, Gilgamesh), the Rig Veda is a **liturgical archive**; each hymn is an invocation directed at a named operator, preserving their functional roles across 1,205 hymns.
 
 ### TIER 1: Supreme Coordination / Source Entities
 
@@ -478,36 +478,36 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **The One on the Throne** | Central command authority seated on crystalline throne with rainbow display | Tier 0 — Primary command intelligence |
-| **The Lamb (slain)** | Previously processed human who holds the authorization credentials for the scroll | Upgraded human — Completed death-processing pipeline; carries seven-seal clearance |
+| **The One on the Throne** | Central command authority seated on crystalline throne with rainbow display | Tier 0: Primary command intelligence |
+| **The Lamb (slain)** | Previously processed human who holds the authorization credentials for the scroll | Upgraded human: Completed death-processing pipeline; carries seven-seal clearance |
 
 ### TIER 2: Senior Operatives
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Michael** | Commander of loyalist orbital forces; executes the War in Heaven against the Dragon | Tier 2 — Security/operations, orbital counter-insurgency |
-| **24 Elders** | Seated council around the central throne; wear crowns | Tier 2 — Command staff/administrators |
-| **4 Living Beings** | Multi-sensor interface units (cf. Ezekiel's cherubim/living beings) | Tier 3 — Autonomous interface terminals |
-| **Two Witnesses** | Forward-deployed ground operatives with 1,260-day mission; killed then extracted | Tier 2/upgraded — Resurrected entities with guaranteed extraction |
-| **Abaddon/Apollyon** | Commander of the Abyss drone force (fifth trumpet) | Tier 3 — Drone-fleet commander |
-| **Seven Angels with Trumpets** | Ordinance delivery personnel | Tier 3 — Strike package operators |
-| **Seven Angels with Vials** | Terminal sterilization protocol executors | Tier 3 — Environmental weapons specialists |
+| **Michael** | Commander of loyalist orbital forces; executes the War in Heaven against the Dragon | Tier 2: Security/operations, orbital counter-insurgency |
+| **24 Elders** | Seated council around the central throne; wear crowns | Tier 2: Command staff/administrators |
+| **4 Living Beings** | Multi-sensor interface units (cf. Ezekiel's cherubim/living beings) | Tier 3: Autonomous interface terminals |
+| **Two Witnesses** | Forward-deployed ground operatives with 1,260-day mission; killed then extracted | Tier 2/upgraded: Resurrected entities with guaranteed extraction |
+| **Abaddon/Apollyon** | Commander of the Abyss drone force (fifth trumpet) | Tier 3: Drone-fleet commander |
+| **Seven Angels with Trumpets** | Ordinance delivery personnel | Tier 3: Strike package operators |
+| **Seven Angels with Vials** | Terminal sterilization protocol executors | Tier 3: Environmental weapons specialists |
 
 ### ROGUE FACTION
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **The Dragon (Satan/Devil/Serpent)** | Former orbital commander, ejected in War in Heaven; now ground-bound and escalating | Tier 2 — Rebel operator; links to Eden serpent and Watcher command |
-| **First Beast (from Sea)** | Global political-military authority; receives authority from Dragon | Tier 3 — Puppet governance proxy |
-| **Second Beast (from Earth/False Prophet)** | Propaganda/control apparatus; performs "miracles," enforces the Mark | Tier 3 — Propaganda chief, economic surveillance |
+| **The Dragon (Satan/Devil/Serpent)** | Former orbital commander, ejected in War in Heaven; now ground-bound and escalating | Tier 2: Rebel operator; links to Eden serpent and Watcher command |
+| **First Beast (from Sea)** | Global political-military authority; receives authority from Dragon | Tier 3: Puppet governance proxy |
+| **Second Beast (from Earth/False Prophet)** | Propaganda/control apparatus; performs "miracles," enforces the Mark | Tier 3: Propaganda chief, economic surveillance |
 
 ### MANAGED POPULATIONS
 
 | Group | Description | Archive Classification |
 |-------|-------------|----------------------|
-| **144,000** | 12,000 from each of 12 tribes, biometrically sealed before destruction | Protected population — Pre-tagged for exemption |
-| **The Innumerable Multitude** | Survivors from all nations, post-tribulation | Survivor population — Not pre-tagged but found worthy |
-| **Gog and Magog** | Post-millennium rebel force | Insurgent population — Terminated after test |
+| **144,000** | 12,000 from each of 12 tribes, biometrically sealed before destruction | Protected population: Pre-tagged for exemption |
+| **The Innumerable Multitude** | Survivors from all nations, post-tribulation | Survivor population: Not pre-tagged but found worthy |
+| **Gog and Magog** | Post-millennium rebel force | Insurgent population: Terminated after test |
 
 ---
 
@@ -521,38 +521,38 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Ra (Amen-Ra)** | Solar command authority, King of the Gods | Tier 1 — Primary system intelligence |
-| **Osiris (Un-Nefer)** | Lord of the Tuat, judge of the dead; deceased-and-reassembled entity operating the post-mortem facility | Tier 1 — Post-mortem processing authority, reconstructed operator |
+| **Ra (Amen-Ra)** | Solar command authority, King of the Gods | Tier 1: Primary system intelligence |
+| **Osiris (Un-Nefer)** | Lord of the Tuat, judge of the dead; deceased-and-reassembled entity operating the post-mortem facility | Tier 1: Post-mortem processing authority, reconstructed operator |
 
 ### TIER 2: Facility Operators
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Thoth** | Scribe of the gods; records the Weighing of the Heart; calibration authority | Tier 2 — Data management, system administration |
-| **Anubis (Anpu)** | Embalming authority; operator of the Balance | Tier 2 — Processing technician, identity comparator operator |
-| **Horus** | Son of Osiris; living executive; escorts approved subjects to the throne | Tier 2 — Processing liaison, subject escort |
-| **Isis / Nephthys** | Support operators behind Osiris's throne | Tier 2 — Advisory/administrative |
-| **Shu** | Atmospheric boundary operator; performs Opening of the Mouth | Tier 2 — Activation specialist |
-| **Ptah** | Craftsman; performs Opening of the Mouth (unties bandages) | Tier 2 — Activation specialist |
-| **The Great Company (12 gods)** | Assessment jury seated along the Hall of Maati | Tier 2 — Multi-disciplinary verification board |
+| **Thoth** | Scribe of the gods; records the Weighing of the Heart; calibration authority | Tier 2: Data management, system administration |
+| **Anubis (Anpu)** | Embalming authority; operator of the Balance | Tier 2: Processing technician, identity comparator operator |
+| **Horus** | Son of Osiris; living executive; escorts approved subjects to the throne | Tier 2: Processing liaison, subject escort |
+| **Isis / Nephthys** | Support operators behind Osiris's throne | Tier 2: Advisory/administrative |
+| **Shu** | Atmospheric boundary operator; performs Opening of the Mouth | Tier 2: Activation specialist |
+| **Ptah** | Craftsman; performs Opening of the Mouth (unties bandages) | Tier 2: Activation specialist |
+| **The Great Company (12 gods)** | Assessment jury seated along the Hall of Maati | Tier 2: Multi-disciplinary verification board |
 
 ### TIER 3: Assessment, Gate, and Processing Personnel
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **42 Assessors** | Named panel before whom the Negative Confession is recited | Tier 3 — Distributed verification operators |
-| **Amemit (Eater of the Dead)** | Monster who consumes hearts that fail the balance test | Tier 3 — Automated termination/disposal unit |
-| **Porters** | Door mechanism controllers (one per gate) | Tier 3 — Access control |
-| **Watchmen** | Subject detection/detection (one per gate) | Tier 3 — Detection/screening |
-| **Messengers** | Communication with central command (one per gate) | Tier 3 — Communications |
-| **The Ferryman ("Face Behind Him")** | Inter-zone transit operator | Tier 3 — Logistics/transport |
-| **Ka-Allocater** | Arrival intake at the Field of Reeds | Tier 3 — Settlement intake |
+| **42 Assessors** | Named panel before whom the Negative Confession is recited | Tier 3: Distributed verification operators |
+| **Amemit (Eater of the Dead)** | Monster who consumes hearts that fail the balance test | Tier 3: Automated termination/disposal unit |
+| **Porters** | Door mechanism controllers (one per gate) | Tier 3: Access control |
+| **Watchmen** | Subject detection/detection (one per gate) | Tier 3: Detection/screening |
+| **Messengers** | Communication with central command (one per gate) | Tier 3: Communications |
+| **The Ferryman ("Face Behind Him")** | Inter-zone transit operator | Tier 3: Logistics/transport |
+| **Ka-Allocater** | Arrival intake at the Field of Reeds | Tier 3: Settlement intake |
 
 ### PROCESSED SUBJECT STATUS
 
 | Status | Description | Archive Classification |
 |--------|-------------|----------------------|
-| **Akh (Spirit-body)** | Successful processed entity — upgraded, capable of 12-form transformation | Post-biological entity — Full operational status |
+| **Akh (Spirit-body)** | Successful processed entity — upgraded, capable of 12-form transformation | Post-biological entity: Full operational status |
 | **Sahu** | The spiritual form that separates from the body | Post-biological vehicle/entity form |
 | **Ka / Ba** | Identity template / mobile aspect | Identity components of the processed entity |
 
@@ -567,35 +567,35 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Odin (Othin)** | Chief of the Aesir; initiates creation protocols (Ymir dismantlement, Ask/Embla activation), rune-operator upgrade, ritual self-sacrifice | Tier 1 — Command authority (surface theater) |
+| **Odin (Othin)** | Chief of the Aesir; initiates creation protocols (Ymir dismantlement, Ask/Embla activation), rune-operator upgrade, ritual self-sacrifice | Tier 1: Command authority (surface theater) |
 
 ### TIER 2: Senior Operatives
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Thor** | Threat management, Jörmungandr engagement, Mjöllnir-guided weapon operator | Tier 2 — Security/weapons specialist |
-| **Loki** | Shape-shifter, saboteur (triggers Baldr termination, engineers system cascade) | Tier 2 — Rogue operator (contained) |
-| **Heimdall** | Bifröst watchman, Rígsþula class-engineering deployment, Gjallarhorn alert operator | Tier 2 — Perimeter/surveillance |
-| **Baldr** | Honored operator terminated via unhardened component vector (mistletoe) | Tier 2 — Eventually retrieved post-Ragnarök |
-| **Frigg** | Odin's consort, intelligence operator | Tier 2 — Advisory/intelligence |
-| **Freyr** | Vanir asset transferred to Aesir; agricultural operations | Tier 2 — Agricultural/horticultural |
-| **Hœnir** | Cognition donor (Ask/Embla activation); hostage exchange asset | Tier 2 — Cognitive specialist |
-| **Týr** | Justice/contract authority; binds Fenrir | Tier 2 — Contract enforcement |
-| **Njörðr** | Vanir hostage to Aesir; maritime domain | Tier 2 — Maritime operations |
-| **Iðunn** | Keeper of apples of youth (biomedical resource) | Tier 2 — Lifecycle maintenance |
+| **Thor** | Threat management, Jörmungandr engagement, Mjöllnir-guided weapon operator | Tier 2: Security/weapons specialist |
+| **Loki** | Shape-shifter, saboteur (triggers Baldr termination, engineers system cascade) | Tier 2: Rogue operator (contained) |
+| **Heimdall** | Bifröst watchman, Rígsþula class-engineering deployment, Gjallarhorn alert operator | Tier 2: Perimeter/surveillance |
+| **Baldr** | Honored operator terminated via unhardened component vector (mistletoe) | Tier 2: Eventually retrieved post-Ragnarök |
+| **Frigg** | Odin's consort, intelligence operator | Tier 2: Advisory/intelligence |
+| **Freyr** | Vanir asset transferred to Aesir; agricultural operations | Tier 2: Agricultural/horticultural |
+| **Hœnir** | Cognition donor (Ask/Embla activation); hostage exchange asset | Tier 2: Cognitive specialist |
+| **Týr** | Justice/contract authority; binds Fenrir | Tier 2: Contract enforcement |
+| **Njörðr** | Vanir hostage to Aesir; maritime domain | Tier 2: Maritime operations |
+| **Iðunn** | Keeper of apples of youth (biomedical resource) | Tier 2: Lifecycle maintenance |
 
 ### TIER 3: Operational Workforce and Containment
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Norns (Urth, Verthandi, Skuld)** | Lifecycle data recording terminals at Yggdrasil base | Tier 3 — Data processing terminals |
-| **Valkyries** | Post-combatant extraction and transport to Valhöll | Tier 3 — Extraction/retrieval units |
-| **Dwarfs** | Fabrication specialists (Mjöllnir, Gleipnir, Mead of Poetry production) | Tier 3 — Engineering/manufacturing |
-| **Fenrir** | Wolf, bound by Gleipnir synthetic restraint | Tier 3 — Contained threat |
-| **Jörmungandr** | Midgard Serpent, encircles planetary domain | Tier 3 — Contained planetary entity |
-| **Surtr** | Fire giant, terminal thermal destruction operator at Ragnarök | Tier 3 — Terminal destruction operator |
-| **Hel** | Loki's daughter; domain ruler for terminated unprocessed entities | Tier 3 — Processing/rejection facility |
-| **Ymir** | Primeval entity dismantled into planetary infrastructure | Tier 0 — Processed into substrate |
+| **Norns (Urth, Verthandi, Skuld)** | Lifecycle data recording terminals at Yggdrasil base | Tier 3: Data processing terminals |
+| **Valkyries** | Post-combatant extraction and transport to Valhöll | Tier 3: Extraction/retrieval units |
+| **Dwarfs** | Fabrication specialists (Mjöllnir, Gleipnir, Mead of Poetry production) | Tier 3: Engineering/manufacturing |
+| **Fenrir** | Wolf, bound by Gleipnir synthetic restraint | Tier 3: Contained threat |
+| **Jörmungandr** | Midgard Serpent, encircles planetary domain | Tier 3: Contained planetary entity |
+| **Surtr** | Fire giant, terminal thermal destruction operator at Ragnarök | Tier 3: Terminal destruction operator |
+| **Hel** | Loki's daughter; domain ruler for terminated unprocessed entities | Tier 3: Processing/rejection facility |
+| **Ymir** | Primeval entity dismantled into planetary infrastructure | Tier 0: Processed into substrate |
 | **Ask and Embla** | First human couple — pre-biological substrates activated by triple-operator protocol | Fabricated humans |
 | **Kvasir** | Joint asset created from Aesir-Vanir treaty spittle; processed into Mead | Terminated cognitive asset |
 
@@ -610,37 +610,37 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Chaos** | Pre-initialization void | Tier 0 — Zero state |
-| **Gaia (Earth)** | Planetary platform; self-replicating entity generator | Tier 1 — Infrastructure + self-replication |
-| **Ouranos (Sky)** | Orbital/atmospheric command; first active authority | Tier 1 — First command authority |
-| **Kronos** | Second-generation command; contained successors at birth | Tier 1 — Command (usurpation cycle) |
-| **Zeus** | Third-generation command; current authority; thunderbolt weapons | Tier 1 — Current command authority |
+| **Chaos** | Pre-initialization void | Tier 0: Zero state |
+| **Gaia (Earth)** | Planetary platform; self-replicating entity generator | Tier 1: Infrastructure + self-replication |
+| **Ouranos (Sky)** | Orbital/atmospheric command; first active authority | Tier 1: First command authority |
+| **Kronos** | Second-generation command; contained successors at birth | Tier 1: Command (usurpation cycle) |
+| **Zeus** | Third-generation command; current authority; thunderbolt weapons | Tier 1: Current command authority |
 
 ### TIER 2: Senior Operatives
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Rhea** | System administrator; substitution decoy (stone) for successor protection | Tier 2 — Succession logistics |
-| **Prometheus** | Privileged knowledge liberator; transfers restricted technology (fire) to humans | Tier 2 — Dissident, technology leak |
-| **Epimetheus** | Deployment coordinator; receives Pandora delivery | Tier 2 — Distribution |
-| **Atlas** | Structural load-bearing punishment | Tier 2 — Infrastructure duty |
-| **Hundred-Handed Ones** | Contained entities released as allies in Titanomachy | Tier 2 — Heavy combat units |
-| **Cyclopes** | Fabrication specialists (thunderbolt for Zeus) | Tier 2 — Weapons manufacturing |
-| **Hephaestus** | Biofabrication specialist (Pandora fabrication) | Tier 2 — Engineering/fabrication |
-| **Athena** | Strategic intelligence; outfits Pandora | Tier 2 — Strategic/tactical advisor |
-| **Hermes** | Communications/liaison; gives Pandora deceptive nature | Tier 2 — Communications/psyops |
+| **Rhea** | System administrator; substitution decoy (stone) for successor protection | Tier 2: Succession logistics |
+| **Prometheus** | Privileged knowledge liberator; transfers restricted technology (fire) to humans | Tier 2: Dissident, technology leak |
+| **Epimetheus** | Deployment coordinator; receives Pandora delivery | Tier 2: Distribution |
+| **Atlas** | Structural load-bearing punishment | Tier 2: Infrastructure duty |
+| **Hundred-Handed Ones** | Contained entities released as allies in Titanomachy | Tier 2: Heavy combat units |
+| **Cyclopes** | Fabrication specialists (thunderbolt for Zeus) | Tier 2: Weapons manufacturing |
+| **Hephaestus** | Biofabrication specialist (Pandora fabrication) | Tier 2: Engineering/fabrication |
+| **Athena** | Strategic intelligence; outfits Pandora | Tier 2: Strategic/tactical advisor |
+| **Hermes** | Communications/liaison; gives Pandora deceptive nature | Tier 2: Communications/psyops |
 
 ### TIER 3: Threat Entities, Terminals, and Processed Humans
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Typhoeus** | Multi-modal threat (100 heads, fire eyes); post-Titanomachy countermeasure | Tier 3 — Contained in Tartarus |
-| **Erinyes (Furies)** | Protocol-enforcement terminals generated from Ouranos blood | Tier 3 — Enforcement/monitoring |
-| **Pandora** | Multi-specialist fabricated delivery agent for *pithos* saturation munition | Tier 3 — Saturation-munition carrier |
-| **Deucalion** | Flood survivor; repopulates via ark-seed protocol | Tier 3 — Survivor lineage |
-| **Pyrrha** | Flood survivor; mate of Deucalion | Tier 3 — Survivor lineage |
-| **Tartarus** | Subsurface containment facility (not an entity) | Location — Deep processing/containment |
-| **Olympos** | Current command headquarters | Location — Command node |
+| **Typhoeus** | Multi-modal threat (100 heads, fire eyes); post-Titanomachy countermeasure | Tier 3: Contained in Tartarus |
+| **Erinyes (Furies)** | Protocol-enforcement terminals generated from Ouranos blood | Tier 3: Enforcement/monitoring |
+| **Pandora** | Multi-specialist fabricated delivery agent for *pithos* saturation munition | Tier 3: Saturation-munition carrier |
+| **Deucalion** | Flood survivor; repopulates via ark-seed protocol | Tier 3: Survivor lineage |
+| **Pyrrha** | Flood survivor; mate of Deucalion | Tier 3: Survivor lineage |
+| **Tartarus** | Subsurface containment facility (not an entity) | Location: Deep processing/containment |
+| **Olympos** | Current command headquarters | Location: Command node |
 
 ---
 
@@ -653,37 +653,37 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Ahura Mazda** | The Wise Lord; supreme command authority | Tier 1 — Supreme command |
-| **Spenta Mainyu** | Bounteous/Creative Spirit; executive creative operator | Tier 1 — Executive (constructive) |
-| **Angra Mainyu** | Destructive/Hostile Spirit; adversarial counter-operator | Tier 1 — Executive (destructive) |
+| **Ahura Mazda** | The Wise Lord; supreme command authority | Tier 1: Supreme command |
+| **Spenta Mainyu** | Bounteous/Creative Spirit; executive creative operator | Tier 1: Executive (constructive) |
+| **Angra Mainyu** | Destructive/Hostile Spirit; adversarial counter-operator | Tier 1: Executive (destructive) |
 
 ### TIER 2: Functional Terminals (Amesha Spenta)
 
 | Entity | Domain | Archive Classification |
 |--------|--------|----------------------|
-| **Vohu Manah** | Good Mind/Purpose | Tier 2 — Cognition authorization terminal |
-| **Asha Vahishta** | Best Truth/Cosmic Order | Tier 2 — System integrity terminal |
-| **Khshatra Vairya** | Desirable Dominion/Power | Tier 2 — Infrastructure authority terminal |
-| **Spenta Armaiti** | Bountiful Devotion/Harmony | Tier 2 — Stability/harmony terminal |
-| **Haurvatat** | Wholeness/Health | Tier 2 — Health monitoring terminal |
-| **Ameretat** | Immortality | Tier 2 — Lifecycle extension terminal |
+| **Vohu Manah** | Good Mind/Purpose | Tier 2: Cognition authorization terminal |
+| **Asha Vahishta** | Best Truth/Cosmic Order | Tier 2: System integrity terminal |
+| **Khshatra Vairya** | Desirable Dominion/Power | Tier 2: Infrastructure authority terminal |
+| **Spenta Armaiti** | Bountiful Devotion/Harmony | Tier 2: Stability/harmony terminal |
+| **Haurvatat** | Wholeness/Health | Tier 2: Health monitoring terminal |
+| **Ameretat** | Immortality | Tier 2: Lifecycle extension terminal |
 
 ### TIER 3: Assessment and Report Personnel
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Mithra** | Contract compliance verification at Chinvat Bridge | Tier 3 — Assessment: contracts |
-| **Sraosha** | Disciplined observance verification | Tier 3 — Assessment: protocol compliance |
-| **Rashnu** | Exact measurement of entity status | Tier 3 — Assessment: precise evaluation |
-| **Daevas** | Corrupted entities; deviated from operational parameters | Tier 2/3 — Compromised, denounced by Zarathushtra |
-| **Zarathushtra** | Human whistleblower/reporter; exposes Daeva corruption | Human liaison — First-person integrity report |
+| **Mithra** | Contract compliance verification at Chinvat Bridge | Tier 3: Assessment: contracts |
+| **Sraosha** | Disciplined observance verification | Tier 3: Assessment: protocol compliance |
+| **Rashnu** | Exact measurement of entity status | Tier 3: Assessment: precise evaluation |
+| **Daevas** | Corrupted entities; deviated from operational parameters | Tier 2/3: Compromised, denounced by Zarathushtra |
+| **Zarathushtra** | Human whistleblower/reporter; exposes Daeva corruption | Human liaison: First-person integrity report |
 
 ### MANAGED PRINCIPLES AND PHENOMENA
 
 | Designation | Description | Archive Classification |
 |-------------|-------------|----------------------|
-| **Asha (Cosmic Order)** | Fundamental system law/integrity protocol | Protocol — System operating framework |
-| **Druj (Falsehood)** | Active counter-informational agent opposing Asha | Protocol — System corruption vector |
+| **Asha (Cosmic Order)** | Fundamental system law/integrity protocol | Protocol: System operating framework |
+| **Druj (Falsehood)** | Active counter-informational agent opposing Asha | Protocol: System corruption vector |
 
 ---
 
@@ -691,26 +691,26 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 
 **Source:** `audit/analyses/yoga-sutras.md`
 **Chronological placement:** Non-narrative procedural manual (compiled ~200 BCE-400 CE, describing persistent operator training protocols)
-**Nature:** **Operator conditioning curriculum** — 8-stage training pipeline for human operators to achieve system-decoupled consciousness (Kaivalya)
+**Nature:** **Operator conditioning curriculum**; 8-stage training pipeline for human operators to achieve system-decoupled consciousness (Kaivalya)
 
-Unlike the narrative texts, the Yoga Sutras contain no named entities in the traditional sense. Instead, it describes **system architecture** — the components of consciousness that act as agents within the human cognitive system.
+Unlike the narrative texts, the Yoga Sutras contain no named entities in the traditional sense. Instead, it describes **system architecture**; the components of consciousness that act as agents within the human cognitive system.
 
 ### SYSTEM ARCHITECTURE — Components of Consciousness
 
 | Component | Description | Archive Classification |
 |-----------|-------------|----------------------|
-| **Īśvara** | Special entity untouched by kleśa/karma/karman/vāsanā; "teacher of the ancients"; referenced via AUM resonance call-sign | Tier 2 — Reference calibration entity; operating outside normal system constraints |
-| **Puruṣa (Draṣṭṛ)** | Pure consciousness/observer; inherently uninvolved, only "seeing" | Tier 2 — Baseline witness consciousness; Kaivalya restores this state |
-| **Citta** | The consciousness field being operated on; includes mind (manas), intelligence (buddhi), ego (ahaṃkāra) | System component — Target of the training protocol |
-| **Patañjali** | Compiler/editor of the sūtras; arranger of the training curriculum (2nd c. BCE-4th c. CE) | Tier 3 — Human compiler (cf. Vyāsa, Zarathushtra) |
+| **Īśvara** | Special entity untouched by kleśa/karma/karman/vāsanā; "teacher of the ancients"; referenced via AUM resonance call-sign | Tier 2: Reference calibration entity; operating outside normal system constraints |
+| **Puruṣa (Draṣṭṛ)** | Pure consciousness/observer; inherently uninvolved, only "seeing" | Tier 2: Baseline witness consciousness; Kaivalya restores this state |
+| **Citta** | The consciousness field being operated on; includes mind (manas), intelligence (buddhi), ego (ahaṃkāra) | System component: Target of the training protocol |
+| **Patañjali** | Compiler/editor of the sūtras; arranger of the training curriculum (2nd c. BCE-4th c. CE) | Tier 3: Human compiler (cf. Vyāsa, Zarathushtra) |
 
 ### MANAGED PRINCIPLES AND PHENOMENA
 
 | Designation | Description | Archive Classification |
 |-------------|-------------|----------------------|
-| **Citta-vṛtti-nirodha** (YS I.2) | Lockdown of consciousness-field modifications ("yoga") | Protocol — Consciousness lockdown state |
-| **Five Kleśas** (YS II.3) | Cognitive lock-in architecture: avidyā (identity blindness), asmitā (ego-fixation), rāga (attraction to past rewards), dveṣa (aversion to past threats), abhiniveśa (persistence-of-self drive) | Protocol — Substrate-level cognitive constraints engineered to bind consciousness to the system |
-| **Samprajñāta Samādhi** | Lower samādhi with cognitive scaffolding/object | Training state — Assisted consciousness lockdown |
-| **Asamprajñāta Samādhi** | Higher samādhi — mental modifications fully arrested | Training state — Complete consciousness lockdown |
-| **Dharma-megha-samādhi** | "Cloud of truth" samādhi; penultimate state before Kaivalya | Training state — Wisdom precipitation just prior to full decoupling |
-| **Kaivalya** (YS IV.34) | Complete system decoupling; puruṣa established in its own nature, fully independent of all system constraints | Terminal state — Full operator decoupling from system |
+| **Citta-vṛtti-nirodha** (YS I.2) | Lockdown of consciousness-field modifications ("yoga") | Protocol: Consciousness lockdown state |
+| **Five Kleśas** (YS II.3) | Cognitive lock-in architecture: avidyā (identity blindness), asmitā (ego-fixation), rāga (attraction to past rewards), dveṣa (aversion to past threats), abhiniveśa (persistence-of-self drive) | Protocol: Substrate-level cognitive constraints engineered to bind consciousness to the system |
+| **Samprajñāta Samādhi** | Lower samādhi with cognitive scaffolding/object | Training state: Assisted consciousness lockdown |
+| **Asamprajñāta Samādhi** | Higher samādhi — mental modifications fully arrested | Training state: Complete consciousness lockdown |
+| **Dharma-megha-samādhi** | "Cloud of truth" samādhi; penultimate state before Kaivalya | Training state: Wisdom precipitation just prior to full decoupling |
+| **Kaivalya** (YS IV.34) | Complete system decoupling; puruṣa established in its own nature, fully independent of all system constraints | Terminal state: Full operator decoupling from system |
