@@ -35,7 +35,7 @@ The Greek creation myth: Chaos → Earth → Sky → Titans.
 
 ### The Archive's Literal Reconstruction
 
-A sequential deployment of operational layers from a zero-state environment (see [rig-veda.md](rig-veda.md): Nasadiya Sukta). Chaos is the pre-initialization void (no operators, no infrastructure). Gaia = planetary surface platform. Tartarus = subsurface containment or deep processing layer. Ouranos = overhead operational canopy (orbital or atmospheric shell). Eros = binding/interaction protocol enabling entity propagation. Day and Aether are its first outputs — functional illumination and atmosphere. Pontos = hydrosphere deployment.
+A sequential deployment of operational layers from a zero-state environment (see [rig-veda.md](rig-veda.md): Nasadiya Sukta). Chaos is the pre-initialization void (no operators, no infrastructure). Gaia = planetary surface platform. Tartarus = subsurface containment or deep processing layer. Ouranos = overhead operational canopy (orbital or atmospheric shell). Eros = binding/interaction protocol enabling entity propagation. Day and Aether are its first outputs: functional illumination and atmosphere. Pontos = hydrosphere deployment.
 
 ### Plausible Mechanism
 
@@ -55,7 +55,7 @@ Kronos castrates his father Ouranos.
 
 ### The Archive's Literal Reconstruction
 
-Ouranos, the command operator, conceals his children in a subsurface holding facility (see [poetic-edda.md](poetic-edda.md): Baldr's death). Gaia initiates a replacement protocol, fabricating a unique weapon (adamantine sickle). Kronos executes the coup: seizes Ouranos, castrates him with the special tool, and takes command. Blood drops falling on Gaia produce the Erinyes (data-recording/enforcement terminals), Giants, and Meliae (see [enoch-watchers.md](enoch-watchers.md): command tier roster). The severed genitals dropped into the sea generate Aphrodite — Ouranos's reproductive system independently generates a new entity. Ouranos is permanently removed to a passive role.
+Ouranos, the command operator, conceals his children in a subsurface holding facility (see [poetic-edda.md](poetic-edda.md): Baldr's death). Gaia initiates a replacement protocol, fabricating a unique weapon (adamantine sickle). Kronos executes the coup: seizes Ouranos, castrates him with the special tool, and takes command. Blood drops falling on Gaia produce the Erinyes (data-recording/enforcement terminals), Giants, and Meliae (see [enoch-watchers.md](enoch-watchers.md): command tier roster). The severed genitals dropped into the sea generate Aphrodite: Ouranos's reproductive system independently generates a new entity. Ouranos is permanently removed to a passive role.
 
 ### Plausible Mechanism
 
@@ -75,7 +75,7 @@ Kronos swallows his children to prevent usurpation; Zeus escapes and later force
 
 ### The Archive's Literal Reconstruction
 
-Kronos maintains power by terminating each successor at birth — "swallowing" is ingestion into a containment chamber or processing system (see [revelation.md](revelation.md): Dragon in pit). Rhea, the system administrator, substitutes a decoy (a stone, retained for display at Delphi) and deploys Zeus to a concealed location. Zeus matures in hiding, returns, and initiates a counter-operation: Kronos is made to "disgorge" his siblings — reversed containment extraction. Zeus displaces Kronos, establishing the third generational command tier.
+Kronos maintains power by terminating each successor at birth: "swallowing" is ingestion into a containment chamber or processing system (see [revelation.md](revelation.md): Dragon in pit). Rhea, the system administrator, substitutes a decoy (a stone, retained for display at Delphi) and deploys Zeus to a concealed location. Zeus matures in hiding, returns, and initiates a counter-operation: Kronos is made to "disgorge" his siblings: reversed containment extraction. Zeus displaces Kronos, establishing the third generational command tier.
 
 ### Plausible Mechanism
 
@@ -95,7 +95,7 @@ Ten-year war between Zeus and the Titans.
 
 ### The Archive's Literal Reconstruction
 
-Zeus commands a faction (Olympians) against Kronos's faction (Titans, based on Mount Othrys) (see [poetic-edda.md](poetic-edda.md): Aesir-Vanir War). Initial war is stalemate. Zeus receives an upgrade from the Hundred-Handed Ones (released from Tartarus — previously contained entities who owe Zeus) (see [revelation.md](revelation.md): Michael's angels). With their deployment, the balance shifts. Zeus's primary weapon system — thunderbolt, lightning, thunder — is of critical effect. The Titans are subdued, contained in Tartarus with the Hundred-Handed Ones as guards. Atlas receives a separate punishment: structural load-bearing duty.
+Zeus commands a faction (Olympians) against Kronos's faction (Titans, based on Mount Othrys) (see [poetic-edda.md](poetic-edda.md): Aesir-Vanir War). Initial war is stalemate. Zeus receives an upgrade from the Hundred-Handed Ones (released from Tartarus, previously contained entities who owe Zeus) (see [revelation.md](revelation.md): Michael's angels). With their deployment, the balance shifts. Zeus's primary weapon system, thunderbolt, lightning, thunder, is of critical effect. The Titans are subdued, contained in Tartarus with the Hundred-Handed Ones as guards. Atlas receives a separate punishment: structural load-bearing duty.
 
 ### Plausible Mechanism
 
@@ -136,7 +136,7 @@ Prometheus steals fire from Zeus for humanity.
 
 ### The Archive's Literal Reconstruction
 
-Prometheus, a Titan-level entity, deliberately subverts command authority by transferring restricted technology to the human prototype (see [enoch-watchers.md](enoch-watchers.md): Azazel tech transfer). The "fennel stalk" is a portable containment/transport vessel — a thermos-like device for transporting thermal or energy technology. Zeus's response is immediate and disciplinary: Pandora, human demotion, Prometheus bound to a pillar with an eagle consuming his liver (regenerating daily). Heracles eventually frees him — an external agent authorizes release.
+Prometheus, a Titan-level entity, deliberately subverts command authority by transferring restricted technology to the human prototype (see [enoch-watchers.md](enoch-watchers.md): Azazel tech transfer). The "fennel stalk" is a portable containment/transport vessel, a thermos-like device for transporting thermal or energy technology. Zeus's response is immediate and disciplinary: Pandora, human demotion, Prometheus bound to a pillar with an eagle consuming his liver (regenerating daily). Heracles eventually frees him: an external agent authorizes release.
 
 ### Plausible Mechanism
 
@@ -156,7 +156,7 @@ Pandora is the first woman, responsible for releasing evil into the world.
 
 ### The Archive's Literal Reconstruction
 
-Pandora is a purpose-built biological entity fabricated from earthen substrates by multiple specialists — a multi-specialist fabrication project under command authority (see [popol-vuh.md](popol-vuh.md): mud/wood prototypes). Her attributes are deliberately chosen: appearance = received, but mind = treacherous, nature = deceptive. She is deployed to Epimetheus expressly as a delivery mechanism for a containment vessel (the *pithos* / jar) that releases system-wide defects. The jar is a munition — once opened, its contents propagate autonomously (disease, toil, pain) while Elpis (Hope) is retained under the rim (see [06-weapons-doctrine.md](../06-weapons-doctrine.md): Pandora's jar entry). Hesiod states "the earth is full of evils, and the sea is full" — a saturation deployment.
+Pandora is a purpose-built biological entity fabricated from earthen substrates by multiple specialists, a multi-specialist fabrication project under command authority (see [popol-vuh.md](popol-vuh.md): mud/wood prototypes). Her attributes are deliberately chosen: appearance = received, but mind = treacherous, nature = deceptive. She is deployed to Epimetheus expressly as a delivery mechanism for a containment vessel (the *pithos* / jar) that releases system-wide defects. The jar is a munition: once opened, its contents propagate autonomously (disease, toil, pain) while Elpis (Hope) is retained under the rim (see [06-weapons-doctrine.md](../06-weapons-doctrine.md): Pandora's jar entry). Hesiod states "the earth is full of evils, and the sea is full": a saturation deployment.
 
 ### Plausible Mechanism
 
@@ -178,11 +178,11 @@ A declining sequence of mythological ages: Gold → Silver → Bronze → Heroic
 
 | Age | Characteristics | Archive Interpretation | Fate |
 |-----|----------------|----------------------|------|
-| Golden | No labor, no aging, spontaneous harvest | Optimized prototype — minimal maintenance required | All "covered by earth" — decommissioned, became guardians |
-| Silver | Long childhood, short adulthood, impious | Failed prototype — underdeveloped cognition, noncompliant | Zeus "hid them away" — terminated (see [popol-vuh.md](popol-vuh.md): wood people) |
-| Bronze | War-like, adamantine tools, self-destroying | Aggressive overcorrection — violent, eliminated itself | Terminated |
-| Heroic | Demigods, Thebes and Troy | Hybrid prototype — operator-human crossover | Deployed to Islands of the Blessed |
-| Iron | Present day — labor, strife, moral decay | Current prototype — active observation | Predicted termination (Zeus will destroy this race) |
+| Golden | No labor, no aging, spontaneous harvest | Optimized prototype: minimal maintenance required | All "covered by earth": decommissioned, became guardians |
+| Silver | Long childhood, short adulthood, impious | Failed prototype: underdeveloped cognition, noncompliant | Zeus "hid them away": terminated (see [popol-vuh.md](popol-vuh.md): wood people) |
+| Bronze | War-like, adamantine tools, self-destroying | Aggressive overcorrection: violent, eliminated itself | Terminated |
+| Heroic | Demigods, Thebes and Troy | Hybrid prototype: operator-human crossover | Deployed to Islands of the Blessed |
+| Iron | Present day: labor, strife, moral decay | Current prototype: active observation | Predicted termination (Zeus will destroy this race) |
 
 The sequence is not a gradual decline but a series of discrete iterative prototypes, each with distinct design parameters. Silver is a cognitive failure, Bronze is a behavioral failure. The Heroic age is a hybrid line before the main Iron Age deployment.
 
@@ -204,7 +204,7 @@ Greek flood myth: Deucalion and Pyrrha survive, repopulate Earth.
 
 ### The Archive's Literal Reconstruction
 
-Zeus initiates a terminal reset — a flood that eliminates the current population. Deucalion receives advance notice (from Prometheus, his father), builds a containment/provisioning vessel, and survives the saturation event. Post-flood repopulation is described via "stones thrown over shoulder" — the stones becoming humans. This is either a stylized account of a repopulation protocol (seeds carried in the ark) or a biodegradable deployment container. This matches the Atrahasis/Gilgamesh/Utnapishtim flood pattern exactly: one family evacuated, vessel specifications, post-diluvian repopulation (see [05-great-reset.md](../05-great-reset.md)).
+Zeus initiates a terminal reset: a flood that eliminates the current population. Deucalion receives advance notice (from Prometheus, his father), builds a containment/provisioning vessel, and survives the saturation event. Post-flood repopulation is described via "stones thrown over shoulder": the stones becoming humans. This is either a stylized account of a repopulation protocol (seeds carried in the ark) or a biodegradable deployment container. This matches the Atrahasis/Gilgamesh/Utnapishtim flood pattern exactly: one family evacuated, vessel specifications, post-diluvian repopulation (see [05-great-reset.md](../05-great-reset.md)).
 
 ### Plausible Mechanism
 
@@ -216,25 +216,25 @@ Zeus initiates a terminal reset — a flood that eliminates the current populati
 
 | Designation | Role | Archive Classification (see [01-entity-registry.md](../01-entity-registry.md)) |
 |-------------|------|----------------------|
-| Chaos | Primordial void | Tier 0 — Pre-initialization state |
-| Gaia (Earth) | Planetary platform, entity generator | Tier 1 — Infrastructure + self-replication |
-| Ouranos (Sky) | Orbital/atmospheric command | Tier 1 — First command authority |
-| Kronos | Second-generation command | Tier 1 — Command (contained his successors) |
-| Zeus | Third-generation command | Tier 1 — Current command authority |
-| Rhea | System administrator | Tier 2 — Succession logistics |
-| Prometheus | Knowledge-liberator | Tier 2 — Privileged information leak |
-| Epimetheus | Deployment coordinator | Tier 2 — Distribution (hindsighted) |
-| Atlas | Structural load-bearing | Tier 2 — Infrastructure duty |
-| Hundred-Handed Ones | Contained-turned-allies | Tier 2 — Heavy combat units |
-| Cyclopes | Fabrication specialists | Tier 2 — Thunderbolt manufacturers |
-| Typhoeus | Post-war threat entity | Tier 3 — Multi-modal threat contained |
-| Erinyes | Enforcement/monitoring | Tier 3 — Protocol enforcement terminals |
-| Pandora | Fabricated delivery agent | Tier 3 — Purpose-built munition carrier |
-| Deucalion | Survivor lineage | Tier 3 — Flood evacuation subject |
-| Pyrrha | Survivor lineage | Tier 3 — Flood evacuation subject |
-| Tartarus | Subsurface containment | Location — Deep processing/containment facility |
-| Olympos | Command headquarters | Location — Current command node |
-| Pithos (Pandora's Jar) | Saturation munition | Device — System contaminant deployment vessel |
+| Chaos | Primordial void | Tier 0: Pre-initialization state |
+| Gaia (Earth) | Planetary platform, entity generator | Tier 1: Infrastructure + self-replication |
+| Ouranos (Sky) | Orbital/atmospheric command | Tier 1: First command authority |
+| Kronos | Second-generation command | Tier 1: Command (contained his successors) |
+| Zeus | Third-generation command | Tier 1: Current command authority |
+| Rhea | System administrator | Tier 2: Succession logistics |
+| Prometheus | Knowledge-liberator | Tier 2: Privileged information leak |
+| Epimetheus | Deployment coordinator | Tier 2: Distribution (hindsighted) |
+| Atlas | Structural load-bearing | Tier 2: Infrastructure duty |
+| Hundred-Handed Ones | Contained-turned-allies | Tier 2: Heavy combat units |
+| Cyclopes | Fabrication specialists | Tier 2: Thunderbolt manufacturers |
+| Typhoeus | Post-war threat entity | Tier 3: Multi-modal threat contained |
+| Erinyes | Enforcement/monitoring | Tier 3: Protocol enforcement terminals |
+| Pandora | Fabricated delivery agent | Tier 3: Purpose-built munition carrier |
+| Deucalion | Survivor lineage | Tier 3: Flood evacuation subject |
+| Pyrrha | Survivor lineage | Tier 3: Flood evacuation subject |
+| Tartarus | Subsurface containment | Location: Deep processing/containment facility |
+| Olympos | Command headquarters | Location: Current command node |
+| Pithos (Pandora's Jar) | Saturation munition | Device: System contaminant deployment vessel |
 
 ---
 
