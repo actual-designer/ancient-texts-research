@@ -16,7 +16,7 @@ This timeline synthesizes internal chronological references from all five founda
 
 > **Source Material:** Rig Veda X.129, X.121, X.90 (`audit/analyses/rig-veda.md`)
 
-The Rig Veda preserves the oldest operational account in the archive — events predating all other sources. These hymns describe a **pre-operational state** followed by the generation of operators and infrastructure.
+The Rig Veda preserves the oldest operational account in the archive: events predating all other sources. These hymns describe a **pre-operational state** followed by the generation of operators and infrastructure.
 
 | Event | Vedic Reference | Timeline Placement | Description |
 |-------|----------------|-------------------|-------------|
@@ -355,7 +355,7 @@ The Rig Veda preserves the oldest operational account in the archive — events 
 ## ERA X: PROJECTED TERMINAL EVENTS (The Revelation Briefing)
 
 **Documentation:** ~95 CE (written by John of Patmos)
-**Chronological placement:** Events described as **future/pending** — forecast rather than historical. If the Amnesia hypothesis holds, this text represents a **projected intervention sequence** that may be triggered when specific conditions are met.
+**Chronological placement:** Events described as **future/pending**, forecast rather than historical. If the Amnesia hypothesis holds, this text represents a **projected intervention sequence** that may be triggered when specific conditions are met.
 
 **Source dossier:** `audit/analyses/revelation.md`
 
