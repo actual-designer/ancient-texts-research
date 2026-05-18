@@ -7,11 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [0.7.1] — 2026-05-18
+## [0.7.2] — 2026-05-18
+
+### Added
+
+- `AGENTS.md` — Added header metadata (Generation timestamp, commit hash, branch) following the repo's conventions.
+- `audit/analyses/AGENTS.md` — New directory-level guide documenting the per-text deep-dive template structure, numbering conventions, incident format, cross-reference style, source attribution rules, and anti-patterns for analysts writing new analyses.
 
 ### Updated
 
-- **README.md** — Added `12-NHI-correlation.md` to "Cross-Cutting Syntheses" listing.
+- **`AGENTS.md`** — Major restructure of repository tree with full detail:
+  - Expanded synthesis document listing from 7 to 12 (now includes 08-nephilim-reassessment through 12-nhi-correlation).
+  - Updated per-text analysis count from 7 to 14.
+  - Added `scripts/` directory with `validate-links.py`.
+  - Refined descriptions for all documents with consistent formatting.
+- `.obsidian/workspace.json` — Active document switched from `12-NHI-correlation.plan.md` to the finalized `12-NHI-correlation.md`; OpenCode view tab reordering; removed `github-sync` from hidden items.
+- `.sisyphus/run-continuation/` — New session continuation state for the current workstream.
 
 ---
 
