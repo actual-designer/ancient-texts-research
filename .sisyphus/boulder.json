@@ -1,50 +1,14 @@
 {
-  "active_plan": "/home/andre/Work/ancient-texts-research/.sisyphus/plans/12-NHI-correlation.md",
-  "started_at": "2026-05-18T16:18:54.435Z",
+  "active_plan": "/home/andre/Work/ancient-texts-research/.sisyphus/plans/readme-rewrite.md",
+  "started_at": "2026-05-18T22:44:17.089Z",
+  "completed_at": "2026-05-18T23:00:00.000Z",
   "session_ids": [
-    "ses_1c434cfa5ffeBT7u1HvFoZ9M2g"
+    "ses_1c2c5479dffeu17H7jA3rHcaC5"
   ],
   "session_origins": {
-    "ses_1c434cfa5ffeBT7u1HvFoZ9M2g": "direct"
+    "ses_1c2c5479dffeu17H7jA3rHcaC5": "direct"
   },
-  "plan_name": "12-NHI-correlation",
+  "plan_name": "readme-rewrite",
   "agent": "atlas",
-  "task_sessions": {
-    "todo:1": {
-      "task_key": "todo:1",
-      "task_label": "1",
-      "task_title": "Deep Source Vallée",
-      "session_id": "ses_1c41c90cbffezsCs7MEAkoVj9t",
-      "agent": "Sisyphus-Junior",
-      "category": "writing",
-      "updated_at": "2026-05-18T16:27:25.364Z"
-    },
-    "todo:4": {
-      "task_key": "todo:4",
-      "task_label": "4",
-      "task_title": "Write Section 1: Executive Summary",
-      "session_id": "ses_1c4149d5cffepE0490yzfEwd57",
-      "agent": "Sisyphus-Junior",
-      "category": "writing",
-      "updated_at": "2026-05-18T16:32:50.521Z"
-    },
-    "todo:5": {
-      "task_key": "todo:5",
-      "task_label": "5",
-      "task_title": "Write Section 2: Correlation Methodology",
-      "session_id": "ses_1c3db0923ffeRCx00iCISsrUHQ",
-      "agent": "Sisyphus-Junior",
-      "category": "writing",
-      "updated_at": "2026-05-18T17:32:43.661Z"
-    },
-    "todo:15": {
-      "task_key": "todo:15",
-      "task_label": "15",
-      "task_title": "Update `audit/00-INDEX.md`",
-      "session_id": "ses_1c3aa051effelc3dxZe044JkXv",
-      "agent": "Sisyphus-Junior",
-      "category": "quick",
-      "updated_at": "2026-05-18T18:26:20.023Z"
-    }
-  }
+  "status": "completed"
 }
