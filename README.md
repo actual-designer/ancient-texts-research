@@ -46,6 +46,7 @@ This repository is a research vault. No code, no builds, just raw analysis.
 - [`09-location-registry.md`](audit/09-location-registry.md) — All named geographic zones, facilities, gates, cities, and orbital domains.
 - [`10-correlation-map.md`](audit/10-correlation-map.md) — Per-text perspective inventory, thematic correlation clusters, linking blueprint.
 - [`11-unified-hypothesis.md`](audit/11-unified-hypothesis.md) — The capstone. Singular hypothesis unifying all fourteen texts across seven chapters, with findings, predictions, and falsifiability.
+- [`12-NHI-correlation.md`](audit/12-NHI-correlation.md) — Addendum correlating modern NHI/UFO disclosure discourse (Vallée, Keel, Grusch, AARO) with the Archive's unified hypothesis across all prior syntheses.
 
 ## First Doorways
 
