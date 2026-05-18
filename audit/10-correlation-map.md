@@ -9,7 +9,7 @@
 
 ## 1. Per-Text Perspective Inventory
 
-Each of the 13 per-text analyses views the shared operational reality through a distinctive lens. This section catalogues what each text uniquely contributes.
+Each of the 14 per-text analyses views the shared operational reality through a distinctive lens. This section catalogues what each text uniquely contributes.
 
 ---
 

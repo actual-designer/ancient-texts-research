@@ -1,7 +1,7 @@
 # Translation Key — Archaic-to-Technical Glossary
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
-**Scope:** All 13 source texts (Atrahasis, Gilgamesh, Enoch, Ezekiel, Pyramid Texts, Mahābhārata, Popol Vuh, Rig Veda, Revelation, Book of the Dead, Poetic Edda, Theogony & Works and Days, Zoroastrian Gathas)
+**Scope:** All 14 source texts (Atrahasis, Gilgamesh, Enoch, Ezekiel, Pyramid Texts, Mahābhārata, Popol Vuh, Rig Veda, Revelation, Book of the Dead, Poetic Edda, Theogony & Works and Days, Zoroastrian Gathas, Bhagavad Gītā)
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---
