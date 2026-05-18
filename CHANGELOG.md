@@ -7,6 +7,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.7.3] — 2026-05-18
+
+### Added
+
+- **`README.md` — Complete narrative gateway rewrite:**
+  - New "The Amnesia Problem" section with smartphone-to-3000-BCE analogy, reframing every "miracle" as a vocabulary-limited technical description.
+  - "Evidence of Convergence" cross-region isolation table (Mesopotamia, Levant, India, Egypt, Mesoamerica, Scandinavia, Greece, Persia) demonstrating independent tradition convergence.
+  - "Case Studies" section with two full analyses: Atrahasis Flood (sterilization protocol with technical breakdown) and Ezekiel's Merkabah (aerospace vehicle with component identification and ASCII schematic).
+  - "The Narrative Arc" — end-to-end story summary from operator arrival to present autonomous test phase.
+  - "How to Navigate" guide with "First Doorways" table recommending entry points for new readers.
+  - Archipelago ASCII diagram and complete synthesis document listing with descriptions.
+- `.sisyphus/plans/readme-rewrite.md` — Execution plan for the README rewrite.
+- `.sisyphus/evidence/readme-rewrite-*.txt` — 6 verification evidence files documenting link validation, content checks, and QA passes.
+
+### Updated
+
+- `audit/00-INDEX.md` — Reordered synthesis docs to proper numerical sequence (08-09-10 before 11-12); added missing entries for `08-translation-key.md` and `09-location-registry.md` which were absent since inception; updated source text counts from 13 to 14 throughout.
+- `audit/08-translation-key.md` — Scope header updated from "13 source texts" to "14" with Bhagavad Gītā added to listing.
+- `audit/10-correlation-map.md` — Updated "13 per-text analyses" to "14" to reflect current document count.
+- `.sisyphus/boulder.json` — NHI correlation workstream marked completed; readme-rewrite plan registered and completed.
+- `.obsidian/workspace.json` — Added 11-unified-hypothesis tab alongside 12-NHI-correlation; active tab updated.
+
+---
+
 ## [0.7.2] — 2026-05-18
 
 ### Added
