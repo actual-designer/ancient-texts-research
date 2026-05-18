@@ -60,6 +60,7 @@
 | [06-weapons-doctrine.md](06-weapons-doctrine.md) | Weapons authorization hierarchy, escalation arc, countermeasure distribution, regret grammar across all five sources |
 | [07-the-human-project.md](07-the-human-project.md) | The complete arc: creation as labor solution, management, contamination crisis, reset/rebuild cycle, operator withdrawal |
 | [11-unified-hypothesis.md](11-unified-hypothesis.md) | Capstone argument: singular hypothesis unifying all fourteen texts and all synthesis documents; seven numbered findings; predictions and falsifiability; complete arc timeline |
+| [12-NHI-correlation.md](12-NHI-correlation.md) | NHI/Archive correlation synthesis — maps modern UFO/NHI discourse to unified hypothesis; correlation methodology, timeline analysis, counterargument treatment, falsification criteria |
 | [09-location-registry.md](09-location-registry.md) | All named geographic zones, facilities, gates, cities, and orbital domains across all 13 source texts, with cross-tradition axis mundi and underworld comparisons |
 | [10-correlation-map.md](10-correlation-map.md) | Phase 1 deliverable: per-text perspective inventory, 8 thematic correlation clusters, complete linking blueprint for Phase 2 hyperlink retrofit |
 
