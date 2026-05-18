@@ -1,5 +1,9 @@
 # AGENTS.md — The Chronos Archive
 
+**Generated:** 2026-05-18
+**Commit:** `3f2a1e5`
+**Branch:** `main`
+
 This repo is a **hard science-fiction research project** that applies a literalist, technological lens to ancient texts. There is no code, no build system, no test runner — only Markdown analysis and PDF source documents.
 
 ## Must-read first
@@ -9,24 +13,37 @@ This repo is a **hard science-fiction research project** that applies a literali
 ## Repository structure
 
 ```
-texts/                    # Source PDFs — never edit, these are primary references
-  EpicofAtrahasis.pdf
-  The Complete Book of Enoch...pdf
-  THE EPIC OF GILGAMESH.pdf
-  eze.pdf                  # Book of Ezekiel
-  Mahabharata.pdf          # Romesh C. Dutt condensed verse
-  Menon_Ramesh-The-Complete-Mahabharata_-Volume-1-12.pdf   # Full Menon translation
-audit/                    # Research output (all Markdown)
-  00-INDEX.md             # Master index with source table and document links
-  01-entity-registry.md   # Non-human actors, hierarchy, across all sources
-  02-technology-catalog.md # Miracles → plausible tech mapping (genetic engineering, aerospace, etc.)
-  03-event-timeline.md    # Unified chronology across all sources
-  04-cross-references.md  # Parallel accounts (Flood, etc.) across independent traditions
-  05-great-reset.md       # Flood as deliberate sterilization protocol, Ark as genetic vault
-  06-weapons-doctrine.md  # Weapons authorization hierarchy and escalation pathology
-  07-the-human-project.md # Complete longitudinal arc of human creation/management/reset
-  analyses/               # Per-text deep dives (7 files, one per source text)
+texts/                        # Source PDFs (15) — never edit, primary references
+audit/                        # Research output — Markdown synthesis documents
+  00-INDEX.md                 # Master index with source table + doc links
+  01-entity-registry.md       # Non-human actors, hierarchy, across all sources
+  02-technology-catalog.md    # Miracles → plausible tech mapping
+  03-event-timeline.md        # Unified chronology across all sources
+  04-cross-references.md      # Parallel accounts across independent traditions
+  05-great-reset.md           # Flood as deliberate sterilization protocol
+  06-weapons-doctrine.md      # Weapons authorization hierarchy
+  07-the-human-project.md     # Complete arc: creation/management/reset
+  08-nephilim-reassessment.md # Nephilim as deliberate transhumanist program
+  09-soma-analysis.md         # Soma as controlled substance technology
+  10-vedic-weapon-taxonomy.md # Vedic astra weapon classification
+  11-timeline-revision.md     # Refined event chronology
+  12-nhi-correlation.md       # Non-human intelligence pattern alignment
+  analyses/                   # Per-text deep dives (14 files)
+scripts/
+  validate-links.py           # Cross-reference link validator
 ```
+
+## Where to look
+
+| Task | Location | Notes |
+|------|----------|-------|
+| Core methodology | `claude.md` | Read before any analysis work |
+| Quick overview | `README.md` | Project premise, scope, architecture |
+| Source text list | `audit/00-INDEX.md` | Master index with source table |
+| Per-text deep dive | `audit/analyses/` | 14 files, one per source text |
+| Cross-cutting synthesis | `audit/` | 12 numbered docs, 00-INDEX through 12-NHI |
+| Feature roadmap | `PLAN.md` | Content gaps, infrastructure, expansion |
+| Link validation | `scripts/validate-links.py` | `python3 scripts/validate-links.py` |
 
 ## Conventions
 
@@ -51,3 +68,8 @@ audit/                    # Research output (all Markdown)
 - **Reverse-Engineering**: Translate archaic vocabulary into modern equivalents (e.g., "chariot of fire" = aerospace vehicle).
 - **Amnesia Filter**: Witnesses lacked vocabulary for advanced technology — analyze their descriptions as if written by a non-technical observer.
 - **Cross-source convergence**: Parallel accounts in geographically/temporally separated traditions strengthen credibility.
+
+## Notes
+
+- `.sisyphus/` and `.obsidian/` are local tooling directories — not part of research content.
+- PDF filenames in `texts/` vary in convention (mixed casing, abbreviations); the INDEX table disambiguates them.
