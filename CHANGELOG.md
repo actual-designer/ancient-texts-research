@@ -7,6 +7,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.7.0] — 2026-05-18
+
+### Added
+
+- **NHI correlation synthesis document:**
+  - `audit/12-NHI-correlation.md` — Cross-cutting synthesis correlating modern UFO/NHI disclosure discourse (Vallée, Keel, Grusch, AARO/Pasulka) with the Archive's unified hypothesis. 14 numbered findings covering: historical continuity of encounter traditions, structural failure of the Extraterrestrial Hypothesis, operator ontology (interdimensional/physical hybrid), the amnesia control architecture as the "psychic veil," Watcher-equivalent surveillance posture, the three-tier operational hierarchy matching ancient entity registries, timeline-gap analysis addressing the 2,500-year apparent lull, the multigenerational human-NHI lineage program, and falsification criteria. Includes correlation methodology section addressing pattern-seeking bias, treatment of Vallée's "adaptation to expectation" objection, and appendix-level source extracts from all four modern evidentiary tracks.
+- **Deep source research evidence:**
+  - `.sisyphus/evidence/deep-source-vallee.md` — Key passages from *Passport to Magonia* and *Messengers of Deception*
+  - `.sisyphus/evidence/deep-source-keel-grusch.md` — Extracts from *Operation Trojan Horse* and Grusch congressional testimony
+  - `.sisyphus/evidence/deep-source-aaro-pasulka.md` — AARO report analysis and Pasulka's *American Cosmic* findings
+- `.sisyphus/evidence/fragments/` — 14 task output fragments documenting the section-by-section drafting process
+
+### Updated
+
+- `audit/00-INDEX.md` — Added `12-NHI-correlation.md` entry to cross-cutting synthesis table with description
+- `.sisyphus/` — Active plan, boulder state, notepads, and run-continuation updated for NHI correlation workstream
+- `.obsidian/workspace.json` — Editor layout updated to reference NHI correlation documents
+
+---
+
 ## [0.6.1] — 2026-05-17
 
 ### Updated
