@@ -1,63 +1,50 @@
 {
-  "active_plan": "/home/andre/Work/ancient-texts-research/.sisyphus/plans/rig-veda-analysis.md",
-  "started_at": "2026-05-12T17:08:43.347Z",
+  "active_plan": "/home/andre/Work/ancient-texts-research/.sisyphus/plans/12-NHI-correlation.md",
+  "started_at": "2026-05-18T16:18:54.435Z",
   "session_ids": [
-    "ses_1e6bfe7adffe4jSOBewlDbkLuq",
-    "ses_1e2d451aeffeysbRdMzBvbqzJo",
-    "ses_1e2d3881bffeCQ7jKYC2oYt9rd",
-    "ses_1e2d33883ffe0wd80IdLfhnFiE",
-    "ses_1e2cea1ecffe4f19RBsTE1WSSD",
-    "ses_1e2ce5a20ffeUQ5MtmNPBvrjgc",
-    "ses_1e2ce1ee1ffetAq7VOpoIE6CzC",
-    "ses_1e2cdae0cffeENxSORaibA9WBR",
-    "ses_1e2cd8e53ffesKjNdyyr1hrS2c",
-    "ses_1e2c9d7ebffeq4hll1JGEo9pSW",
-    "ses_1e2c9c30cffes0HeEBAq1ihTDm",
-    "ses_1e2c9af9affewg5RhJEqxek1xC"
+    "ses_1c434cfa5ffeBT7u1HvFoZ9M2g"
   ],
   "session_origins": {
-    "ses_1e6bfe7adffe4jSOBewlDbkLuq": "direct",
-    "ses_1e2d451aeffeysbRdMzBvbqzJo": "appended",
-    "ses_1e2d3881bffeCQ7jKYC2oYt9rd": "appended",
-    "ses_1e2d33883ffe0wd80IdLfhnFiE": "appended",
-    "ses_1e2cea1ecffe4f19RBsTE1WSSD": "appended",
-    "ses_1e2ce5a20ffeUQ5MtmNPBvrjgc": "appended",
-    "ses_1e2ce1ee1ffetAq7VOpoIE6CzC": "appended",
-    "ses_1e2cdae0cffeENxSORaibA9WBR": "appended",
-    "ses_1e2cd8e53ffesKjNdyyr1hrS2c": "appended",
-    "ses_1e2c9d7ebffeq4hll1JGEo9pSW": "appended",
-    "ses_1e2c9c30cffes0HeEBAq1ihTDm": "appended",
-    "ses_1e2c9af9affewg5RhJEqxek1xC": "appended"
+    "ses_1c434cfa5ffeBT7u1HvFoZ9M2g": "direct"
   },
-  "plan_name": "rig-veda-analysis",
+  "plan_name": "12-NHI-correlation",
   "agent": "atlas",
   "task_sessions": {
     "todo:1": {
       "task_key": "todo:1",
       "task_label": "1",
-      "task_title": "**Write analysis — Incidents 1-5 (Creation, Gestation, Decommissioning, Vajra, Asvins)**",
-      "session_id": "ses_1e2d33883ffe0wd80IdLfhnFiE",
+      "task_title": "Deep Source Vallée",
+      "session_id": "ses_1c41c90cbffezsCs7MEAkoVj9t",
       "agent": "Sisyphus-Junior",
       "category": "writing",
-      "updated_at": "2026-05-12T17:15:26.905Z"
+      "updated_at": "2026-05-18T16:27:25.364Z"
+    },
+    "todo:4": {
+      "task_key": "todo:4",
+      "task_label": "4",
+      "task_title": "Write Section 1: Executive Summary",
+      "session_id": "ses_1c4149d5cffepE0490yzfEwd57",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-05-18T16:32:50.521Z"
     },
     "todo:5": {
       "task_key": "todo:5",
       "task_label": "5",
-      "task_title": "**Update Entity Registry (01)**",
-      "session_id": "ses_1e2cd8e53ffesKjNdyyr1hrS2c",
+      "task_title": "Write Section 2: Correlation Methodology",
+      "session_id": "ses_1c3db0923ffeRCx00iCISsrUHQ",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-05-18T17:32:43.661Z"
+    },
+    "todo:15": {
+      "task_key": "todo:15",
+      "task_label": "15",
+      "task_title": "Update `audit/00-INDEX.md`",
+      "session_id": "ses_1c3aa051effelc3dxZe044JkXv",
       "agent": "Sisyphus-Junior",
       "category": "quick",
-      "updated_at": "2026-05-12T17:21:34.578Z"
-    },
-    "final-wave:f1": {
-      "task_key": "final-wave:f1",
-      "task_label": "F1",
-      "task_title": "**Read-Back Verification** — Read every modified file. Confirm content is coherent, complete, and correctly formatted.",
-      "session_id": "ses_1e2c9af9affewg5RhJEqxek1xC",
-      "agent": "Sisyphus-Junior",
-      "category": "unspecified-low",
-      "updated_at": "2026-05-12T17:27:23.025Z"
+      "updated_at": "2026-05-18T18:26:20.023Z"
     }
   }
 }
