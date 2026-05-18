@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audit/12-NHI-correlation.plan.md",
+                "file": "audit/12-NHI-correlation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-NHI-correlation.plan"
+              "title": "12-NHI-correlation"
             }
           }
         ]
@@ -88,6 +88,16 @@
         "id": "c44de238c362763b",
         "type": "tabs",
         "children": [
+          {
+            "id": "2f041b52a8275c2e",
+            "type": "leaf",
+            "state": {
+              "type": "opencode-view",
+              "state": {},
+              "icon": "opencode-logo",
+              "title": "OpenCode"
+            }
+          },
           {
             "id": "1835373f625541d3",
             "type": "leaf",
@@ -164,23 +174,12 @@
               "icon": "lucide-list",
               "title": "Outline of 12-NHI-correlation.plan"
             }
-          },
-          {
-            "id": "2f041b52a8275c2e",
-            "type": "leaf",
-            "state": {
-              "type": "opencode-view",
-              "state": {},
-              "icon": "opencode-logo",
-              "title": "OpenCode"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 539.5
+    "width": 597.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,12 +191,12 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian42-brat:BRAT": false,
-      "opencode-obsidian:OpenCode": false,
-      "github-sync:Sync with Remote": false
+      "opencode-obsidian:OpenCode": false
     }
   },
   "active": "5be56788ed4aa1a3",
   "lastOpenFiles": [
+    "audit/analyses/AGENTS.md",
     "audit/12-NHI-correlation.md",
     "audit/11-unified-hypothesis.md",
     "audit/12-NHI-correlation.plan.md",
