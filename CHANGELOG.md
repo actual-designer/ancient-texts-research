@@ -25,6 +25,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `.sisyphus/` — Active plan, boulder state, notepads, and run-continuation updated for NHI correlation workstream
 - `.obsidian/workspace.json` — Editor layout updated to reference NHI correlation documents
 
+### Removed
+
+- `audit/12-NHI-correlation.plan.md` — Deleted planning document for NHI correlation workstream (plan completed and superseded by deliverable)
+
 ---
 
 ## [0.6.1] — 2026-05-17
