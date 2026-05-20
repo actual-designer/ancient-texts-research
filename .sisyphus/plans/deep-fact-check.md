@@ -1022,7 +1022,7 @@ Critical Path: Task 1 → Task 6 → Task 9 → Task 14 → Task 20 → Task 25 
 
 ---
 
-- [ ] 33. **Commit and push verification toolkit and reports**
+- [x] 33. **Commit and push verification toolkit and reports**
 
   **What to do**:
   - Commit the full `scripts/verify/` toolkit
@@ -1046,19 +1046,19 @@ Critical Path: Task 1 → Task 6 → Task 9 → Task 14 → Task 20 → Task 25 
 
 > 4 review agents run in PARALLEL after all tasks complete. ALL must APPROVE.
 
-- [ ] F1. **Plan Compliance Audit** — `oracle`
+- [x] F1. **Plan Compliance Audit** — `oracle` — APPROVE
   Read the plan end-to-end. Verify: All Must Haves implemented? All Must NOT Haves absent? Evidence files exist? Per-document reports generated? Master audit summary complete? Certification document exists? Script suite committed?
   Output: `Must Have [N/N] | Must NOT Have [N/N] | Tasks [N/N] | VERDICT`
 
-- [ ] F2. **Verification Script Quality Review** — `unspecified-high`
+- [x] F2. **Verification Script Quality Review** — `unspecified-high` — APPROVE
   Review all scripts in `scripts/verify/`: Do they handle errors? Do they report clearly? Are thresholds configurable? Is the code readable and maintainable? Run `python3 scripts/verify/run_all.py --dry-run` to validate structure.
   Output: `Scripts [N clean/N issues] | VERDICT`
 
-- [ ] F3. **Real Audit Re-Run** — `unspecified-high`
+- [x] F3. **Real Audit Re-Run** — `unspecified-high` — APPROVE
   Start from clean state (no pre-existing extracted text). Run `python3 scripts/verify/run_all.py` fresh. Verify that all outputs are regenerated, all evidence files created, and final certification is achievable.
   Output: `Run [PASS/FAIL] | Evidence [N files] | Cert [ACHIEVED/FAILED] | VERDICT`
 
-- [ ] F4. **Scope Fidelity Check** — `deep`
+- [x] F4. **Scope Fidelity Check** — `deep` — APPROVE
   For each task in the plan: verify the "What to do" matches what was actually built. Check that no scope creep occurred. Verify that the amnesia hypothesis was not altered — only factual claims were verified. Check that no external academic deep-dive research was done beyond standard references.
   Output: `Tasks [N/N compliant] | Scope Creep [CLEAN/N issues] | VERDICT`
 
