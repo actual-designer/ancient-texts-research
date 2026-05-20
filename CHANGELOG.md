@@ -7,6 +7,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.7.4] — 2026-05-20
+
+### Added
+
+- **Deep fact-check — Full audit of all 14 source texts completed:**
+  - Numerical claims verified against source material across all documents.
+  - Cross-references validated for existence, accuracy, and bidirectional consistency.
+  - External source claims traced to originals (including Zoroastrian Gathas, Hesiod's Theogony, Yoga Sutras) with detailed audit reports.
+  - Quote accuracy verified against extracted text with remediation tracking for discrepancies.
+  - Certification document (`audit/verification/certification.md`) and master audit summary (`audit/verification/00-audit-master.md`) generated — zero errors certified.
+  - Per-document audit reports and evidence files produced in `audit/verification/reports/` and `audit/verification/evidence/`.
+  - Verification toolkit (`scripts/verify/`) with automated Python scripts for numerical, cross-ref, external-source, and quote verification, plus `run_all.py` orchestration.
+- **Extracted text corpus** (`texts/extracted/`) — Plain-text extraction of all 14 source PDFs for programmatic analysis, cross-reference search, and automated verification.
+- `.sisyphus/run-continuation/ses_1c3a4279dffezXLE1SpgIS07ai.json` — Session continuation state for deep fact-check completion.
+
+### Updated
+
+- `.sisyphus/plans/deep-fact-check.md` — All remaining plan tasks (33, F1–F4) marked completed and approved by review agents.
+- `.obsidian/workspace.json` — Added verification review documents to workspace tabs (cross-ref, NHI, numerical, quote review summaries); active file set to certification summary.
+
+---
+
 ## [0.7.3] — 2026-05-18
 
 ### Added
