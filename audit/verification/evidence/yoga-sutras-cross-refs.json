@@ -1,0 +1,102 @@
+[
+  {
+    "source_file": "audit/analyses/yoga-sutras.md",
+    "line": 79,
+    "link_text": "zoroastrian-gathas.md",
+    "link_target": "zoroastrian-gathas.md",
+    "context": "### The Archive's Literal Reconstruction  \u012a\u015bvara is described with precise technical attributes (see [zoroastrian-gathas.md](zoroastrian-gathas.md): Ahura Mazda):  - **Not affected by** *kle\u015bas* (affl",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/yoga-sutras.md",
+    "line": 89,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "- **Unconditioned by time**: temporally unbounded - **Guru of the ancient teachers**: predates and instructs all prior operators  This describes an entity functioning at a higher architectural level. ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/yoga-sutras.md",
+    "line": 127,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "S\u016btra II.4 identifies *avidy\u0101* as the \"field\" (*k\u1e63etra*) for the others. It is the **root constraint** that enables all others. The afflictions operate in four states: *prasupta* (dormant), *tanu* (re",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/yoga-sutras.md",
+    "line": 148,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "### The Archive's Literal Reconstruction  The eight limbs form a **graduated operator conditioning program**, each stage building on the previous. Under the Amnesia hypothesis, they map to measurable ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/yoga-sutras.md",
+    "line": 217,
+    "link_text": "gilgamesh.md",
+    "link_target": "gilgamesh.md",
+    "context": "S\u016btra IV.1 identifies **five distinct sources** for these powers: birth (innate), drugs (chemical induction), mantra (sonic/vibrational), tapas (physiological conditioning), and sam\u0101dhi (consciousness",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/yoga-sutras.md",
+    "line": 0,
+    "link_text": "zoroastrian-gathas.md",
+    "link_target": "zoroastrian-gathas.md",
+    "context": "(paren zoroastrian-gathas.md: Ahura Mazda)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/yoga-sutras.md",
+    "line": 0,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "(paren 01-entity-registry.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/yoga-sutras.md",
+    "line": 0,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "(paren poetic-edda.md: Norns)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/yoga-sutras.md",
+    "line": 0,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "(paren 02-technology-catalog.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/yoga-sutras.md",
+    "line": 0,
+    "link_text": "gilgamesh.md",
+    "link_target": "gilgamesh.md",
+    "context": "(paren gilgamesh.md: Utnapishtim's immortality grant denied)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  }
+]

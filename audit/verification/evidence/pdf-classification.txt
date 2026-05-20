@@ -1,0 +1,24 @@
+# PDF Extractions
+**Date**: 2026-05-19
+
+## Classification Results
+
+| PDF | Lines | Status |
+|-----|-------|--------|
+| AncientEgyptianPyramid_Allen_SBL.pdf | 20,761 | text-searchable |
+| bookofrevelation.pdf | 1,333 | text-searchable |
+| EpicofAtrahasis.pdf | 1,549 | text-searchable |
+| eze.pdf | 7,776 | text-searchable |
+| Hesiod-Theogony-Works-and-Days.pdf | 0 | SCANNED - unverifiable |
+| Mahabharata.pdf | 5,578 | text-searchable |
+| Menon_Ramesh-The-Complete-Mahabharata_-Volume-1-12.pdf | 194,076 | text-searchable |
+| PopolVuh.pdf | 11,404 | text-searchable |
+| RigVeda.pdf | 36,695 | text-searchable |
+| The-Book-of-the-Dead.pdf | 1,008 | text-searchable |
+| The Complete Book of Enoch...pdf | 5,030 | text-searchable |
+| THE EPIC OF GILGAMESH.pdf | 2,604 | text-searchable |
+| The-Poetic-Edda.pdf | 0 | SCANNED - unverifiable |
+| The-Yasna.pdf | 0 | SCANNED - unverifiable |
+| yoga-sutras-patanjali.pdf | 12,963 | text-searchable |
+
+**Verdict**: 12/15 extractable, 3/15 scanned/unverifiable

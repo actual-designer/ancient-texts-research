@@ -63,7 +63,7 @@ The Archive framework is intentionally falsifiable. A disconfirming NHI pattern 
 
 ### 3.1 The Gap
 
-The Archive's last attested direct contact between a non-human operator and a living human witness occurs in Ezekiel's final temple vision, dated to **573 BCE** (source: [audit/03-event-timeline.md](03-event-timeline.md)). After this point, the textual record falls silent on surface-level intervention. No further Merkabah descents are documented. No living human is transported to a command facility. No genetic commission is attested in the surviving literature.
+The Archive's last attested direct contact between a non-human operator and a living human witness occurs in Ezekiel's final temple vision, dated to **573 BCE** (source: [Event Timeline](03-event-timeline.md)). After this point, the textual record falls silent on surface-level intervention. No further Merkabah descents are documented. No living human is transported to a command facility. No genetic commission is attested in the surviving literature.
 
 The modern NHI discourse, by contrast, describes an **active, ongoing phenomenon**. Craft sightings, abduction reports, telepathic contact, and biological sampling are claimed across every continent and every decade of the twentieth and twenty-first centuries. If even a fraction of these reports are accurate, the operators never stopped interacting with the species. The question is not whether contact ended, but what form it took after 573 BCE.
 
@@ -75,7 +75,7 @@ The Archive cannot resolve this question with current evidence. Two readings are
 
 **Core claim:** The operators never withdrew. They shifted from direct surface contact to a post-mortem integration model, and modern NHI encounters represent leakage, selective intervention, or architecture degradation from that continuous system.
 
-The Egyptian corpus documents a **standardized post-mortem processing pipeline** operating from at least ~2350 BCE and continuing through the Ptolemaic period. The Pyramid Texts describe an architectural-cosmological mapping of a consciousness-extraction facility: the burial chamber as Duat (identity reconstitution), the antechamber as Akhet (operational viability bootstrapping), and the ascending corridor as transit to destination (source: [audit/analyses/pyramid-texts.md](analyses/pyramid-texts.md)). The Book of the Dead provides the corresponding user credentials, navigation passwords, and form-reassignment protocols for traversing that same pipeline (source: [audit/analyses/book-of-the-dead.md](analyses/book-of-the-dead.md)).
+The Egyptian corpus documents a **standardized post-mortem processing pipeline** operating from at least ~2350 BCE and continuing through the Ptolemaic period. The Pyramid Texts describe an architectural-cosmological mapping of a consciousness-extraction facility: the burial chamber as Duat (identity reconstitution), the antechamber as Akhet (operational viability bootstrapping), and the ascending corridor as transit to destination (source: [Pyramid Texts](analyses/pyramid-texts.md)). The Book of the Dead provides the corresponding user credentials, navigation passwords, and form-reassignment protocols for traversing that same pipeline (source: [Book of the Dead](analyses/book-of-the-dead.md)).
 
 This is not mythology about death. It is **operational documentation for a continuous interface** that processes human consciousness after biological termination and reintegrates select subjects into the operator-tier community. The pipeline's longevity, across two millennia of Egyptian institutional continuity, suggests a standing capability rather than a temporary program.
 
@@ -88,7 +88,7 @@ If the pipeline never closed, modern NHI phenomena may represent:
 | Craft sightings in remote areas | Merkabah transit; vimāna patrol routes | Tier-2 operator transit between surface entry points and orbital facilities |
 | Telepathic / liminal-state contact | Dream oracles; Enoch's heavenly journeys | Cognitive interface mode active when amnesia architecture is partially offline |
 
-The Popol Vuh documents the amnesia architecture as an **engineered cognitive limitation**, not a natural human deficit: "Their eyes were merely blurred... their knowledge was lost" (source: [audit/analyses/popol-vuh.md](analyses/popol-vuh.md)). If this architecture is a deployed system, it may degrade or fluctuate. Humanity's technological advancement, particularly in the last century, could represent a threshold at which the amnesia filter becomes less effective against an increasingly instrumented species. The "disclosure wave" would then be a detection artifact: more humans with better recording technology noticing what was always there.
+The Popol Vuh documents the amnesia architecture as an **engineered cognitive limitation**, not a natural human deficit: "Their eyes were merely blurred... their knowledge was lost" (source: [Popol Vuh](analyses/popol-vuh.md)). If this architecture is a deployed system, it may degrade or fluctuate. Humanity's technological advancement, particularly in the last century, could represent a threshold at which the amnesia filter becomes less effective against an increasingly instrumented species. The "disclosure wave" would then be a detection artifact: more humans with better recording technology noticing what was always there.
 
 Under Reading A, the silence after 573 BCE is not absence. It is a **change of interface mode** from living-human liaison to post-mortem processing, with occasional and increasingly visible leakage as the amnesia architecture faces unprecedented technological scrutiny.
 
@@ -98,7 +98,7 @@ Under Reading A, the silence after 573 BCE is not absence. It is a **change of i
 
 **Core claim:** The operators did withdraw after Ezekiel, but the withdrawal is conditional. Modern technological civilization constitutes a parameter exceedance event that triggers the same institutional response pattern documented across the Archive: intervention when containment fails.
 
-The unified hypothesis identifies **contamination cycles as structural**, not accidental (source: [audit/11-unified-hypothesis.md](11-unified-hypothesis.md)). The pattern repeats across independent traditions:
+The unified hypothesis identifies **contamination cycles as structural**, not accidental (source: [Unified Hypothesis](11-unified-hypothesis.md)). The pattern repeats across independent traditions:
 
 | Era | Trigger | Operator Response |
 |---|---|---|
@@ -117,7 +117,7 @@ Modern civilization presents multiple simultaneous parameter exceedances:
 
 If the contamination cycle holds, the current disclosure wave is not leakage. It is the **precursor phase of a renewed intervention** -- exactly the pattern the Archive documents before every prior reset. The operators are not continuously present. They are returning because the parameters have been exceeded.
 
-The Revelation briefing, dated to ~95 CE but describing a projected terminal sequence, becomes relevant here. Under Reading B, it is not a closed historical document but a **standing operational plan** for the next parameter exceedance event (source: [audit/11-unified-hypothesis.md](11-unified-hypothesis.md)). The Four Horsemen (systemic collapse), Seven Trumpets (calibrated environmental strikes), and Seven Vials (terminal sterilization) describe the same institutional response the Archive has mapped onto the Flood and the Kurukshetra theater. The current state of global civilization may be the trigger condition that activates this plan.
+The Revelation briefing, dated to ~95 CE but describing a projected terminal sequence, becomes relevant here. Under Reading B, it is not a closed historical document but a **standing operational plan** for the next parameter exceedance event (source: [Unified Hypothesis](11-unified-hypothesis.md)). The Four Horsemen (systemic collapse), Seven Trumpets (calibrated environmental strikes), and Seven Vials (terminal sterilization) describe the same institutional response the Archive has mapped onto the Flood and the Kurukshetra theater. The current state of global civilization may be the trigger condition that activates this plan.
 
 ---
 
@@ -265,7 +265,7 @@ Neither source claims the beings are elsewhere. Both claim they are here, all th
 
 ### 5.2 The Archive: Engineered Cognitive Throttling
 
-The Popol Vuh provides the only passage in the Archive where this prevention is documented as a deliberate engineering decision applied in real time. (source: [audit/analyses/popol-vuh.md](analyses/popol-vuh.md); [audit/07-the-human-project.md](07-the-human-project.md))
+The Popol Vuh provides the only passage in the Archive where this prevention is documented as a deliberate engineering decision applied in real time. (source: [Popol Vuh](analyses/popol-vuh.md); [audit/07-the-human-project.md](07-the-human-project.md))
 
 **Source: *Popol Vuh: Sacred Book of the Quiché Maya People*, trans. Allen J. Christenson (Mesoweb/University of Oklahoma Press, 2003/2007), pp. 183-186.**
 

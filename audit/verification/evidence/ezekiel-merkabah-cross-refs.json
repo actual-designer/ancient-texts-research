@@ -1,0 +1,182 @@
+[
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 13,
+    "link_text": "enoch-watchers.md",
+    "link_target": "enoch-watchers.md",
+    "context": "Ezekiel is unique in the archive for three reasons: (1) it is precisely dated, (2) the witness is a trained priest with above-average observational discipline, and (3) the descriptions are mechanicall",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 14,
+    "link_text": "book-of-the-dead.md",
+    "link_target": "book-of-the-dead.md",
+    "context": "Ezekiel is unique in the archive for three reasons: (1) it is precisely dated, (2) the witness is a trained priest with above-average observational discipline, and (3) the descriptions are mechanicall",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 15,
+    "link_text": "pyramid-texts.md",
+    "link_target": "pyramid-texts.md",
+    "context": "1. Close-range observation of an advanced aerial vehicle (the Merkabah) (see [enoch-watchers.md](enoch-watchers.md): crystal throne) 2. Forced transport of a human subject via directed energy or tract",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 16,
+    "link_text": "revelation.md",
+    "link_target": "revelation.md",
+    "context": "1. Close-range observation of an advanced aerial vehicle (the Merkabah) (see [enoch-watchers.md](enoch-watchers.md): crystal throne) 2. Forced transport of a human subject via directed energy or tract",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 85,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "| \"Platform glittering like ice\" over their heads | Transparent or translucent hull panel (possibly electrochromic material) (see [enoch-watchers.md](enoch-watchers.md): crystal houses) | | \"Sapphire ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 104,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "- **Transparent composite hull** (the \"ice\" platform) - **Radiation-shielded command module** (the \"throne\" with its amber glow and fire envelope)  The closest modern analogue is a combination of gyro",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 213,
+    "link_text": "popol-vuh.md",
+    "link_target": "popol-vuh.md",
+    "context": "The guide's explicit command -- \"write it all down in their sight\" -- frames this as a technical handoff: the blueprints are being transferred to a human recipient for future construction.  The gate t",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 229,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "## KEY ENTITIES  | Designation | Role | Archive Classification (see [01-entity-registry.md](../01-entity-registry.md)) | |-------------|------|----------------------| | \"The Lord\" / \"The Glory\" | Enti",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 252,
+    "link_text": "09-location-registry.md",
+    "link_target": "../09-location-registry.md",
+    "context": "| \"Wind\" transporting Ezekiel | Directed-force transport (tractor beam or levitation) | | Dry bones reassembly sequence | Tissue regeneration / nanoscale bioassembly demonstration | | \"Breath from fou",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 0,
+    "link_text": "enoch-watchers.md",
+    "link_target": "enoch-watchers.md",
+    "context": "(paren enoch-watchers.md: crystal throne)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 0,
+    "link_text": "book-of-the-dead.md",
+    "link_target": "book-of-the-dead.md",
+    "context": "(paren book-of-the-dead.md: soul extraction)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 0,
+    "link_text": "pyramid-texts.md",
+    "link_target": "pyramid-texts.md",
+    "context": "(paren pyramid-texts.md: body reconstitution)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 0,
+    "link_text": "revelation.md",
+    "link_target": "revelation.md",
+    "context": "(paren revelation.md: New Jerusalem)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 0,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "(paren mahabharata.md: Vi\u015bvar\u016bpa)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 0,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "(paren 02-technology-catalog.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 0,
+    "link_text": "popol-vuh.md",
+    "link_target": "popol-vuh.md",
+    "context": "(paren popol-vuh.md: Xibalb\u00e1 chamber protocol)",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 0,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "(paren 01-entity-registry.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/ezekiel-merkabah.md",
+    "line": 0,
+    "link_text": "09-location-registry.md",
+    "link_target": "../09-location-registry.md",
+    "context": "(paren 09-location-registry.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  }
+]

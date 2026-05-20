@@ -1,0 +1,112 @@
+[
+  {
+    "source_file": "audit/analyses/popol-vuh.md",
+    "line": 83,
+    "link_text": "book-of-the-dead.md",
+    "link_target": "book-of-the-dead.md",
+    "context": "| Field | Content | |-------|---------| | **Source Material** | Xibalb\u00e1 is described as an underworld domain ruled by named operators: One Death and Seven Death (supreme lords), with subordinate funct",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/popol-vuh.md",
+    "line": 109,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "| Sovereign (Tepew) | Co-planner with Quetzal Serpent; executes creation | Tier 1/2 executive -- strategic planning | | Quetzal Serpent (Q'ukumatz) | Luminous aquatic presence; deliberates with Sovere",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/popol-vuh.md",
+    "line": 145,
+    "link_text": "atrahasis.md",
+    "link_target": "atrahasis.md",
+    "context": "| Parallel | Popol Vuh Anchor | Partner Document | |----------|-----------------|------------------| | Creation for labor/worship | \"Who shall be a provider? Who shall be a sustainer?\" | [atrahasis.md",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/popol-vuh.md",
+    "line": 148,
+    "link_text": "05-great-reset.md",
+    "link_target": "../05-great-reset.md",
+    "context": "| Creation for labor/worship | \"Who shall be a provider? Who shall be a sustainer?\" | [atrahasis.md](atrahasis.md) -- \"Let man bear the load of the gods\" | | Clay/mud substrate | Mud person dissolves ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/popol-vuh.md",
+    "line": 149,
+    "link_text": "07-the-human-project.md",
+    "link_target": "../07-the-human-project.md",
+    "context": "| Clay/mud substrate | Mud person dissolves | [atrahasis.md](atrahasis.md) -- Nintu mixes \"clay with flesh and blood\" | | Deliberative command council | Heart of Sky + Sovereign + Quetzal Serpent + Xp",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/popol-vuh.md",
+    "line": 151,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "| Flood destruction of failed prototype | \"A flood was planned by Heart of Sky\" to destroy wood people | [05-great-reset.md](../05-great-reset.md) -- Flood as sterilization protocol | | Iterative crea",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/popol-vuh.md",
+    "line": 153,
+    "link_text": "enoch-watchers.md",
+    "link_target": "enoch-watchers.md",
+    "context": "| Deliberate cognitive limitation | \"Their eyes were merely blurred... their knowledge was lost\" | [07-the-human-project.md](../07-the-human-project.md) -- engineered amnesia hypothesis | | Underworld",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/popol-vuh.md",
+    "line": 155,
+    "link_text": "revelation.md",
+    "link_target": "revelation.md",
+    "context": "| Specialist bioengineers | Xmucane as \"Midwife\" / Xpiyacoc as \"Patriarch\" | [atrahasis.md](atrahasis.md) -- Nintu/Mami as reproductive specialist | | Failed hybrids leave biological traces | Wood peo",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/popol-vuh.md",
+    "line": 156,
+    "link_text": "zoroastrian-gathas.md",
+    "link_target": "zoroastrian-gathas.md",
+    "context": "| Failed hybrids leave biological traces | Wood people degrade into spider monkeys | [enoch-watchers.md](enoch-watchers.md) -- Nephilim as failed hybrid organisms | | Knowledge transfer anxiety | Corn",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/popol-vuh.md",
+    "line": 0,
+    "link_text": "book-of-the-dead.md",
+    "link_target": "book-of-the-dead.md",
+    "context": "(paren book-of-the-dead.md: Opening of the Mouth as analogous activation protocol)",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/popol-vuh.md",
+    "line": 0,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "(paren 01-entity-registry.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  }
+]

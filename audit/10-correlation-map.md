@@ -387,7 +387,7 @@ Each of the 14 per-text analyses views the shared operational reality through a 
 
 ### 2.8 Locations Registry
 
-Extensive location data exists across all 13 texts. Key cross-tradition parallels:
+Extensive location data exists across all 14 texts. Key cross-tradition parallels:
 
 | Ancient Name | Archive Interpretation | Appears In |
 |-------------|----------------------|------------|
@@ -409,19 +409,19 @@ Extensive location data exists across all 13 texts. Key cross-tradition parallel
 ## 3. Linking Blueprint
 
 This section defines specific insertion points for every document that needs hyperlinks. All links use relative paths:
-- Within `audit/analyses/`: `[target.md](target.md)`
-- From `audit/analyses/` to `audit/`: `[target.md](../target.md)`
+- Within `audit/analyses/`: `[enoch-watchers.md](analyses/enoch-watchers.md)`
+- From `audit/analyses/` to `audit/`: `[01-entity-registry.md](01-entity-registry.md)`
 
 ### 3.1 Linking Conventions (based on established patterns)
 
 **Format 1: Inline source citation** (from mahabharata.md, rig-veda.md):
 ```
-text about X (see [other-analysis.md](other-analysis.md))
+text about X (see [enoch-watchers.md](analyses/enoch-watchers.md))
 ```
 
 **Format 2: Parallel in the Executive Summary** (from mahabharata.md):
 ```
-Bullet points: Item description ([target.md](target.md))
+Bullet points: Item description ([gilgamesh.md](analyses/gilgamesh.md))
 ```
 
 **Format 3: Cross-Cutting Synthesis table** (from popol-vuh.md, mahabharata.md):
@@ -440,28 +440,28 @@ Bullet points: Item description ([target.md](target.md))
 
 | # | Section | Insertion Context | Target | Format |
 |---|---------|-------------------|--------|--------|
-| 1 | INCIDENT 01 | "Igigi workforce reached breaking point" -- labor revolt parallel | [enoch-watchers.md](enoch-watchers.md) (Watcher unauthorized deployment) | Inline |
-| 2 | INCIDENT 01 | "3,600 years may refer to orbital periods" | [03-event-timeline.md](../03-event-timeline.md) (chronometry) | Inline |
-| 3 | INCIDENT 01 | Entity command hierarchy table (Anu, Enlil, Enki, etc.) | [01-entity-registry.md](../01-entity-registry.md) | Inline |
-| 4 | INCIDENT 02 | "Nintu/Mami, explicitly titled 'womb-goddess'" | [popol-vuh.md](popol-vuh.md) (Xmucane as Midwife) | Inline |
-| 5 | INCIDENT 02 | "Clay serves as either a literal growth medium or existing hominid stock" | [gilgamesh.md](gilgamesh.md) (Enkidu clay fabrication) | Inline |
-| 6 | INCIDENT 02 | Bioengineering protocol parallels | [07-the-human-project.md](../07-the-human-project.md) | Inline |
-| 7 | INCIDENT 02 | Geshtu-E genetic donor extraction | [mahabharata.md](mahabharata.md) (Kuntī's mantra-invoked births) | Inline |
-| 8 | INCIDENT 03 | "14 prototypes: seven male, seven female" as founder population | [popol-vuh.md](popol-vuh.md) (iterative prototypes) | Inline |
-| 9 | INCIDENT 04 | "Suruppu-disease, an ordered pathogen release" | [gilgamesh.md](gilgamesh.md) (Flood as escalation from disease) | Inline |
-| 10 | INCIDENT 04 | Ellil's population control as biological warfare | [06-weapons-doctrine.md](../06-weapons-doctrine.md) | Inline |
-| 11 | INCIDENT 04 | "Enki covertly undermining the operation" | [gilgamesh.md](gilgamesh.md) (Ea warns Utnapishtim) | Inline |
-| 12 | INCIDENT 05 | "Atrahasis text breaks off before the full Flood narrative" | [gilgamesh.md](gilgamesh.md) (Tablet XI definitive account) | Inline |
-| 13 | INCIDENT 05 | "Flood is a deliberate environmental reset" | [05-great-reset.md](../05-great-reset.md) | Inline |
-| 14 | INCIDENT 05 | "Gods retreat to high altitude before event" | [revelation.md](revelation.md) (Tier 1 evacuation protocol) | Inline |
-| 15 | KEY ENTITIES | Table: Anu, Enlil, Enki, Nintu, Igigi, Anunnaki | [01-entity-registry.md](../01-entity-registry.md) | Table link |
-| 16 | TECHNOLOGY INDEX | "Genetic hybridization protocol" | [02-technology-catalog.md](../02-technology-catalog.md) | Table link |
-| 17 | TECHNOLOGY INDEX | "Directed pathogen deployment" | [06-weapons-doctrine.md](../06-weapons-doctrine.md) | Table link |
-| 18 | TECHNOLOGY INDEX | "Covert communication channel" | [book-of-the-dead.md](book-of-the-dead.md) (Words of Power) | Table link |
-| 19 | Executive Summary bullet 1 | "Labor dispute among stratified non-human workforce" | [enoch-watchers.md](enoch-watchers.md) | Bullet link |
-| 20 | Executive Summary bullet 2 | "Bioengineering of a hybrid laborer species" | [07-the-human-project.md](../07-the-human-project.md) | Bullet link |
-| 21 | Executive Summary bullet 3 | "Population-control measures" | [05-great-reset.md](../05-great-reset.md) | Bullet link |
-| 22 | Executive Summary bullet 4 | "Catastrophic environmental reset" | [gilgamesh.md](gilgamesh.md) | Bullet link |
+| 1 | INCIDENT 01 | "Igigi workforce reached breaking point" -- labor revolt parallel | [enoch-watchers.md](analyses/enoch-watchers.md) (Watcher unauthorized deployment) | Inline |
+| 2 | INCIDENT 01 | "3,600 years may refer to orbital periods" | [03-event-timeline.md](03-event-timeline.md) (chronometry) | Inline |
+| 3 | INCIDENT 01 | Entity command hierarchy table (Anu, Enlil, Enki, etc.) | [01-entity-registry.md](01-entity-registry.md) | Inline |
+| 4 | INCIDENT 02 | "Nintu/Mami, explicitly titled 'womb-goddess'" | [popol-vuh.md](analyses/popol-vuh.md) (Xmucane as Midwife) | Inline |
+| 5 | INCIDENT 02 | "Clay serves as either a literal growth medium or existing hominid stock" | [gilgamesh.md](analyses/gilgamesh.md) (Enkidu clay fabrication) | Inline |
+| 6 | INCIDENT 02 | Bioengineering protocol parallels | [07-the-human-project.md](07-the-human-project.md) | Inline |
+| 7 | INCIDENT 02 | Geshtu-E genetic donor extraction | [mahabharata.md](analyses/mahabharata.md) (Kuntī's mantra-invoked births) | Inline |
+| 8 | INCIDENT 03 | "14 prototypes: seven male, seven female" as founder population | [popol-vuh.md](analyses/popol-vuh.md) (iterative prototypes) | Inline |
+| 9 | INCIDENT 04 | "Suruppu-disease, an ordered pathogen release" | [gilgamesh.md](analyses/gilgamesh.md) (Flood as escalation from disease) | Inline |
+| 10 | INCIDENT 04 | Ellil's population control as biological warfare | [06-weapons-doctrine.md](06-weapons-doctrine.md) | Inline |
+| 11 | INCIDENT 04 | "Enki covertly undermining the operation" | [gilgamesh.md](analyses/gilgamesh.md) (Ea warns Utnapishtim) | Inline |
+| 12 | INCIDENT 05 | "Atrahasis text breaks off before the full Flood narrative" | [gilgamesh.md](analyses/gilgamesh.md) (Tablet XI definitive account) | Inline |
+| 13 | INCIDENT 05 | "Flood is a deliberate environmental reset" | [05-great-reset.md](05-great-reset.md) | Inline |
+| 14 | INCIDENT 05 | "Gods retreat to high altitude before event" | [revelation.md](analyses/revelation.md) (Tier 1 evacuation protocol) | Inline |
+| 15 | KEY ENTITIES | Table: Anu, Enlil, Enki, Nintu, Igigi, Anunnaki | [01-entity-registry.md](01-entity-registry.md) | Table link |
+| 16 | TECHNOLOGY INDEX | "Genetic hybridization protocol" | [02-technology-catalog.md](02-technology-catalog.md) | Table link |
+| 17 | TECHNOLOGY INDEX | "Directed pathogen deployment" | [06-weapons-doctrine.md](06-weapons-doctrine.md) | Table link |
+| 18 | TECHNOLOGY INDEX | "Covert communication channel" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (Words of Power) | Table link |
+| 19 | Executive Summary bullet 1 | "Labor dispute among stratified non-human workforce" | [enoch-watchers.md](analyses/enoch-watchers.md) | Bullet link |
+| 20 | Executive Summary bullet 2 | "Bioengineering of a hybrid laborer species" | [07-the-human-project.md](07-the-human-project.md) | Bullet link |
+| 21 | Executive Summary bullet 3 | "Population-control measures" | [05-great-reset.md](05-great-reset.md) | Bullet link |
+| 22 | Executive Summary bullet 4 | "Catastrophic environmental reset" | [gilgamesh.md](analyses/gilgamesh.md) | Bullet link |
 
 ---
 
@@ -469,33 +469,33 @@ Bullet points: Item description ([target.md](target.md))
 
 | # | Section | Insertion Context | Target | Format |
 |---|---------|-------------------|--------|--------|
-| 1 | Executive Summary bullet 1 | "200 operatives who conducted an unauthorized ground deployment" | [01-entity-registry.md](../01-entity-registry.md) | Bullet link |
-| 2 | Executive Summary bullet 2 | "Technologies and knowledge systems transferred to humans" | [02-technology-catalog.md](../02-technology-catalog.md) | Bullet link |
-| 3 | Executive Summary bullet 3 | "Genetic hybridization and its catastrophic results (Nephilim)" | [07-the-human-project.md](../07-the-human-project.md) | Bullet link |
-| 4 | Executive Summary bullet 4 | "Guided tours through advanced facilities" | [ezekiel-merkabah.md](ezekiel-merkabah.md) | Bullet link |
-| 5 | Executive Summary bullet 5 | "Judicial proceedings against unauthorized operatives" | [theogony-works-and-days.md](theogony-works-and-days.md) (Titanomachy) | Bullet link |
-| 6 | INCIDENT 01 | "200 operatives from non-human tier conduct unauthorized deployment" | [poetic-edda.md](poetic-edda.md) (Loki as rogue) | Inline |
-| 7 | INCIDENT 01 | "Landing zone: Mount Hermon" | [09-location-registry.md](../09-location-registry.md) | Inline |
-| 8 | INCIDENT 02 | "Azazel taught men to make swords, knives, shields, metals" | [theogony-works-and-days.md](theogony-works-and-days.md) (Prometheus fire theft) | Inline |
-| 9 | INCIDENT 02 | "Knowledge transfer was unauthorized classified information" | [06-weapons-doctrine.md](../06-weapons-doctrine.md) | Inline |
-| 10 | INCIDENT 02 | Instructor-subject mapping table | [02-technology-catalog.md](../02-technology-catalog.md) | Table link |
-| 11 | INCIDENT 03 | "Nephilim as failed hybrid organisms: unstable, oversized, uncontrollable" | [atrahasis.md](atrahasis.md) (controlled Atrahasis vs uncontrolled) | Inline |
-| 12 | INCIDENT 03 | "Non-human genome through natural reproduction" vs. "controlled laboratory hybridization" | [mahabharata.md](mahabharata.md) (commissioned births) | Inline |
-| 13 | INCIDENT 04 | "Crystal houses with fire perimeters" | [ezekiel-merkabah.md](ezekiel-merkabah.md) (Merkabah) | Inline |
-| 14 | INCIDENT 04 | "Throne with wheels like the shining sun" | [rezekiel-merkabah.md](ezekiel-merkabah.md) (wheel within wheel) | Inline |
-| 15 | INCIDENT 04 | "Great Glory emitting lethal radiation" | [mahabharata.md](mahabharata.md) (Viśvarūpa) | Inline |
-| 16 | INCIDENT 04 | "High-energy facility command center" | [revelation.md](revelation.md) (throne room) | Inline |
-| 17 | INCIDENT 04 | "Ten thousand times ten thousand attending" | [revelation.md](revelation.md) (angelic host) | Inline |
-| 18 | INCIDENT 05 | "Prison of the stars: malfunctioning orbital platforms" | [revelation.md](revelation.md) (dragon casts stars) | Inline |
-| 19 | INCIDENT 05 | Detention for 70 generations | [theogony-works-and-days.md](theogony-works-and-days.md) (Tartarus) | Inline |
-| 20 | INCIDENT 06 | Seven named senior operatives with domain responsibilities | [zoroastrian-gathas.md](zoroastrian-gathas.md) (7 Amesha Spenta) | Inline |
-| 21 | INCIDENT 06 | Table of 7 holy angels | [01-entity-registry.md](../01-entity-registry.md) | Table link |
-| 22 | KEY ENTITIES | Full entity table | [01-entity-registry.md](../01-entity-registry.md) | Table link |
-| 23 | TECHNOLOGY INDEX | "Atmospheric insertion at high-altitude LZ" | [02-technology-catalog.md](../02-technology-catalog.md) | Table link |
-| 24 | TECHNOLOGY INDEX | "Metallurgy and weapons-engineering transfer" | [06-weapons-doctrine.md](../06-weapons-doctrine.md) | Table link |
-| 25 | TECHNOLOGY INDEX | "Mobile command platform" | [ezekiel-merkabah.md](ezekiel-merkabah.md) | Table link |
-| 26 | TECHNOLOGY INDEX | "Energy-shielded transparent-walled facility" | [revelation.md](revelation.md) (sea of glass) | Table link |
-| 27 | TECHNOLOGY INDEX | "Real-time astronomical display" | [pyramid-texts.md](pyramid-texts.md) (celestial geography) | Table link |
+| 1 | Executive Summary bullet 1 | "200 operatives who conducted an unauthorized ground deployment" | [01-entity-registry.md](01-entity-registry.md) | Bullet link |
+| 2 | Executive Summary bullet 2 | "Technologies and knowledge systems transferred to humans" | [02-technology-catalog.md](02-technology-catalog.md) | Bullet link |
+| 3 | Executive Summary bullet 3 | "Genetic hybridization and its catastrophic results (Nephilim)" | [07-the-human-project.md](07-the-human-project.md) | Bullet link |
+| 4 | Executive Summary bullet 4 | "Guided tours through advanced facilities" | [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md) | Bullet link |
+| 5 | Executive Summary bullet 5 | "Judicial proceedings against unauthorized operatives" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (Titanomachy) | Bullet link |
+| 6 | INCIDENT 01 | "200 operatives from non-human tier conduct unauthorized deployment" | [poetic-edda.md](analyses/poetic-edda.md) (Loki as rogue) | Inline |
+| 7 | INCIDENT 01 | "Landing zone: Mount Hermon" | [09-location-registry.md](09-location-registry.md) | Inline |
+| 8 | INCIDENT 02 | "Azazel taught men to make swords, knives, shields, metals" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (Prometheus fire theft) | Inline |
+| 9 | INCIDENT 02 | "Knowledge transfer was unauthorized classified information" | [06-weapons-doctrine.md](06-weapons-doctrine.md) | Inline |
+| 10 | INCIDENT 02 | Instructor-subject mapping table | [02-technology-catalog.md](02-technology-catalog.md) | Table link |
+| 11 | INCIDENT 03 | "Nephilim as failed hybrid organisms: unstable, oversized, uncontrollable" | [atrahasis.md](analyses/atrahasis.md) (controlled Atrahasis vs uncontrolled) | Inline |
+| 12 | INCIDENT 03 | "Non-human genome through natural reproduction" vs. "controlled laboratory hybridization" | [mahabharata.md](analyses/mahabharata.md) (commissioned births) | Inline |
+| 13 | INCIDENT 04 | "Crystal houses with fire perimeters" | [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md) (Merkabah) | Inline |
+| 14 | INCIDENT 04 | "Throne with wheels like the shining sun" | [rezekiel-merkabah.md](analyses/ezekiel-merkabah.md) (wheel within wheel) | Inline |
+| 15 | INCIDENT 04 | "Great Glory emitting lethal radiation" | [mahabharata.md](analyses/mahabharata.md) (Viśvarūpa) | Inline |
+| 16 | INCIDENT 04 | "High-energy facility command center" | [revelation.md](analyses/revelation.md) (throne room) | Inline |
+| 17 | INCIDENT 04 | "Ten thousand times ten thousand attending" | [revelation.md](analyses/revelation.md) (angelic host) | Inline |
+| 18 | INCIDENT 05 | "Prison of the stars: malfunctioning orbital platforms" | [revelation.md](analyses/revelation.md) (dragon casts stars) | Inline |
+| 19 | INCIDENT 05 | Detention for 70 generations | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (Tartarus) | Inline |
+| 20 | INCIDENT 06 | Seven named senior operatives with domain responsibilities | [zoroastrian-gathas.md](analyses/zoroastrian-gathas.md) (7 Amesha Spenta) | Inline |
+| 21 | INCIDENT 06 | Table of 7 holy angels | [01-entity-registry.md](01-entity-registry.md) | Table link |
+| 22 | KEY ENTITIES | Full entity table | [01-entity-registry.md](01-entity-registry.md) | Table link |
+| 23 | TECHNOLOGY INDEX | "Atmospheric insertion at high-altitude LZ" | [02-technology-catalog.md](02-technology-catalog.md) | Table link |
+| 24 | TECHNOLOGY INDEX | "Metallurgy and weapons-engineering transfer" | [06-weapons-doctrine.md](06-weapons-doctrine.md) | Table link |
+| 25 | TECHNOLOGY INDEX | "Mobile command platform" | [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md) | Table link |
+| 26 | TECHNOLOGY INDEX | "Energy-shielded transparent-walled facility" | [revelation.md](analyses/revelation.md) (sea of glass) | Table link |
+| 27 | TECHNOLOGY INDEX | "Real-time astronomical display" | [pyramid-texts.md](analyses/pyramid-texts.md) (celestial geography) | Table link |
 | 28 | Add section | Cross-Cutting Synthesis table | Multiple (see popol-vuh template) | Table |
 
 ---
@@ -504,32 +504,32 @@ Bullet points: Item description ([target.md](target.md))
 
 | # | Section | Insertion Context | Target | Format |
 |---|---------|-------------------|--------|--------|
-| 1 | Executive Summary bullet 1 | "Gilgamesh as genetically engineered hybrid (2/3 non-human)" | [mahabharata.md](mahabharata.md) (commissioned births) | Bullet link |
-| 2 | Executive Summary bullet 2 | "Enkidu as rapid biological fabrication" | [atrahasis.md](atrahasis.md) (14 prototypes) | Bullet link |
-| 3 | Executive Summary bullet 3 | "Humbaba as bioengineered guardian" | [02-technology-catalog.md](../02-technology-catalog.md) | Bullet link |
-| 4 | Executive Summary bullet 4 | "Bull of Heaven as deployed weapons platform" | [06-weapons-doctrine.md](../06-weapons-doctrine.md) | Bullet link |
-| 5 | Executive Summary bullet 5 | "Utanapishtim's Flood account as definitive operational record" | [05-great-reset.md](../05-great-reset.md) | Bullet link |
-| 6 | Executive Summary bullet 6 | "Plant of immortality as anti-aging compound" | [rig-veda.md](rig-veda.md) (Soma) | Bullet link |
-| 7 | INCIDENT 01 | "Aruru designed the model for his body" | [popol-vuh.md](popol-vuh.md) (Xmucane as Midwife) | Inline |
-| 8 | INCIDENT 01 | Gilgamesh as 2/3 divine hybrid: non-standard genome | [mahabharata.md](mahabharata.md) (Droṇa vessel-birth) | Inline |
-| 9 | INCIDENT 02 | "Enkidu: same Atrahasis creation pattern with differences" | [atrahasis.md](atrahasis.md) (Nintu/Mami protocol) | Inline |
-| 10 | INCIDENT 02 | "Pinches off clay and throws into wilderness" | [popol-vuh.md](popol-vuh.md) (mud person) | Inline |
-| 11 | INCIDENT 03 | "Cedar Forest as restricted zone" | [mahabharata.md](mahabharata.md) (Khāṇḍava forest) | Inline |
-| 12 | INCIDENT 03 | "Humbaba's seven coats of armor" | [mahabharata.md](mahabharata.md) (Karṇa's integrated armor) | Inline |
-| 13 | INCIDENT 03 | "Shamash's thirteen winds as directed atmospheric weapons" | [mahabharata.md](mahabharata.md) (elemental astras) | Inline |
-| 14 | INCIDENT 04 | "Bull of Heaven: seismic weapons platform" | [revelation.md](revelation.md) (Trumpet strikes) | Inline |
-| 15 | INCIDENT 04 | "Ishtar requests weapon from Anu" | [01-entity-registry.md](../01-entity-registry.md) | Inline |
-| 16 | INCIDENT 05 | "Hearts of Great Gods moved them to inflict the Flood" | [05-great-reset.md](../05-great-reset.md) | Inline |
-| 17 | INCIDENT 05 | "Ea violates operational security by warning" | [atrahasis.md](atrahasis.md) (Enki as dissident) | Inline |
-| 18 | INCIDENT 05 | Vessel engineering specification table | [02-technology-catalog.md](../02-technology-catalog.md) | Table link |
-| 19 | INCIDENT 05 | "Anunnaki lifted torches, setting land ablaze" | [revelation.md](revelation.md) (hail and fire) | Inline |
-| 20 | INCIDENT 05 | "Gods retreat to heaven of Anu" | [enoch-watchers.md](enoch-watchers.md) (heavenly ascent) | Inline |
-| 21 | INCIDENT 06 | "Plant against decay: anti-aging compound" | [poetic-edda.md](poetic-edda.md) (Mead of Poetry) | Inline |
-| 22 | INCIDENT 06 | "Snake consumes plant, sloughs off casing" | [mahabharata.md](mahabharata.md) (Amṛta churning) | Inline |
-| 23 | KEY ENTITIES | Gilgamesh, Enkidu, Aruru, Shamash, Ishtar, Anu, Enlil, Ea | [01-entity-registry.md](../01-entity-registry.md) | Table link |
-| 24 | TECHNOLOGY INDEX | "Non-standard hybrid genome" + "Rapid fabrication" + "Seismic weapon" | [02-technology-catalog.md](../02-technology-catalog.md) | Table link |
-| 25 | TECHNOLOGY INDEX | "Orbital/atmospheric energy weapons" | [06-weapons-doctrine.md](../06-weapons-doctrine.md) | Table link |
-| 26 | TECHNOLOGY INDEX | "Sealed survival module" + "Anti-senescence compound" | [07-the-human-project.md](../07-the-human-project.md) | Table link |
+| 1 | Executive Summary bullet 1 | "Gilgamesh as genetically engineered hybrid (2/3 non-human)" | [mahabharata.md](analyses/mahabharata.md) (commissioned births) | Bullet link |
+| 2 | Executive Summary bullet 2 | "Enkidu as rapid biological fabrication" | [atrahasis.md](analyses/atrahasis.md) (14 prototypes) | Bullet link |
+| 3 | Executive Summary bullet 3 | "Humbaba as bioengineered guardian" | [02-technology-catalog.md](02-technology-catalog.md) | Bullet link |
+| 4 | Executive Summary bullet 4 | "Bull of Heaven as deployed weapons platform" | [06-weapons-doctrine.md](06-weapons-doctrine.md) | Bullet link |
+| 5 | Executive Summary bullet 5 | "Utanapishtim's Flood account as definitive operational record" | [05-great-reset.md](05-great-reset.md) | Bullet link |
+| 6 | Executive Summary bullet 6 | "Plant of immortality as anti-aging compound" | [rig-veda.md](analyses/rig-veda.md) (Soma) | Bullet link |
+| 7 | INCIDENT 01 | "Aruru designed the model for his body" | [popol-vuh.md](analyses/popol-vuh.md) (Xmucane as Midwife) | Inline |
+| 8 | INCIDENT 01 | Gilgamesh as 2/3 divine hybrid: non-standard genome | [mahabharata.md](analyses/mahabharata.md) (Droṇa vessel-birth) | Inline |
+| 9 | INCIDENT 02 | "Enkidu: same Atrahasis creation pattern with differences" | [atrahasis.md](analyses/atrahasis.md) (Nintu/Mami protocol) | Inline |
+| 10 | INCIDENT 02 | "Pinches off clay and throws into wilderness" | [popol-vuh.md](analyses/popol-vuh.md) (mud person) | Inline |
+| 11 | INCIDENT 03 | "Cedar Forest as restricted zone" | [mahabharata.md](analyses/mahabharata.md) (Khāṇḍava forest) | Inline |
+| 12 | INCIDENT 03 | "Humbaba's seven coats of armor" | [mahabharata.md](analyses/mahabharata.md) (Karṇa's integrated armor) | Inline |
+| 13 | INCIDENT 03 | "Shamash's thirteen winds as directed atmospheric weapons" | [mahabharata.md](analyses/mahabharata.md) (elemental astras) | Inline |
+| 14 | INCIDENT 04 | "Bull of Heaven: seismic weapons platform" | [revelation.md](analyses/revelation.md) (Trumpet strikes) | Inline |
+| 15 | INCIDENT 04 | "Ishtar requests weapon from Anu" | [01-entity-registry.md](01-entity-registry.md) | Inline |
+| 16 | INCIDENT 05 | "Hearts of Great Gods moved them to inflict the Flood" | [05-great-reset.md](05-great-reset.md) | Inline |
+| 17 | INCIDENT 05 | "Ea violates operational security by warning" | [atrahasis.md](analyses/atrahasis.md) (Enki as dissident) | Inline |
+| 18 | INCIDENT 05 | Vessel engineering specification table | [02-technology-catalog.md](02-technology-catalog.md) | Table link |
+| 19 | INCIDENT 05 | "Anunnaki lifted torches, setting land ablaze" | [revelation.md](analyses/revelation.md) (hail and fire) | Inline |
+| 20 | INCIDENT 05 | "Gods retreat to heaven of Anu" | [enoch-watchers.md](analyses/enoch-watchers.md) (heavenly ascent) | Inline |
+| 21 | INCIDENT 06 | "Plant against decay: anti-aging compound" | [poetic-edda.md](analyses/poetic-edda.md) (Mead of Poetry) | Inline |
+| 22 | INCIDENT 06 | "Snake consumes plant, sloughs off casing" | [mahabharata.md](analyses/mahabharata.md) (Amṛta churning) | Inline |
+| 23 | KEY ENTITIES | Gilgamesh, Enkidu, Aruru, Shamash, Ishtar, Anu, Enlil, Ea | [01-entity-registry.md](01-entity-registry.md) | Table link |
+| 24 | TECHNOLOGY INDEX | "Non-standard hybrid genome" + "Rapid fabrication" + "Seismic weapon" | [02-technology-catalog.md](02-technology-catalog.md) | Table link |
+| 25 | TECHNOLOGY INDEX | "Orbital/atmospheric energy weapons" | [06-weapons-doctrine.md](06-weapons-doctrine.md) | Table link |
+| 26 | TECHNOLOGY INDEX | "Sealed survival module" + "Anti-senescence compound" | [07-the-human-project.md](07-the-human-project.md) | Table link |
 
 ---
 
@@ -537,28 +537,28 @@ Bullet points: Item description ([target.md](target.md))
 
 | # | Section | Insertion Context | Target | Format |
 |---|---------|-------------------|--------|--------|
-| 1 | Executive Summary bullet 1 | "Close-range observation of advanced aerial vehicle" | [enoch-watchers.md](enoch-watchers.md) (crystal throne) | Bullet link |
-| 2 | Executive Summary bullet 2 | "Forced transport via directed energy or tractor beam" | [book-of-the-dead.md](book-of-the-dead.md) (soul extraction) | Bullet link |
-| 3 | Executive Summary bullet 3 | "Reanimation protocol on desiccated biological material" | [pyramid-texts.md](pyramid-texts.md) (body reconstitution) | Bullet link |
-| 4 | Executive Summary bullet 4 | "Detailed architectural blueprints for facility" | [revelation.md](revelation.md) (New Jerusalem) | Bullet link |
-| 5 | INCIDENT 01 | "Wheel within a wheel: gyroscopic omnidirectional propulsion" | [enoch-watchers.md](enoch-watchers.md) (wheels like sun) | Inline |
-| 6 | INCIDENT 01 | "Four living beings full of eyes: sensor arrays" | [revelation.md](revelation.md) (four beasts) | Inline |
-| 7 | INCIDENT 01 | "Platform like ice: transparent composite hull" | [enoch-watchers.md](enoch-watchers.md) (crystal houses) | Inline |
-| 8 | INCIDENT 01 | "Amber glow/fire enclosure: radiation shielding" | [mahabharata.md](mahabharata.md) (Viśvarūpa) | Inline |
-| 9 | INCIDENT 01 | "Sound of rushing waters: turbine/plasma propulsion" | [mahabharata.md](mahabharata.md) (vimana acoustics) | Inline |
-| 10 | INCIDENT 01 | Merkabah component table | [02-technology-catalog.md](../02-technology-catalog.md) | Table link |
-| 11 | INCIDENT 02 | "Wind lifted me up: directed-force transport" | [book-of-the-dead.md](book-of-the-dead.md) (soul extraction) | Inline |
-| 12 | INCIDENT 02 | Forced transport by the vehicle | [enoch-watchers.md](enoch-watchers.md) (clouds lifted him) | Inline |
-| 13 | INCIDENT 03 | "Valley of Dry Bones: tissue regeneration / nanoscale bioassembly" | [pyramid-texts.md](pyramid-texts.md) (body reconstitution sequence) | Inline |
-| 14 | INCIDENT 03 | "Breath from four winds: energy broadcast for biological activation" | [book-of-the-dead.md](book-of-the-dead.md) (Opening of the Mouth) | Inline |
-| 15 | INCIDENT 04 | "Man whose appearance was like bronze: metallic guide" | [enoch-watchers.md](enoch-watchers.md) (angelic guides) | Inline |
-| 16 | INCIDENT 04 | "Precision architectural dictation for controlled-access facility" | [revelation.md](revelation.md) (New Jerusalem measurements) | Inline |
-| 17 | INCIDENT 04 | "Gate sealed after operator entry: biometric lock" | [book-of-the-dead.md](book-of-the-dead.md) (named gates) | Inline |
-| 18 | INCIDENT 04 | "Linen garments for inner court: cleanroom protocol" | [popol-vuh.md](popol-vuh.md) (Xibalbá chamber protocol) | Inline |
-| 19 | KEY ENTITIES | Living Beings / Cherubim, Bronze Man, Ezekiel | [01-entity-registry.md](../01-entity-registry.md) | Table link |
-| 20 | TECHNOLOGY INDEX | Full technology table | [02-technology-catalog.md](../02-technology-catalog.md) | Table link |
-| 21 | TECHNOLOGY INDEX | "VTOL craft with omnidirectional ground mobility" | [enoch-watchers.md](enoch-watchers.md) | Table link |
-| 22 | TECHNOLOGY INDEX | "Precision architectural blueprints" | [09-location-registry.md](../09-location-registry.md) | Table link |
+| 1 | Executive Summary bullet 1 | "Close-range observation of advanced aerial vehicle" | [enoch-watchers.md](analyses/enoch-watchers.md) (crystal throne) | Bullet link |
+| 2 | Executive Summary bullet 2 | "Forced transport via directed energy or tractor beam" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (soul extraction) | Bullet link |
+| 3 | Executive Summary bullet 3 | "Reanimation protocol on desiccated biological material" | [pyramid-texts.md](analyses/pyramid-texts.md) (body reconstitution) | Bullet link |
+| 4 | Executive Summary bullet 4 | "Detailed architectural blueprints for facility" | [revelation.md](analyses/revelation.md) (New Jerusalem) | Bullet link |
+| 5 | INCIDENT 01 | "Wheel within a wheel: gyroscopic omnidirectional propulsion" | [enoch-watchers.md](analyses/enoch-watchers.md) (wheels like sun) | Inline |
+| 6 | INCIDENT 01 | "Four living beings full of eyes: sensor arrays" | [revelation.md](analyses/revelation.md) (four beasts) | Inline |
+| 7 | INCIDENT 01 | "Platform like ice: transparent composite hull" | [enoch-watchers.md](analyses/enoch-watchers.md) (crystal houses) | Inline |
+| 8 | INCIDENT 01 | "Amber glow/fire enclosure: radiation shielding" | [mahabharata.md](analyses/mahabharata.md) (Viśvarūpa) | Inline |
+| 9 | INCIDENT 01 | "Sound of rushing waters: turbine/plasma propulsion" | [mahabharata.md](analyses/mahabharata.md) (vimana acoustics) | Inline |
+| 10 | INCIDENT 01 | Merkabah component table | [02-technology-catalog.md](02-technology-catalog.md) | Table link |
+| 11 | INCIDENT 02 | "Wind lifted me up: directed-force transport" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (soul extraction) | Inline |
+| 12 | INCIDENT 02 | Forced transport by the vehicle | [enoch-watchers.md](analyses/enoch-watchers.md) (clouds lifted him) | Inline |
+| 13 | INCIDENT 03 | "Valley of Dry Bones: tissue regeneration / nanoscale bioassembly" | [pyramid-texts.md](analyses/pyramid-texts.md) (body reconstitution sequence) | Inline |
+| 14 | INCIDENT 03 | "Breath from four winds: energy broadcast for biological activation" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (Opening of the Mouth) | Inline |
+| 15 | INCIDENT 04 | "Man whose appearance was like bronze: metallic guide" | [enoch-watchers.md](analyses/enoch-watchers.md) (angelic guides) | Inline |
+| 16 | INCIDENT 04 | "Precision architectural dictation for controlled-access facility" | [revelation.md](analyses/revelation.md) (New Jerusalem measurements) | Inline |
+| 17 | INCIDENT 04 | "Gate sealed after operator entry: biometric lock" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (named gates) | Inline |
+| 18 | INCIDENT 04 | "Linen garments for inner court: cleanroom protocol" | [popol-vuh.md](analyses/popol-vuh.md) (Xibalbá chamber protocol) | Inline |
+| 19 | KEY ENTITIES | Living Beings / Cherubim, Bronze Man, Ezekiel | [01-entity-registry.md](01-entity-registry.md) | Table link |
+| 20 | TECHNOLOGY INDEX | Full technology table | [02-technology-catalog.md](02-technology-catalog.md) | Table link |
+| 21 | TECHNOLOGY INDEX | "VTOL craft with omnidirectional ground mobility" | [enoch-watchers.md](analyses/enoch-watchers.md) | Table link |
+| 22 | TECHNOLOGY INDEX | "Precision architectural blueprints" | [09-location-registry.md](09-location-registry.md) | Table link |
 
 ---
 
@@ -566,36 +566,36 @@ Bullet points: Item description ([target.md](target.md))
 
 | # | Section | Insertion Context | Target | Format |
 |---|---------|-------------------|--------|--------|
-| 1 | Executive Summary bullet 1 | "Command-center operations room" | [ezekiel-merkabah.md](ezekiel-merkabah.md) | Bullet link |
-| 2 | Executive Summary bullet 2 | "Sealed authorization document" | [zoroastrian-gathas.md](zoroastrian-gathas.md) (Ahura Mazda decrees) | Bullet link |
-| 3 | Executive Summary bullet 3 | "Sequenced strike packages" | [05-great-reset.md](../05-great-reset.md) | Bullet link |
-| 4 | Executive Summary bullet 4 | "Biometric identification and population-tagging system" | [book-of-the-dead.md](book-of-the-dead.md) | Bullet link |
-| 5 | Executive Summary bullet 5 | "Orbital regime-change warfare" | [theogony-works-and-days.md](theogony-works-and-days.md) | Bullet link |
-| 6 | Executive Summary bullet 6 | "Counterfeit governance structures" | [poetic-edda.md](poetic-edda.md) (Loki/rogue) | Bullet link |
-| 7 | Executive Summary bullet 7 | "Final ground engagement at named coordinate" | [09-location-registry.md](../09-location-registry.md) | Bullet link |
-| 8 | Executive Summary bullet 8 | "Containment protocol for rogue entity" | [poetic-edda.md](poetic-edda.md) (Loki's binding) | Bullet link |
-| 9 | Executive Summary bullet 9 | "Replacement habitat specifications" | [ezekiel-merkabah.md](ezekiel-merkabah.md) (temple) | Bullet link |
-| 10 | INCIDENT 01 | "Four beasts functionally identical to Ezekiel's living beings" | [ezekiel-merkabah.md](ezekiel-merkabah.md) | Inline |
-| 11 | INCIDENT 01 | "Sea of glass like crystal" | [enoch-watchers.md](enoch-watchers.md) (crystal houses) | Inline |
-| 12 | INCIDENT 01 | "24 elders as command council" | [01-entity-registry.md](../01-entity-registry.md) | Inline |
-| 13 | INCIDENT 02 | "Lamb with seven horns and seven eyes" | [book-of-the-dead.md](book-of-the-dead.md) (heart weighing) | Inline |
-| 14 | INCIDENT 03 | "Four Horsemen as calibrated systemic destabilization" | [mahabharata.md](mahabharata.md) (Kurukshetra) | Inline |
-| 15 | INCIDENT 04 | "144,000 sealed: biometric registration" | [book-of-the-dead.md](book-of-the-dead.md) (42 Assessors) | Inline |
-| 16 | INCIDENT 05 | "Seven Trumpets as pre-set yield parameter" | [06-weapons-doctrine.md](../06-weapons-doctrine.md) | Inline |
-| 17 | INCIDENT 05 | Trumpet calibration table | [02-technology-catalog.md](../02-technology-catalog.md) | Table link |
-| 18 | INCIDENT 05 | "Fifth trumpet: locusts as armed drones" | [enoch-watchers.md](enoch-watchers.md) (prison of stars) | Inline |
-| 19 | INCIDENT 05 | "Abaddon/Apollyon as drone fleet commander" | [theogony-works-and-days.md](theogony-works-and-days.md) (Typhoeus) | Inline |
-| 20 | INCIDENT 06 | "Two Witnesses: death-reanimation-extraction" | [book-of-the-dead.md](book-of-the-dead.md) (Opening of the Mouth) | Inline |
-| 21 | INCIDENT 06 | "3.5 days matches 1,260 day pattern" | [03-event-timeline.md](../03-event-timeline.md) | Inline |
-| 22 | INCIDENT 07 | "War in Heaven: orbital regime change" | [theogony-works-and-days.md](theogony-works-and-days.md) (Titanomachy) | Inline |
-| 23 | INCIDENT 07 | "Dragon draws third part of stars: infrastructure damage" | [enoch-watchers.md](enoch-watchers.md) (prison of stars) | Inline |
-| 24 | INCIDENT 08 | "Two Beasts as counterfeit governance" | [zoroastrian-gathas.md](zoroastrian-gathas.md) (Daeva corruption) | Inline |
-| 25 | INCIDENT 08 | "Mark of the Beast as biometric economic control" | [book-of-the-dead.md](book-of-the-dead.md) (Negative Confession) | Inline |
-| 26 | INCIDENT 10 | "Sword out of his mouth: directed-energy weapon" | [mahabharata.md](mahabharata.md) (Brahmāstra) | Inline |
-| 27 | INCIDENT 11 | "Millennium: containment and test protocol" | [07-the-human-project.md](../07-the-human-project.md) | Inline |
-| 28 | INCIDENT 12 | "New Jerusalem as precision-engineered orbital habitat" | [ezekiel-merkabah.md](ezekiel-merkabah.md) (temple) | Inline |
-| 29 | KEY ENTITIES | Full entity table | [01-entity-registry.md](../01-entity-registry.md) | Table link |
-| 30 | TECHNOLOGY INDEX | Full technology table | [02-technology-catalog.md](../02-technology-catalog.md) | Table link |
+| 1 | Executive Summary bullet 1 | "Command-center operations room" | [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md) | Bullet link |
+| 2 | Executive Summary bullet 2 | "Sealed authorization document" | [zoroastrian-gathas.md](analyses/zoroastrian-gathas.md) (Ahura Mazda decrees) | Bullet link |
+| 3 | Executive Summary bullet 3 | "Sequenced strike packages" | [05-great-reset.md](05-great-reset.md) | Bullet link |
+| 4 | Executive Summary bullet 4 | "Biometric identification and population-tagging system" | [book-of-the-dead.md](analyses/book-of-the-dead.md) | Bullet link |
+| 5 | Executive Summary bullet 5 | "Orbital regime-change warfare" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) | Bullet link |
+| 6 | Executive Summary bullet 6 | "Counterfeit governance structures" | [poetic-edda.md](analyses/poetic-edda.md) (Loki/rogue) | Bullet link |
+| 7 | Executive Summary bullet 7 | "Final ground engagement at named coordinate" | [09-location-registry.md](09-location-registry.md) | Bullet link |
+| 8 | Executive Summary bullet 8 | "Containment protocol for rogue entity" | [poetic-edda.md](analyses/poetic-edda.md) (Loki's binding) | Bullet link |
+| 9 | Executive Summary bullet 9 | "Replacement habitat specifications" | [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md) (temple) | Bullet link |
+| 10 | INCIDENT 01 | "Four beasts functionally identical to Ezekiel's living beings" | [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md) | Inline |
+| 11 | INCIDENT 01 | "Sea of glass like crystal" | [enoch-watchers.md](analyses/enoch-watchers.md) (crystal houses) | Inline |
+| 12 | INCIDENT 01 | "24 elders as command council" | [01-entity-registry.md](01-entity-registry.md) | Inline |
+| 13 | INCIDENT 02 | "Lamb with seven horns and seven eyes" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (heart weighing) | Inline |
+| 14 | INCIDENT 03 | "Four Horsemen as calibrated systemic destabilization" | [mahabharata.md](analyses/mahabharata.md) (Kurukshetra) | Inline |
+| 15 | INCIDENT 04 | "144,000 sealed: biometric registration" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (42 Assessors) | Inline |
+| 16 | INCIDENT 05 | "Seven Trumpets as pre-set yield parameter" | [06-weapons-doctrine.md](06-weapons-doctrine.md) | Inline |
+| 17 | INCIDENT 05 | Trumpet calibration table | [02-technology-catalog.md](02-technology-catalog.md) | Table link |
+| 18 | INCIDENT 05 | "Fifth trumpet: locusts as armed drones" | [enoch-watchers.md](analyses/enoch-watchers.md) (prison of stars) | Inline |
+| 19 | INCIDENT 05 | "Abaddon/Apollyon as drone fleet commander" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (Typhoeus) | Inline |
+| 20 | INCIDENT 06 | "Two Witnesses: death-reanimation-extraction" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (Opening of the Mouth) | Inline |
+| 21 | INCIDENT 06 | "3.5 days matches 1,260 day pattern" | [03-event-timeline.md](03-event-timeline.md) | Inline |
+| 22 | INCIDENT 07 | "War in Heaven: orbital regime change" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (Titanomachy) | Inline |
+| 23 | INCIDENT 07 | "Dragon draws third part of stars: infrastructure damage" | [enoch-watchers.md](analyses/enoch-watchers.md) (prison of stars) | Inline |
+| 24 | INCIDENT 08 | "Two Beasts as counterfeit governance" | [zoroastrian-gathas.md](analyses/zoroastrian-gathas.md) (Daeva corruption) | Inline |
+| 25 | INCIDENT 08 | "Mark of the Beast as biometric economic control" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (Negative Confession) | Inline |
+| 26 | INCIDENT 10 | "Sword out of his mouth: directed-energy weapon" | [mahabharata.md](analyses/mahabharata.md) (Brahmāstra) | Inline |
+| 27 | INCIDENT 11 | "Millennium: containment and test protocol" | [07-the-human-project.md](07-the-human-project.md) | Inline |
+| 28 | INCIDENT 12 | "New Jerusalem as precision-engineered orbital habitat" | [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md) (temple) | Inline |
+| 29 | KEY ENTITIES | Full entity table | [01-entity-registry.md](01-entity-registry.md) | Table link |
+| 30 | TECHNOLOGY INDEX | Full technology table | [02-technology-catalog.md](02-technology-catalog.md) | Table link |
 
 ---
 
@@ -603,30 +603,30 @@ Bullet points: Item description ([target.md](target.md))
 
 | # | Section | Insertion Context | Target | Format |
 |---|---------|-------------------|--------|--------|
-| 1 | Executive Summary bullet 1 | "Credential verification system (Weighing of the Heart)" | [zoroastrian-gathas.md](zoroastrian-gathas.md) (Chinvat Bridge) | Bullet link |
-| 2 | Executive Summary bullet 2 | "Distributed identity-attestation protocol (42 Assessors)" | [pyramid-texts.md](pyramid-texts.md) (Duat judgment) | Bullet link |
-| 3 | Executive Summary bullet 3 | "Multi-stage gated transit system" | [popol-vuh.md](popol-vuh.md) (Xibalbá) | Bullet link |
-| 4 | Executive Summary bullet 4 | "Form-reassignment capability (12 configurations)" | [poetic-edda.md](poetic-edda.md) (Odin's runes) | Bullet link |
-| 5 | Executive Summary bullet 5 | "Consciousness-extraction and reintegration protocol" | [ezekiel-merkabah.md](ezekiel-merkabah.md) (Valley of Dry Bones) | Bullet link |
-| 6 | Executive Summary bullet 6 | "Mapped facility geography" | [02-technology-catalog.md](../02-technology-catalog.md) | Bullet link |
-| 7 | INCIDENT 01 | "Coming Forth by Day: identity migration protocol" | [07-the-human-project.md](../07-the-human-project.md) | Inline |
-| 8 | INCIDENT 02 | "Weighing of the Heart: identity verification" | [revelation.md](revelation.md) (Book of Life) | Inline |
-| 9 | INCIDENT 02 | "Amemit: automated termination unit" | [revelation.md](revelation.md) (lake of fire) | Inline |
-| 10 | INCIDENT 03 | "42 Assessors with geographic origins" | [01-entity-registry.md](../01-entity-registry.md) | Inline |
-| 11 | INCIDENT 03 | "Multi-stage identity verification with distributed attestation" | [zoroastrian-gathas.md](zoroastrian-gathas.md) (3 assessment operators) | Inline |
-| 12 | INCIDENT 04 | "Porter/Watchman/Messenger: three-person access-control team" | [popol-vuh.md](popol-vuh.md) (Xibalbá chamber guardians) | Inline |
-| 13 | INCIDENT 04 | "System parallels Xibalbá" | [popol-vuh.md](popol-vuh.md) | Inline |
-| 14 | INCIDENT 04 | "Parallels Ezekiel's Temple nested gates" | [ezekiel-merkabah.md](ezekiel-merkabah.md) (temple gates) | Inline |
-| 15 | INCIDENT 05 | "Hall of Maati: centralized identity-processing facility" | [pyramid-texts.md](pyramid-texts.md) (Duat processing) | Inline |
-| 16 | INCIDENT 06 | "Field of Reeds: post-processing settlement" | [pyramid-texts.md](pyramid-texts.md) (Field of Offerings) | Inline |
-| 17 | INCIDENT 06 | "Inhabitants described as 7 cubits tall: larger form-factor" | [revelation.md](revelation.md) (New Jerusalem inhabitants) | Inline |
-| 18 | INCIDENT 06 | "'Bread of Everlastingness': direct integration with command entity" | [gilgamesh.md](gilgamesh.md) (immortality grant) | Inline |
-| 19 | INCIDENT 07 | "12 Chapters of Transformation: multi-domain configurations" | [mahabharata.md](mahabharata.md) (vibhuti) | Inline |
-| 20 | INCIDENT 08 | "Tuat: vacuum transit corridor (surface ↔ orbital)" | [pyramid-texts.md](pyramid-texts.md) (vertical transit) | Inline |
-| 21 | INCIDENT 09 | "Opening of the Mouth: system activation sequence" | [ezekiel-merkabah.md](ezekiel-merkabah.md) (Dry Bones) | Inline |
-| 22 | INCIDENT 09 | "Iron knife: metal activation tool" | [theogony-works-and-days.md](theogony-works-and-days.md) (adamantine sickle) | Inline |
-| 23 | KEY ENTITIES | Full entity table | [01-entity-registry.md](../01-entity-registry.md) | Table link |
-| 24 | TECHNOLOGY INDEX | Full table: consciousness transfer, identity verification | [02-technology-catalog.md](../02-technology-catalog.md) | Table link |
+| 1 | Executive Summary bullet 1 | "Credential verification system (Weighing of the Heart)" | [zoroastrian-gathas.md](analyses/zoroastrian-gathas.md) (Chinvat Bridge) | Bullet link |
+| 2 | Executive Summary bullet 2 | "Distributed identity-attestation protocol (42 Assessors)" | [pyramid-texts.md](analyses/pyramid-texts.md) (Duat judgment) | Bullet link |
+| 3 | Executive Summary bullet 3 | "Multi-stage gated transit system" | [popol-vuh.md](analyses/popol-vuh.md) (Xibalbá) | Bullet link |
+| 4 | Executive Summary bullet 4 | "Form-reassignment capability (12 configurations)" | [poetic-edda.md](analyses/poetic-edda.md) (Odin's runes) | Bullet link |
+| 5 | Executive Summary bullet 5 | "Consciousness-extraction and reintegration protocol" | [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md) (Valley of Dry Bones) | Bullet link |
+| 6 | Executive Summary bullet 6 | "Mapped facility geography" | [02-technology-catalog.md](02-technology-catalog.md) | Bullet link |
+| 7 | INCIDENT 01 | "Coming Forth by Day: identity migration protocol" | [07-the-human-project.md](07-the-human-project.md) | Inline |
+| 8 | INCIDENT 02 | "Weighing of the Heart: identity verification" | [revelation.md](analyses/revelation.md) (Book of Life) | Inline |
+| 9 | INCIDENT 02 | "Amemit: automated termination unit" | [revelation.md](analyses/revelation.md) (lake of fire) | Inline |
+| 10 | INCIDENT 03 | "42 Assessors with geographic origins" | [01-entity-registry.md](01-entity-registry.md) | Inline |
+| 11 | INCIDENT 03 | "Multi-stage identity verification with distributed attestation" | [zoroastrian-gathas.md](analyses/zoroastrian-gathas.md) (3 assessment operators) | Inline |
+| 12 | INCIDENT 04 | "Porter/Watchman/Messenger: three-person access-control team" | [popol-vuh.md](analyses/popol-vuh.md) (Xibalbá chamber guardians) | Inline |
+| 13 | INCIDENT 04 | "System parallels Xibalbá" | [popol-vuh.md](analyses/popol-vuh.md) | Inline |
+| 14 | INCIDENT 04 | "Parallels Ezekiel's Temple nested gates" | [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md) (temple gates) | Inline |
+| 15 | INCIDENT 05 | "Hall of Maati: centralized identity-processing facility" | [pyramid-texts.md](analyses/pyramid-texts.md) (Duat processing) | Inline |
+| 16 | INCIDENT 06 | "Field of Reeds: post-processing settlement" | [pyramid-texts.md](analyses/pyramid-texts.md) (Field of Offerings) | Inline |
+| 17 | INCIDENT 06 | "Inhabitants described as 7 cubits tall: larger form-factor" | [revelation.md](analyses/revelation.md) (New Jerusalem inhabitants) | Inline |
+| 18 | INCIDENT 06 | "'Bread of Everlastingness': direct integration with command entity" | [gilgamesh.md](analyses/gilgamesh.md) (immortality grant) | Inline |
+| 19 | INCIDENT 07 | "12 Chapters of Transformation: multi-domain configurations" | [mahabharata.md](analyses/mahabharata.md) (vibhuti) | Inline |
+| 20 | INCIDENT 08 | "Tuat: vacuum transit corridor (surface ↔ orbital)" | [pyramid-texts.md](analyses/pyramid-texts.md) (vertical transit) | Inline |
+| 21 | INCIDENT 09 | "Opening of the Mouth: system activation sequence" | [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md) (Dry Bones) | Inline |
+| 22 | INCIDENT 09 | "Iron knife: metal activation tool" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (adamantine sickle) | Inline |
+| 23 | KEY ENTITIES | Full entity table | [01-entity-registry.md](01-entity-registry.md) | Table link |
+| 24 | TECHNOLOGY INDEX | Full table: consciousness transfer, identity verification | [02-technology-catalog.md](02-technology-catalog.md) | Table link |
 
 ---
 
@@ -634,30 +634,30 @@ Bullet points: Item description ([target.md](target.md))
 
 | # | Section | Insertion Context | Target | Format |
 |---|---------|-------------------|--------|--------|
-| 1 | Executive Summary bullet 1 | "Primeval entity recycling protocol (Ymir)" | [rig-veda.md](rig-veda.md) (Purusa Sukta) | Bullet link |
-| 2 | Executive Summary bullet 2 | "Human fabrication event (Ask and Embla)" | [atrahasis.md](atrahasis.md) (clay creation) | Bullet link |
-| 3 | Executive Summary bullet 3 | "Multi-phase factional conflict" | [theogony-works-and-days.md](theogony-works-and-days.md) (Titanomachy) | Bullet link |
-| 4 | Executive Summary bullet 4 | "Predicted terminal system collapse (Ragnarök)" | [revelation.md](revelation.md) (eschaton) | Bullet link |
-| 5 | Executive Summary bullet 5 | "Operator upgrade protocol (Odin on Yggdrasil)" | [gilgamesh.md](gilgamesh.md) (immortality quest) | Bullet link |
-| 6 | Executive Summary bullet 6 | "Social-structure engineering (Rígsþula)" | [mahabharata.md](mahabharata.md) (caste system) | Bullet link |
-| 7 | Executive Summary bullet 7 | "Rogue-entity containment system (Loki binding)" | [theogony-works-and-days.md](theogony-works-and-days.md) (Tartarus) | Bullet link |
-| 8 | INCIDENT 01 | "Ymir dismantled into infrastructure" | [rig-veda.md](rig-veda.md) (Purusa Sukta) | Inline |
-| 9 | INCIDENT 01 | "Ginnungagap: pre-operational void" | [theogony-works-and-days.md](theogony-works-and-days.md) (Chaos) | Inline |
-| 10 | INCIDENT 02 | "Ask and Embla: triple-operator activation" | [popol-vuh.md](popol-vuh.md) (sequential prototypes) | Inline |
-| 11 | INCIDENT 03 | "Aesir-Vanir War: factional conflict resolved by merger" | [theogony-works-and-days.md](theogony-works-and-days.md) (Titanomachy) | Inline |
-| 12 | INCIDENT 03 | "Gollveig with auto-reconstitution capability" | [mahabharata.md](mahabharata.md) (Aśvatthāmā's curse) | Inline |
-| 13 | INCIDENT 04 | "Yggdrasil: central infrastructure nexus" | [pyramid-texts.md](pyramid-texts.md) (Djed pillar) | Inline |
-| 14 | INCIDENT 04 | "Norns as lifecycle management terminals" | [book-of-the-dead.md](book-of-the-dead.md) (Heart Spells) | Inline |
-| 15 | INCIDENT 05 | "Odin's self-sacrifice for runes: knowledge-upload protocol" | [gilgamesh.md](gilgamesh.md) (plant of immortality) | Inline |
-| 16 | INCIDENT 06 | "Baldr's death: targeted operator termination" | [revelation.md](revelation.md) (Two Witnesses killed) | Inline |
-| 17 | INCIDENT 07 | "Loki's binding: genetically-keyed biological restraint" | [theogony-works-and-days.md](theogony-works-and-days.md) (Kronos in Tartarus) | Inline |
-| 18 | INCIDENT 08 | "Ragnarök: predicted cascading system collapse" | [revelation.md](revelation.md) (Trumpets/Vials sequence) | Inline |
-| 19 | INCIDENT 08 | "Surtr's fire: thermal/energy weapon" | [revelation.md](revelation.md) (lake of fire) | Inline |
-| 20 | INCIDENT 09 | "Rebirth: post-destruction system reboot" | [revelation.md](revelation.md) (New Heaven/Earth) | Inline |
-| 21 | INCIDENT 10 | "Rígsþula: controlled genetic distribution" | [07-the-human-project.md](../07-the-human-project.md) | Inline |
-| 22 | INCIDENT 11 | "Mead of Poetry: cognitive enhancement from processed entity" | [rig-veda.md](rig-veda.md) (Soma) | Inline |
-| 23 | INCIDENT 12 | "Mjöllnir: AI-homing weapon forged by dwarfs" | [mahabharata.md](mahabharata.md) (astras) | Inline |
-| 24 | KEY ENTITIES | Full entity table | [01-entity-registry.md](../01-entity-registry.md) | Table link |
+| 1 | Executive Summary bullet 1 | "Primeval entity recycling protocol (Ymir)" | [rig-veda.md](analyses/rig-veda.md) (Purusa Sukta) | Bullet link |
+| 2 | Executive Summary bullet 2 | "Human fabrication event (Ask and Embla)" | [atrahasis.md](analyses/atrahasis.md) (clay creation) | Bullet link |
+| 3 | Executive Summary bullet 3 | "Multi-phase factional conflict" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (Titanomachy) | Bullet link |
+| 4 | Executive Summary bullet 4 | "Predicted terminal system collapse (Ragnarök)" | [revelation.md](analyses/revelation.md) (eschaton) | Bullet link |
+| 5 | Executive Summary bullet 5 | "Operator upgrade protocol (Odin on Yggdrasil)" | [gilgamesh.md](analyses/gilgamesh.md) (immortality quest) | Bullet link |
+| 6 | Executive Summary bullet 6 | "Social-structure engineering (Rígsþula)" | [mahabharata.md](analyses/mahabharata.md) (caste system) | Bullet link |
+| 7 | Executive Summary bullet 7 | "Rogue-entity containment system (Loki binding)" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (Tartarus) | Bullet link |
+| 8 | INCIDENT 01 | "Ymir dismantled into infrastructure" | [rig-veda.md](analyses/rig-veda.md) (Purusa Sukta) | Inline |
+| 9 | INCIDENT 01 | "Ginnungagap: pre-operational void" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (Chaos) | Inline |
+| 10 | INCIDENT 02 | "Ask and Embla: triple-operator activation" | [popol-vuh.md](analyses/popol-vuh.md) (sequential prototypes) | Inline |
+| 11 | INCIDENT 03 | "Aesir-Vanir War: factional conflict resolved by merger" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (Titanomachy) | Inline |
+| 12 | INCIDENT 03 | "Gollveig with auto-reconstitution capability" | [mahabharata.md](analyses/mahabharata.md) (Aśvatthāmā's curse) | Inline |
+| 13 | INCIDENT 04 | "Yggdrasil: central infrastructure nexus" | [pyramid-texts.md](analyses/pyramid-texts.md) (Djed pillar) | Inline |
+| 14 | INCIDENT 04 | "Norns as lifecycle management terminals" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (Heart Spells) | Inline |
+| 15 | INCIDENT 05 | "Odin's self-sacrifice for runes: knowledge-upload protocol" | [gilgamesh.md](analyses/gilgamesh.md) (plant of immortality) | Inline |
+| 16 | INCIDENT 06 | "Baldr's death: targeted operator termination" | [revelation.md](analyses/revelation.md) (Two Witnesses killed) | Inline |
+| 17 | INCIDENT 07 | "Loki's binding: genetically-keyed biological restraint" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (Kronos in Tartarus) | Inline |
+| 18 | INCIDENT 08 | "Ragnarök: predicted cascading system collapse" | [revelation.md](analyses/revelation.md) (Trumpets/Vials sequence) | Inline |
+| 19 | INCIDENT 08 | "Surtr's fire: thermal/energy weapon" | [revelation.md](analyses/revelation.md) (lake of fire) | Inline |
+| 20 | INCIDENT 09 | "Rebirth: post-destruction system reboot" | [revelation.md](analyses/revelation.md) (New Heaven/Earth) | Inline |
+| 21 | INCIDENT 10 | "Rígsþula: controlled genetic distribution" | [07-the-human-project.md](07-the-human-project.md) | Inline |
+| 22 | INCIDENT 11 | "Mead of Poetry: cognitive enhancement from processed entity" | [rig-veda.md](analyses/rig-veda.md) (Soma) | Inline |
+| 23 | INCIDENT 12 | "Mjöllnir: AI-homing weapon forged by dwarfs" | [mahabharata.md](analyses/mahabharata.md) (astras) | Inline |
+| 24 | KEY ENTITIES | Full entity table | [01-entity-registry.md](01-entity-registry.md) | Table link |
 
 ---
 
@@ -665,30 +665,30 @@ Bullet points: Item description ([target.md](target.md))
 
 | # | Section | Insertion Context | Target | Format |
 |---|---------|-------------------|--------|--------|
-| 1 | Executive Summary bullet 1 | "Multi-stage creation protocol (Chaos → Gaia → Ouranos)" | [poetic-edda.md](poetic-edda.md) (Ginnungagap) | Bullet link |
-| 2 | Executive Summary bullet 2 | "Generational command coup and castration" | [revelation.md](revelation.md) (War in Heaven) | Bullet link |
-| 3 | Executive Summary bullet 3 | "Containment-breach and ten-year war" | [poetic-edda.md](poetic-edda.md) (Aesir-Vanir War) | Bullet link |
-| 4 | Executive Summary bullet 4 | "Multi-headed threat containment" | [revelation.md](revelation.md) (Dragon containment) | Bullet link |
-| 5 | Executive Summary bullet 5 | "Privileged-knowledge theft (Prometheus)" | [enoch-watchers.md](enoch-watchers.md) (Azazel) | Bullet link |
-| 6 | Executive Summary bullet 6 | "Deliberately defective prototype (Pandora)" | [popol-vuh.md](popol-vuh.md) (cognitive limitation) | Bullet link |
-| 7 | Executive Summary bullet 7 | "Five-phase human prototype sequence" | [popol-vuh.md](popol-vuh.md) (4 prototypes) | Bullet link |
-| 8 | Executive Summary bullet 8 | "Survivor evacuation protocol (Deucalion)" | [gilgamesh.md](gilgamesh.md) (Utnapishtim) | Bullet link |
-| 9 | INCIDENT 01 | "Chaos → Gaia → Ouranos: sequential deployment" | [rig-veda.md](rig-veda.md) (Nasadiya Sukta) | Inline |
-| 10 | INCIDENT 01 | "Tartarus: subsurface containment layer" | [revelation.md](revelation.md) (bottomless pit) | Inline |
-| 11 | INCIDENT 02 | "Ouranos castration: command replacement" | [poetic-edda.md](poetic-edda.md) (Baldr's death) | Inline |
-| 12 | INCIDENT 02 | "Blood drops spawning Erinyes: autonomous enforcement" | [enoch-watchers.md](enoch-watchers.md) (command tier roster) | Inline |
-| 13 | INCIDENT 03 | "Kronos swallowing successors: containment of successors" | [revelation.md](revelation.md) (Dragon in pit) | Inline |
-| 14 | INCIDENT 04 | "Titanomachy: decade-long factional war" | [poetic-edda.md](poetic-edda.md) (Aesir-Vanir) | Inline |
-| 15 | INCIDENT 04 | "Hundred-Handed Ones released from Tartarus as allies" | [revelation.md](revelation.md) (Michael's angels) | Inline |
-| 16 | INCIDENT 05 | "Typhoeus: multi-modal threat entity" | [enoch-watchers.md](enoch-watchers.md) (Nephilim) | Inline |
-| 17 | INCIDENT 05 | "Typhoeus contained in Tartarus" | [06-weapons-doctrine.md](../06-weapons-doctrine.md) | Inline |
-| 18 | INCIDENT 06 | "Prometheus steals fire in fennel stalk" | [enoch-watchers.md](enoch-watchers.md) (Azazel tech transfer) | Inline |
-| 19 | INCIDENT 07 | "Pandora: multi-specialist fabrication" | [popol-vuh.md](popol-vuh.md) (mud/wood prototypes) | Inline |
-| 20 | INCIDENT 07 | "Pithos as saturation munition" | [06-weapons-doctrine.md](../06-weapons-doctrine.md) | Inline |
-| 21 | INCIDENT 08 | "Five Ages table: sequential prototype series" | [07-the-human-project.md](../07-the-human-project.md) | Table link |
-| 22 | INCIDENT 08 | "Silver Age = cognitive failure; Bronze = behavioral failure" | [popol-vuh.md](popol-vuh.md) (wood people) | Inline |
-| 23 | INCIDENT 09 | "Deucalion's flood as selective survivor evacuation" | [05-great-reset.md](../05-great-reset.md) | Inline |
-| 24 | KEY ENTITIES | Full entity table | [01-entity-registry.md](../01-entity-registry.md) | Table link |
+| 1 | Executive Summary bullet 1 | "Multi-stage creation protocol (Chaos → Gaia → Ouranos)" | [poetic-edda.md](analyses/poetic-edda.md) (Ginnungagap) | Bullet link |
+| 2 | Executive Summary bullet 2 | "Generational command coup and castration" | [revelation.md](analyses/revelation.md) (War in Heaven) | Bullet link |
+| 3 | Executive Summary bullet 3 | "Containment-breach and ten-year war" | [poetic-edda.md](analyses/poetic-edda.md) (Aesir-Vanir War) | Bullet link |
+| 4 | Executive Summary bullet 4 | "Multi-headed threat containment" | [revelation.md](analyses/revelation.md) (Dragon containment) | Bullet link |
+| 5 | Executive Summary bullet 5 | "Privileged-knowledge theft (Prometheus)" | [enoch-watchers.md](analyses/enoch-watchers.md) (Azazel) | Bullet link |
+| 6 | Executive Summary bullet 6 | "Deliberately defective prototype (Pandora)" | [popol-vuh.md](analyses/popol-vuh.md) (cognitive limitation) | Bullet link |
+| 7 | Executive Summary bullet 7 | "Five-phase human prototype sequence" | [popol-vuh.md](analyses/popol-vuh.md) (4 prototypes) | Bullet link |
+| 8 | Executive Summary bullet 8 | "Survivor evacuation protocol (Deucalion)" | [gilgamesh.md](analyses/gilgamesh.md) (Utnapishtim) | Bullet link |
+| 9 | INCIDENT 01 | "Chaos → Gaia → Ouranos: sequential deployment" | [rig-veda.md](analyses/rig-veda.md) (Nasadiya Sukta) | Inline |
+| 10 | INCIDENT 01 | "Tartarus: subsurface containment layer" | [revelation.md](analyses/revelation.md) (bottomless pit) | Inline |
+| 11 | INCIDENT 02 | "Ouranos castration: command replacement" | [poetic-edda.md](analyses/poetic-edda.md) (Baldr's death) | Inline |
+| 12 | INCIDENT 02 | "Blood drops spawning Erinyes: autonomous enforcement" | [enoch-watchers.md](analyses/enoch-watchers.md) (command tier roster) | Inline |
+| 13 | INCIDENT 03 | "Kronos swallowing successors: containment of successors" | [revelation.md](analyses/revelation.md) (Dragon in pit) | Inline |
+| 14 | INCIDENT 04 | "Titanomachy: decade-long factional war" | [poetic-edda.md](analyses/poetic-edda.md) (Aesir-Vanir) | Inline |
+| 15 | INCIDENT 04 | "Hundred-Handed Ones released from Tartarus as allies" | [revelation.md](analyses/revelation.md) (Michael's angels) | Inline |
+| 16 | INCIDENT 05 | "Typhoeus: multi-modal threat entity" | [enoch-watchers.md](analyses/enoch-watchers.md) (Nephilim) | Inline |
+| 17 | INCIDENT 05 | "Typhoeus contained in Tartarus" | [06-weapons-doctrine.md](06-weapons-doctrine.md) | Inline |
+| 18 | INCIDENT 06 | "Prometheus steals fire in fennel stalk" | [enoch-watchers.md](analyses/enoch-watchers.md) (Azazel tech transfer) | Inline |
+| 19 | INCIDENT 07 | "Pandora: multi-specialist fabrication" | [popol-vuh.md](analyses/popol-vuh.md) (mud/wood prototypes) | Inline |
+| 20 | INCIDENT 07 | "Pithos as saturation munition" | [06-weapons-doctrine.md](06-weapons-doctrine.md) | Inline |
+| 21 | INCIDENT 08 | "Five Ages table: sequential prototype series" | [07-the-human-project.md](07-the-human-project.md) | Table link |
+| 22 | INCIDENT 08 | "Silver Age = cognitive failure; Bronze = behavioral failure" | [popol-vuh.md](analyses/popol-vuh.md) (wood people) | Inline |
+| 23 | INCIDENT 09 | "Deucalion's flood as selective survivor evacuation" | [05-great-reset.md](05-great-reset.md) | Inline |
+| 24 | KEY ENTITIES | Full entity table | [01-entity-registry.md](01-entity-registry.md) | Table link |
 
 ---
 
@@ -696,24 +696,24 @@ Bullet points: Item description ([target.md](target.md))
 
 | # | Section | Insertion Context | Target | Format |
 |---|---------|-------------------|--------|--------|
-| 1 | Executive Summary bullet 1 | "Dual-operator ontology" | [theogony-works-and-days.md](theogony-works-and-days.md) (Ouranos/Kronos/Zeus) | Bullet link |
-| 2 | Executive Summary bullet 2 | "Seven Amesha Spenta functional terminals" | [enoch-watchers.md](enoch-watchers.md) (7 holy angels) | Bullet link |
-| 3 | Executive Summary bullet 3 | "Soul lifecycle and judgment protocol (Chinvat Bridge)" | [book-of-the-dead.md](book-of-the-dead.md) (Weighing of the Heart) | Bullet link |
-| 4 | Executive Summary bullet 4 | "Predicted system renewal (Frashokereti)" | [revelation.md](revelation.md) (New Heaven/Earth) | Bullet link |
-| 5 | Executive Summary bullet 5 | "Manifesto against corrupted non-human command" | [enoch-watchers.md](enoch-watchers.md) (Watcher judgment) | Bullet link |
-| 6 | INCIDENT 01 | "Two Mainyus as co-original operating principles" | [theogony-works-and-days.md](theogony-works-and-days.md) (Chaos → Gaia → Ouranos) | Inline |
-| 7 | INCIDENT 01 | "Spenta Mainyu vs. Angra Mainyu: constructive/destructive" | [poetic-edda.md](poetic-edda.md) (Aesir/Vanir) | Inline |
-| 8 | INCIDENT 02 | "Seven Amesha Spenta: domain-specialized operational terminals" | [01-entity-registry.md](../01-entity-registry.md) | Inline |
-| 9 | INCIDENT 02 | "Each terminal paired with material domain" | [mahabharata.md](mahabharata.md) (deva portfolios) | Inline |
-| 10 | INCIDENT 03 | "Chinvat Bridge: entity assessment gateway" | [book-of-the-dead.md](book-of-the-dead.md) (42 Assessors) | Inline |
-| 11 | INCIDENT 03 | "Three evaluation operators (Mithra/Sraosha/Rashnu)" | [popol-vuh.md](popol-vuh.md) (Xibalbá lords) | Inline |
-| 12 | INCIDENT 03 | "House of Song / House of Darkness" | [book-of-the-dead.md](book-of-the-dead.md) (Field of Reeds / Tuat) | Inline |
-| 13 | INCIDENT 04 | "Daevas as corrupted entities" | [revelation.md](revelation.md) (Dragon as rogue) | Inline |
-| 14 | INCIDENT 04 | "Daeva denunciation: first-person whistleblower" | [enoch-watchers.md](enoch-watchers.md) (Watcher rogue deployment) | Inline |
-| 15 | INCIDENT 05 | "Frashokereti: terminal system refresh" | [revelation.md](revelation.md) (Vials/New Jerusalem) | Inline |
-| 16 | INCIDENT 05 | "Universal resurrection: full entity restoration" | [pyramid-texts.md](pyramid-texts.md) (Imperishable Stars) | Inline |
-| 17 | INCIDENT 05 | "Molten metal river: purgative detection protocol" | [revelation.md](revelation.md) (lake of fire) | Inline |
-| 18 | TECHNOLOGY INDEX | Full technology table | [02-technology-catalog.md](../02-technology-catalog.md) | Table link |
+| 1 | Executive Summary bullet 1 | "Dual-operator ontology" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (Ouranos/Kronos/Zeus) | Bullet link |
+| 2 | Executive Summary bullet 2 | "Seven Amesha Spenta functional terminals" | [enoch-watchers.md](analyses/enoch-watchers.md) (7 holy angels) | Bullet link |
+| 3 | Executive Summary bullet 3 | "Soul lifecycle and judgment protocol (Chinvat Bridge)" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (Weighing of the Heart) | Bullet link |
+| 4 | Executive Summary bullet 4 | "Predicted system renewal (Frashokereti)" | [revelation.md](analyses/revelation.md) (New Heaven/Earth) | Bullet link |
+| 5 | Executive Summary bullet 5 | "Manifesto against corrupted non-human command" | [enoch-watchers.md](analyses/enoch-watchers.md) (Watcher judgment) | Bullet link |
+| 6 | INCIDENT 01 | "Two Mainyus as co-original operating principles" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (Chaos → Gaia → Ouranos) | Inline |
+| 7 | INCIDENT 01 | "Spenta Mainyu vs. Angra Mainyu: constructive/destructive" | [poetic-edda.md](analyses/poetic-edda.md) (Aesir/Vanir) | Inline |
+| 8 | INCIDENT 02 | "Seven Amesha Spenta: domain-specialized operational terminals" | [01-entity-registry.md](01-entity-registry.md) | Inline |
+| 9 | INCIDENT 02 | "Each terminal paired with material domain" | [mahabharata.md](analyses/mahabharata.md) (deva portfolios) | Inline |
+| 10 | INCIDENT 03 | "Chinvat Bridge: entity assessment gateway" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (42 Assessors) | Inline |
+| 11 | INCIDENT 03 | "Three evaluation operators (Mithra/Sraosha/Rashnu)" | [popol-vuh.md](analyses/popol-vuh.md) (Xibalbá lords) | Inline |
+| 12 | INCIDENT 03 | "House of Song / House of Darkness" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (Field of Reeds / Tuat) | Inline |
+| 13 | INCIDENT 04 | "Daevas as corrupted entities" | [revelation.md](analyses/revelation.md) (Dragon as rogue) | Inline |
+| 14 | INCIDENT 04 | "Daeva denunciation: first-person whistleblower" | [enoch-watchers.md](analyses/enoch-watchers.md) (Watcher rogue deployment) | Inline |
+| 15 | INCIDENT 05 | "Frashokereti: terminal system refresh" | [revelation.md](analyses/revelation.md) (Vials/New Jerusalem) | Inline |
+| 16 | INCIDENT 05 | "Universal resurrection: full entity restoration" | [pyramid-texts.md](analyses/pyramid-texts.md) (Imperishable Stars) | Inline |
+| 17 | INCIDENT 05 | "Molten metal river: purgative detection protocol" | [revelation.md](analyses/revelation.md) (lake of fire) | Inline |
+| 18 | TECHNOLOGY INDEX | Full technology table | [02-technology-catalog.md](02-technology-catalog.md) | Table link |
 
 ---
 
@@ -725,40 +725,40 @@ These documents already have hyperlinks but have gaps that should be filled:
 
 | # | Section | Insertion Context | Target | Format |
 |---|---------|-------------------|--------|--------|
-| 1 | INCIDENT 01 | "Duat → Akhet → Sky as architectural schematic" | [book-of-the-dead.md](book-of-the-dead.md) (procedural companion) | Inline |
-| 2 | INCIDENT 04 | "Cannibal Hymn: technology absorption" | [mahabharata.md](mahabharata.md) (Aśvatthāmā's curse) | Inline |
-| 3 | INCIDENT 06 | "Imperishable Stars: non-biological existence" | [zoroastrian-gathas.md](zoroastrian-gathas.md) (universal resurrection) | Inline |
-| 4 | INCIDENT 06 | "Ladder to the sky" | [poetic-edda.md](poetic-edda.md) (Bifröst) | Inline |
+| 1 | INCIDENT 01 | "Duat → Akhet → Sky as architectural schematic" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (procedural companion) | Inline |
+| 2 | INCIDENT 04 | "Cannibal Hymn: technology absorption" | [mahabharata.md](analyses/mahabharata.md) (Aśvatthāmā's curse) | Inline |
+| 3 | INCIDENT 06 | "Imperishable Stars: non-biological existence" | [zoroastrian-gathas.md](analyses/zoroastrian-gathas.md) (universal resurrection) | Inline |
+| 4 | INCIDENT 06 | "Ladder to the sky" | [poetic-edda.md](analyses/poetic-edda.md) (Bifröst) | Inline |
 
 #### Rig Veda (5 existing links -- 6 to add)
 
 | # | Section | Insertion Context | Target | Format |
 |---|---------|-------------------|--------|--------|
-| 1 | INCIDENT 01 | "Nasadiya Sukta: emergence from zero state" | [theogony-works-and-days.md](theogony-works-and-days.md) (Chaos) | Inline |
-| 2 | INCIDENT 03 | "Purusa Sukta: primary operator decommissioned" | [poetic-edda.md](poetic-edda.md) (Ymir) | Inline |
-| 3 | INCIDENT 04 | "Indra vs. Vrtra: directed-energy weapon" | [mahabharata.md](mahabharata.md) (Vajra/astras) | Inline |
-| 4 | INCIDENT 07 | "Soma: bioactive compound" | [gilgamesh.md](gilgamesh.md) (plant of immortality) | Inline |
-| 5 | INCIDENT 08 | "Yama: post-mortem handling facility" | [book-of-the-dead.md](book-of-the-dead.md) (Weighing of Heart) | Inline |
-| 6 | INCIDENT 06 | "Vishnu's three strides: orbital demarcation" | [ezekiel-merkabah.md](ezekiel-merkabah.md) (temple blueprints) | Inline |
+| 1 | INCIDENT 01 | "Nasadiya Sukta: emergence from zero state" | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) (Chaos) | Inline |
+| 2 | INCIDENT 03 | "Purusa Sukta: primary operator decommissioned" | [poetic-edda.md](analyses/poetic-edda.md) (Ymir) | Inline |
+| 3 | INCIDENT 04 | "Indra vs. Vrtra: directed-energy weapon" | [mahabharata.md](analyses/mahabharata.md) (Vajra/astras) | Inline |
+| 4 | INCIDENT 07 | "Soma: bioactive compound" | [gilgamesh.md](analyses/gilgamesh.md) (plant of immortality) | Inline |
+| 5 | INCIDENT 08 | "Yama: post-mortem handling facility" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (Weighing of Heart) | Inline |
+| 6 | INCIDENT 06 | "Vishnu's three strides: orbital demarcation" | [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md) (temple blueprints) | Inline |
 
 #### Mahabharata (25+ existing -- 5 to add)
 
 | # | Section | Insertion Context | Target | Format |
 |---|---------|-------------------|--------|--------|
-| 1 | INCIDENT 12 | "Tier 3 entities: Gandharva/Apsaras as psychological warfare" | [poetic-edda.md](poetic-edda.md) (Valkyries) | Inline |
-| 2 | INCIDENT 13 | "Aśvatthāmā sentence: witness quarantine" | [zoroastrian-gathas.md](zoroastrian-gathas.md) (Daeva corruption) | Inline |
-| 3 | Cross-Cutting | Table: add Revelation parallels | [revelation.md](revelation.md) | Table |
-| 4 | Cross-Cutting | Table: add Theogony parallels | [theogony-works-and-days.md](theogony-works-and-days.md) | Table |
-| 5 | TECHNOLOGY INDEX | "Gāṇḍīva precision projectile platform" | [02-technology-catalog.md](../02-technology-catalog.md) | Table link |
+| 1 | INCIDENT 12 | "Tier 3 entities: Gandharva/Apsaras as psychological warfare" | [poetic-edda.md](analyses/poetic-edda.md) (Valkyries) | Inline |
+| 2 | INCIDENT 13 | "Aśvatthāmā sentence: witness quarantine" | [zoroastrian-gathas.md](analyses/zoroastrian-gathas.md) (Daeva corruption) | Inline |
+| 3 | Cross-Cutting | Table: add Revelation parallels | [revelation.md](analyses/revelation.md) | Table |
+| 4 | Cross-Cutting | Table: add Theogony parallels | [theogony-works-and-days.md](analyses/theogony-works-and-days.md) | Table |
+| 5 | TECHNOLOGY INDEX | "Gāṇḍīva precision projectile platform" | [02-technology-catalog.md](02-technology-catalog.md) | Table link |
 
 #### Popol Vuh (10 existing -- 4 to add)
 
 | # | Section | Insertion Context | Target | Format |
 |---|---------|-------------------|--------|--------|
-| 1 | INCIDENT 06 | "One Hunahpu's skull preserved in calabash tree" | [book-of-the-dead.md](book-of-the-dead.md) (Opening of the Mouth) | Inline |
-| 2 | Cross-Cutting | Table: add Revelation parallel (judgment) | [revelation.md](revelation.md) | Table |
-| 3 | Cross-Cutting | Table: add Zoroastrian parallel (assessment) | [zoroastrian-gathas.md](zoroastrian-gathas.md) | Table |
-| 4 | KEY ENTITIES | "Xpiyacoc/Xmucane = Nintu/Mami parallel" | [01-entity-registry.md](../01-entity-registry.md) | Table link |
+| 1 | INCIDENT 06 | "One Hunahpu's skull preserved in calabash tree" | [book-of-the-dead.md](analyses/book-of-the-dead.md) (Opening of the Mouth) | Inline |
+| 2 | Cross-Cutting | Table: add Revelation parallel (judgment) | [revelation.md](analyses/revelation.md) | Table |
+| 3 | Cross-Cutting | Table: add Zoroastrian parallel (assessment) | [zoroastrian-gathas.md](analyses/zoroastrian-gathas.md) | Table |
+| 4 | KEY ENTITIES | "Xpiyacoc/Xmucane = Nintu/Mami parallel" | [01-entity-registry.md](01-entity-registry.md) | Table link |
 
 ---
 

@@ -1,0 +1,272 @@
+[
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 13,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "1 Enoch is the most operationally detailed text in the archive regarding the actions and motivations of the non-human actors. It provides:  1. A named roster of 200 operatives who conducted an unautho",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 14,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "1 Enoch is the most operationally detailed text in the archive regarding the actions and motivations of the non-human actors. It provides:  1. A named roster of 200 operatives who conducted an unautho",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 15,
+    "link_text": "07-the-human-project.md",
+    "link_target": "../07-the-human-project.md",
+    "context": "1. A named roster of 200 operatives who conducted an unauthorized ground deployment (the Watchers) (see [01-entity-registry.md](../01-entity-registry.md)) 2. A detailed catalog of technologies and kno",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 16,
+    "link_text": "ezekiel-merkabah.md",
+    "link_target": "ezekiel-merkabah.md",
+    "context": "1. A named roster of 200 operatives who conducted an unauthorized ground deployment (the Watchers) (see [01-entity-registry.md](../01-entity-registry.md)) 2. A detailed catalog of technologies and kno",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 17,
+    "link_text": "theogony-works-and-days.md",
+    "link_target": "theogony-works-and-days.md",
+    "context": "2. A detailed catalog of technologies and knowledge systems transferred to humans (see [02-technology-catalog.md](../02-technology-catalog.md)) 3. Descriptions of genetic hybridization and its catastr",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 42,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "### The Archive's Literal Reconstruction  Two hundred operatives from the non-human tier (\"children of heaven\") conduct an unauthorized ground deployment (see [poetic-edda.md](poetic-edda.md): Loki as",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 47,
+    "link_text": "09-location-registry.md",
+    "link_target": "../09-location-registry.md",
+    "context": "- **Unit strength:** 200, organized into squads of 10 under 20 named squad leaders - **Commander:** Semjaza (Samlazaz), who explicitly notes the risk of individual accountability -- he demands collect",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 92,
+    "link_text": "06-weapons-doctrine.md",
+    "link_target": "../06-weapons-doctrine.md",
+    "context": "| Shamsiel | \"Signs of the sun\" | Solar astronomy, solar cycle prediction | | Sariel | \"Course of the moon\" | Lunar orbital mechanics, tidal prediction |  The command tier's response is unambiguous: t",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 125,
+    "link_text": "Atrahasis creation protocol",
+    "link_target": "atrahasis.md",
+    "context": "- **Behavioral instability** (turned against humans, engaged in inter-species predation, cannibalism) - **Classified as neither fully human nor fully \"divine\"** -- a distinct category (\"evil spirits u",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 129,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "### Plausible Mechanism  **Uncontrolled interspecies hybridization producing genetically unstable offspring** (see [mahabharata.md](mahabharata.md): commissioned births). Unlike the Atrahasis creation",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 168,
+    "link_text": "revelation.md",
+    "link_target": "revelation.md",
+    "context": "Enoch describes being brought into a multi-chamber facility with the following characteristics:  **Outer Structure** (see [ezekiel-merkabah.md](ezekiel-merkabah.md): Merkabah parallel): - Walls of \"cr",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 16,
+    "link_text": "Ezekiel's Merkabah",
+    "link_target": "ezekiel-merkabah.md",
+    "context": "1. A named roster of 200 operatives who conducted an unauthorized ground deployment (the Watchers) (see [01-entity-registry.md](../01-entity-registry.md)) 2. A detailed catalog of technologies and kno",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 16,
+    "link_text": "Merkabah",
+    "link_target": "ezekiel-merkabah.md",
+    "context": "1. A named roster of 200 operatives who conducted an unauthorized ground deployment (the Watchers) (see [01-entity-registry.md](../01-entity-registry.md)) 2. A detailed catalog of technologies and kno",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 239,
+    "link_text": "zoroastrian-gathas.md",
+    "link_target": "zoroastrian-gathas.md",
+    "context": "### The Archive's Literal Reconstruction  Seven named senior operatives with specific domain responsibilities (see [zoroastrian-gathas.md](zoroastrian-gathas.md): 7 Amesha Spenta):  | Operative | Doma",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 286,
+    "link_text": "pyramid-texts.md",
+    "link_target": "pyramid-texts.md",
+    "context": "| \"Great Glory\" emitting lethal radiation | High-energy entity or radiation-suited commander | | \"Stars\" imprisoned for schedule violations | Malfunctioning orbital assets or detained personnel | | \"C",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 0,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "(paren 01-entity-registry.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 0,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "(paren 02-technology-catalog.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 0,
+    "link_text": "07-the-human-project.md",
+    "link_target": "../07-the-human-project.md",
+    "context": "(paren 07-the-human-project.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 0,
+    "link_text": "ezekiel-merkabah.md",
+    "link_target": "ezekiel-merkabah.md",
+    "context": "(paren ezekiel-merkabah.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 0,
+    "link_text": "theogony-works-and-days.md",
+    "link_target": "theogony-works-and-days.md",
+    "context": "(paren theogony-works-and-days.md: Titanomachy)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 0,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "(paren poetic-edda.md: Loki as rogue operator)",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 0,
+    "link_text": "09-location-registry.md",
+    "link_target": "../09-location-registry.md",
+    "context": "(paren 09-location-registry.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 0,
+    "link_text": "06-weapons-doctrine.md",
+    "link_target": "../06-weapons-doctrine.md",
+    "context": "(paren 06-weapons-doctrine.md: technology embargo escalation)",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 0,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "(paren mahabharata.md: commissioned births)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 0,
+    "link_text": "revelation.md",
+    "link_target": "revelation.md",
+    "context": "(paren revelation.md: sea of glass)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 0,
+    "link_text": "zoroastrian-gathas.md",
+    "link_target": "zoroastrian-gathas.md",
+    "context": "(paren zoroastrian-gathas.md: 7 Amesha Spenta)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/enoch-watchers.md",
+    "line": 0,
+    "link_text": "pyramid-texts.md",
+    "link_target": "pyramid-texts.md",
+    "context": "(paren pyramid-texts.md: sky portals)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  }
+]

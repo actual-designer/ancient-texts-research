@@ -1,0 +1,242 @@
+[
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 13,
+    "link_text": "zoroastrian-gathas.md",
+    "link_target": "zoroastrian-gathas.md",
+    "context": "The Book of the Dead (*Per-t em Hru* -- \"Coming Forth by Day\") is the companion procedural manual to the Pyramid Texts. Where the Pyramid Texts provide the **architectural schematic** of the post-mort",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 14,
+    "link_text": "pyramid-texts.md",
+    "link_target": "pyramid-texts.md",
+    "context": "The Book of the Dead (*Per-t em Hru* -- \"Coming Forth by Day\") is the companion procedural manual to the Pyramid Texts. Where the Pyramid Texts provide the **architectural schematic** of the post-mort",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 15,
+    "link_text": "popol-vuh.md",
+    "link_target": "popol-vuh.md",
+    "context": "1. A **credential verification system** (the Weighing of the Heart/Great Reckoning) that assesses subject eligibility for processing (see [zoroastrian-gathas.md](zoroastrian-gathas.md): Chinvat Bridge",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 16,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "1. A **credential verification system** (the Weighing of the Heart/Great Reckoning) that assesses subject eligibility for processing (see [zoroastrian-gathas.md](zoroastrian-gathas.md): Chinvat Bridge",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 17,
+    "link_text": "ezekiel-merkabah.md",
+    "link_target": "ezekiel-merkabah.md",
+    "context": "2. A **distributed identity-attestation protocol** (the Negative Confession) -- the subject declares their fitness before a panel of 42 assessors (see [pyramid-texts.md](pyramid-texts.md): Duat judgme",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 18,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "3. A **multi-stage gated transit system** with named gatekeepers, porters, and watchmen -- each requiring specific passwords or identity declarations (see [popol-vuh.md](popol-vuh.md): Xibalb\u00e1) 4. A *",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 49,
+    "link_text": "07-the-human-project.md",
+    "link_target": "../07-the-human-project.md",
+    "context": "### Plausible Mechanism  **Consciousness-migration protocol for transition from biological to post-biological substrate** (see [07-the-human-project.md](../07-the-human-project.md)). The text function",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 69,
+    "link_text": "revelation.md",
+    "link_target": "revelation.md",
+    "context": "### The Archive's Literal Reconstruction  The \"Weighing of the Heart\" is an **identity verification and integrity check** (see [revelation.md](revelation.md): Book of Life). The heart (*ab*) was consi",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 104,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "### The Archive's Literal Reconstruction  The \"Negative Confession\" is a **structured identity attestation protocol** before a panel of 42 assessors (see [01-entity-registry.md](../01-entity-registry.",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 212,
+    "link_text": "gilgamesh.md",
+    "link_target": "gilgamesh.md",
+    "context": "- **Productive activity:** The subjects engage in agriculture -- but the descriptions also note \"spirit boats\" that \"moved of themselves\" and carried inhabitants \"without any trouble or fatigue\" -- su",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 232,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "### The Archive's Literal Reconstruction  The 12 Chapters of Transformation list **distinct operational configurations** the processed entity can assume (see [mahabharata.md](mahabharata.md): vibhuti)",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 310,
+    "link_text": "theogony-works-and-days.md",
+    "link_target": "theogony-works-and-days.md",
+    "context": "Chapter IB's mention of \"Nine Worms that lived on the dead\" describes biological decomposers -- if the body is not processed quickly enough, it decays. The protocol must be executed before biological ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 0,
+    "link_text": "zoroastrian-gathas.md",
+    "link_target": "zoroastrian-gathas.md",
+    "context": "(paren zoroastrian-gathas.md: Chinvat Bridge)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 0,
+    "link_text": "pyramid-texts.md",
+    "link_target": "pyramid-texts.md",
+    "context": "(paren pyramid-texts.md: Duat judgment)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 0,
+    "link_text": "popol-vuh.md",
+    "link_target": "popol-vuh.md",
+    "context": "(paren popol-vuh.md: Xibalb\u00e1)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 0,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "(paren poetic-edda.md: Odin's runes)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 0,
+    "link_text": "ezekiel-merkabah.md",
+    "link_target": "ezekiel-merkabah.md",
+    "context": "(paren ezekiel-merkabah.md: Valley of Dry Bones)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 0,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "(paren 02-technology-catalog.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 0,
+    "link_text": "07-the-human-project.md",
+    "link_target": "../07-the-human-project.md",
+    "context": "(paren 07-the-human-project.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 0,
+    "link_text": "revelation.md",
+    "link_target": "revelation.md",
+    "context": "(paren revelation.md: Book of Life)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 0,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "(paren 01-entity-registry.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 0,
+    "link_text": "gilgamesh.md",
+    "link_target": "gilgamesh.md",
+    "context": "(paren gilgamesh.md: immortality grant)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 0,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "(paren mahabharata.md: vibhuti)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/book-of-the-dead.md",
+    "line": 0,
+    "link_text": "theogony-works-and-days.md",
+    "link_target": "theogony-works-and-days.md",
+    "context": "(paren theogony-works-and-days.md: adamantine sickle)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  }
+]

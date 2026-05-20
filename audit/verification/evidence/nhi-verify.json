@@ -1,0 +1,512 @@
+[
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 14,
+    "claim": "This document examines four foundational modern sources -- Vall\u00e9e (academic ufology), Keel (paraphysical analysis), Grusch (congressional testimony), and the paired institutional account of AARO and P",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 43.99999999999999,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 18,
+    "claim": "1. **The NHI phenomenon is historically continuous with archaic encounter traditions, not a post-1947 anomaly.** Vall\u00e9e's cross-cultural analysis establishes an \"absolutely consistent tradition of vis",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 54.333333333333336,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 20,
+    "claim": "2. **The Extraterrestrial Hypothesis fails on structural grounds; the phenomenon's characteristics demand a framework consistent with the Archive's operator model.** Vall\u00e9e articulates five independen",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 46.333333333333336,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 22,
+    "claim": "3. **The phenomenon exhibits dual physical and anti-physical properties inconsistent with conventional spacecraft, consistent with advanced operator technology.** Vall\u00e9e and Davis's six-layer model do",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 46.0,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 24,
+    "claim": "4. **The phenomenon functions as a control system manipulating cultural variables through physiological and psychological parameters.** Vall\u00e9e and Davis's integrative hypothesis states that \"UAPs were",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 63.0,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 26,
+    "claim": "5. **Institutional secrecy, crash retrieval, and reverse-engineering programs operate at classification levels above congressional oversight, preserving the same concealment architecture documented in",
+    "cited_author": "Grusch",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 50.33333333333334,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 28,
+    "claim": "6. **NHI discourse has acquired the functional architecture of a religious system, with sacred objects, priestly classes, and eschatological narratives.** Pasulka's six-year ethnographic study documen",
+    "cited_author": "Pasulka",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-aaro-pasulka.md",
+    "match_score": 56.333333333333336,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 30,
+    "claim": "7. **Official institutional denial represents a single institutional reading among many, not a definitive refutation.** AARO's congressionally mandated reports state that \"no USG investigation... has ",
+    "cited_author": "Aaro",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-aaro-pasulka.md",
+    "match_score": 56.666666666666664,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 171,
+    "claim": "### 4.3 Jacques Vall\u00e9e (1969-2003): The Parallel Universe Thesis and the Systematic Demolition of ETH",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 49.504950495049506,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 173,
+    "claim": "No single researcher has done more to construct a rigorous alternative to the extraterrestrial hypothesis than Jacques Vall\u00e9e. His work spans three decades and three major theoretical statements, each",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 50.45045045045045,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 177,
+    "claim": "Vall\u00e9e's breakthrough was to demonstrate that the UFO phenomenon is not a modern anomaly. It is the most recent expression of a cross-cultural pattern stretching back to antiquity. In *Passport to Mag",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 52.0,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 179,
+    "claim": "> \"...astronomical research to reveal a startling but undeniable pattern of fact -- that throughout history and across widely diverse cultures, there is an absolutely consistent tradition of visitatio",
+    "cited_author": "Vallee",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 100.0,
+    "threshold": 70,
+    "status": "PASS"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 181,
+    "claim": "> -- Vall\u00e9e, *Passport to Magonia*, 1969. Preface thesis statement.",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 52.23880597014925,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 185,
+    "claim": "In his 1990 paper for the *Journal of Scientific Exploration*, Vall\u00e9e dismantled the ETH with quantitative and logical rigor. He showed that the number of close encounters is orders of magnitude too h",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 56.00000000000001,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 189,
+    "claim": "> -- Vall\u00e9e, \"Five Arguments Against the Extraterrestrial Origin of Unidentified Flying Objects,\" *Journal of Scientific Exploration*, Vol. 4, No. 1 (1990), p. 105.",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 72.5609756097561,
+    "threshold": 70,
+    "status": "PASS"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 191,
+    "claim": "#### The Vall\u00e9e-Davis 6-Layer Model (2003)",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 64.28571428571428,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 193,
+    "claim": "In collaboration with physicist Eric W. Davis, Vall\u00e9e proposed a six-layer analytical framework for UAP events: (1) physical manifestations, (2) anti-physical effects, (3) psychological factors, (4) p",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 71.66666666666667,
+    "threshold": 70,
+    "status": "PASS"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 197,
+    "claim": "> -- Vall\u00e9e & Davis, \"Incommensurability, Orthodoxy and the Physics of High Strangeness: A 6-layer Model for Anomalous Phenomena,\" presented at the Forum on Science, Religion and Consciousness, Univer",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 73.46938775510203,
+    "threshold": 70,
+    "status": "PASS"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 199,
+    "claim": "The Vall\u00e9e lineage is essential to the Archive because it establishes, through modern case analysis, exactly what the ancient texts assert through mythic vocabulary: a continuous presence, an adaptive",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 45.35714285714286,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 201,
+    "claim": "### 4.4 John Keel (1970): Ultraterrestrials and the Control System",
+    "cited_author": "Keel",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 54.54545454545454,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 203,
+    "claim": "John Keel's *Operation Trojan Horse* (1970) arrived one year after *Passport to Magonia* and pushed the thesis in a more radical direction. Keel argued that UFOs are not physical craft at all but elec",
+    "cited_author": "Keel",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 62.66666666666667,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 207,
+    "claim": "> -- Keel, *Operation Trojan Horse*, 1970, pp. 170-172.",
+    "cited_author": "Keel",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 72.72727272727273,
+    "threshold": 70,
+    "status": "PASS"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 209,
+    "claim": "Keel's \"control system\" thesis -- that the phenomenon manipulates human belief systems as a form of cultural management -- aligns directly with the Archive's reading of operator intervention patterns ",
+    "cited_author": "Keel",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 48.10606060606061,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 211,
+    "claim": "### 4.5 Modern Disclosure (2017-2023): Grusch, Elizondo, and the Institutional Reckoning",
+    "cited_author": "Grusch",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 46.59090909090909,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 217,
+    "claim": "#### David Grusch: Congressional Testimony (July 26, 2023)",
+    "cited_author": "Grusch",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 74.13793103448276,
+    "threshold": 70,
+    "status": "PASS"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 219,
+    "claim": "David Grusch, a former intelligence officer at the National Geospatial-Intelligence Agency and co-lead for UAP analysis, testified under oath before the House Oversight Committee. He stated that the U",
+    "cited_author": "Grusch",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 51.0,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 221,
+    "claim": "Grusch's most significant conceptual contribution is his explicit distinction between \"extraterrestrial\" and \"non-human intelligence.\" He keeps the aperture open to higher-dimensional origins.",
+    "cited_author": "Grusch",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 50.52083333333333,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 225,
+    "claim": "> -- Grusch, NewsNation interview, June 2023.",
+    "cited_author": "Grusch",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 75.55555555555556,
+    "threshold": 70,
+    "status": "PASS"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 227,
+    "claim": "#### AARO and the Institutional Counter-Narrative",
+    "cited_author": "Aaro",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-aaro-pasulka.md",
+    "match_score": 59.183673469387756,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 229,
+    "claim": "The All-domain Anomaly Resolution Office (AARO), established by Congress to investigate UAP, released its Historical Record Report in March 2024. AARO found no evidence confirming extraterrestrial tec",
+    "cited_author": "Aaro",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-aaro-pasulka.md",
+    "match_score": 55.333333333333336,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 235,
+    "claim": "| Proposition | Layne | Hynek | Vall\u00e9e | Keel | Grusch |",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 46.42857142857143,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 252,
+    "claim": "**John A. Keel, *Operation Trojan Horse* (1970), Pg. 127:**",
+    "cited_author": "Keel",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 77.96610169491525,
+    "threshold": 70,
+    "status": "PASS"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 256,
+    "claim": "Keel treats invisibility as a technological setting, not a natural fact. The intelligence adjusts its output to sit above and below the range of human perception, only dialing into visibility when it ",
+    "cited_author": "Keel",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 49.280575539568346,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 258,
+    "claim": "**David Grusch, NewsNation interview (June 2023):**",
+    "cited_author": "Grusch",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 70.58823529411764,
+    "threshold": 70,
+    "status": "PASS"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 262,
+    "claim": "Grusch does not place the phenomenon in another galaxy. He places it in the same room, separated by perceptual architecture rather than distance. The membrane is dimensional, but the location is share",
+    "cited_author": "Grusch",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 48.51485148514851,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 292,
+    "claim": "| **Active limitation** | Frequency manipulation (Keel); dimensional co-location (Grusch) | Heart of Sky deliberately \"blurs\" human vision in real time |",
+    "cited_author": "Keel",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 43.790849673202615,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 293,
+    "claim": "| **Co-located presence** | \"Co-located right here\" (Grusch); concentrated in specific areas (Keel) | Operators are present in the same space but rendered imperceptible |",
+    "cited_author": "Keel",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 44.11764705882353,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 299,
+    "claim": "The Archive does not claim that Heart of Sky's blinding is the same mechanism as Keel's electromagnetic frequency shift or Grusch's higher-dimensional physics. It notes the structural correlation. Bot",
+    "cited_author": "Keel",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 46.333333333333336,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 309,
+    "claim": "Modern NHI discourse asserts that non-human intelligence maintains continuous observation of human populations, with capabilities that exceed any terrestrial monitoring architecture. John A. Keel, in ",
+    "cited_author": "Keel",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 47.66666666666667,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 366,
+    "claim": "NHI discourse goes further than passive observation. It claims active cognitive access: the ability to read thoughts, implant ideas, or manipulate mental states. Keel's source text explicitly states t",
+    "cited_author": "Keel",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-keel-grusch.md",
+    "match_score": 44.99999999999999,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 409,
+    "claim": "Modern NHI discourse describes beings and craft that \"phase in and out of reality,\" appearing solid one moment and absent the next, without detectable transit through intervening space. Jacques Vall\u00e9e",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 49.0,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 411,
+    "claim": "> \"The phenomena to be explained include not only strange flying devices that are described as physical craft by the witnesses but also objects and beings that exhibit the ability to appear and disapp",
+    "cited_author": "Vallee",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 100.0,
+    "threshold": 70,
+    "status": "PASS"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 413,
+    "claim": "Vall\u00e9e's analytical framework separates these observations into a distinct \"anti-physical\" layer:",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 53.608247422680414,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 415,
+    "claim": "> \"Objects are described as physical and material but they are also described as: sinking into the ground; shrinking in size, growing larger, or changing shape on the spot; becoming fuzzy and transpar",
+    "cited_author": "Vallee",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 99.33333333333333,
+    "threshold": 70,
+    "status": "PASS"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 433,
+    "claim": "A witness observing a vehicle depart the surface tier and ascend to the orbital tier would see the object become small, then fuzzy, then invisible. No radar return would confirm its continued existenc",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 44.666666666666664,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 469,
+    "claim": "Vall\u00e9e's fifth argument against the ETH -- the apparent ability to manipulate space and time -- is consistent with the Archive's reconstruction of a three-tier platform using gated transit corridors a",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 53.125,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 498,
+    "claim": "## 8. Vall\u00e9e's Control System vs. Archive's Institutional Management",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 42.64705882352941,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 500,
+    "claim": "Jacques Vall\u00e9e proposed that the UFO phenomenon functions as a control system. It modulates human belief and cognition, appearing in forms calibrated to observer expectations: phantom airships in the ",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 45.333333333333336,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 504,
+    "claim": "Vall\u00e9e identified the behavioral pattern with remarkable precision. What he lacked was the historical record that would let him name the operators. The control system behaves like a control system bec",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 45.666666666666664,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 512,
+    "claim": "Vall\u00e9e was not wrong. He was partial. The control system is real, but it is not anonymous. It has a name, a history, and a filing system. The Archive's contribution is to move the analysis from phenom",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 44.58874458874459,
+    "threshold": 70,
+    "status": "FLAGGED"
+  },
+  {
+    "source": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 709,
+    "claim": "Jacques Vall\u00e9e argues the UFO phenomenon behaves like a \"control system\" adapting its manifestations to human cultural frameworks, producing experiences that shape behavior without revealing true natu",
+    "cited_author": "Vall\u00e9e",
+    "evidence_file": "/home/andre/Work/ancient-texts-research/.sisyphus/evidence/deep-source-vallee.md",
+    "match_score": 48.33333333333333,
+    "threshold": 70,
+    "status": "FLAGGED"
+  }
+]

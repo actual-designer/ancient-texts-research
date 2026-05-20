@@ -8,21 +8,21 @@
 
 ## Executive Summary
 
-Fourteen independent textual traditions, spanning Mesopotamian, Hebrew, Egyptian, Indian, Mesoamerican, Norse, Greek, Zoroastrian, and early Christian sources, preserve overlapping descriptions of the same institutional architecture: a stratified non-human command hierarchy operating on and around Earth, a bioengineered human species, recurring cycles of contamination and catastrophic reset, a post-mortem processing pipeline, and a progressive operator withdrawal culminating in silence. Under the [Amnesia hypothesis](../00-INDEX.md), these are not mythologies. They are operational records preserved by a non-technical population that lacked the vocabulary to describe what it witnessed.
+Fourteen independent textual traditions, spanning Mesopotamian, Hebrew, Egyptian, Indian, Mesoamerican, Norse, Greek, Zoroastrian, and early Christian sources, preserve overlapping descriptions of the same institutional architecture: a stratified non-human command hierarchy operating on and around Earth, a bioengineered human species, recurring cycles of contamination and catastrophic reset, a post-mortem processing pipeline, and a progressive operator withdrawal culminating in silence. Under the [Amnesia hypothesis](00-INDEX.md), these are not mythologies. They are operational records preserved by a non-technical population that lacked the vocabulary to describe what it witnessed.
 
 This document produces a singular hypothesis that unifies the archive's findings into a coherent reconstruction of what the forgotten history of humanity actually looks like.
 
 ### Seven Numbered Findings
 
-1. **Earth is a managed operational theater.** The [three-tier vertical architecture](../09-location-registry.md) (orbital → surface → subsurface) described identically across all traditions is not a cosmology. It is a deployed infrastructure with [command nodes](analyses/enoch-watchers.md), [processing facilities](analyses/book-of-the-dead.md), [restricted zones](analyses/gilgamesh.md), and [transit corridors](analyses/pyramid-texts.md).
+1. **Earth is a managed operational theater.** The [three-tier vertical architecture](09-location-registry.md) (orbital → surface → subsurface) described identically across all traditions is not a cosmology. It is a deployed infrastructure with [command nodes](analyses/enoch-watchers.md), [processing facilities](analyses/book-of-the-dead.md), [restricted zones](analyses/gilgamesh.md), and [transit corridors](analyses/pyramid-texts.md).
 
-2. **The "gods" are a single continuous organization.** The [entity hierarchies](../01-entity-registry.md) of Mesopotamia, Enoch, Egypt, India, Mesoamerica, Norse, Greece, and Zoroastrian traditions are not independent pantheons. They are the same stratified command structure observed from different cultural vantage points across different eras, with departmental portfolios (storm, surveillance, bioengineering, weapons custody, afterlife processing) that remain consistent.
+2. **The "gods" are a single continuous organization.** The [entity hierarchies](01-entity-registry.md) of Mesopotamia, Enoch, Egypt, India, Mesoamerica, Norse, Greece, and Zoroastrian traditions are not independent pantheons. They are the same stratified command structure observed from different cultural vantage points across different eras, with departmental portfolios (storm, surveillance, bioengineering, weapons custody, afterlife processing) that remain consistent.
 
 3. **Humanity was bioengineered as a labor solution and evolved into something more.** The [Atrahasis labor-dispute origin](analyses/atrahasis.md) is the documented trigger. But the subsequent investment: [iterative R&D](analyses/popol-vuh.md), [precision genetic commissions](analyses/mahabharata.md), [hybrid rulers](analyses/gilgamesh.md), the [post-mortem integration pipeline](analyses/pyramid-texts.md), and the [engineered amnesia](analyses/popol-vuh.md) when prototypes exceeded specifications, reveals a project whose scope expanded far beyond its original mandate.
 
-4. **The contamination cycles are structural, not accidental.** Every era follows the same trajectory: creation → management → parameter exceedance → proportional response → failure → escalation → reset → selective preservation → rebuild. The system distributes capability to field operators who then exceed political containment. This is an [institutional design flaw](../06-weapons-doctrine.md).
+4. **The contamination cycles are structural, not accidental.** Every era follows the same trajectory: creation → management → parameter exceedance → proportional response → failure → escalation → reset → selective preservation → rebuild. The system distributes capability to field operators who then exceed political containment. This is an [institutional design flaw](06-weapons-doctrine.md).
 
-5. **The Flood was a deliberate sterilization protocol that failed to achieve zero survivors.** The [Ark was a genetic seed vault](../05-great-reset.md), not a boat. [Enlil's fury](analyses/gilgamesh.md) at Utnapishtim's survival confirms the extinction intent. The fact that one lineage survived, and that [Enki preserved comprehensive genetic libraries](analyses/atrahasis.md), means the post-Flood world was built on compromised premises.
+5. **The Flood was a deliberate sterilization protocol that failed to achieve zero survivors.** The [Ark was a genetic seed vault](05-great-reset.md), not a boat. [Enlil's fury](analyses/gilgamesh.md) at Utnapishtim's survival confirms the extinction intent. The fact that one lineage survived, and that [Enki preserved comprehensive genetic libraries](analyses/atrahasis.md), means the post-Flood world was built on compromised premises.
 
 6. **There is a return path: humans can become operators.** The [Egyptian post-mortem pipeline](analyses/book-of-the-dead.md) (Duat → Akhet → Sky), the [Cannibal Hymn's](analyses/pyramid-texts.md) capability absorption, the [Chinvat Bridge](analyses/zoroastrian-gathas.md), the [Weighing of the Heart](analyses/book-of-the-dead.md), the [Book of Life](analyses/revelation.md): all describe the same assessment gateway through which select humans are reconstituted, credentialed, and absorbed into the operator community. This transforms the human project from labor species to candidate successor.
 
@@ -34,7 +34,7 @@ This document produces a singular hypothesis that unifies the archive's findings
 
 The archive rests on a methodological claim that must be stated plainly before the reconstruction begins:
 
-**If fourteen independent traditions, separated by geography, language, culture, and time, describe the same [three-tier command hierarchy](../01-entity-registry.md), the same [flood event](../04-cross-references.md), the same [post-mortem processing facility](../04-cross-references.md), the same [weapons authorization doctrine](../06-weapons-doctrine.md), the same [iterative human prototype cycles](../04-cross-references.md), and the same pattern of [operator withdrawal](../07-the-human-project.md) — the simplest explanation is that they are describing the same reality.**
+**If fourteen independent traditions, separated by geography, language, culture, and time, describe the same [three-tier command hierarchy](01-entity-registry.md), the same [flood event](04-cross-references.md), the same [post-mortem processing facility](04-cross-references.md), the same [weapons authorization doctrine](06-weapons-doctrine.md), the same [iterative human prototype cycles](04-cross-references.md), and the same pattern of [operator withdrawal](07-the-human-project.md) — the simplest explanation is that they are describing the same reality.**
 
 The alternative: that these are independent mythological inventions that happen to converge on identical institutional details, requires more assumptions than the Amnesia hypothesis. Independent myths might share archetypes (floods, creators, underworlds). They do not independently invent:
 
@@ -89,7 +89,7 @@ Every tradition describes the same vertical structure:
 | **Surface** | Managed species habitat, resource zones, engagement theaters | [Earth](analyses/atrahasis.md), [Cedar Forest](analyses/gilgamesh.md) | [Earth](analyses/book-of-the-dead.md), [Duat entry](analyses/pyramid-texts.md) | [Prithvi](analyses/rig-veda.md), [Kurukshetra](analyses/mahabharata.md) | [Midgard](analyses/poetic-edda.md) | [Gaia](analyses/theogony-works-and-days.md), [Troy](analyses/theogony-works-and-days.md) |
 | **Subsurface** | Processing facilities, containment, biological research | [Apsu](analyses/atrahasis.md), [underworld](analyses/enoch-watchers.md) | [Duat](analyses/pyramid-texts.md), [Tuat](analyses/book-of-the-dead.md) | [Yamaloka](analyses/mahabharata.md), [cosmic ocean](analyses/mahabharata.md) | [Hel](analyses/poetic-edda.md), [Hvergelmir](analyses/poetic-edda.md) | [Tartarus](analyses/theogony-works-and-days.md) |
 
-This is not a cosmological model. It is a **deployed operational platform** with three functional zones connected by gated transit corridors. The [axis mundi structures](../09-location-registry.md) (Yggdrasil, Mount Meru, the Temple, Vishnu's strides, the Winding Canal) are not symbolic world-trees. They are the **infrastructure that connects the tiers** — transit systems, data conduits, and command nexus points that are always guarded and always require authentication.
+This is not a cosmological model. It is a **deployed operational platform** with three functional zones connected by gated transit corridors. The [axis mundi structures](09-location-registry.md) (Yggdrasil, Mount Meru, the Temple, Vishnu's strides, the Winding Canal) are not symbolic world-trees. They are the **infrastructure that connects the tiers** — transit systems, data conduits, and command nexus points that are always guarded and always require authentication.
 
 ### The Entity Ontology: What Were They?
 
@@ -98,7 +98,7 @@ The archive deliberately does not resolve this question, and the texts do not pr
 - They are **biological** (they have flesh, blood, reproductive compatibility with humans, mortality in some cases).
 - They are **long-lived or biologically immortal** (Anu, Enki, and others persist across millennia; [Utanapishtim is granted immortality](analyses/gilgamesh.md) as an exceptional status).
 - They are **technologically advanced** to a degree that appears supernatural to non-technical observers ([Merkabah](analyses/ezekiel-merkabah.md), [vimānas](analyses/mahabharata.md), [crystal facilities](analyses/enoch-watchers.md)).
-- They are **organized** in a [stratified command hierarchy](../01-entity-registry.md) with departmental specialization.
+- They are **organized** in a [stratified command hierarchy](01-entity-registry.md) with departmental specialization.
 - They are **not monolithic**; internal factionalism is a recurring feature ([Enlil vs. Enki](analyses/atrahasis.md), [Aesir vs. Vanir](analyses/poetic-edda.md), [Spenta vs. Angra Mainyu](analyses/zoroastrian-gathas.md), [Olympians vs. Titans](analyses/theogony-works-and-days.md)).
 - They are **reproductively compatible** with humans at the genetic level ([Nephilim](analyses/enoch-watchers.md), [Gilgamesh](analyses/gilgamesh.md), [Pāṇḍavas](analyses/mahabharata.md)), suggesting shared biological ancestry or deliberate genetic alignment.
 
@@ -190,13 +190,13 @@ If the amnesia is engineered — and the Popol Vuh provides the most explicit ev
 
 The [Atrahasis text](analyses/atrahasis.md) says the objective was labor. But the subsequent investment far exceeds what a simple labor replacement would justify:
 
-- **[Genetic engineering](../02-technology-catalog.md)** across multiple generations with increasing sophistication
+- **[Genetic engineering](02-technology-catalog.md)** across multiple generations with increasing sophistication
 - **[Hybrid rulers](analyses/gilgamesh.md)** (Gilgamesh) designed to govern the managed population
 - **[Knowledge management](analyses/enoch-watchers.md)**: controlling what humans know and when they know it
-- **[Catastrophic reset](../05-great-reset.md)** (the Flood) when the species exceeds parameters
-- **[Rebuild under modified parameters](../07-the-human-project.md)** after each reset
+- **[Catastrophic reset](05-great-reset.md)** (the Flood) when the species exceeds parameters
+- **[Rebuild under modified parameters](07-the-human-project.md)** after each reset
 - **[Post-mortem integration](analyses/book-of-the-dead.md)**: a pipeline for upgrading select humans to operator-tier status
-- **[The liaison/scribe model](../04-cross-references.md)**: selecting humans for unusual access and commanding them to record everything
+- **[The liaison/scribe model](04-cross-references.md)**: selecting humans for unusual access and commanding them to record everything
 
 This is not the behavior of an organization managing a labor species. This is the behavior of an organization running a **long-term developmental experiment** — or, more provocatively, **grooming a candidate successor civilization**.
 
@@ -237,7 +237,7 @@ Five documented instances across the archive:
 | Era | Creation | Crisis | Reset | Preservation | Rebuild |
 |-----|----------|--------|-------|-------------|---------|
 | **[Popol Vuh R&D](analyses/popol-vuh.md)** | 4 sequential prototypes | Each fails specification | Destruction of each failed run; flood for wood people | Corn people preserved but cognitively throttled | Blinded humans populate the earth |
-| **[Pre-Flood](analyses/atrahasis.md)** | 14 prototypes | Population overshoot + Nephilim contamination | [The Flood](../05-great-reset.md) | [Utnapishtim's seed vault](analyses/gilgamesh.md); [Enki's covert warning](analyses/atrahasis.md) | Post-Flood civilization under human kings |
+| **[Pre-Flood](analyses/atrahasis.md)** | 14 prototypes | Population overshoot + Nephilim contamination | [The Flood](05-great-reset.md) | [Utnapishtim's seed vault](analyses/gilgamesh.md); [Enki's covert warning](analyses/atrahasis.md) | Post-Flood civilization under human kings |
 | **[Post-Flood Mesopotamia](analyses/gilgamesh.md)** | Gilgamesh engineered; Enkidu fabricated | Unauthorized incursions; Enkidu's death as punishment | Enkidu terminated; Gilgamesh denied immortality | Gilgamesh returns to Uruk; records preserved | Uruk under mortal governance |
 | **[Mahābhārata theater](analyses/mahabharata.md)** | Multi-donor Pāṇḍavas; batch Kauravas | Astra proliferation; ROE erosion; night massacre | Kurukshetra war; Brahmāstra deployment | [Parīkṣit revived by Kṛṣṇa](analyses/mahabharata.md); [Vyāsa compiles](analyses/mahabharata.md) | Kali Yuga under Parīkṣit's lineage |
 | **[Ezekiel era](analyses/ezekiel-merkabah.md)** | (No new creation) | Jerusalem's corruption; temple desecration | [Commanded destruction of Jerusalem](analyses/ezekiel-merkabah.md) | [Ezekiel preserved](analyses/ezekiel-merkabah.md); [Valley of Dry Bones](analyses/ezekiel-merkabah.md) demonstrates reconstruction | [New facility blueprints dictated](analyses/ezekiel-merkabah.md) |
@@ -258,10 +258,10 @@ Across all five instances, four patterns never vary:
 
 The contamination is not accidental. It is **structural**. The system distributes capability (genetic engineering, weapons, knowledge) to field operators who then exceed political containment. This happens because:
 
-- The command tier cannot execute its mandate directly; it must delegate to Tier 2 and Tier 3 operators ([entity registry](../01-entity-registry.md)).
+- The command tier cannot execute its mandate directly; it must delegate to Tier 2 and Tier 3 operators ([entity registry](01-entity-registry.md)).
 - Those operators have their own agendas, loyalties, and judgments.
 - When they act on those agendas ([Enki's dissent](analyses/atrahasis.md), [the Watchers' unauthorized descent](analyses/enoch-watchers.md), [Aśvatthāmā's rogue Brahmāstra deployment](analyses/mahabharata.md)), the results exceed the command tier's ability to contain them.
-- The only remaining response is escalation to strategic or existential measures, which themselves produce unintended consequences ([weapons doctrine](../06-weapons-doctrine.md)).
+- The only remaining response is escalation to strategic or existential measures, which themselves produce unintended consequences ([weapons doctrine](06-weapons-doctrine.md)).
 
 This is an institutional design flaw baked into a tiered command structure that must delegate to execute. The archive documents this flaw operating across multiple eras, multiple theaters, and multiple operator factions. It is the single most consistent pattern in the entire corpus.
 
@@ -460,7 +460,7 @@ A hypothesis that explains everything predicts nothing. The unified hypothesis m
 
 ### Predictions
 
-1. **Cross-tradition institutional convergence:** Additional ancient texts from traditions not yet in the archive (e.g., Sumerian king lists, additional Vedic texts, pre-Columbian Mesoamerican codices, additional Norse sources, Zoroastrian non-Gatha texts) should continue to describe the same [three-tier architecture](../09-location-registry.md), the same [entity hierarchy with departmental portfolios](../01-entity-registry.md), the same flood event with a dissenting insider, and the same post-mortem processing facility. If they do not, the hypothesis weakens.
+1. **Cross-tradition institutional convergence:** Additional ancient texts from traditions not yet in the archive (e.g., Sumerian king lists, additional Vedic texts, pre-Columbian Mesoamerican codices, additional Norse sources, Zoroastrian non-Gatha texts) should continue to describe the same [three-tier architecture](09-location-registry.md), the same [entity hierarchy with departmental portfolios](01-entity-registry.md), the same flood event with a dissenting insider, and the same post-mortem processing facility. If they do not, the hypothesis weakens.
 
 2. **Archaeological evidence of non-natural catastrophes:** The Flood layer, if it corresponds to a real event, should show evidence of multi-vector destruction (atmospheric energy discharge, hydraulic infrastructure sabotage, sustained extreme weather) rather than a single natural mechanism. Geological strata from the relevant period should show simultaneous evidence of thermal events, hydraulic disruption, and rapid surface leveling across multiple regions.
 
@@ -515,8 +515,8 @@ ACTIVATION
   │
   ▼
 OPERATIONAL DEPLOYMENT
-  │  [Three-tier architecture](../09-location-registry.md) established (orbital → surface → subsurface)
-  │  [Command hierarchy](../01-entity-registry.md) installed with departmental portfolios
+  │  [Three-tier architecture](09-location-registry.md) established (orbital → surface → subsurface)
+  │  [Command hierarchy](01-entity-registry.md) installed with departmental portfolios
   │  [Igigi](analyses/atrahasis.md) assigned to planetary infrastructure labor (3,600 years)
   │
   ▼
@@ -555,7 +555,7 @@ WATCHER INCIDENT ([Enoch](analyses/enoch-watchers.md))
   │  Command tier intervenes: Watchers bound, Nephilim destroyed
   │
   ▼
-THE FLOOD ([Great Reset](../05-great-reset.md))
+THE FLOOD ([Great Reset](05-great-reset.md))
   │  Authorization: council vote under oath of secrecy
   │  Dissent: Enki warns Atrahasis/Utnapishtim covertly
   │  Vessel: cubic seed vault, 63 compartments, hermetically sealed

@@ -1,0 +1,412 @@
+[
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 13,
+    "link_text": "Epic of Atrahasis",
+    "link_target": "analyses/atrahasis.md",
+    "context": "| # | Text | Est. Period of Events | Pages | Key Subjects | |---|------|-----------------------|-------|--------------| | 1 | [Epic of Atrahasis](analyses/atrahasis.md) | Pre-diluvian (deep antiquity)",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 14,
+    "link_text": "Book of Enoch (1 Enoch)",
+    "link_target": "analyses/enoch-watchers.md",
+    "context": "| # | Text | Est. Period of Events | Pages | Key Subjects | |---|------|-----------------------|-------|--------------| | 1 | [Epic of Atrahasis](analyses/atrahasis.md) | Pre-diluvian (deep antiquity)",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 15,
+    "link_text": "Epic of Gilgamesh",
+    "link_target": "analyses/gilgamesh.md",
+    "context": "|---|------|-----------------------|-------|--------------| | 1 | [Epic of Atrahasis](analyses/atrahasis.md) | Pre-diluvian (deep antiquity) | 13 | Igigi labor revolt, creation of humanity, the Flood ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 16,
+    "link_text": "Book of Ezekiel",
+    "link_target": "analyses/ezekiel-merkabah.md",
+    "context": "| 1 | [Epic of Atrahasis](analyses/atrahasis.md) | Pre-diluvian (deep antiquity) | 13 | Igigi labor revolt, creation of humanity, the Flood | | 2 | [Book of Enoch (1 Enoch)](analyses/enoch-watchers.md",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 17,
+    "link_text": "Mah\u0101bh\u0101rata",
+    "link_target": "analyses/mahabharata.md",
+    "context": "| 2 | [Book of Enoch (1 Enoch)](analyses/enoch-watchers.md) | Pre-diluvian through post-Flood | 193 | Watchers' descent, technology transfer, Nephilim, heavenly facilities | | 3 | [Epic of Gilgamesh](",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 18,
+    "link_text": "Popol Vuh",
+    "link_target": "analyses/popol-vuh.md",
+    "context": "| 3 | [Epic of Gilgamesh](analyses/gilgamesh.md) | Post-Flood (Uruk period) | 83 | Hybrid king, biological fabrication, Utnapishtim's Flood account, immortality research | | 4 | [Book of Ezekiel](anal",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 19,
+    "link_text": "Ancient Egyptian Pyramid Texts",
+    "link_target": "analyses/pyramid-texts.md",
+    "context": "| 4 | [Book of Ezekiel](analyses/ezekiel-merkabah.md) | 593 BCE (precisely dated) | 66 | Merkabah craft, transport events, reanimation protocol, Temple blueprints | | 5 | [Mah\u0101bh\u0101rata](analyses/mahabh",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 20,
+    "link_text": "Rig Veda",
+    "link_target": "analyses/rig-veda.md",
+    "context": "| 5 | [Mah\u0101bh\u0101rata](analyses/mahabharata.md) | Epic timeframe (Puranic/Iron Age horizon in tradition) | Vol. varies | Vim\u0101nas, astras, commissioned births, Kurukshetra combined arms, hierarchy paralle",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 21,
+    "link_text": "Book of Revelation",
+    "link_target": "analyses/revelation.md",
+    "context": "| 6 | [Popol Vuh](analyses/popol-vuh.md) | Deep antiquity (creation cycle) | 285 | Iterative creation R&D (4 prototypes), deliberate flood, engineered amnesia, Xibalb\u00e1 facility | | 7 | [Ancient Egypti",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 22,
+    "link_text": "The Book of the Dead (Per-t em Hru)",
+    "link_target": "analyses/book-of-the-dead.md",
+    "context": "| 7 | [Ancient Egyptian Pyramid Texts](analyses/pyramid-texts.md) | Old Kingdom (~2353-2150 BCE) | 394 | Post-mortem processing pipeline (Duat\u2192Akhet\u2192Sky), body reconstitution protocol, gated access, C",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 23,
+    "link_text": "The Poetic Edda (Bellows, 1923)",
+    "link_target": "analyses/poetic-edda.md",
+    "context": "| 8 | [Rig Veda](analyses/rig-veda.md) | ~1500-1200 BCE (composition) / Deep antiquity (events) | 750 | Vimanas, Vajra weapon, Asvins biomedical corps, Soma bio-enhancement, Yama afterlife protocol, A",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 24,
+    "link_text": "Theogony & Works and Days (Hesiod, c. 700 BCE)",
+    "link_target": "analyses/theogony-works-and-days.md",
+    "context": "| 9 | [Book of Revelation](analyses/revelation.md) | ~95 CE (projected events \u2014 timeline undetermined) | 41 | Throne room command center, seven-sealed authorization scroll, four horsemen systemic coll",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 25,
+    "link_text": "The Zoroastrian Gathas (Mills, 1898)",
+    "link_target": "analyses/zoroastrian-gathas.md",
+    "context": "| 10 | [The Book of the Dead (Per-t em Hru)](analyses/book-of-the-dead.md) | Old Kingdom through XVIIIth dynasty (~2350-1200 BCE, spells in continuous use) | 22 | Weighing of the Heart identity verifi",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 26,
+    "link_text": "Yoga Sutras (Madhv\u0101c\u0101rya/Beloved, 2007)",
+    "link_target": "analyses/yoga-sutras.md",
+    "context": "| 11 | [The Poetic Edda (Bellows, 1923)](analyses/poetic-edda.md) | ~900-1050 CE composition / Prehistoric events | 34 poems | Ymir dismantlement (entity-to-infrastructure), Ask/Embla fabrication, Aes",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 13,
+    "link_text": "analyses/atrahasis.md",
+    "link_target": "analyses/atrahasis.md",
+    "context": "| # | Text | Est. Period of Events | Pages | Key Subjects | |---|------|-----------------------|-------|--------------| | 1 | [Epic of Atrahasis](analyses/atrahasis.md) | Pre-diluvian (deep antiquity)",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 14,
+    "link_text": "analyses/enoch-watchers.md",
+    "link_target": "analyses/enoch-watchers.md",
+    "context": "| # | Text | Est. Period of Events | Pages | Key Subjects | |---|------|-----------------------|-------|--------------| | 1 | [Epic of Atrahasis](analyses/atrahasis.md) | Pre-diluvian (deep antiquity)",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 15,
+    "link_text": "analyses/gilgamesh.md",
+    "link_target": "analyses/gilgamesh.md",
+    "context": "|---|------|-----------------------|-------|--------------| | 1 | [Epic of Atrahasis](analyses/atrahasis.md) | Pre-diluvian (deep antiquity) | 13 | Igigi labor revolt, creation of humanity, the Flood ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 16,
+    "link_text": "analyses/ezekiel-merkabah.md",
+    "link_target": "analyses/ezekiel-merkabah.md",
+    "context": "| 1 | [Epic of Atrahasis](analyses/atrahasis.md) | Pre-diluvian (deep antiquity) | 13 | Igigi labor revolt, creation of humanity, the Flood | | 2 | [Book of Enoch (1 Enoch)](analyses/enoch-watchers.md",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 17,
+    "link_text": "analyses/mahabharata.md",
+    "link_target": "analyses/mahabharata.md",
+    "context": "| 2 | [Book of Enoch (1 Enoch)](analyses/enoch-watchers.md) | Pre-diluvian through post-Flood | 193 | Watchers' descent, technology transfer, Nephilim, heavenly facilities | | 3 | [Epic of Gilgamesh](",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 18,
+    "link_text": "analyses/popol-vuh.md",
+    "link_target": "analyses/popol-vuh.md",
+    "context": "| 3 | [Epic of Gilgamesh](analyses/gilgamesh.md) | Post-Flood (Uruk period) | 83 | Hybrid king, biological fabrication, Utnapishtim's Flood account, immortality research | | 4 | [Book of Ezekiel](anal",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 19,
+    "link_text": "analyses/pyramid-texts.md",
+    "link_target": "analyses/pyramid-texts.md",
+    "context": "| 4 | [Book of Ezekiel](analyses/ezekiel-merkabah.md) | 593 BCE (precisely dated) | 66 | Merkabah craft, transport events, reanimation protocol, Temple blueprints | | 5 | [Mah\u0101bh\u0101rata](analyses/mahabh",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 20,
+    "link_text": "analyses/rig-veda.md",
+    "link_target": "analyses/rig-veda.md",
+    "context": "| 5 | [Mah\u0101bh\u0101rata](analyses/mahabharata.md) | Epic timeframe (Puranic/Iron Age horizon in tradition) | Vol. varies | Vim\u0101nas, astras, commissioned births, Kurukshetra combined arms, hierarchy paralle",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 21,
+    "link_text": "analyses/revelation.md",
+    "link_target": "analyses/revelation.md",
+    "context": "| 6 | [Popol Vuh](analyses/popol-vuh.md) | Deep antiquity (creation cycle) | 285 | Iterative creation R&D (4 prototypes), deliberate flood, engineered amnesia, Xibalb\u00e1 facility | | 7 | [Ancient Egypti",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 22,
+    "link_text": "analyses/book-of-the-dead.md",
+    "link_target": "analyses/book-of-the-dead.md",
+    "context": "| 7 | [Ancient Egyptian Pyramid Texts](analyses/pyramid-texts.md) | Old Kingdom (~2353-2150 BCE) | 394 | Post-mortem processing pipeline (Duat\u2192Akhet\u2192Sky), body reconstitution protocol, gated access, C",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 23,
+    "link_text": "analyses/poetic-edda.md",
+    "link_target": "analyses/poetic-edda.md",
+    "context": "| 8 | [Rig Veda](analyses/rig-veda.md) | ~1500-1200 BCE (composition) / Deep antiquity (events) | 750 | Vimanas, Vajra weapon, Asvins biomedical corps, Soma bio-enhancement, Yama afterlife protocol, A",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 24,
+    "link_text": "analyses/theogony-works-and-days.md",
+    "link_target": "analyses/theogony-works-and-days.md",
+    "context": "| 9 | [Book of Revelation](analyses/revelation.md) | ~95 CE (projected events \u2014 timeline undetermined) | 41 | Throne room command center, seven-sealed authorization scroll, four horsemen systemic coll",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 25,
+    "link_text": "analyses/zoroastrian-gathas.md",
+    "link_target": "analyses/zoroastrian-gathas.md",
+    "context": "| 10 | [The Book of the Dead (Per-t em Hru)](analyses/book-of-the-dead.md) | Old Kingdom through XVIIIth dynasty (~2350-1200 BCE, spells in continuous use) | 22 | Weighing of the Heart identity verifi",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 26,
+    "link_text": "analyses/yoga-sutras.md",
+    "link_target": "analyses/yoga-sutras.md",
+    "context": "| 11 | [The Poetic Edda (Bellows, 1923)](analyses/poetic-edda.md) | ~900-1050 CE composition / Prehistoric events | 34 poems | Ymir dismantlement (entity-to-infrastructure), Ask/Embla fabrication, Aes",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 55,
+    "link_text": "01-entity-registry.md",
+    "link_target": "01-entity-registry.md",
+    "context": "| File | Subject | |------|---------| | [01-entity-registry.md](01-entity-registry.md) | All non-human actors catalogued and classified across sources | | [02-technology-catalog.md](02-technology-cata",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 56,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "02-technology-catalog.md",
+    "context": "| File | Subject | |------|---------| | [01-entity-registry.md](01-entity-registry.md) | All non-human actors catalogued and classified across sources | | [02-technology-catalog.md](02-technology-cata",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 57,
+    "link_text": "03-event-timeline.md",
+    "link_target": "03-event-timeline.md",
+    "context": "|------|---------| | [01-entity-registry.md](01-entity-registry.md) | All non-human actors catalogued and classified across sources | | [02-technology-catalog.md](02-technology-catalog.md) | Every \"mi",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 58,
+    "link_text": "04-cross-references.md",
+    "link_target": "04-cross-references.md",
+    "context": "| [01-entity-registry.md](01-entity-registry.md) | All non-human actors catalogued and classified across sources | | [02-technology-catalog.md](02-technology-catalog.md) | Every \"miracle\" mapped to a ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 59,
+    "link_text": "05-great-reset.md",
+    "link_target": "05-great-reset.md",
+    "context": "| [02-technology-catalog.md](02-technology-catalog.md) | Every \"miracle\" mapped to a plausible technology | | [03-event-timeline.md](03-event-timeline.md) | Unified chronology across foundational sour",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 60,
+    "link_text": "06-weapons-doctrine.md",
+    "link_target": "06-weapons-doctrine.md",
+    "context": "| [03-event-timeline.md](03-event-timeline.md) | Unified chronology across foundational sources | | [04-cross-references.md](04-cross-references.md) | Parallel accounts, corroborating descriptions, sh",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 61,
+    "link_text": "07-the-human-project.md",
+    "link_target": "07-the-human-project.md",
+    "context": "| [04-cross-references.md](04-cross-references.md) | Parallel accounts, corroborating descriptions, shared entities | | [05-great-reset.md](05-great-reset.md) | The Flood as Sterilization Protocol; th",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 62,
+    "link_text": "08-translation-key.md",
+    "link_target": "08-translation-key.md",
+    "context": "| [05-great-reset.md](05-great-reset.md) | The Flood as Sterilization Protocol; the Ark as Genetic Seed Vault; technical requirements for preserving \"all kinds\" | | [06-weapons-doctrine.md](06-weapons",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 63,
+    "link_text": "09-location-registry.md",
+    "link_target": "09-location-registry.md",
+    "context": "| [06-weapons-doctrine.md](06-weapons-doctrine.md) | Weapons authorization hierarchy, escalation arc, countermeasure distribution, regret grammar across all five sources | | [07-the-human-project.md](",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 64,
+    "link_text": "10-correlation-map.md",
+    "link_target": "10-correlation-map.md",
+    "context": "| [07-the-human-project.md](07-the-human-project.md) | The complete arc: creation as labor solution, management, contamination crisis, reset/rebuild cycle, operator withdrawal | | [08-translation-key.",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 65,
+    "link_text": "11-unified-hypothesis.md",
+    "link_target": "11-unified-hypothesis.md",
+    "context": "| [08-translation-key.md](08-translation-key.md) | Terminology glossary: archaic vocabulary to technical equivalents across all sources | | [09-location-registry.md](09-location-registry.md) | All nam",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 66,
+    "link_text": "12-NHI-correlation.md",
+    "link_target": "12-NHI-correlation.md",
+    "context": "| [09-location-registry.md](09-location-registry.md) | All named geographic zones, facilities, gates, cities, and orbital domains across all 14 source texts, with cross-tradition axis mundi and underw",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/00-INDEX.md",
+    "line": 72,
+    "link_text": "`claude.md`",
+    "link_target": "../claude.md",
+    "context": "## Analytical Framework  Each entry follows this structure (per [`claude.md`](../claude.md) project directives):  1. **Source Material** -- Direct quote or reference from the text 2. **Mainstream Inte",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  }
+]

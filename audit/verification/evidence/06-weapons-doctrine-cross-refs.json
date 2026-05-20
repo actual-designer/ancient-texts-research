@@ -1,0 +1,62 @@
+[
+  {
+    "source_file": "audit/06-weapons-doctrine.md",
+    "line": 4,
+    "link_text": "Revelation",
+    "link_target": "analyses/revelation.md",
+    "context": "# Weapons Doctrine -- Authorization, Escalation, and Aftermath Across Sources  **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis   **Scope:** Cross-cutting synthesis of all foundational t",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/06-weapons-doctrine.md",
+    "line": 122,
+    "link_text": "Gilgamesh",
+    "link_target": "analyses/gilgamesh.md",
+    "context": "| Source | Description | |--------|-------------| | **[Gilgamesh](analyses/gilgamesh.md)** | Shamash provides ISR and deploys Thirteen Winds against Humbaba within authorized Cedar Forest engagement |",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/06-weapons-doctrine.md",
+    "line": 123,
+    "link_text": "Enoch",
+    "link_target": "analyses/enoch-watchers.md",
+    "context": "| Source | Description | |--------|-------------| | **[Gilgamesh](analyses/gilgamesh.md)** | Shamash provides ISR and deploys Thirteen Winds against Humbaba within authorized Cedar Forest engagement |",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/06-weapons-doctrine.md",
+    "line": 124,
+    "link_text": "Atrahasis",
+    "link_target": "analyses/atrahasis.md",
+    "context": "|--------|-------------| | **[Gilgamesh](analyses/gilgamesh.md)** | Shamash provides ISR and deploys Thirteen Winds against Humbaba within authorized Cedar Forest engagement | | **[Enoch](analyses/eno",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/06-weapons-doctrine.md",
+    "line": 125,
+    "link_text": "Mah\u0101bh\u0101rata",
+    "link_target": "analyses/mahabharata.md",
+    "context": "| **[Gilgamesh](analyses/gilgamesh.md)** | Shamash provides ISR and deploys Thirteen Winds against Humbaba within authorized Cedar Forest engagement | | **[Enoch](analyses/enoch-watchers.md)** | Watch",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/06-weapons-doctrine.md",
+    "line": 144,
+    "link_text": "Ezekiel",
+    "link_target": "analyses/ezekiel-merkabah.md",
+    "context": "| **[Enoch](analyses/enoch-watchers.md)** | Judicial binding of Watchers + extermination order for Nephilim + Flood authorization -- strategic reset to contain genetic contamination | | **[Atrahasis](",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  }
+]

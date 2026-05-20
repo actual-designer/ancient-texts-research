@@ -1,0 +1,142 @@
+[
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 29,
+    "link_text": "book-of-the-dead.md",
+    "link_target": "book-of-the-dead.md",
+    "context": "|-------|---------| | **Source Material** | Allen's Introduction establishes that \"the subterranean layout of the pyramid represents an architectural expression of two views of this journey... it repr",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 62,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "|-------|---------| | **Source Material** | PT 273-274 (Unis): \"I am one who eats people and lives on gods, one who has fetchers and sends off dispatches. Grasper of Forelocks in the kettle is the one",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 73,
+    "link_text": "zoroastrian-gathas.md",
+    "link_target": "zoroastrian-gathas.md",
+    "context": "|-------|---------| | **Source Material** | PT 247: \"Your son Horus has acted for you. The great ones shake, having seen the knife in your arm as you emerge from the Duat\" (p. 45). PT 217: \"Sun Atum, ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 84,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "|-------|---------| | **Source Material** | Allen's Introduction: \"The ecliptic... the Egyptians saw this as a distinct feature of the sky, which they called the Winding Canal. The region of the sky t",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 134,
+    "link_text": "ezekiel-merkabah.md",
+    "link_target": "ezekiel-merkabah.md",
+    "context": "| Parallel | Pyramid Texts Anchor | Partner Document | |----------|---------------------|------------------| | Body reconstitution from components | PT 215: each body part mapped to a god template | [",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 135,
+    "link_text": "popol-vuh.md",
+    "link_target": "popol-vuh.md",
+    "context": "| Parallel | Pyramid Texts Anchor | Partner Document | |----------|---------------------|------------------| | Body reconstitution from components | PT 215: each body part mapped to a god template | [",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 135,
+    "link_text": "enoch-watchers.md",
+    "link_target": "enoch-watchers.md",
+    "context": "| Parallel | Pyramid Texts Anchor | Partner Document | |----------|---------------------|------------------| | Body reconstitution from components | PT 215: each body part mapped to a god template | [",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 136,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "|----------|---------------------|------------------| | Body reconstitution from components | PT 215: each body part mapped to a god template | [ezekiel-merkabah.md](ezekiel-merkabah.md) -- Valley of ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 138,
+    "link_text": "gilgamesh.md",
+    "link_target": "gilgamesh.md",
+    "context": "| Gated processing facility | Duat \u2192 Akhet \u2192 Sky with named operators at each gate | [popol-vuh.md](popol-vuh.md) -- Xibalb\u00e1 sequential chambers; [enoch-watchers.md](enoch-watchers.md) -- heavenly tou",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 140,
+    "link_text": "07-the-human-project.md",
+    "link_target": "../07-the-human-project.md",
+    "context": "| Celestial geography with named zones | Field of Reeds, Winding Canal, Field of Offerings | [enoch-watchers.md](enoch-watchers.md) -- seven heavens with distinct functions | | \"Imperishable\" status u",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 141,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "| \"Imperishable\" status upgrade | \"You do not perish... you are ka\" | [gilgamesh.md](gilgamesh.md) -- Utnapishtim's immortality grant | | Ferryman as gate operator | PT 270: \"transport me in the ferry",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 0,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "(paren mahabharata.md: A\u015bvatth\u0101m\u0101's curse as comparable suppression protocol)",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 0,
+    "link_text": "zoroastrian-gathas.md",
+    "link_target": "zoroastrian-gathas.md",
+    "context": "(paren zoroastrian-gathas.md: universal resurrection)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/pyramid-texts.md",
+    "line": 0,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "(paren poetic-edda.md: Bifr\u00f6st as transit corridor)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  }
+]

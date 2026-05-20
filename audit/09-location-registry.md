@@ -1,7 +1,7 @@
 # Location Registry — Geographic and Operational Zones Across All Traditions
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
-**Scope:** All 13 source texts: 78+ named locations across Mesopotamian, Hebrew, Christian, Egyptian, Indian, Mesoamerican, Norse, Greek, and Zoroastrian traditions
+**Scope:** All 14 source texts: 78+ named locations across Mesopotamian, Hebrew, Christian, Egyptian, Indian, Mesoamerican, Norse, Greek, and Zoroastrian traditions
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---

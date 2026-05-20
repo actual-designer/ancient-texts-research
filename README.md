@@ -153,7 +153,7 @@ Not sure where to start? Pick a thread.
 | The Hardware | [`02-technology-catalog.md`](audit/02-technology-catalog.md) | Bioprinting. Directed-energy. Orbital platforms. Consciousness upload. Every "miracle" reverse-engineered. |
 | The Arsenal | [`06-weapons-doctrine.md`](audit/06-weapons-doctrine.md) | Ancient dual-key authorization. Someone was afraid of exactly who was pointing what at whom. |
 | The Unified Hypothesis | [`11-unified-hypothesis.md`](audit/11-unified-hypothesis.md) | The full reconstruction. Seven chapters from the pre-operational void through the engineered amnesia to the autonomous test phase we're in now. |
-| The Index | [`00-INDEX.md`](audit/00-INDEX.md) | All 15 analyses, all syntheses, one map. Start here if you want the full picture. |
+| The Index | [`00-INDEX.md`](audit/00-INDEX.md) | All 14 analyses, all syntheses, one map. Start here if you want the full picture. |
 
 ## The Goal
 

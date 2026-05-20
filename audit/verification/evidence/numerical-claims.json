@@ -1,0 +1,576 @@
+[
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/00-INDEX.md",
+    "line": 16,
+    "text": "| 4 | [Book of Ezekiel](analyses/ezekiel-merkabah.md) | 593 BCE (precisely dated) | 66 | Merkabah craft, transport event",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/00-INDEX.md",
+    "line": 19,
+    "text": "| 7 | [Ancient Egyptian Pyramid Texts](analyses/pyramid-texts.md) | Old Kingdom (~2353-2150 BCE) | 394 | Post-mortem pro",
+    "value": 2150,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/00-INDEX.md",
+    "line": 20,
+    "text": "| 8 | [Rig Veda](analyses/rig-veda.md) | ~1500-1200 BCE (composition) / Deep antiquity (events) | 750 | Vimanas, Vajra w",
+    "value": 1200,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/00-INDEX.md",
+    "line": 22,
+    "text": "| 10 | [The Book of the Dead (Per-t em Hru)](analyses/book-of-the-dead.md) | Old Kingdom through XVIIIth dynasty (~2350-",
+    "value": 1200,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/00-INDEX.md",
+    "line": 23,
+    "text": "| 11 | [The Poetic Edda (Bellows, 1923)](analyses/poetic-edda.md) | ~900-1050 CE composition / Prehistoric events | 34 p",
+    "value": 1050,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/00-INDEX.md",
+    "line": 24,
+    "text": "| 12 | [Theogony & Works and Days (Hesiod, c. 700 BCE)](analyses/theogony-works-and-days.md) | Deep antiquity (creation ",
+    "value": 700,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/00-INDEX.md",
+    "line": 25,
+    "text": "| 13 | [The Zoroastrian Gathas (Mills, 1898)](analyses/zoroastrian-gathas.md) | ~1000 BCE (attributed to Zarathushtra) |",
+    "value": 1000,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/00-INDEX.md",
+    "line": 26,
+    "text": "| 14 | [Yoga Sutras (Madhv\u0101c\u0101rya/Beloved, 2007)](analyses/yoga-sutras.md) | ~200 BCE-400 CE (compilation) | 239 | Citta-",
+    "value": 200,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/00-INDEX.md",
+    "line": 26,
+    "text": "| 14 | [Yoga Sutras (Madhv\u0101c\u0101rya/Beloved, 2007)](analyses/yoga-sutras.md) | ~200 BCE-400 CE (compilation) | 239 | Citta-",
+    "value": 400,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/00-INDEX.md",
+    "line": 63,
+    "text": "| [09-location-registry.md](09-location-registry.md) | All named geographic zones, facilities, gates, cities, and orbita",
+    "value": 14,
+    "claim_type": "source_texts_count"
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/01-entity-registry.md",
+    "line": 693,
+    "text": "**Chronological placement:** Non-narrative procedural manual (compiled ~200 BCE-400 CE, describing persistent operator t",
+    "value": 200,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/01-entity-registry.md",
+    "line": 693,
+    "text": "**Chronological placement:** Non-narrative procedural manual (compiled ~200 BCE-400 CE, describing persistent operator t",
+    "value": 400,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 11,
+    "text": "This timeline synthesizes internal chronological references from all five foundational texts. Dates before Ezekiel are r",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 11,
+    "text": "This timeline synthesizes internal chronological references from all five foundational texts. Dates before Ezekiel are r",
+    "value": 3102,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 168,
+    "text": "**Timing: Traditionally end of Dvapara Yuga / onset of Kali Yuga ~3102 BCE per Hindu cosmological reckoning -- not indep",
+    "value": 3102,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 168,
+    "text": "**Timing: Traditionally end of Dvapara Yuga / onset of Kali Yuga ~3102 BCE per Hindu cosmological reckoning -- not indep",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 319,
+    "text": "**Documentation:** Attribution to Zarathushtra ~1000 BCE",
+    "value": 1000,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 340,
+    "text": "### 593 BCE -- Ezekiel's Encounters",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 344,
+    "text": "| 593 BCE, 5th day of 4th month | First Merkabah encounter | Ezekiel 1:1-28 | Full vehicle observation at the Kebar Rive",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 345,
+    "text": "| 593 BCE + 7 days | Commission and silencing | Ezekiel 2-3 | Ezekiel commissioned as \"watchman\"; transported by \"wind\" ",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 346,
+    "text": "| 592 BCE, 5th day of 6th month | Vision of temple abominations | Ezekiel 8 | Transported to Jerusalem temple by \"a figu",
+    "value": 592,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 347,
+    "text": "| 585 BCE (approx.) | Valley of Dry Bones | Ezekiel 37 | Reanimation demonstration/vision |",
+    "value": 585,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 348,
+    "text": "| 573 BCE, 10th day of 1st month | Temple blueprints dictated | Ezekiel 40-48 | \"Man whose appearance was like bronze\" m",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 349,
+    "text": "| 573 BCE | Glory returns to temple | Ezekiel 43:1-5 | Merkabah-class vehicle lands at the east gate; \"sound like rushin",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 388,
+    "text": "**Chronological placement:** Continuous operation from Old Kingdom (~2350 BCE) through late period. Not a single event b",
+    "value": 2350,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 451,
+    "text": "MAH\u0100BH\u0100RATA THEATER (Dvapara Yuga -- dating uncertain; ~3102 BCE traditional boundary)",
+    "value": 3102,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 484,
+    "text": "\u251c\u2500\u2500 593 BCE: Ezekiel encounters the Merkabah",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 485,
+    "text": "\u251c\u2500\u2500 585 BCE: Valley of Dry Bones",
+    "value": 585,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/03-event-timeline.md",
+    "line": 486,
+    "text": "\u2514\u2500\u2500 573 BCE: Temple blueprints dictated",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/07-the-human-project.md",
+    "line": 13,
+    "text": "This document reconstructs the complete arc from inception to the latest attested operator contact (~573 BCE), maps the ",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/07-the-human-project.md",
+    "line": 247,
+    "text": "- **Graduated operator withdrawal:** The non-human presence diminishes over time, from direct governance (pre-Flood) to ",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/07-the-human-project.md",
+    "line": 260,
+    "text": "(593 BCE)     delivered; no permanent presence indicated",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/07-the-human-project.md",
+    "line": 332,
+    "text": "The last attested direct contact is Ezekiel, ~573 BCE -- roughly 2,600 years ago. Four scenarios:",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/07-the-human-project.md",
+    "line": 410,
+    "text": "PHASE 7b: THE INTEGRATION PROTOCOL (Egyptian Pyramid Texts, ~2353-2150 BCE)",
+    "value": 2150,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/07-the-human-project.md",
+    "line": 420,
+    "text": "PHASE 8: SILENCE (Post-573 BCE)",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/08-translation-key.md",
+    "line": 4,
+    "text": "**Scope:** All 14 source texts (Atrahasis, Gilgamesh, Enoch, Ezekiel, Pyramid Texts, Mah\u0101bh\u0101rata, Popol Vuh, Rig Veda, R",
+    "value": 14,
+    "claim_type": "source_texts_count"
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/09-location-registry.md",
+    "line": 4,
+    "text": "**Scope:** All 14 source texts: 78+ named locations across Mesopotamian, Hebrew, Christian, Egyptian, Indian, Mesoameric",
+    "value": 14,
+    "claim_type": "source_texts_count"
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/10-correlation-map.md",
+    "line": 12,
+    "text": "Each of the 14 per-text analyses views the shared operational reality through a distinctive lens. This section catalogue",
+    "value": 14,
+    "claim_type": "per_text_analyses_count"
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/10-correlation-map.md",
+    "line": 93,
+    "text": "**Relevant synthesis docs:** [01-entity-registry.md](01-entity-registry.md) (cherubim/living beings entity type), [02-te",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/10-correlation-map.md",
+    "line": 390,
+    "text": "Extensive location data exists across all 14 texts. Key cross-tradition parallels:",
+    "value": 14,
+    "claim_type": "source_texts_count"
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/10-correlation-map.md",
+    "line": 765,
+    "text": "### 3.12 Synthesis Documents -- Inline Link Insertions",
+    "value": 12,
+    "claim_type": "synthesis_documents_count"
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/11-unified-hypothesis.md",
+    "line": 29,
+    "text": "7. **We are in the autonomous test phase.** The last attested direct contact is [Ezekiel's final temple vision (~573 BCE",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/11-unified-hypothesis.md",
+    "line": 29,
+    "text": "7. **We are in the autonomous test phase.** The last attested direct contact is [Ezekiel's final temple vision (~573 BCE",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/11-unified-hypothesis.md",
+    "line": 110,
+    "text": "- **Whether they are still present.** The last attested direct contact is Ezekiel's final temple vision (~573 BCE, first",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/11-unified-hypothesis.md",
+    "line": 110,
+    "text": "- **Whether they are still present.** The last attested direct contact is Ezekiel's final temple vision (~573 BCE, first",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/11-unified-hypothesis.md",
+    "line": 335,
+    "text": "EZEKIEL:      Periodic contact (593-573 BCE); single vehicle; detailed instructions",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/11-unified-hypothesis.md",
+    "line": 357,
+    "text": "The last attested direct contact is [Ezekiel's final temple vision (~573 BCE)](analyses/ezekiel-merkabah.md), roughly 2,",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/11-unified-hypothesis.md",
+    "line": 411,
+    "text": "The last attested direct contact is [Ezekiel's final temple vision (~573 BCE)](analyses/ezekiel-merkabah.md). Since then",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/11-unified-hypothesis.md",
+    "line": 449,
+    "text": "After the Flood, the command tier redesigned the management architecture (tighter genetic custody, liaison documentation",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/11-unified-hypothesis.md",
+    "line": 586,
+    "text": "POST-MORTEM INTEGRATION PIPELINE (Egyptian, ~2353-2150 BCE)",
+    "value": 2150,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/11-unified-hypothesis.md",
+    "line": 595,
+    "text": "LATE-STAGE CONTACT ([Ezekiel](analyses/ezekiel-merkabah.md), 593-573 BCE)",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/11-unified-hypothesis.md",
+    "line": 602,
+    "text": "SILENCE (Post-573 BCE \u2192 Present)",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 66,
+    "text": "The Archive's last attested direct contact between a non-human operator and a living human witness occurs in Ezekiel's f",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 68,
+    "text": "The modern NHI discourse, by contrast, describes an **active, ongoing phenomenon**. Craft sightings, abduction reports, ",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 78,
+    "text": "The Egyptian corpus documents a **standardized post-mortem processing pipeline** operating from at least ~2350 BCE and c",
+    "value": 2350,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 93,
+    "text": "Under Reading A, the silence after 573 BCE is not absence. It is a **change of interface mode** from living-human liaiso",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 130,
+    "text": "The Archive's dataset has a **hard temporal boundary at 573 BCE**. Everything after that date is inference, not attestat",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 130,
+    "text": "The Archive's dataset has a **hard temporal boundary at 573 BCE**. Everything after that date is inference, not attestat",
+    "value": 2026,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 562,
+    "text": "The [Event Timeline](03-event-timeline.md) documents a continuous management arc from the Igigi labor revolt through the",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 611,
+    "text": "4. **Post-Flood Institutional Entropy** ([Human Project](07-the-human-project.md), Section 7): The command tier progress",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 683,
+    "text": "Archaeological evidence placing advanced artifacts or non-human facility remains at dates contradicting the Archive's ch",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/12-NHI-correlation.md",
+    "line": 683,
+    "text": "Archaeological evidence placing advanced artifacts or non-human facility remains at dates contradicting the Archive's ch",
+    "value": 573,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/AGENTS.md",
+    "line": 3,
+    "text": "Each file here is a forensic analysis of one source text following the framework in `claude.md`. There are currently 14 ",
+    "value": 14,
+    "claim_type": "per_text_analyses_count"
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/atrahasis.md",
+    "line": 4,
+    "text": "**Source:** Epic of Atrahasis, c. 2450 BCE cuneiform tablet (7 chapters, 13 pages)",
+    "value": 13,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/atrahasis.md",
+    "line": 4,
+    "text": "**Source:** Epic of Atrahasis, c. 2450 BCE cuneiform tablet (7 chapters, 13 pages)",
+    "value": 2450,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/book-of-the-dead.md",
+    "line": 4,
+    "text": "**Source:** *The Book of the Dead: The Papyrus of Ani*, trans. E. A. Wallis Budge (1920); 22 pages, 190 chapters",
+    "value": 22,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/enoch-watchers.md",
+    "line": 4,
+    "text": "**Source:** The Complete Book of Enoch, Standard English Version (Dr. Jay Winter); 193 pages, 5 Books",
+    "value": 193,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/ezekiel-merkabah.md",
+    "line": 4,
+    "text": "**Source:** Book of Ezekiel, NET Bible annotated edition (66 pages); events dated to 593 BCE",
+    "value": 66,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/ezekiel-merkabah.md",
+    "line": 4,
+    "text": "**Source:** Book of Ezekiel, NET Bible annotated edition (66 pages); events dated to 593 BCE",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/gilgamesh.md",
+    "line": 4,
+    "text": "**Source:** The Epic of Gilgamesh, trans. Maureen Gallery Kovacs (83 pages, 12 Tablets)",
+    "value": 83,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/poetic-edda.md",
+    "line": 11,
+    "text": "The Poetic Edda preserves Norse mythological poetry composed ~900-1050 CE and compiled in 13th-century Iceland. Under th",
+    "value": 1050,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/pyramid-texts.md",
+    "line": 4,
+    "text": "**Source:** *The Ancient Egyptian Pyramid Texts*, 2nd ed., trans. James P. Allen (SBL Press, 2015), 394 pp. Spells from ",
+    "value": 2323,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/pyramid-texts.md",
+    "line": 11,
+    "text": "The Pyramid Texts are the oldest substantial body of religious writing in human history (~2350-2150 BCE). Under the Amne",
+    "value": 2150,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/revelation.md",
+    "line": 4,
+    "text": "**Source:** The Book of Revelation, King James Version (41 pages); events traditionally dated to ~95 CE",
+    "value": 41,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/rig-veda.md",
+    "line": 11,
+    "text": "The Rig Veda is the archive's oldest continuous operational corpus. Composed in the northwest Indian subcontinent betwee",
+    "value": 1200,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/theogony-works-and-days.md",
+    "line": 11,
+    "text": "Hesiod's Theogony (c. 700 BCE) and Works and Days (c. 690 BCE) are the oldest surviving Greek poetic narratives describi",
+    "value": 700,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/theogony-works-and-days.md",
+    "line": 11,
+    "text": "Hesiod's Theogony (c. 700 BCE) and Works and Days (c. 690 BCE) are the oldest surviving Greek poetic narratives describi",
+    "value": 690,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/yoga-sutras.md",
+    "line": 11,
+    "text": "The Yoga S\u016btras of Pata\u00f1jali (estimated ~400 BCE, based on linguistic and philosophical analysis) are the most systemati",
+    "value": 400,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/audit/analyses/zoroastrian-gathas.md",
+    "line": 11,
+    "text": "The Gathas are the oldest Zoroastrian texts (attributed to Zarathushtra, ~1000 BCE). Unlike narrative mythologies, the G",
+    "value": 1000,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/README.md",
+    "line": 24,
+    "text": "Show a smartphone to a witness from 3000 BCE. They see a glowing rectangle that captures images, speaks across distances",
+    "value": 3000,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/README.md",
+    "line": 76,
+    "text": "5. **The Withdrawal** \u2014 After the reset, the operators progressively withdrew from direct management. By Ezekiel's era (",
+    "value": 593,
+    "claim_type": null
+  },
+  {
+    "file": "/home/andre/Work/ancient-texts-research/README.md",
+    "line": 156,
+    "text": "| The Index | [`00-INDEX.md`](audit/00-INDEX.md) | All 14 analyses, all syntheses, one map. Start here if you want the f",
+    "value": 14,
+    "claim_type": "per_text_analyses_count"
+  }
+]

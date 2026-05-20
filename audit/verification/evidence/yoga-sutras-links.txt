@@ -1,0 +1,9 @@
+FILE: audit/analyses/yoga-sutras.md
+  [OK]    [zoroastrian-gathas.md](zoroastrian-gathas.md)
+  [OK]    [01-entity-registry.md](../01-entity-registry.md)
+  [OK]    [poetic-edda.md](poetic-edda.md)
+  [OK]    [02-technology-catalog.md](../02-technology-catalog.md)
+  [OK]    [gilgamesh.md](gilgamesh.md)
+  [OK]    [01-entity-registry.md](../01-entity-registry.md)
+  [OK]    [02-technology-catalog.md](../02-technology-catalog.md)
+Summary: 7 links, 7 OK, 0 BROKEN, 0 external

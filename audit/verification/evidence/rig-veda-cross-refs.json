@@ -1,0 +1,212 @@
+[
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 67,
+    "link_text": "theogony-works-and-days.md",
+    "link_target": "theogony-works-and-days.md",
+    "context": "|-------|---------| | **Source Material** | \"Then was not non-existent nor existent: there was no realm of air, no sky beyond it. What covered in, and where? and what gave shelter? Was water there, un",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 89,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "|-------|---------| | **Source Material** | \"A thousand heads hath Purusa, a thousand eyes, a thousand feet. On every side pervading earth he fills a space ten fingers wide.\" / \"This Purusa is all tha",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 101,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "| **Source Material** | \"I will declare the manly deeds of Indra, the first that he achieved, the Thunder-wielder. He slew the Dragon, then disclosed the waters, and cleft the channels of the mountain",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 119,
+    "link_text": "ezekiel-merkabah.md",
+    "link_target": "ezekiel-merkabah.md",
+    "context": "|-------|---------| | **Source Material** | \"I will declare the mighty deeds of Visnu, of him who measured out the earthly regions, who propped the highest place of congregation, thrice setting down h",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 130,
+    "link_text": "gilgamesh.md",
+    "link_target": "gilgamesh.md",
+    "context": "|-------|---------| | **Source Material** | \"Flow on to Indra, Soma, carefully effused: let sickness stay afar together with the demons.\" (IX.80) / \"We with Soma pressed, the drop celestial, have won ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 130,
+    "link_text": "atrahasis.md",
+    "link_target": "atrahasis.md",
+    "context": "|-------|---------| | **Source Material** | \"Flow on to Indra, Soma, carefully effused: let sickness stay afar together with the demons.\" (IX.80) / \"We with Soma pressed, the drop celestial, have won ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 141,
+    "link_text": "book-of-the-dead.md",
+    "link_target": "book-of-the-dead.md",
+    "context": "|-------|---------| | **Source Material** | \"Fain would I win my friend to kindly friendship. So may the Sage, come through the air's wide ocean, Remembering the earth and days to follow, obtain a son",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 141,
+    "link_text": "pyramid-texts.md",
+    "link_target": "pyramid-texts.md",
+    "context": "|-------|---------| | **Source Material** | \"Fain would I win my friend to kindly friendship. So may the Sage, come through the air's wide ocean, Remembering the earth and days to follow, obtain a son",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 141,
+    "link_text": "enoch-watchers.md",
+    "link_target": "enoch-watchers.md",
+    "context": "|-------|---------| | **Source Material** | \"Fain would I win my friend to kindly friendship. So may the Sage, come through the air's wide ocean, Remembering the earth and days to follow, obtain a son",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 0,
+    "link_text": "theogony-works-and-days.md",
+    "link_target": "theogony-works-and-days.md",
+    "context": "(paren theogony-works-and-days.md: Chaos)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 0,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "(paren poetic-edda.md: Ymir dismantlement)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 0,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "(paren mahabharata.md: Vajra/astras)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 0,
+    "link_text": "ezekiel-merkabah.md",
+    "link_target": "ezekiel-merkabah.md",
+    "context": "(paren ezekiel-merkabah.md: temple blueprints as orbital demarcation)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 0,
+    "link_text": "gilgamesh.md",
+    "link_target": "gilgamesh.md",
+    "context": "(paren gilgamesh.md: plant of immortality)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 0,
+    "link_text": "book-of-the-dead.md",
+    "link_target": "book-of-the-dead.md",
+    "context": "(paren book-of-the-dead.md: Weighing of the Heart)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 0,
+    "link_text": "pyramid-texts.md",
+    "link_target": "pyramid-texts.md",
+    "context": "(paren pyramid-texts.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 0,
+    "link_text": "enoch-watchers.md",
+    "link_target": "enoch-watchers.md",
+    "context": "(paren enoch-watchers.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 0,
+    "link_text": "",
+    "link_target": "[ezekiel-merkabah.md](ezekiel-merkabah.md",
+    "context": "(source )",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 0,
+    "link_text": "",
+    "link_target": "[gilgamesh.md](gilgamesh.md",
+    "context": "(source )",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 0,
+    "link_text": "",
+    "link_target": "[pyramid-texts.md](pyramid-texts.md",
+    "context": "(source )",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  },
+  {
+    "source_file": "audit/analyses/rig-veda.md",
+    "line": 0,
+    "link_text": "",
+    "link_target": "[enoch-watchers.md](enoch-watchers.md",
+    "context": "(source )",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  }
+]

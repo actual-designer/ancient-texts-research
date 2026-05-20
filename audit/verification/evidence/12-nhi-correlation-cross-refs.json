@@ -1,0 +1,232 @@
+[
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 66,
+    "link_text": "Event Timeline",
+    "link_target": "03-event-timeline.md",
+    "context": "### 3.1 The Gap  The Archive's last attested direct contact between a non-human operator and a living human witness occurs in Ezekiel's final temple vision, dated to **573 BCE** (source: [Event Timeli",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 78,
+    "link_text": "Pyramid Texts",
+    "link_target": "analyses/pyramid-texts.md",
+    "context": "**Core claim:** The operators never withdrew. They shifted from direct surface contact to a post-mortem integration model, and modern NHI encounters represent leakage, selective intervention, or archi",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 78,
+    "link_text": "Book of the Dead",
+    "link_target": "analyses/book-of-the-dead.md",
+    "context": "**Core claim:** The operators never withdrew. They shifted from direct surface contact to a post-mortem integration model, and modern NHI encounters represent leakage, selective intervention, or archi",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 91,
+    "link_text": "Popol Vuh",
+    "link_target": "analyses/popol-vuh.md",
+    "context": "| Craft sightings in remote areas | Merkabah transit; vim\u0101na patrol routes | Tier-2 operator transit between surface entry points and orbital facilities | | Telepathic / liminal-state contact | Dream ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 101,
+    "link_text": "Unified Hypothesis",
+    "link_target": "11-unified-hypothesis.md",
+    "context": "**Core claim:** The operators did withdraw after Ezekiel, but the withdrawal is conditional. Modern technological civilization constitutes a parameter exceedance event that triggers the same instituti",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 268,
+    "link_text": "audit/07-the-human-project.md",
+    "link_target": "07-the-human-project.md",
+    "context": "### 5.2 The Archive: Engineered Cognitive Throttling  The Popol Vuh provides the only passage in the Archive where this prevention is documented as a deliberate engineering decision applied in real ti",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 268,
+    "link_text": "Human Project",
+    "link_target": "07-the-human-project.md",
+    "context": "### 5.2 The Archive: Engineered Cognitive Throttling  The Popol Vuh provides the only passage in the Archive where this prevention is documented as a deliberate engineering decision applied in real ti",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 597,
+    "link_text": "Entity Registry",
+    "link_target": "01-entity-registry.md",
+    "context": "NHI discourse often treats the phenomenon as a monolithic control system, a single species, or a unified consciousness. The Archive documents something more complex: a **stratified organization with i",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 605,
+    "link_text": "Atrahasis",
+    "link_target": "analyses/atrahasis.md",
+    "context": "This hierarchy is not static. The Archive documents **multiple institutional crises**:  1. **The Igigi Revolt** ([Atrahasis](analyses/atrahasis.md)): The pre-human labor force organized a strike -- eq",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 607,
+    "link_text": "Enoch",
+    "link_target": "analyses/enoch-watchers.md",
+    "context": "1. **The Igigi Revolt** ([Atrahasis](analyses/atrahasis.md)): The pre-human labor force organized a strike -- equipment destruction, siege of command facility, collective refusal. The command tier's r",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 609,
+    "link_text": "Gilgamesh",
+    "link_target": "analyses/gilgamesh.md",
+    "context": "2. **The Watcher Incident** ([Enoch](analyses/enoch-watchers.md)): Two hundred Tier 3 operatives conducted an unauthorized ground deployment, taught humans prohibited technologies, and produced geneti",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 0,
+    "link_text": "Event Timeline",
+    "link_target": "03-event-timeline.md",
+    "context": "(paren Event Timeline)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 0,
+    "link_text": "Pyramid Texts",
+    "link_target": "analyses/pyramid-texts.md",
+    "context": "(paren Pyramid Texts)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 0,
+    "link_text": "Book of the Dead",
+    "link_target": "analyses/book-of-the-dead.md",
+    "context": "(paren Book of the Dead)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 0,
+    "link_text": "Popol Vuh",
+    "link_target": "analyses/popol-vuh.md",
+    "context": "(paren Popol Vuh)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 0,
+    "link_text": "Unified Hypothesis",
+    "link_target": "11-unified-hypothesis.md",
+    "context": "(paren Unified Hypothesis)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 0,
+    "link_text": "Human Project",
+    "link_target": "07-the-human-project.md",
+    "context": "(paren Human Project)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 0,
+    "link_text": "",
+    "link_target": "[Event Timeline](03-event-timeline.md",
+    "context": "(source )",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 0,
+    "link_text": "",
+    "link_target": "[Pyramid Texts](analyses/pyramid-texts.md",
+    "context": "(source )",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 0,
+    "link_text": "",
+    "link_target": "[Book of the Dead](analyses/book-of-the-dead.md",
+    "context": "(source )",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 0,
+    "link_text": "",
+    "link_target": "[Popol Vuh](analyses/popol-vuh.md",
+    "context": "(source )",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 0,
+    "link_text": "",
+    "link_target": "[Unified Hypothesis](11-unified-hypothesis.md",
+    "context": "(source )",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  },
+  {
+    "source_file": "audit/12-NHI-correlation.md",
+    "line": 0,
+    "link_text": "",
+    "link_target": "[Human Project](07-the-human-project.md",
+    "context": "(source )",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  }
+]

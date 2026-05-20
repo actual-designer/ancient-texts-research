@@ -1,0 +1,222 @@
+[
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 13,
+    "link_text": "rig-veda.md",
+    "link_target": "rig-veda.md",
+    "context": "The Poetic Edda preserves Norse mythological poetry composed ~900-1050 CE and compiled in 13th-century Iceland. Under the Amnesia hypothesis, it documents:  1. A **primeval entity recycling protocol**",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 14,
+    "link_text": "atrahasis.md",
+    "link_target": "atrahasis.md",
+    "context": "The Poetic Edda preserves Norse mythological poetry composed ~900-1050 CE and compiled in 13th-century Iceland. Under the Amnesia hypothesis, it documents:  1. A **primeval entity recycling protocol**",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 15,
+    "link_text": "theogony-works-and-days.md",
+    "link_target": "theogony-works-and-days.md",
+    "context": "1. A **primeval entity recycling protocol** (Ymir's body \u2192 world infrastructure) (see [rig-veda.md](rig-veda.md): Purusa Sukta) 2. A **human fabrication event** (Ask and Embla from inert substrates) (",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 16,
+    "link_text": "revelation.md",
+    "link_target": "revelation.md",
+    "context": "1. A **primeval entity recycling protocol** (Ymir's body \u2192 world infrastructure) (see [rig-veda.md](rig-veda.md): Purusa Sukta) 2. A **human fabrication event** (Ask and Embla from inert substrates) (",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 17,
+    "link_text": "gilgamesh.md",
+    "link_target": "gilgamesh.md",
+    "context": "2. A **human fabrication event** (Ask and Embla from inert substrates) (see [atrahasis.md](atrahasis.md): clay creation) 3. A **multi-phase factional conflict** (Aesir-Vanir War, Loki's sabotage, Bald",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 18,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "3. A **multi-phase factional conflict** (Aesir-Vanir War, Loki's sabotage, Baldr termination) (see [theogony-works-and-days.md](theogony-works-and-days.md): Titanomachy) 4. A **predicted terminal syst",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 67,
+    "link_text": "Popol Vuh's",
+    "link_target": "popol-vuh.md",
+    "context": "| H\u0153nir | *\u00f3\u00f0r* (sense/mind) | Cognitive processing capability | | Lothur | *l\u00e1* (heat/bloom) and *litr* (goodly hue) | Metabolic activation + appearance finish |  The substrate is \"ash and elm\": the ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 109,
+    "link_text": "pyramid-texts.md",
+    "link_target": "pyramid-texts.md",
+    "context": "### The Archive's Literal Reconstruction  Yggdrasil is a central infrastructure nexus connecting nine operational zones (see [pyramid-texts.md](pyramid-texts.md): Djed pillar). Its three roots draw fr",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 109,
+    "link_text": "book-of-the-dead.md",
+    "link_target": "book-of-the-dead.md",
+    "context": "### The Archive's Literal Reconstruction  Yggdrasil is a central infrastructure nexus connecting nine operational zones (see [pyramid-texts.md](pyramid-texts.md): Djed pillar). Its three roots draw fr",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 234,
+    "link_text": "07-the-human-project.md",
+    "link_target": "../07-the-human-project.md",
+    "context": "### Plausible Mechanism  **Deliberate genetic/social stratification engineered by a non-human operator** (see [07-the-human-project.md](../07-the-human-project.md)). Rune knowledge is selective access",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 13,
+    "link_text": "Soma",
+    "link_target": "rig-veda.md",
+    "context": "The Poetic Edda preserves Norse mythological poetry composed ~900-1050 CE and compiled in 13th-century Iceland. Under the Amnesia hypothesis, it documents:  1. A **primeval entity recycling protocol**",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 280,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "## KEY ENTITIES  | Designation | Role | Archive Classification (see [01-entity-registry.md](../01-entity-registry.md)) | |-------------|------|----------------------| | Odin (Othin) | Chief of the Aes",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 0,
+    "link_text": "rig-veda.md",
+    "link_target": "rig-veda.md",
+    "context": "(paren rig-veda.md: Purusa Sukta)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 0,
+    "link_text": "atrahasis.md",
+    "link_target": "atrahasis.md",
+    "context": "(paren atrahasis.md: clay creation)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 0,
+    "link_text": "theogony-works-and-days.md",
+    "link_target": "theogony-works-and-days.md",
+    "context": "(paren theogony-works-and-days.md: Titanomachy)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 0,
+    "link_text": "revelation.md",
+    "link_target": "revelation.md",
+    "context": "(paren revelation.md: eschaton parallels)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 0,
+    "link_text": "gilgamesh.md",
+    "link_target": "gilgamesh.md",
+    "context": "(paren gilgamesh.md: immortality quest)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 0,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "(paren mahabharata.md: caste system)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 0,
+    "link_text": "pyramid-texts.md",
+    "link_target": "pyramid-texts.md",
+    "context": "(paren pyramid-texts.md: Djed pillar)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 0,
+    "link_text": "book-of-the-dead.md",
+    "link_target": "book-of-the-dead.md",
+    "context": "(paren book-of-the-dead.md: Heart Spells)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 0,
+    "link_text": "07-the-human-project.md",
+    "link_target": "../07-the-human-project.md",
+    "context": "(paren 07-the-human-project.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/poetic-edda.md",
+    "line": 0,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "(paren 01-entity-registry.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  }
+]

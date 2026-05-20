@@ -1,0 +1,22 @@
+[
+  {
+    "source_file": "audit/analyses/AGENTS.md",
+    "line": 19,
+    "link_text": "file.md",
+    "link_target": "file.md",
+    "context": "--- ## Executive Summary {Numbered findings, each with cross-references to synthesis docs} {Format: \"N. {finding} (see [file.md](file.md): context)\"}  --- ## INCIDENT N: {Title}",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  },
+  {
+    "source_file": "audit/analyses/AGENTS.md",
+    "line": 0,
+    "link_text": "file.md",
+    "link_target": "file.md",
+    "context": "(paren file.md: context)",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  }
+]

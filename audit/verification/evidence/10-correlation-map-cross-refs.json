@@ -1,0 +1,392 @@
+[
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 16,
+    "link_text": "Atrahasis",
+    "link_target": "analyses/atrahasis.md",
+    "context": "---  ### 1.1 [Atrahasis](analyses/atrahasis.md)  **Unique angle:** Administrative transparency: the most bureaucratically explicit account of the human creation project. The text reads as an after-act",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 30,
+    "link_text": "01-entity-registry.md",
+    "link_target": "01-entity-registry.md",
+    "context": "| Enki as institutional dissident                | Popol Vuh: Prometheus as knowledge-liberator; Gilgamesh: Ea warns Utnapishtim   | | Flood as deliberate environmental reset        | Gilgamesh (Table",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 30,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "02-technology-catalog.md",
+    "context": "| Enki as institutional dissident                | Popol Vuh: Prometheus as knowledge-liberator; Gilgamesh: Ea warns Utnapishtim   | | Flood as deliberate environmental reset        | Gilgamesh (Table",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 30,
+    "link_text": "05-great-reset.md",
+    "link_target": "05-great-reset.md",
+    "context": "| Enki as institutional dissident                | Popol Vuh: Prometheus as knowledge-liberator; Gilgamesh: Ea warns Utnapishtim   | | Flood as deliberate environmental reset        | Gilgamesh (Table",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 30,
+    "link_text": "07-the-human-project.md",
+    "link_target": "07-the-human-project.md",
+    "context": "| Enki as institutional dissident                | Popol Vuh: Prometheus as knowledge-liberator; Gilgamesh: Ea warns Utnapishtim   | | Flood as deliberate environmental reset        | Gilgamesh (Table",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 30,
+    "link_text": "03-event-timeline.md",
+    "link_target": "03-event-timeline.md",
+    "context": "| Enki as institutional dissident                | Popol Vuh: Prometheus as knowledge-liberator; Gilgamesh: Ea warns Utnapishtim   | | Flood as deliberate environmental reset        | Gilgamesh (Table",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 34,
+    "link_text": "Enoch-Watchers",
+    "link_target": "analyses/enoch-watchers.md",
+    "context": "---  ### 1.2 [Enoch-Watchers](analyses/enoch-watchers.md)  **Unique angle:** Internal command conflict from the enforcement perspective: the most detailed account of a rogue ground deployment, includi",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 51,
+    "link_text": "04-cross-references.md",
+    "link_target": "04-cross-references.md",
+    "context": "| \"Prison of the stars\" for schedule violations | Revelation: bottomless pit; Theogony: Tartarus | | 7 named holy angels with domain responsibilities | Theogony: 12 Olympian portfolios; Zoroastrian: 7",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 51,
+    "link_text": "06-weapons-doctrine.md",
+    "link_target": "06-weapons-doctrine.md",
+    "context": "| \"Prison of the stars\" for schedule violations | Revelation: bottomless pit; Theogony: Tartarus | | 7 named holy angels with domain responsibilities | Theogony: 12 Olympian portfolios; Zoroastrian: 7",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 51,
+    "link_text": "09-location-registry.md",
+    "link_target": "09-location-registry.md",
+    "context": "| \"Prison of the stars\" for schedule violations | Revelation: bottomless pit; Theogony: Tartarus | | 7 named holy angels with domain responsibilities | Theogony: 12 Olympian portfolios; Zoroastrian: 7",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 55,
+    "link_text": "Gilgamesh",
+    "link_target": "analyses/gilgamesh.md",
+    "context": "---  ### 1.3 [Gilgamesh](analyses/gilgamesh.md)  **Unique angle:** Human-perspective biography of a second-generation hybrid ruler navigating a post-cataclysm world. Provides the most engineering-spec",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 76,
+    "link_text": "Ezekiel-Merkabah",
+    "link_target": "analyses/ezekiel-merkabah.md",
+    "context": "---  ### 1.4 [Ezekiel-Merkabah](analyses/ezekiel-merkabah.md)  **Unique angle:** The most technically precise observation of an advanced aerospace vehicle in any ancient text. Ezekiel is a trained pri",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 97,
+    "link_text": "Revelation",
+    "link_target": "analyses/revelation.md",
+    "context": "---  ### 1.5 [Revelation](analyses/revelation.md)  **Unique angle:** Projected operational timeline: a mission briefing describing a planned terminal sterilization sequence, regime-change warfare, and",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 125,
+    "link_text": "Book of the Dead",
+    "link_target": "analyses/book-of-the-dead.md",
+    "context": "---  ### 1.6 [Book of the Dead](analyses/book-of-the-dead.md)  **Unique angle:** User procedural manual for consciousness migration: the most complete guide for entity transition from biological to po",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 148,
+    "link_text": "Poetic Edda",
+    "link_target": "analyses/poetic-edda.md",
+    "context": "---  ### 1.7 [Poetic Edda](analyses/poetic-edda.md)  **Unique angle:** Norse pantheon as entity faction with predicted cascading system collapse (Ragnar\u00f6k). The arc: creation, factional conflict, cont",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 172,
+    "link_text": "Theogony & Works and Days",
+    "link_target": "analyses/theogony-works-and-days.md",
+    "context": "---  ### 1.8 [Theogony & Works and Days](analyses/theogony-works-and-days.md)  **Unique angle:** Sequential command coups (castration pattern) documenting Tier 1 replacement cycles, plus the most expl",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 195,
+    "link_text": "Zoroastrian Gathas",
+    "link_target": "analyses/zoroastrian-gathas.md",
+    "context": "---  ### 1.9 [Zoroastrian Gathas](analyses/zoroastrian-gathas.md)  **Unique angle:** First-person whistleblower report of entity corruption. Unique in the archive as direct doctrinal transmission rath",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 284,
+    "link_text": "Popol Vuh",
+    "link_target": "analyses/popol-vuh.md",
+    "context": "### 2.1 Creation & Engineering of Humans  | Aspect | [Atrahasis](analyses/atrahasis.md) | [Popol Vuh](analyses/popol-vuh.md) | [Theogony](analyses/theogony-works-and-days.md) | [Gilgamesh](analyses/gi",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 172,
+    "link_text": "Theogony",
+    "link_target": "analyses/theogony-works-and-days.md",
+    "context": "---  ### 1.8 [Theogony & Works and Days](analyses/theogony-works-and-days.md)  **Unique angle:** Sequential command coups (castration pattern) documenting Tier 1 replacement cycles, plus the most expl",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 34,
+    "link_text": "Enoch",
+    "link_target": "analyses/enoch-watchers.md",
+    "context": "---  ### 1.2 [Enoch-Watchers](analyses/enoch-watchers.md)  **Unique angle:** Internal command conflict from the enforcement perspective: the most detailed account of a rogue ground deployment, includi",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 284,
+    "link_text": "Mahabharata",
+    "link_target": "analyses/mahabharata.md",
+    "context": "### 2.1 Creation & Engineering of Humans  | Aspect | [Atrahasis](analyses/atrahasis.md) | [Popol Vuh](analyses/popol-vuh.md) | [Theogony](analyses/theogony-works-and-days.md) | [Gilgamesh](analyses/gi",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 195,
+    "link_text": "Zoroastrian",
+    "link_target": "analyses/zoroastrian-gathas.md",
+    "context": "---  ### 1.9 [Zoroastrian Gathas](analyses/zoroastrian-gathas.md)  **Unique angle:** First-person whistleblower report of entity corruption. Unique in the archive as direct doctrinal transmission rath",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 76,
+    "link_text": "Ezekiel",
+    "link_target": "analyses/ezekiel-merkabah.md",
+    "context": "---  ### 1.4 [Ezekiel-Merkabah](analyses/ezekiel-merkabah.md)  **Unique angle:** The most technically precise observation of an advanced aerospace vehicle in any ancient text. Ezekiel is a trained pri",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 374,
+    "link_text": "Pyramid Texts",
+    "link_target": "analyses/pyramid-texts.md",
+    "context": "### 2.7 Post-Mortem Processing  | Stage | [Book of the Dead](analyses/book-of-the-dead.md) | [Pyramid Texts](analyses/pyramid-texts.md) | [Zoroastrian](analyses/zoroastrian-gathas.md) | [Popol Vuh](an",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 34,
+    "link_text": "enoch-watchers.md",
+    "link_target": "analyses/enoch-watchers.md",
+    "context": "---  ### 1.2 [Enoch-Watchers](analyses/enoch-watchers.md)  **Unique angle:** Internal command conflict from the enforcement perspective: the most detailed account of a rogue ground deployment, includi",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 55,
+    "link_text": "gilgamesh.md",
+    "link_target": "analyses/gilgamesh.md",
+    "context": "---  ### 1.3 [Gilgamesh](analyses/gilgamesh.md)  **Unique angle:** Human-perspective biography of a second-generation hybrid ruler navigating a post-cataclysm world. Provides the most engineering-spec",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 284,
+    "link_text": "popol-vuh.md",
+    "link_target": "analyses/popol-vuh.md",
+    "context": "### 2.1 Creation & Engineering of Humans  | Aspect | [Atrahasis](analyses/atrahasis.md) | [Popol Vuh](analyses/popol-vuh.md) | [Theogony](analyses/theogony-works-and-days.md) | [Gilgamesh](analyses/gi",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 284,
+    "link_text": "mahabharata.md",
+    "link_target": "analyses/mahabharata.md",
+    "context": "### 2.1 Creation & Engineering of Humans  | Aspect | [Atrahasis](analyses/atrahasis.md) | [Popol Vuh](analyses/popol-vuh.md) | [Theogony](analyses/theogony-works-and-days.md) | [Gilgamesh](analyses/gi",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 97,
+    "link_text": "revelation.md",
+    "link_target": "analyses/revelation.md",
+    "context": "---  ### 1.5 [Revelation](analyses/revelation.md)  **Unique angle:** Projected operational timeline: a mission briefing describing a planned terminal sterilization sequence, regime-change warfare, and",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 125,
+    "link_text": "book-of-the-dead.md",
+    "link_target": "analyses/book-of-the-dead.md",
+    "context": "---  ### 1.6 [Book of the Dead](analyses/book-of-the-dead.md)  **Unique angle:** User procedural manual for consciousness migration: the most complete guide for entity transition from biological to po",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 76,
+    "link_text": "ezekiel-merkabah.md",
+    "link_target": "analyses/ezekiel-merkabah.md",
+    "context": "---  ### 1.4 [Ezekiel-Merkabah](analyses/ezekiel-merkabah.md)  **Unique angle:** The most technically precise observation of an advanced aerospace vehicle in any ancient text. Ezekiel is a trained pri",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 172,
+    "link_text": "theogony-works-and-days.md",
+    "link_target": "analyses/theogony-works-and-days.md",
+    "context": "---  ### 1.8 [Theogony & Works and Days](analyses/theogony-works-and-days.md)  **Unique angle:** Sequential command coups (castration pattern) documenting Tier 1 replacement cycles, plus the most expl",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 148,
+    "link_text": "poetic-edda.md",
+    "link_target": "analyses/poetic-edda.md",
+    "context": "---  ### 1.7 [Poetic Edda](analyses/poetic-edda.md)  **Unique angle:** Norse pantheon as entity faction with predicted cascading system collapse (Ragnar\u00f6k). The arc: creation, factional conflict, cont",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 16,
+    "link_text": "atrahasis.md",
+    "link_target": "analyses/atrahasis.md",
+    "context": "---  ### 1.1 [Atrahasis](analyses/atrahasis.md)  **Unique angle:** Administrative transparency: the most bureaucratically explicit account of the human creation project. The text reads as an after-act",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 76,
+    "link_text": "rezekiel-merkabah.md",
+    "link_target": "analyses/ezekiel-merkabah.md",
+    "context": "---  ### 1.4 [Ezekiel-Merkabah](analyses/ezekiel-merkabah.md)  **Unique angle:** The most technically precise observation of an advanced aerospace vehicle in any ancient text. Ezekiel is a trained pri",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 195,
+    "link_text": "zoroastrian-gathas.md",
+    "link_target": "analyses/zoroastrian-gathas.md",
+    "context": "---  ### 1.9 [Zoroastrian Gathas](analyses/zoroastrian-gathas.md)  **Unique angle:** First-person whistleblower report of entity corruption. Unique in the archive as direct doctrinal transmission rath",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 374,
+    "link_text": "pyramid-texts.md",
+    "link_target": "analyses/pyramid-texts.md",
+    "context": "### 2.7 Post-Mortem Processing  | Stage | [Book of the Dead](analyses/book-of-the-dead.md) | [Pyramid Texts](analyses/pyramid-texts.md) | [Zoroastrian](analyses/zoroastrian-gathas.md) | [Popol Vuh](an",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 512,
+    "link_text": "rig-veda.md",
+    "link_target": "analyses/rig-veda.md",
+    "context": "| 3 | Executive Summary bullet 3 | \"Humbaba as bioengineered guardian\" | [02-technology-catalog.md](02-technology-catalog.md) | Bullet link | | 4 | Executive Summary bullet 4 | \"Bull of Heaven as depl",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/10-correlation-map.md",
+    "line": 0,
+    "link_text": "enoch-watchers.md",
+    "link_target": "analyses/enoch-watchers.md",
+    "context": "(paren enoch-watchers.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  }
+]

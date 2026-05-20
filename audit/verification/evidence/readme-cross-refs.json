@@ -1,0 +1,192 @@
+[
+  {
+    "source_file": "README.md",
+    "line": 62,
+    "link_text": "05-great-reset.md",
+    "link_target": "audit/05-great-reset.md",
+    "context": "- `Soma / Ambrosia / Amrita` \u2192 Controlled cognitive-enhancement compound     - `Weighing of the Heart` \u2192 Identity verification / biometric assessment  > \"Natural disasters do not require non-disclosur",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 68,
+    "link_text": "`01-entity-registry.md`",
+    "link_target": "audit/01-entity-registry.md",
+    "context": "The forgotten history, reconstructed across 8 chapters.  1. **The Operators** \u2014 A stratified non-human organization deployed on Earth before humanity, with orbital command nodes, surface operations, a",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 70,
+    "link_text": "`07-the-human-project.md`",
+    "link_target": "audit/07-the-human-project.md",
+    "context": "1. **The Operators** \u2014 A stratified non-human organization deployed on Earth before humanity, with orbital command nodes, surface operations, and subsurface facilities. They had departments, chains of",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 72,
+    "link_text": "`04-cross-references.md`",
+    "link_target": "audit/04-cross-references.md",
+    "context": "2. **The Human Project** \u2014 Humanity was bioengineered as a replacement labor species. The project evolved far beyond its original mandate: iterative R&D across cultures, precision genetic commissions,",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 62,
+    "link_text": "`05-great-reset.md`",
+    "link_target": "audit/05-great-reset.md",
+    "context": "- `Soma / Ambrosia / Amrita` \u2192 Controlled cognitive-enhancement compound     - `Weighing of the Heart` \u2192 Identity verification / biometric assessment  > \"Natural disasters do not require non-disclosur",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 76,
+    "link_text": "`03-event-timeline.md`",
+    "link_target": "audit/03-event-timeline.md",
+    "context": "4. **The Great Reset** \u2014 The Flood was not divine punishment or natural disaster. It was a deliberate multi-vector sterilization protocol, authorized at the highest level, preceded by a covert genetic",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 78,
+    "link_text": "`analyses/pyramid-texts.md`",
+    "link_target": "audit/analyses/pyramid-texts.md",
+    "context": "5. **The Withdrawal** \u2014 After the reset, the operators progressively withdrew from direct management. By Ezekiel's era (593 BCE, the last precisely dated contact), the command structure was issuing te",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 80,
+    "link_text": "`11-unified-hypothesis.md`",
+    "link_target": "audit/11-unified-hypothesis.md",
+    "context": "6. **The Integration Protocol** \u2014 The texts describe a post-mortem processing pipeline \u2014 the Egyptian Duat \u2192 Akhet \u2192 Sky sequence \u2014 that suggests human consciousness was designed for integration into ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 82,
+    "link_text": "`analyses/revelation.md`",
+    "link_target": "audit/analyses/revelation.md",
+    "context": "7. **The Current State** \u2014 We are in the autonomous test phase: a managed species operating without active oversight, with engineered amnesia, repeating the same patterns that triggered previous reset",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 125,
+    "link_text": "`texts/`",
+    "link_target": "texts/",
+    "context": "### Evidence Locker  - [`texts/`](texts/) \u2014 Primary source PDFs (the evidence). - [`audit/analyses/`](audit/analyses/) \u2014 Deep-dive forensic reports on specific source texts. - [`audit/00-INDEX.md`](au",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  },
+  {
+    "source_file": "README.md",
+    "line": 126,
+    "link_text": "`audit/analyses/`",
+    "link_target": "audit/analyses/",
+    "context": "### Evidence Locker  - [`texts/`](texts/) \u2014 Primary source PDFs (the evidence). - [`audit/analyses/`](audit/analyses/) \u2014 Deep-dive forensic reports on specific source texts. - [`audit/00-INDEX.md`](au",
+    "target_exists": false,
+    "score": "LOW",
+    "issue": "target_not_found"
+  },
+  {
+    "source_file": "README.md",
+    "line": 127,
+    "link_text": "`audit/00-INDEX.md`",
+    "link_target": "audit/00-INDEX.md",
+    "context": "- [`texts/`](texts/) \u2014 Primary source PDFs (the evidence). - [`audit/analyses/`](audit/analyses/) \u2014 Deep-dive forensic reports on specific source texts. - [`audit/00-INDEX.md`](audit/00-INDEX.md) \u2014 Th",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 132,
+    "link_text": "`02-technology-catalog.md`",
+    "link_target": "audit/02-technology-catalog.md",
+    "context": "### Cross-Cutting Syntheses  - [`01-entity-registry.md`](audit/01-entity-registry.md) \u2014 Taxonomy of every non-human actor across all sources. Departments, rogue units, and managed species. - [`02-tech",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 136,
+    "link_text": "`06-weapons-doctrine.md`",
+    "link_target": "audit/06-weapons-doctrine.md",
+    "context": "- [`03-event-timeline.md`](audit/03-event-timeline.md) \u2014 Unified chronology from the pre-human Igigi labor period through the projected terminal sequence. - [`04-cross-references.md`](audit/04-cross-r",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 138,
+    "link_text": "`08-translation-key.md`",
+    "link_target": "audit/08-translation-key.md",
+    "context": "- [`05-great-reset.md`](audit/05-great-reset.md) \u2014 The Flood as deliberate sterilization protocol; the Ark as genetic seed vault. - [`06-weapons-doctrine.md`](audit/06-weapons-doctrine.md) \u2014 Weapons a",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 139,
+    "link_text": "`09-location-registry.md`",
+    "link_target": "audit/09-location-registry.md",
+    "context": "- [`06-weapons-doctrine.md`](audit/06-weapons-doctrine.md) \u2014 Weapons authorization hierarchy, escalation pathology, dual-key controls. - [`07-the-human-project.md`](audit/07-the-human-project.md) \u2014 Th",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 140,
+    "link_text": "`10-correlation-map.md`",
+    "link_target": "audit/10-correlation-map.md",
+    "context": "- [`07-the-human-project.md`](audit/07-the-human-project.md) \u2014 The complete arc: creation as labor solution, management, contamination crisis, reset, operator withdrawal. - [`08-translation-key.md`](a",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 142,
+    "link_text": "`12-NHI-correlation.md`",
+    "link_target": "audit/12-NHI-correlation.md",
+    "context": "- [`09-location-registry.md`](audit/09-location-registry.md) \u2014 All named geographic zones, facilities, gates, cities, and orbital domains. - [`10-correlation-map.md`](audit/10-correlation-map.md) \u2014 Pe",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "README.md",
+    "line": 127,
+    "link_text": "`00-INDEX.md`",
+    "link_target": "audit/00-INDEX.md",
+    "context": "- [`texts/`](texts/) \u2014 Primary source PDFs (the evidence). - [`audit/analyses/`](audit/analyses/) \u2014 Deep-dive forensic reports on specific source texts. - [`audit/00-INDEX.md`](audit/00-INDEX.md) \u2014 Th",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  }
+]

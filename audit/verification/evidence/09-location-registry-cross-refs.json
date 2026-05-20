@@ -1,0 +1,172 @@
+[
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 27,
+    "link_text": "atrahasis",
+    "link_target": "analyses/atrahasis.md",
+    "context": "| Location | Source | Tradition | Description | Cross-Reference | |----------|--------|-----------|-------------|-----------------| | Heaven of Anu / Sky | [atrahasis](analyses/atrahasis.md) | Mesopot",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 27,
+    "link_text": "Gilgamesh",
+    "link_target": "analyses/gilgamesh.md",
+    "context": "| Location | Source | Tradition | Description | Cross-Reference | |----------|--------|-----------|-------------|-----------------| | Heaven of Anu / Sky | [atrahasis](analyses/atrahasis.md) | Mesopot",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 27,
+    "link_text": "Enoch",
+    "link_target": "analyses/enoch-watchers.md",
+    "context": "| Location | Source | Tradition | Description | Cross-Reference | |----------|--------|-----------|-------------|-----------------| | Heaven of Anu / Sky | [atrahasis](analyses/atrahasis.md) | Mesopot",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 27,
+    "link_text": "gilgamesh",
+    "link_target": "analyses/gilgamesh.md",
+    "context": "| Location | Source | Tradition | Description | Cross-Reference | |----------|--------|-----------|-------------|-----------------| | Heaven of Anu / Sky | [atrahasis](analyses/atrahasis.md) | Mesopot",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 27,
+    "link_text": "enoch-watchers",
+    "link_target": "analyses/enoch-watchers.md",
+    "context": "| Location | Source | Tradition | Description | Cross-Reference | |----------|--------|-----------|-------------|-----------------| | Heaven of Anu / Sky | [atrahasis](analyses/atrahasis.md) | Mesopot",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 31,
+    "link_text": "revelation",
+    "link_target": "analyses/revelation.md",
+    "context": "| Heaven of Anu | [gilgamesh](analyses/gilgamesh.md) | Mesopotamian | Orbital platform; Anu domain; Bull of Heaven deployment origin | Heaven of Anu (Atrahasis), Seventh Heaven (Enoch) | | Prison of t",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 33,
+    "link_text": "book-of-the-dead",
+    "link_target": "analyses/book-of-the-dead.md",
+    "context": "| End of Heaven and Earth | [enoch-watchers](analyses/enoch-watchers.md) | Hebrew | Boundary location; deep-space containment | \u2014 | | Heaven | [revelation](analyses/revelation.md) | Christian | Orbita",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 35,
+    "link_text": "pyramid-texts",
+    "link_target": "analyses/pyramid-texts.md",
+    "context": "| New Heaven | [revelation](analyses/revelation.md) | Christian | Replacement celestial domain post-sterilization | \u2014 | | The Sky | [book-of-the-dead](analyses/book-of-the-dead.md) | Egyptian | Orbita",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 40,
+    "link_text": "mahabharata",
+    "link_target": "analyses/mahabharata.md",
+    "context": "| Field of Offerings / Field of Rest | [pyramid-texts](analyses/pyramid-texts.md) | Egyptian | Celestial habitation zone north of Winding Canal | \u2014 | | North of the Field of Reeds | [pyramid-texts](an",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 41,
+    "link_text": "rig-veda",
+    "link_target": "analyses/rig-veda.md",
+    "context": "| North of the Field of Reeds | [pyramid-texts](analyses/pyramid-texts.md) | Egyptian | Specific entry zone at Field of Reeds | \u2014 | | Undersky | [pyramid-texts](analyses/pyramid-texts.md) | Egyptian |",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 46,
+    "link_text": "theogony-works-and-days",
+    "link_target": "analyses/theogony-works-and-days.md",
+    "context": "| Central point of heaven | [rig-veda](analyses/rig-veda.md) | Indian | Soma station \u2014 omphalos/navel concept | Axis Mundi parallels | | Heaven / Sky (Dyaus) | [rig-veda](analyses/rig-veda.md) | India",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 50,
+    "link_text": "poetic-edda",
+    "link_target": "analyses/poetic-edda.md",
+    "context": "| Day | [theogony-works-and-days](analyses/theogony-works-and-days.md) | Greek | Functional illumination domain | \u2014 | | Aether | [theogony-works-and-days](analyses/theogony-works-and-days.md) | Greek ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 66,
+    "link_text": "ezekiel-merkabah",
+    "link_target": "analyses/ezekiel-merkabah.md",
+    "context": "| New Earth | [revelation](analyses/revelation.md) | Christian | Replacement planetary surface post-sterilization | \u2014 | | Gog and Magog | [revelation](analyses/revelation.md) | Christian | Rebel peopl",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 79,
+    "link_text": "popol-vuh",
+    "link_target": "analyses/popol-vuh.md",
+    "context": "| Midgard | [poetic-edda](analyses/poetic-edda.md) | Norse | Planetary domain encircled by J\u00f6rmungandr | Gaia (Greek) | | Ginnungagap | [poetic-edda](analyses/poetic-edda.md) | Norse | Pre-operational",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 99,
+    "link_text": "zoroastrian-gathas",
+    "link_target": "analyses/zoroastrian-gathas.md",
+    "context": "| Tartarus | [theogony-works-and-days](analyses/theogony-works-and-days.md) | Greek | Subsurface containment; Titans and Typhoeus imprisoned | Hel (Norse), House of Darkness (Zoroastrian) | | Hel | [p",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 66,
+    "link_text": "Ezekiel",
+    "link_target": "analyses/ezekiel-merkabah.md",
+    "context": "| New Earth | [revelation](analyses/revelation.md) | Christian | Replacement planetary surface post-sterilization | \u2014 | | Gog and Magog | [revelation](analyses/revelation.md) | Christian | Rebel peopl",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/09-location-registry.md",
+    "line": 31,
+    "link_text": "Revelation",
+    "link_target": "analyses/revelation.md",
+    "context": "| Heaven of Anu | [gilgamesh](analyses/gilgamesh.md) | Mesopotamian | Orbital platform; Anu domain; Bull of Heaven deployment origin | Heaven of Anu (Atrahasis), Seventh Heaven (Enoch) | | Prison of t",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  }
+]

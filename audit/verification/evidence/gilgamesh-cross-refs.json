@@ -1,0 +1,252 @@
+[
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 13,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "The Gilgamesh epic operates on two levels under the Amnesia hypothesis: (1) it is the biography of a second-generation hybrid ruler navigating a post-cataclysm world where the non-human operators have",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 14,
+    "link_text": "atrahasis.md",
+    "link_target": "atrahasis.md",
+    "context": "The Gilgamesh epic operates on two levels under the Amnesia hypothesis: (1) it is the biography of a second-generation hybrid ruler navigating a post-cataclysm world where the non-human operators have",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 15,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "1. Gilgamesh as a genetically engineered hybrid (2/3 non-human, 1/3 human) (see [mahabharata.md](mahabharata.md): commissioned births) 2. Enkidu as a rapid biological fabrication -- a purpose-built or",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 16,
+    "link_text": "06-weapons-doctrine.md",
+    "link_target": "../06-weapons-doctrine.md",
+    "context": "1. Gilgamesh as a genetically engineered hybrid (2/3 non-human, 1/3 human) (see [mahabharata.md](mahabharata.md): commissioned births) 2. Enkidu as a rapid biological fabrication -- a purpose-built or",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 17,
+    "link_text": "05-great-reset.md",
+    "link_target": "../05-great-reset.md",
+    "context": "2. Enkidu as a rapid biological fabrication -- a purpose-built organism (see [atrahasis.md](atrahasis.md): 14 prototypes) 3. Humbaba as a bioengineered guardian of a restricted zone (see [02-technolog",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 18,
+    "link_text": "rig-veda.md",
+    "link_target": "rig-veda.md",
+    "context": "3. Humbaba as a bioengineered guardian of a restricted zone (see [02-technology-catalog.md](../02-technology-catalog.md)) 4. The Bull of Heaven as a deployed weapons platform (see [06-weapons-doctrine",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 40,
+    "link_text": "popol-vuh.md",
+    "link_target": "popol-vuh.md",
+    "context": "Gilgamesh is described with unusual genetic specificity: not half-god and half-human, but *two-thirds* god and *one-third* human (see [mahabharata.md](mahabharata.md): Dro\u1e47a vessel-birth). This is gen",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 14,
+    "link_text": "Atrahasis human-creation protocol",
+    "link_target": "atrahasis.md",
+    "context": "The Gilgamesh epic operates on two levels under the Amnesia hypothesis: (1) it is the biography of a second-generation hybrid ruler navigating a post-cataclysm world where the non-human operators have",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 143,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "### The Archive's Literal Reconstruction  Ishtar requests a weapon platform from Anu (orbital/off-world authority) (see [01-entity-registry.md](../01-entity-registry.md): Ishtar/Inanna). Key observati",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 145,
+    "link_text": "revelation.md",
+    "link_target": "revelation.md",
+    "context": "Ishtar requests a weapon platform from Anu (orbital/off-world authority) (see [01-entity-registry.md](../01-entity-registry.md): Ishtar/Inanna). Key observations:  - The Bull is not summoned or conjur",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 206,
+    "link_text": "enoch-watchers.md",
+    "link_target": "enoch-watchers.md",
+    "context": "**The Event:** - \"Anunnaki lifted up torches, setting the land ablaze with their flare\" -- the command tier deploys high-energy systems visible from the ground, igniting the atmosphere or terrain (see",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 243,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "### The Archive's Literal Reconstruction  Utanapishtim discloses the existence and location of a biological compound with anti-aging properties (see [poetic-edda.md](poetic-edda.md): Mead of Poetry): ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 291,
+    "link_text": "07-the-human-project.md",
+    "link_target": "../07-the-human-project.md",
+    "context": "| \"Anunnaki lifted torches, set land ablaze\" | Orbital or atmospheric energy weapons | | Gods \"ascend to the heaven of Anu\" | Evacuation to orbital platform before cataclysm | | \"Plant against decay\" ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 0,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "(paren mahabharata.md: commissioned births)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 0,
+    "link_text": "atrahasis.md",
+    "link_target": "atrahasis.md",
+    "context": "(paren atrahasis.md: 14 prototypes)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 0,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "(paren 02-technology-catalog.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 0,
+    "link_text": "06-weapons-doctrine.md",
+    "link_target": "../06-weapons-doctrine.md",
+    "context": "(paren 06-weapons-doctrine.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 0,
+    "link_text": "05-great-reset.md",
+    "link_target": "../05-great-reset.md",
+    "context": "(paren 05-great-reset.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 0,
+    "link_text": "rig-veda.md",
+    "link_target": "rig-veda.md",
+    "context": "(paren rig-veda.md: Soma)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 0,
+    "link_text": "popol-vuh.md",
+    "link_target": "popol-vuh.md",
+    "context": "(paren popol-vuh.md: Xmucane as \"Midwife\")",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 0,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "(paren 01-entity-registry.md: Ishtar/Inanna)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 0,
+    "link_text": "revelation.md",
+    "link_target": "revelation.md",
+    "context": "(paren revelation.md: Trumpet strikes as kinetic weapons)",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 0,
+    "link_text": "enoch-watchers.md",
+    "link_target": "enoch-watchers.md",
+    "context": "(paren enoch-watchers.md: heavenly ascent)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 0,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "(paren poetic-edda.md: Mead of Poetry)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/gilgamesh.md",
+    "line": 0,
+    "link_text": "07-the-human-project.md",
+    "link_target": "../07-the-human-project.md",
+    "context": "(paren 07-the-human-project.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  }
+]

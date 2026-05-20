@@ -1,0 +1,202 @@
+[
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 13,
+    "link_text": "theogony-works-and-days.md",
+    "link_target": "theogony-works-and-days.md",
+    "context": "The Gathas are the oldest Zoroastrian texts (attributed to Zarathushtra, ~1000 BCE). Unlike narrative mythologies, the Gathas are liturgical hymns: direct doctrinal transmission from Zarathushtra docu",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 14,
+    "link_text": "enoch-watchers.md",
+    "link_target": "enoch-watchers.md",
+    "context": "The Gathas are the oldest Zoroastrian texts (attributed to Zarathushtra, ~1000 BCE). Unlike narrative mythologies, the Gathas are liturgical hymns: direct doctrinal transmission from Zarathushtra docu",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 15,
+    "link_text": "book-of-the-dead.md",
+    "link_target": "book-of-the-dead.md",
+    "context": "1. A **dual-operator ontology** (Spenta Mainyu: creative intelligence vs. Angra Mainyu: destructive counter-entity) (see [theogony-works-and-days.md](theogony-works-and-days.md): Ouranos/Kronos/Zeus s",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 16,
+    "link_text": "revelation.md",
+    "link_target": "revelation.md",
+    "context": "1. A **dual-operator ontology** (Spenta Mainyu: creative intelligence vs. Angra Mainyu: destructive counter-entity) (see [theogony-works-and-days.md](theogony-works-and-days.md): Ouranos/Kronos/Zeus s",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 41,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "### Plausible Mechanism  **A dual-operator system at the executive level below supreme command** (see [poetic-edda.md](poetic-edda.md): Aesir/Vanir). One operator manages constructive/ordered reality;",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 66,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "### The Archive's Literal Reconstruction  The Amesha Spenta are functional operational terminals, each governing a domain of reality (see [01-entity-registry.md](../01-entity-registry.md)). This is a ",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 78,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "| Ameretat | Immortality | Entity lifecycle extension | | Ahura Mazda (Supreme) | All | Supreme command / oversight |  Each Amesha Spenta is paired with a material domain that it \"presides over\": Khsh",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 100,
+    "link_text": "popol-vuh.md",
+    "link_target": "popol-vuh.md",
+    "context": "### The Archive's Literal Reconstruction  The Chinvat Bridge is an entity assessment gateway that evaluates individual entities post-body-interface termination (see [book-of-the-dead.md](book-of-the-d",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 148,
+    "link_text": "pyramid-texts.md",
+    "link_target": "pyramid-texts.md",
+    "context": "### Plausible Mechanism  **Predicted terminal system renewal with full entity restoration and purification** (see [pyramid-texts.md](pyramid-texts.md): Imperishable Stars). Molten metal is a detection",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 175,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "---  ## TECHNOLOGY INDEX (see [02-technology-catalog.md](../02-technology-catalog.md))  | Description in Text | Archive Interpretation | |---------------------|----------------------|",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 0,
+    "link_text": "theogony-works-and-days.md",
+    "link_target": "theogony-works-and-days.md",
+    "context": "(paren theogony-works-and-days.md: Ouranos/Kronos/Zeus succession)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 0,
+    "link_text": "enoch-watchers.md",
+    "link_target": "enoch-watchers.md",
+    "context": "(paren enoch-watchers.md: 7 holy angels)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 0,
+    "link_text": "book-of-the-dead.md",
+    "link_target": "book-of-the-dead.md",
+    "context": "(paren book-of-the-dead.md: Weighing of the Heart)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 0,
+    "link_text": "revelation.md",
+    "link_target": "revelation.md",
+    "context": "(paren revelation.md: New Heaven/Earth)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 0,
+    "link_text": "poetic-edda.md",
+    "link_target": "poetic-edda.md",
+    "context": "(paren poetic-edda.md: Aesir/Vanir)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 0,
+    "link_text": "01-entity-registry.md",
+    "link_target": "../01-entity-registry.md",
+    "context": "(paren 01-entity-registry.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 0,
+    "link_text": "mahabharata.md",
+    "link_target": "mahabharata.md",
+    "context": "(paren mahabharata.md: deva portfolios)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 0,
+    "link_text": "popol-vuh.md",
+    "link_target": "popol-vuh.md",
+    "context": "(paren popol-vuh.md: Xibalb\u00e1 lords)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 0,
+    "link_text": "pyramid-texts.md",
+    "link_target": "pyramid-texts.md",
+    "context": "(paren pyramid-texts.md: Imperishable Stars)",
+    "target_exists": true,
+    "score": "MEDIUM",
+    "issue": null
+  },
+  {
+    "source_file": "audit/analyses/zoroastrian-gathas.md",
+    "line": 0,
+    "link_text": "02-technology-catalog.md",
+    "link_target": "../02-technology-catalog.md",
+    "context": "(paren 02-technology-catalog.md)",
+    "target_exists": true,
+    "score": "LOW",
+    "issue": null
+  }
+]

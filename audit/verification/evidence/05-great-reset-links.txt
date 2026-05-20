@@ -1,0 +1,11 @@
+FILE: audit/05-great-reset.md
+  [OK]    [Atrahasis](analyses/atrahasis.md)
+  [OK]    [Gilgamesh](analyses/gilgamesh.md)
+  [OK]    [Enoch](analyses/enoch-watchers.md)
+  [OK]    [Popol Vuh](analyses/popol-vuh.md)
+  [OK]    [Revelation](analyses/revelation.md)
+  [OK]    [Atrahasis](analyses/atrahasis.md)
+  [OK]    [Enoch](analyses/enoch-watchers.md)
+  [OK]    [Gilgamesh](analyses/gilgamesh.md)
+  [OK]    [Enoch](analyses/enoch-watchers.md)
+Summary: 9 links, 9 OK, 0 BROKEN, 0 external

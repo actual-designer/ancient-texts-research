@@ -1,0 +1,82 @@
+[
+  {
+    "source_file": "audit/07-the-human-project.md",
+    "line": 23,
+    "link_text": "Atrahasis",
+    "link_target": "analyses/atrahasis.md",
+    "context": "Before humanity existed, the texts describe a two-tier non-human workforce operating on Earth:  **[Atrahasis](analyses/atrahasis.md) Ch. 1:**  > \"When the gods instead of man, did the work, bore the l",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/07-the-human-project.md",
+    "line": 73,
+    "link_text": "Gilgamesh",
+    "link_target": "analyses/gilgamesh.md",
+    "context": "### 2.2 The Rapid-Fabrication Protocol (Enkidu)  A second, faster protocol is recorded in [Gilgamesh](analyses/gilgamesh.md):  > \"Aruru pinched off clay and threw it into the wilderness.\" (Tablet I)",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/07-the-human-project.md",
+    "line": 89,
+    "link_text": "Mah\u0101bh\u0101rata",
+    "link_target": "analyses/mahabharata.md",
+    "context": "### 2.4 The Mah\u0101bh\u0101rata Commissioning Programs  The Indian epic theater ([Mah\u0101bh\u0101rata](analyses/mahabharata.md)) documents the **most diversified genetic engineering portfolio** in the Archive:  | Pro",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/07-the-human-project.md",
+    "line": 101,
+    "link_text": "Popol Vuh",
+    "link_target": "analyses/popol-vuh.md",
+    "context": "### 2.5 The Popol Vuh Iteration Cycle  The Mesoamerican tradition ([Popol Vuh](analyses/popol-vuh.md)), with **zero contact** with the Near Eastern or Indian corpus, documents the most explicit R&D pr",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/07-the-human-project.md",
+    "line": 136,
+    "link_text": "Enoch",
+    "link_target": "analyses/enoch-watchers.md",
+    "context": "The texts describe continuous surveillance of the human population from the command tier:  - **[Atrahasis](analyses/atrahasis.md):** \"The country was as noisy as a bellowing bull\" -- population metric",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/07-the-human-project.md",
+    "line": 138,
+    "link_text": "Ezekiel",
+    "link_target": "analyses/ezekiel-merkabah.md",
+    "context": "- **[Atrahasis](analyses/atrahasis.md):** \"The country was as noisy as a bellowing bull\" -- population metrics detectable from command-tier monitoring systems; \"noise\" (*rigmu*) likely denotes resourc",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/07-the-human-project.md",
+    "line": 166,
+    "link_text": "05-great-reset.md",
+    "link_target": "05-great-reset.md",
+    "context": "| 4 | Additional pestilence | Failed or insufficient | [Gilgamesh](analyses/gilgamesh.md) XI (Ea's retrospective) | | 5 | **The Flood (terminal)** | Total surface clearance achieved | All three Mesopo",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  },
+  {
+    "source_file": "audit/07-the-human-project.md",
+    "line": 166,
+    "link_text": "06-weapons-doctrine.md",
+    "link_target": "06-weapons-doctrine.md",
+    "context": "| 4 | Additional pestilence | Failed or insufficient | [Gilgamesh](analyses/gilgamesh.md) XI (Ea's retrospective) | | 5 | **The Flood (terminal)** | Total surface clearance achieved | All three Mesopo",
+    "target_exists": true,
+    "score": "HIGH",
+    "issue": null
+  }
+]
