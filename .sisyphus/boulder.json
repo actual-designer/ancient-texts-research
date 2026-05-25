@@ -1,14 +1,23 @@
 {
-  "active_plan": "/home/andre/Work/ancient-texts-research/.sisyphus/plans/readme-rewrite.md",
-  "started_at": "2026-05-18T22:44:17.089Z",
-  "completed_at": "2026-05-18T23:00:00.000Z",
+  "active_plan": "/home/andre/Work/ancient-texts-research/.sisyphus/plans/nde-addendum.md",
+  "started_at": "2026-05-20T21:50:49.981Z",
   "session_ids": [
-    "ses_1c2c5479dffeu17H7jA3rHcaC5"
+    "ses_1b8a149c4ffei6EkMyQKcqr71W"
   ],
   "session_origins": {
-    "ses_1c2c5479dffeu17H7jA3rHcaC5": "direct"
+    "ses_1b8a149c4ffei6EkMyQKcqr71W": "direct"
   },
-  "plan_name": "readme-rewrite",
+  "plan_name": "nde-addendum",
   "agent": "atlas",
-  "status": "completed"
+  "task_sessions": {
+    "final-wave:f1": {
+      "task_key": "final-wave:f1",
+      "task_label": "F1",
+      "task_title": "**Plan Compliance Audit** — `oracle`",
+      "session_id": "ses_1b879ceddffe0WlrWKGT8q3ydw",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-05-20T23:03:57.559Z"
+    }
+  }
 }
