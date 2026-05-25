@@ -504,3 +504,19 @@ PROJECTED TERMINAL SEQUENCE (Revelation Briefing -- ~95 CE documentation, timing
   ├── Great White Throne Judgment (final disposition)
   └── New Jerusalem deployed (replacement habitat)
 ```
+
+---
+
+## ERA 7: CONTEMPORARY PROCESSING INFRASTRUCTURE (Modern Era)
+
+> **Source Material:** [13-nde-correlation.md](13-nde-correlation.md)
+
+Unlike all preceding eras, the Contemporary Processing Infrastructure is not defined by a dated event or a closed historical period. It represents an **ongoing operational protocol** that has functioned continuously across human history but was only systematically documented beginning in the late 20th century. Near-Death Experiences (NDEs), Shared Death Experiences (SDEs), and Deathbed Visions (DBVs) constitute perceptual data streams generated when human consciousness interacts with the post-mortem processing infrastructure under conditions of physiological crisis or terminal shutdown.
+
+The phenomenon is ahistorical: consistent cross-cultural reports exist from every recorded civilization, but systematic research began with Moody's 1975 classification. The infrastructure appears to be continuously accessible and operationally active.
+
+| Event | Reference | Timeline Placement | Description |
+|-------|-----------|-------------------|-------------|
+| NDE documented phenomenon onset | Moody, *Life After Life* (1975); corroborated by cross-cultural historical record | Ahistorical phenomenon; systematic study begins 1975 CE | Moody's retrospective survey of ~150 cases identified a 9-15 element recurring perceptual sequence (tunnel, light, OBE, life review, entity encounter, border, return). Cross-cultural evidence from Egyptian, Tibetan, Greek, and other traditions confirms the pattern predates modern medicine. Represents the first structured documentation of the post-mortem processing infrastructure as encountered by conscious subjects during physiological crisis. (source: [13-nde-correlation.md](13-nde-correlation.md), Section 1) |
+| AWARE II prospective study | Parnia et al., *Resuscitation* 191 (2023) | 2023 CE | Largest prospective NDE investigation: 567 cardiac arrest patients across 25 hospitals (US, UK). Identified four categories of recalled experience (CPR consciousness, delirium, transcendent recalled experience with OBE, and veridical perception). ~10% of survivors reported transcendent recall. Study design included ceiling-mounted visual stimuli to test veridical perception claims. Represents the most methodologically rigorous investigation of consciousness during cardiac arrest to date. (source: [13-nde-correlation.md](13-nde-correlation.md), Section 1.5) |
+| SDE / Deathbed vision documentation | Osis & Haraldsson (1975); Moody shared crossing surveys; Peters / Shared Crossing Project | Continuous (documented 1975 CE to present) | Shared Death Experiences (SDEs) occur when physiologically normal witnesses at a deathbed report the same perceptual elements the dying subject describes. Deathbed Visions (DBVs) occur in conscious, lucid terminal patients reporting structured encounters with deceased relatives and luminous environments. Both demonstrate the processing infrastructure is accessible without cardiac arrest or hypoxia, indicating a continuously available protocol rather than a crisis-only response system. (source: [13-nde-correlation.md](13-nde-correlation.md), Section 12) |
