@@ -534,3 +534,35 @@ Modern analogs are instructive: Svalbard's vault is not emptied after each withd
 | Survivor's fate | Not extant | Granted immortality, relocated | Lineage preserved |
 
 **Textual confirmation of identity:** Gilgamesh XI, Ea's defense: "I only made a dream appear to **Atrahasis**" -- spoken while addressing Utanapishtim. The three names designate one individual across three traditions.
+
+---
+
+## SECTION 7: Individual-Level Termination -- The NDE Judgment Encounter
+
+### 7.1 Scaling the Protocol: From Population to Individual
+
+The Great Reset, as reconstructed in the preceding sections, is a population-level sterilization instrument: an authorized, multi-vector environmental clearance event that eliminates exposed surface life in bulk. The weapon systems, the authorization chain, the seed vault, and the operational timeline all describe a single massive intervention.
+
+But the same institutional infrastructure that operates at planetary scale also operates at individual scale. The termination protocols documented in the NDE corpus -- specifically the distressing NDE subtypes -- describe the same facility network processing one subject at a time. The difference is not in kind. It is in throughput.
+
+The NDE addendum to this Archive (source: [13-nde-correlation.md](13-nde-correlation.md)) examines the post-mortem processing pipeline in detail. Section 8 of that document catalogues three distressing NDE subtypes that correspond directly to failure modes of the individual termination protocol. When the Great Reset's floodwaters recede, the institutional capability they reveal does not retire. It remains active, processing individuals through the same assessment and disposal systems.
+
+### 7.2 The Void State: Termination Without Processing
+
+The Void subtype of distressing NDE (13-nde-correlation.md, Section 8.2) reports a featureless, timeless emptiness: no entities, no landscape, no narrative, only consciousness suspended in nothing. The Archive's analysis of the Egyptian Tuat identifies it as a vacuum transit corridor -- a dark holding zone for unprocessed consciousness.
+
+This maps directly to the Great Reset's operational architecture. The Reset eliminates surface life in bulk through environmental sterilization. The Void terminates individual consciousness through isolation without assessment. Both are termination protocols. One operates on populations via physical agents (water, gas, temperature). The other operates on individuals via processing infrastructure (vacuum transit, identity dissolution). The mechanism differs; the institutional function is identical: removal without rehabilitation.
+
+### 7.3 The Hellish and Judgmental: Tartarus Containment and Failed Identity Verification
+
+The Hellish NDE (Section 8.3) and the Judgmental NDE (Section 8.4) describe the active termination sequence -- not the transit corridor but the disposal chamber. The Hellish subtype reports sensory exposure to threatening entities and destructive environments. The Judgmental subtype reports a harsh, unforgiving life review followed by condemnation.
+
+These correspond to the containment and disposal systems the Archive has documented under other names across multiple traditions:
+
+| NDE Subtype | Great Reset Parallel | Documented Facility |
+|-------------|---------------------|---------------------|
+| The Void | Sterilization without processing | Tuat transit corridor (see [enoch-watchers.md](analyses/enoch-watchers.md), [book-of-the-dead.md](analyses/book-of-the-dead.md)) |
+| The Hellish | Active termination, containment | Tartarus, Gehenna, Lake of Fire, Xibalbá chambers |
+| The Judgmental | Identity verification failure | Weighing of the Heart / Amemit consumption |
+
+The same institutional authority that authorized the flood -- the assembly of Anu, the command hierarchy of Enlil, the sealing protocols of Ea -- operates the assessment and disposal systems that the NDE subject encounters at individual death. The Great Reset is the institution's population-scale tool. The distressing NDE is its individual-scale equivalent. They are not separate phenomena. They are the same protocol, applied at different bandwidths.

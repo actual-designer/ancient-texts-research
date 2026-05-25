@@ -316,9 +316,84 @@ Across all four instances:
 
 ---
 
-## SECTION 7: Open Questions for the Master Narrative
+## SECTION 7: Individual Termination and Post-Biological Processing -- The Missing Phase
 
-### 7.1 Is the Withdrawal Planned or Entropic?
+**Classification:** SPECIES WITH AMNESIA -- Working Hypothesis  
+**Analyst:** The Chronos Archive, Lead Investigator
+
+---
+
+### 7.1 The Incomplete Arc
+
+The preceding six sections trace the Human Project from its origin in the labor crisis (Section 1) through the engineering of the species (Section 2), its management and containment (Section 3), the unauthorized modifications that triggered crisis (Section 4), the catastrophic resets that followed (Section 5), and the institutional logic that governed each intervention (Section 6). This arc describes what happens to the species collectively: it is born, managed, corrupted, culled, and rebuilt. But it has never addressed what happens to the individual at the point of biological termination.
+
+The oversight is consequential. If the operator infrastructure documented in this archive is real, the termination of a biological human is not a null event. It is a transition point -- the moment at which the extracted consciousness of the managed species re-enters the operational environment of its managers. Every text in the archive that describes the moment of death describes not an ending but a processing handoff. The Egyptian Pyramid Texts call this the transition to *akh*. The Tibetan *Bardo Thodol* maps it as a forty-nine-day assessment corridor. The Zoroastrian Gathas place a three-factor identity verification at the Chinvat Bridge.
+
+The NDE phenomenon provides the missing perspective: a contemporary, medically documented witness account of what happens when the processing infrastructure receives the consciousness it was designed to manage. Under the Amnesia hypothesis, NDE reports are not glimpses of an afterlife. They are **interface experiences** with the post-biological processing phase of the Human Project (source: [13-nde-correlation.md](13-nde-correlation.md), Section 13).
+
+---
+
+### 7.2 The NDE Processing Pipeline
+
+The canonical NDE sequence, as documented across prospective hospital studies spanning five decades, reveals a structured five-phase processing protocol that maps directly onto the operator management model:
+
+**Phase 1: Consciousness Extraction.** Under conditions of biological platform failure (cardiac arrest, trauma, anesthesia), the subject reports separation from the body, often with accurate perception of the immediate environment. This extraction is not passive. It is an initiated procedure -- the consciousness is removed from the biological substrate by an external mechanism. Veridical perception cases (Pam Reynolds, AWARE II) confirm that the extraction is technologically mediated and that consciousness operates independently of the brain during the process (source: [13-nde-correlation.md](13-nde-correlation.md), Finding 2 and Finding 6).
+
+**Phase 2: Transit Infrastructure.** The extracted consciousness moves through a transitional corridor (the tunnel, the void) to an operational destination. The Egyptian Duat describes the same transit: a dark, airless, depthless corridor that functions as a vacuum transit route. The transit is directional and managed -- the subject does not wander but is conveyed (source: [13-nde-correlation.md](13-nde-correlation.md), Section 4.2).
+
+**Phase 3: Identity Assessment.** The subject undergoes a comprehensive life review -- a high-speed extraction and analysis of the complete relational record. The Egyptian Weighing of the Heart performs the same function with documented mechanical specificity: the heart (consciousness substrate) is weighed against the feather of Maat (authorized baseline). The Tibetan *Bardo Thodol* mirrors this as the judgment of Dharmaraja with the mirror of karma. The assessment is not a moral trial in the human sense. It is an **identity comparator function**: the extracted record is verified against system parameters to determine disposition (source: [13-nde-correlation.md](13-nde-correlation.md), Section 6).
+
+**Phase 4: Behavioral Modification.** Subjects who return from the NDE carry permanent personality restructuring: elimination of death fear, heightened compassion, reduced materialism, and enhanced intuitive sensitivity. These after-effects are not psychological artifacts. They are **functional reprogramming** -- the processing infrastructure modifies the subject's operating parameters before re-insertion. The change is directional, permanent, and independent of prior belief systems (source: [13-nde-correlation.md](13-nde-correlation.md), Section 11).
+
+**Phase 5: Conditional Re-insertion.** The subject reaches a boundary or decision point beyond which return is impossible. An external authority determines disposition. If re-insertion is operationally indicated, the subject is returned to biological life with the behavioral modifications intact. If not, the subject proceeds to permanent extraction -- a destination beyond the documented limits of the NDE dataset. Distressing NDEs (approximately 15-20% of cases) suggest that the pipeline includes branched outcomes: quarantine, punitive containment, or termination for identities that fail assessment (source: [13-nde-correlation.md](13-nde-correlation.md), Finding 3 and Finding 5).
+
+---
+
+### 7.3 Ancient Post-Mortem Manuals as Operator Documentation
+
+The Egyptian Book of the Dead, the Tibetan *Bardo Thodol*, and the Zoroastrian Gathas have been classified as religious scripture for millennia. Under the Amnesia hypothesis, they are better understood as **corrupted technical documentation** -- operator manuals for the post-biological processing infrastructure, preserved by the human civilizations that encountered it.
+
+| Human Project Phase | NDE Correspondence | Ancient Text Parallel |
+|---|---|---|
+| **Creation (Section 2):** Biological platform engineered for consciousness hosting | Consciousness extraction from failing platform | Egyptian Opening of the Mouth ritual: reanimation of the senses for post-mortem transit |
+| **Management (Section 3):** Population monitoring and targeted intervention | Life review as comprehensive record audit | Weighing of the Heart (Book of the Dead Ch. CXXV): identity comparator against Maat baseline |
+| **Crisis (Section 4):** Unauthorized deviation from authorized parameters | Distressing NDEs: void states, judgment encounters, punitive environments | Amemit consumption event (Book of the Dead): termination of failed identities; Tartarus (Greek): quarantine facility |
+| **Reset (Section 5):** Population-level termination and selective preservation | Conditional re-insertion: boundary decision point with external authority determining return | Sekhet Aaru (Field of Reeds): post-processing habitat for successful identities; Bardos of the *Bardo Thodol*: sequential disposition gates |
+| **Individual Processing (NEW):** Post-biological consciousness management at the individual level | Five-phase extraction and assessment protocol | Complete Egyptian Duat-to-Akhet pipeline; Tibetan forty-nine-day Bardo sequence; Zoroastrian Chinvat Bridge assessment |
+
+The structural homology is not approximate. It is positional: each element of the NDE sequence occupies the same operational slot as its counterpart in the ancient texts, and the sequence order is preserved across all three independent witness populations (ancient Egyptian, ancient Tibetan, and modern medical). The contemporary NDE accounts function as a **verification scan** -- they confirm that the infrastructure described in the ancient manuals is still operational and accessible to unscripted human witnesses.
+
+---
+
+### 7.4 Completing the Management Cycle
+
+The Human Project has been documented through six phases: labor crisis (Section 1), biological creation (Section 2), management and population control (Section 3), unauthorized modification and system contamination (Section 4), catastrophic reset (Section 5), and institutional learning (Section 6). Each phase addresses the species collectively. None addresses the disposition of individual consciousness at biological termination.
+
+The NDE data, read alongside the ancient post-mortem manuals, reveals the missing phase: **the post-biological processing of individual human consciousness through the same operator infrastructure that manages the species at population level.** The operators never fully withdrew. They shifted the interface from collective surface management to individual post-mortem processing -- a transition visible in the Pyramid Texts integration protocol (see Appendix: Phase 7b) and confirmed by the contemporary NDE evidence.
+
+This completes the management arc. The species is created, managed, contained, and when it deviates beyond authorized parameters, reset. But at the individual level -- for every member of the managed species -- there exists a processing pipeline that extracts, assesses, modifies, and disposes of consciousness at biological termination. The operators did not build a labor species and abandon it. They built a labor species with a **return path** -- a mechanism for post-biological integration that has been operational from the earliest attested records (Pyramid Texts, ~2353 BCE) through the contemporary resuscitation wards of the twenty-first century.
+
+---
+
+### 7.5 Open Questions
+
+The individual processing pipeline raises questions the collective narrative does not answer:
+
+1. **Selection bias.** Only a fraction of the deceased appear in NDE reports (those who survive biological termination). What happens in the majority of cases where extraction is not followed by return? The data does not say.
+
+2. **Assessment criteria.** The life review evaluates relational integrity, but the exact parameters of the Maat baseline remain unspecified. What constitutes a "passing" assessment? Is the threshold fixed or adaptive?
+
+3. **Pipeline capacity.** The Egyptian texts describe a triage system with multiple disposition pathways (Field of Reeds, termination, void). Does the contemporary pipeline operate at the same scale as the ancient one, or has capacity degraded along with the surface management infrastructure?
+
+4. **Continuous vs. episodic operation.** Shared death experiences and deathbed visions demonstrate that the processing infrastructure is continuously accessible, not limited to crisis events (source: [13-nde-correlation.md](13-nde-correlation.md), Finding 6). Is the pipeline always active, processing every termination in real time?
+
+These questions are outside the scope of the current evidence base. What the data supports is the following conclusion: the Human Project includes a phase not previously accounted for in this archive's reconstruction. The NDE provides the first contemporary evidentiary window into that phase. The ancient post-mortem manuals provide the procedural documentation. Together, they complete the management arc at the individual level.
+
+---
+
+## SECTION 8: Open Questions for the Master Narrative
+
+### 8.1 Is the Withdrawal Planned or Entropic?
 
 Two readings are available:
 
@@ -327,7 +402,7 @@ Two readings are available:
 
 The texts support both readings. Ea's dissent and the Watcher revolt suggest internal fractures. But the increasingly sophisticated liaison model (from Atrahasis's simple "open ear" to Vyāsa's civilization-scale documentation mandate) suggests deliberate design.
 
-### 7.2 Where Are the Operators Now?
+### 8.2 Where Are the Operators Now?
 
 The last attested direct contact is Ezekiel, ~573 BCE -- roughly 2,600 years ago. Four scenarios:
 
@@ -336,7 +411,7 @@ The last attested direct contact is Ezekiel, ~573 BCE -- roughly 2,600 years ago
 3. **Scheduled return:** The cycle predicts another intervention when parameters are next exceeded. The operators are waiting for a trigger condition -- population, environmental, technological, or genetic.
 4. **Continuous integration via the processing pipeline:** The Pyramid Texts suggest a fourth possibility -- that the operators never fully withdrew, but shifted from direct surface contact to a **post-mortem integration model**. If the *akh*-processing pipeline is real, then select humans are continuously being extracted from the biological population and absorbed into the operator community after death. The "silence" would not be an absence but a change of interface: from living liaison (Enoch, Ezekiel) to post-mortem processing (the Pyramid Texts' standardized pipeline). This reading makes the Egyptian funerary tradition not a religion but a **recruitment protocol**.
 
-### 7.3 What Was the Actual Objective?
+### 8.3 What Was the Actual Objective?
 
 The Atrahasis text says the objective was labor. But the subsequent investment -- genetic engineering, hybrid rulers, knowledge management, catastrophic reset, rebuild -- far exceeds what a simple labor replacement would justify. Three deeper possibilities:
 
@@ -344,7 +419,7 @@ The Atrahasis text says the objective was labor. But the subsequent investment -
 2. **Developmental experiment:** Humanity is a long-term study in autonomous species development. Each cycle tests a different parameter set. The operators are running iterations.
 3. **Succession planning:** The operators' own species is declining (the withdrawal could be a symptom, not a strategy). Humanity is being groomed as a replacement civilization -- inheriting the infrastructure, the knowledge (through gradual rediscovery), and ultimately the custodial role.
 
-### 7.4 Does the Amnesia Serve a Purpose?
+### 8.4 Does the Amnesia Serve a Purpose?
 
 The "Species with Amnesia" hypothesis originally assumed memory loss was a consequence of the cataclysm. But the Popol Vuh transforms this from hypothesis to **documented engineering decision**.
 
