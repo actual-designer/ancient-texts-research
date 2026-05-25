@@ -863,4 +863,37 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 |-------|--------|
 | **Description** | "Puruṣa is then established in its own essential nature" (YS I.3, IV.34). "The return of the guṇas [system components] to their source, now without purpose for the puruṣa — that is Kaivalya. Or: the power of consciousness established in its own nature." |
 | **Reconstruction** | The terminal state of the training protocol: the consciousness entity (puruṣa) is fully decoupled from all system interfaces — cognitive, sensory, biological, karmic. The system components (guṇas) continue operating but no longer bind or influence the puruṣa. The operator has achieved full exit from the substrate without physical death. |
-| **Modern analog** | Theoretical: permanent dissociation of consciousness from all cognitive/biological processing; a consciousness state with zero system coupling |
+| **Modern analog** | Theoretical: permanent dissociation of consciousness from all cognitive/biological processing; a consciousness state with zero system coupling
+
+---
+
+## 14. NDE-RELATED TECHNOLOGIES
+
+**Source:** `audit/13-nde-correlation.md`
+
+### 14.1 Life Review / Identity Comparator Technology
+
+| Field | Detail |
+|-------|--------|
+| **Source** | [13-nde-correlation.md](13-nde-correlation.md): Section 4.4, Section 6 |
+| **Description** | A rapid, panoramic replay of the subject's entire life, non-sequential, with empathic overlay of how each action affected others. The subject experiences every moment simultaneously, including consequences they never witnessed directly. |
+| **Reconstruction** | High-speed experiential record extraction and identity comparison technology. The subject's consciousness signature (the "heart" in Egyptian terms) is extracted and compared against an authorized baseline (the "feather of Maat" or Zoroastrian Asha). The empathic overlay is the measurement mechanism: relational impact is quantified by experiencing it. Parallels the Egyptian Weighing of the Heart (source: [book-of-the-dead.md](analyses/book-of-the-dead.md), INCIDENT 02) and the Zoroastrian Chinvat Bridge's three-factor assessment (source: [zoroastrian-gathas.md](analyses/zoroastrian-gathas.md), INCIDENT 03). |
+| **Modern analog** | High-throughput relational database audit, biometric identity comparison, behavioral record analysis |
+
+### 14.2 Consciousness Transport / Vacuum Transit Corridor
+
+| Field | Detail |
+|-------|--------|
+| **Source** | [13-nde-correlation.md](13-nde-correlation.md): Section 4.3, Section 7 |
+| **Description** | Initial dark void or tunnel phase with a sense of rapid directional movement. No air, no water, unfathomable depth, darkest night. Described as a passage connecting one state to another, with a visible boundary beyond which return is impossible. |
+| **Reconstruction** | Vacuum or low-pressure transit corridor (Duat/Tuat) connecting the planetary surface to an orbital or high-altitude processing facility. A directional consciousness conveyance system that extracts the subject's consciousness signature from the biological host and routes it to the assessment environment. The physical properties (no air, no water, extreme depth) match the conditions of space or an evacuated vertical shaft. The point of no return marks the commit boundary of the processing pipeline, after which reinsertion into the biological host is irreversible. |
+| **Modern analog** | Evacuated tube transport, hyperloop transit, vertical transit shafts, space transit |
+
+### 14.3 Adaptive Assessment Interface (Being of Light)
+
+| Field | Detail |
+|-------|--------|
+| **Source** | [13-nde-correlation.md](13-nde-correlation.md): Section 4.5, Section 6.5 |
+| **Description** | Encounter with a luminous being that communicates telepathically, conveys unconditional love and complete knowing, and conducts an assessment without spoken interrogation. The subject understands concealment is impossible without explicit threat. |
+| **Reconstruction** | A non-human operator entity using an adaptive interface persona optimized for identity verification. The luminous appearance and communicated "love" are interface calibrations to reduce resistance and ensure accurate data extraction. Telepathic communication is identity-to-identity data transfer bypassing language. The being's "complete knowledge" of the subject is database access to the extracted life record. Two modes observed: compassionate assessment (standard calibration) and harsh assessment (distressing NDE variant). Maps to Osiris/Thoth in the Egyptian theater (source: [01-entity-registry.md](01-entity-registry.md): Thoth entry) and Mithra/Sraosha/Rashnu in the Zoroastrian theater (source: [zoroastrian-gathas.md](analyses/zoroastrian-gathas.md), INCIDENT 03). |
+| **Modern analog** | Virtual assistant interface, adaptive UI persona, non-adversarial system authentication, automated identity verification kiosk |
