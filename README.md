@@ -79,7 +79,9 @@ The forgotten history, reconstructed across 8 chapters.
 
 7. **The Current State** — We are in the autonomous test phase: a managed species operating without active oversight, with engineered amnesia, repeating the same patterns that triggered previous resets. → [`11-unified-hypothesis.md`](audit/11-unified-hypothesis.md)
 
-8. **The Return Path** — The projected terminal sequence (Book of Revelation) describes a final sterilization, biometric registration of survivors, and a replacement habitat. Whether this is prophecy, contingency plan, or scheduled maintenance is the Archive's central open question. → [`analyses/revelation.md`](audit/analyses/revelation.md)
+8. **The Modern Evidence** — NDEs, shared death experiences, and deathbed visions provide a modern, medically documented evidentiary track converging on the same post-mortem processing infrastructure described in ancient texts. Veridical perception cases challenge the materialist framework directly. → [`13-nde-correlation.md`](audit/13-nde-correlation.md)
+
+9. **The Return Path** — The projected terminal sequence (Book of Revelation) describes a final sterilization, biometric registration of survivors, and a replacement habitat. Whether this is prophecy, contingency plan, or scheduled maintenance is the Archive's central open question. → [`analyses/revelation.md`](audit/analyses/revelation.md)
 
 ## How to Explore the Archive
 
@@ -91,6 +93,7 @@ Pick the path that fits your entry point:
 - **I want to verify the methodology** → Pick a text you know → Read its forensic analysis → Check cross-references
 - **I'm writing sci-fi and need inspiration** → Technology Catalog → Entity Registry → Location Registry
 - **Connect this to modern UFO/UAP** → NHI Correlation → Unified Hypothesis → Weapons Doctrine
+- **Connect this to modern NDE research** → NDE Correlation → Human Project → Great Reset → Timeline
 
 ## Project Architecture
 
@@ -140,6 +143,7 @@ This is not cosmology. It is deployed infrastructure.
 - [`10-correlation-map.md`](audit/10-correlation-map.md) — Per-text perspective inventory, thematic correlation clusters, linking blueprint.
 - [`11-unified-hypothesis.md`](audit/11-unified-hypothesis.md) — The capstone. Singular hypothesis unifying all fourteen texts across seven chapters, with findings, predictions, and falsifiability.
 - [`12-NHI-correlation.md`](audit/12-NHI-correlation.md) — Addendum correlating modern NHI/UFO disclosure discourse (Vallée, Keel, Grusch, AARO) with the Archive's unified hypothesis across all prior syntheses.
+- [`13-nde-correlation.md`](audit/13-nde-correlation.md) — Addendum analyzing Near-Death Experiences as a modern evidentiary track parallel to ancient texts: veridical perception, post-mortem pipeline homology, entity encounters, cross-cultural patterns, skeptical analysis, after-effects, and integration synthesis.
 
 ## First Doorways
 
@@ -153,6 +157,7 @@ Not sure where to start? Pick a thread.
 | The Hardware | [`02-technology-catalog.md`](audit/02-technology-catalog.md) | Bioprinting. Directed-energy. Orbital platforms. Consciousness upload. Every "miracle" reverse-engineered. |
 | The Arsenal | [`06-weapons-doctrine.md`](audit/06-weapons-doctrine.md) | Ancient dual-key authorization. Someone was afraid of exactly who was pointing what at whom. |
 | The Unified Hypothesis | [`11-unified-hypothesis.md`](audit/11-unified-hypothesis.md) | The full reconstruction. Seven chapters from the pre-operational void through the engineered amnesia to the autonomous test phase we're in now. |
+| The Modern Evidence | [`13-nde-correlation.md`](audit/13-nde-correlation.md) | Modern NDE research converges on the same post-mortem processing infrastructure the ancients described — now with medical documentation and veridical perception cases. |
 | The Index | [`00-INDEX.md`](audit/00-INDEX.md) | All 14 analyses, all syntheses, one map. Start here if you want the full picture. |
 
 ## The Goal
