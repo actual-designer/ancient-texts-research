@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.8.1] — 2026-05-25
+
+### Added
+
+- **Unified Hypothesis NHI/NDE integration** (`audit/11-unified-hypothesis.md`) — 6 targeted insertions integrating modern evidentiary tracks from the NHI and NDE correlation addenda into the capstone synthesis document:
+  - Ch. I: NHI discourse independently converges on same operator properties (stratified hierarchy, biological intervention, terrestrial infrastructure).
+  - Ch. V: NHI two-readings framework extends the withdrawal scenarios — post-mortem pipeline as continuous interface vs. renewed contact via contamination cycle.
+  - Ch. VI: NDE post-mortem pipeline homology confirms the Egyptian Duat sequence through modern cardiac arrest data (tunnel/Duat, life review/Weighing, Being of Light/Osiris).
+  - Ch. VII: NDE and NHI records represent leakage from the otherwise-filtered operational environment — the interface never fully closed.
+  - Ch. VIII: Single sentence extended with coda clause acknowledging modern convergent evidentiary tracks.
+  - Predictions: Two new falsifiable entries — NDE verifiability (AWARE II template) and NHI discourse convergence (40+ structural parallels).
+
 ## [0.8.0] — 2026-05-25
 
 ### Added

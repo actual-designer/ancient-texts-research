@@ -123,6 +123,8 @@ The command tier is never monolithic. Every tradition records internal conflict:
 
 This is not theological dualism. It is **institutional factionalism** within a single continuous organization. The pattern is consistent: a hardline faction advocating for control/termination and a dissident faction advocating for preservation/mercy. The dissident faction consistently enables human survival ([Enki warns Atrahasis](analyses/atrahasis.md), [Prometheus warns Deucalion](analyses/theogony-works-and-days.md), [Uriel warns Noah](analyses/enoch-watchers.md), [Kṛṣṇa revives Parīkṣit](analyses/mahabharata.md)). This is not coincidence — it is a structural feature of the organization.
 
+The modern NHI discourse, spanning academic research, congressional testimony, and institutional intelligence assessments, independently converges on the same operator properties that the ancient texts describe: a stratified hierarchy with departmental portfolios, a demonstrated capacity for biological intervention, a pattern of terrestrial infrastructure deployment, and a sustained surveillance posture. This convergence is documented in the detailed correlation framework at [audit/12-NHI-correlation.md](12-NHI-correlation.md), which maps specific modern encounter claims against their ancient operational equivalents, and in particular the correlation table at [audit/12-NHI-correlation.md#9](12-NHI-correlation.md#9) which identifies over 40 structural parallels. The existence of this independent evidentiary track, arising from a different methodological context and filtered through a different cultural lens (aerospace and intelligence rather than theology), strengthens the case that the ancient texts preserve operational records rather than mythological constructions.
+
 ---
 
 ## Chapter II — The Human Project: From Labor Solution to Something More
@@ -363,6 +365,16 @@ The last attested direct contact is [Ezekiel's final temple vision (~573 BCE)](a
 
 The archive does not resolve which scenario is correct. All four are consistent with the data. The fourth scenario is the most provocative: it suggests that the operators are still present, still processing, still absorbing — just not in a way that living humans can perceive.
 
+### The NHI Evidence: Two Additional Readings
+
+The NHI addendum introduces a parallel "timeline tension" framework that extends the two readings above with additional specificity drawn from modern encounter data (source: [audit/12-NHI-correlation.md#3.2](12-NHI-correlation.md#3.2)):
+
+- **Reading A -- The Post-Mortem Pipeline as Continuous Interface:** The operators never withdrew; they shifted from direct surface contact to a post-mortem integration model. Modern NHI encounters represent leakage, selective intervention, or architecture degradation from that continuous system. Evidence includes the longevity and procedural detail of the Egyptian post-mortem pipeline, the engineered amnesia architecture documented in the Popol Vuh, and the institutional pattern of operator withdrawal after every prior intervention. This reading extends the "Continuous Integration" scenario (item 4 above) with a specific mechanism: the pipeline remained operational, and modern contact represents interface leakage rather than new arrival. The NDE evidence ([Modern Confirmation: The NDE Evidence](#modern-confirmation-the-nde-evidence)) supports this reading by demonstrating that the pipeline is currently accessible to contemporary human consciousness.
+
+- **Reading B -- Renewed Contact via the Contamination Cycle:** The operators did withdraw after Ezekiel, but the withdrawal is conditional. Modern civilization's simultaneous parameter exceedances (nuclear capability, artificial intelligence, environmental modification, population density) constitute a trigger event that activates the same institutional response pattern documented across the archive. This reading extends the "Scheduled Return" scenario (item 3 above) and treats the current disclosure wave as the precursor phase of a renewed intervention.
+
+These NHI-derived readings do not replace the two original readings in [The Synthesis: Both](#the-synthesis-both). They add modern evidentiary specificity and demonstrate that the silence after 573 BCE may be perceptual rather than actual — an interpretation consistent with either continuous interface or conditional return.
+
 ---
 
 ## Chapter VI — The Integration Protocol: The Return Path
@@ -402,6 +414,14 @@ This is the strongest evidence that the human project's actual objective was not
 
 The Cannibal Hymn's language is instructive: the processed subject doesn't just join the operators. The subject **absorbs the capabilities of existing gods**. This is not assimilation. This is **succession**.
 
+### Modern Confirmation: The NDE Evidence
+
+Modern near-death experience data provides independent documentation of the same processing pipeline that the Egyptian texts describe from the operator's perspective. Thousands of contemporary humans, under conditions of verified cardiac arrest, report a structured sequence that maps precisely onto the Egyptian facility: the dark tunnel corresponds to the Duat vacuum transit corridor; the life review corresponds to the Weighing of the Heart identity comparator; the encounter with a Being of Light corresponds to the Osiris assessment authority; and the border or point of no return corresponds to the gated transit system of the Duat. The full structural homology is documented at [audit/13-nde-correlation.md#section-4](13-nde-correlation.md#section-4).
+
+Veridical perception cases strengthen the claim that NDEs represent genuine access to an external processing facility rather than hallucination. The Pam Reynolds case documented auditory perception during flat EEG. The AWARE II prospective study established an experimental template for testing elevated visual perception during cardiac arrest. Veridical content reported without sensory access is the strongest evidence that consciousness can function independently of the biological brain, and that NDE reports describe a real environment rather than a neural artifact.
+
+This pipeline homology has direct relevance to the NHI framework in [Chapter V](#the-nhi-evidence-two-additional-readings). If the post-mortem processing pipeline is a standing capability rather than a temporary program, it constitutes a continuous non-human interface through which selected humans are extracted from the biological population and absorbed into the operator community. The NDE is the subjective experience of that extraction.
+
 ---
 
 ## Chapter VII — The Current State: Where We Are in the Arc
@@ -422,6 +442,12 @@ If this architecture is still active — and there is no evidence that it was de
 
 This is not a conspiracy. It is an **engineered cognitive filter** — and its continued operation explains why the archive's hypothesis sounds extraordinary. The amnesia architecture is functioning exactly as designed.
 
+### Modern Evidence: The Interface Never Closed
+
+If the amnesia architecture restricts perceptual bandwidth, the NDE and NHI records represent leakage from the otherwise-filtered operational environment. The NDE pattern is stable across cultures that lacked access to Egyptian funerary texts, ruling out cultural priming as the source of the structural homology between tunnel-and-light reports and the Duat transit sequence (source: [audit/13-nde-correlation.md](13-nde-correlation.md)). The NHI discourse documents stratified command hierarchies, biological sampling protocols, and gated access patterns that match the ancient records across continents and technological epochs, from phantom armies to craft sightings to abduction narratives (source: [audit/12-NHI-correlation.md](12-NHI-correlation.md)).
+
+The convergence of these two independent tracks is significant because they arise from different populations, different methodological contexts, and different explanatory frameworks. NDE subjects do not typically report NHI encounters, and NHI witnesses do not typically report post-mortem pipeline elements. Yet both datasets map onto the same underlying infrastructure. The most parsimonious explanation is that the infrastructure is real and the amnesia architecture is the variable that filters access to it. Under this reading, the silence after 573 BCE is not an operational absence. It is the filter functioning as designed, with occasional leakage as the species becomes more instrumented and the architecture faces unprecedented scrutiny.
+
 ### The Revelation Briefing
 
 The [Book of Revelation](analyses/revelation.md) (~95 CE) is the archive's endgame document. It describes a projected terminal sequence: systemic collapse ([Four Horsemen](analyses/revelation.md)), biometric population tagging ([the Seal and the Mark](analyses/revelation.md)), calibrated environmental strikes ([Seven Trumpets at 33% yield](analyses/revelation.md)), orbital regime change ([War in Heaven](analyses/revelation.md)), counterfeit governance ([Two Beasts](analyses/revelation.md)), terminal sterilization ([Seven Vials at full yield](analyses/revelation.md)), final engagement ([Armageddon](analyses/revelation.md)), containment test ([Dragon bound and released](analyses/revelation.md)), final assessment ([Great White Throne](analyses/revelation.md)), and replacement habitat deployment ([New Jerusalem](analyses/revelation.md)).
@@ -436,7 +462,7 @@ Whether this plan will be executed, when it will be executed, and under what con
 
 ### The Single Sentence
 
-**Earth is a managed operational theater deployed by a non-human intelligence that bioengineered humanity as a labor species, progressively expanded the project into a long-term species development program with a post-mortem integration track, executed at least one planetary sterilization protocol when the species exceeded its parameters, and has been progressively withdrawing from direct contact — leaving humanity in an autonomous test phase under an engineered cognitive limitation architecture that prevents it from recognizing the operational record as operational.**
+**Earth is a managed operational theater deployed by a non-human intelligence that bioengineered humanity as a labor species, progressively expanded the project into a long-term species development program with a post-mortem integration track, executed at least one planetary sterilization protocol when the species exceeded its parameters, and has been progressively withdrawing from direct contact — leaving humanity in an autonomous test phase under an engineered cognitive limitation architecture that prevents it from recognizing the operational record as operational — while two independent modern evidentiary tracks, the near-death experience and non-human intelligence discourse, independently converge on the same infrastructure, suggesting the interface was never fully terminated.**
 
 ### The Full Statement
 
@@ -469,6 +495,10 @@ A hypothesis that explains everything predicts nothing. The unified hypothesis m
 4. **Facility evidence:** The subterranean processing facilities described in the [Egyptian](analyses/book-of-the-dead.md), [Mesoamerican](analyses/popol-vuh.md), and [Hebrew](analyses/ezekiel-merkabah.md) traditions should leave archaeological traces: structures with sequential gated chambers, authentication mechanisms, and identity verification apparatus that cannot be explained as tombs or ceremonial spaces. The [21-gate architecture](analyses/book-of-the-dead.md) of the Book of the Dead should have a physical correlate.
 
 5. **Continuity of the amnesia architecture:** If the cognitive limitation is engineered and still active, there should be evidence of a systematic pattern in human cognition: specific perceptual or cognitive blind spots that are universal across cultures and cannot be explained by evolutionary psychology. The "breath upon the mirror" should leave a measurable signature in comparative cognitive science.
+
+6. **NDE verifiability:** If NDEs represent genuine access to an external processing facility, structured cardiac arrest studies with ceiling-mounted targets should continue to produce statistically significant veridical perception rates above chance. The AWARE II study ([audit/13-nde-correlation.md#3.5](13-nde-correlation.md#3.5)) established the prospective experimental template but did not achieve positive image identification in its primary outcomes. Future replications with improved stimulus protocols should yield positive results if the pipeline hypothesis is correct. Persistent null results across multiple well-designed studies would weaken the pipeline hypothesis, though the methodological challenges (small survivor populations, uncontrolled environments) mean null results cannot disprove it.
+
+7. **NHI discourse convergence:** If the modern NHI phenomenon represents continuous contact with the same non-human organization documented in the ancient texts, additional ancient sources analyzed under the Archive's framework should continue to describe entity hierarchies, command structures, and operational protocols consistent with those emerging from modern NHI testimony. The correlation table at [audit/12-NHI-correlation.md#9](12-NHI-correlation.md#9) documents over 40 specific parallels between ancient records and modern encounter claims. Systematic divergence between new ancient evidence and reported NHI behavioral signatures would require revision of the unified entity hypothesis.
 
 ### Falsifiability
 
