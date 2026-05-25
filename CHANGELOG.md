@@ -39,6 +39,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `.sisyphus/plans/nde-addendum.md` — Completion of 21-task execution plan.
 - `.sisyphus/notepads/nde-addendum/learnings.md` — Writing patterns and conventions for NDE analysis.
 - `.sisyphus/run-continuation/` — Session continuation state for NDE completion.
+- **`README.md`** — Added NDE addendum to Narrative Arc (chapter 8), Cross-Cutting Syntheses list (13th entry), First Doorways table, and How to Explore trails.
 
 ---
 
