@@ -7,6 +7,41 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.8.0] — 2026-05-25
+
+### Added
+
+- **NDE Correlation addendum** (`audit/13-nde-correlation.md`) — Comprehensive analysis of Near-Death Experiences through the Archive's literalist/technological lens, treating NDEs as a modern evidentiary track revealing the same non-human facility network described in ancient texts. 13 sections, ~7,500 words covering:
+  - NDE core phenomenology and prevalence (Moody, Greyson, AWARE II).
+  - Amnesia filter applied to modern NDE accounts.
+  - Veridical perception evidence (Pam Reynolds, Maria's shoe, AWARE II ceiling targets).
+  - Post-mortem processing pipeline structural homology with Egyptian Duat.
+  - Entity encounters (beings of light, guides, deceased relatives, malevolent entities).
+  - Life review as identity-comparator technology.
+  - Distressing NDEs as individual-level termination protocols.
+  - Cross-cultural patterns (Egyptian, Tibetan, Greek, Zoroastrian, modern).
+  - Full skeptical analysis engaging DMT, hypoxia, temporal lobe, and terminal brain surge hypotheses.
+  - After-effects as evidence of functional reprogramming.
+  - Shared Death Experiences and Deathbed Visions demonstrating continuous infrastructure access.
+  - Executive summary with integration synthesis across all 12 prior Archive documents.
+- **NDE-DERIVED ENTITY CATEGORIES** section in `audit/01-entity-registry.md` — 5 new entity types with functional classification and cross-references.
+- **NDE-RELATED TECHNOLOGIES** section in `audit/02-technology-catalog.md` — 3 new technology entries (life review comparator, consciousness transport corridor, adaptive assessment interface).
+- **ERA 6: Contemporary Processing Infrastructure** in `audit/03-event-timeline.md` — NDEs, AWARE II, and SDE/DBV as continuous modern phenomenon.
+- **CROSS-REFERENCE 24: The Near-Death Experience Sequence** in `audit/04-cross-references.md` — FIVE independent traditions (Egyptian, Tibetan, Greek, Zoroastrian, modern medical) mapping the same processing pipeline.
+- **Section 7: Individual-Level Termination** in `audit/05-great-reset.md` — NDE judgment encounters as individual-scale equivalent of population-level sterilization.
+- **Section 7: Individual Termination and Post-Biological Processing** in `audit/07-the-human-project.md` — Completes the human management arc with NDE as missing phase.
+- **Section 12.3: NDE and NHI Contact Overlap** in `audit/12-NHI-correlation.md` — Parallel modern evidentiary track convergence.
+- **INDEX entry** for `13-nde-correlation.md` in `audit/00-INDEX.md`.
+
+### Updated
+
+- Link validation: all NDE-related cross-references cleaned and verified (script: `scripts/validate-links.py`).
+- `.sisyphus/plans/nde-addendum.md` — Completion of 21-task execution plan.
+- `.sisyphus/notepads/nde-addendum/learnings.md` — Writing patterns and conventions for NDE analysis.
+- `.sisyphus/run-continuation/` — Session continuation state for NDE completion.
+
+---
+
 ## [0.7.4] — 2026-05-20
 
 ### Added
