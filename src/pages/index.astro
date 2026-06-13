@@ -1,0 +1,34 @@
+---
+// Minimal landing page for chronos-archive
+// Lists all content entries from the audit collection
+import { getCollection } from 'astro:content';
+
+// Filter out verification/ and AGENTS.md at query time
+const allEntries = await getCollection('audit');
+const entries = allEntries.filter(
+  (entry) =>
+    !entry.id.startsWith('verification/') &&
+    entry.id !== 'analyses/AGENTS.md'
+);
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Chronos Archive</title>
+  </head>
+  <body>
+    <h1>Chronos Archive</h1>
+    <p>Research corpus: <strong>{entries.length}</strong> documents</p>
+    <ul>
+      {
+        entries.map((entry) => (
+          <li>
+            <a href={`/${entry.id.replace(/\.md$/, '/')}`}>{entry.id}</a>
+          </li>
+        ))
+      }
+    </ul>
+  </body>
+</html>

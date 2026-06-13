@@ -1,0 +1,264 @@
+---
+// The Chronos Archive — Sidebar Navigation
+// Groups: Syntheses (14 documents) + Analyses (14 documents)
+
+const currentPath = Astro.url.pathname;
+const base = import.meta.env.BASE_URL || '/';
+
+interface NavItem {
+  label: string;
+  href: string;
+}
+
+const syntheses: NavItem[] = [
+  { label: '00 — INDEX', href: `${base}00-INDEX/` },
+  { label: '01 — Entity Registry', href: `${base}01-entity-registry/` },
+  { label: '02 — Technology Catalog', href: `${base}02-technology-catalog/` },
+  { label: '03 — Event Timeline', href: `${base}03-event-timeline/` },
+  { label: '04 — Cross-References', href: `${base}04-cross-references/` },
+  { label: '05 — Great Reset', href: `${base}05-great-reset/` },
+  { label: '06 — Weapons Doctrine', href: `${base}06-weapons-doctrine/` },
+  { label: '07 — Human Project', href: `${base}07-the-human-project/` },
+  { label: '08 — Translation Key', href: `${base}08-translation-key/` },
+  { label: '09 — Location Registry', href: `${base}09-location-registry/` },
+  { label: '10 — Correlation Map', href: `${base}10-correlation-map/` },
+  { label: '11 — Unified Hypothesis', href: `${base}11-unified-hypothesis/` },
+  { label: '12 — NHI Correlation', href: `${base}12-nhi-correlation/` },
+  { label: '13 — NDE Correlation', href: `${base}13-nde-correlation/` },
+];
+
+const analyses: NavItem[] = [
+  { label: 'Atrahasis', href: `${base}analyses/atrahasis/` },
+  { label: 'Book of Enoch', href: `${base}analyses/enoch-watchers/` },
+  { label: 'Gilgamesh', href: `${base}analyses/gilgamesh/` },
+  { label: 'Ezekiel', href: `${base}analyses/ezekiel-merkabah/` },
+  { label: 'Mahābhārata', href: `${base}analyses/mahabharata/` },
+  { label: 'Popol Vuh', href: `${base}analyses/popol-vuh/` },
+  { label: 'Pyramid Texts', href: `${base}analyses/pyramid-texts/` },
+  { label: 'Rig Veda', href: `${base}analyses/rig-veda/` },
+  { label: 'Revelation', href: `${base}analyses/revelation/` },
+  { label: 'Book of the Dead', href: `${base}analyses/book-of-the-dead/` },
+  { label: 'Poetic Edda', href: `${base}analyses/poetic-edda/` },
+  { label: 'Theogony & Works and Days', href: `${base}analyses/theogony-works-and-days/` },
+  { label: 'Zoroastrian Gathas', href: `${base}analyses/zoroastrian-gathas/` },
+  { label: 'Yoga Sutras', href: `${base}analyses/yoga-sutras/` },
+];
+
+function isActive(href: string): boolean {
+  return currentPath === href || currentPath.replace(/\/$/, '') === href.replace(/\/$/, '');
+}
+---
+
+<nav class="sidebar" aria-label="Archive Navigation">
+  <input type="checkbox" id="sidebar-toggle" class="sidebar-toggle-input" aria-hidden="true" />
+  <label for="sidebar-toggle" class="sidebar-toggle-label" aria-label="Toggle navigation menu">
+    <span class="hamburger"></span>
+  </label>
+
+  <div class="sidebar-content">
+    <div class="sidebar-header">
+      <a href={base} class="sidebar-home">The Chronos Archive</a>
+    </div>
+
+    <section class="sidebar-section">
+      <h2 class="sidebar-heading">Syntheses</h2>
+      <ul class="sidebar-list">
+        {syntheses.map((item) => (
+          <li class="sidebar-item">
+            <a
+              href={item.href}
+              class:list={{ 'sidebar-link': true, 'sidebar-link--active': isActive(item.href) }}
+            >
+              {item.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="sidebar-section">
+      <h2 class="sidebar-heading">Analyses</h2>
+      <ul class="sidebar-list">
+        {analyses.map((item) => (
+          <li class="sidebar-item">
+            <a
+              href={item.href}
+              class:list={{ 'sidebar-link': true, 'sidebar-link--active': isActive(item.href) }}
+            >
+              {item.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </div>
+</nav>
+
+<style>
+  /* ── Sidebar Container ── */
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 260px;
+    background: #0d1117;
+    border-right: 1px solid #21262d;
+    overflow-y: auto;
+    z-index: 100;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ── Toggle (hidden on desktop) ── */
+  .sidebar-toggle-input {
+    display: none;
+  }
+
+  .sidebar-toggle-label {
+    display: none;
+    position: fixed;
+    top: 12px;
+    left: 12px;
+    z-index: 110;
+    width: 36px;
+    height: 36px;
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .hamburger,
+  .hamburger::before,
+  .hamburger::after {
+    display: block;
+    width: 20px;
+    height: 2px;
+    background: #c9d1d9;
+    border-radius: 1px;
+    position: relative;
+    transition: background 0.2s;
+  }
+
+  .hamburger::before,
+  .hamburger::after {
+    content: '';
+    position: absolute;
+    left: 0;
+  }
+
+  .hamburger::before {
+    top: -6px;
+  }
+
+  .hamburger::after {
+    top: 6px;
+  }
+
+  /* ── Sidebar Content ── */
+  .sidebar-content {
+    padding: 16px 0;
+    flex: 1;
+  }
+
+  .sidebar-header {
+    padding: 0 16px 16px;
+    border-bottom: 1px solid #21262d;
+    margin-bottom: 12px;
+  }
+
+  .sidebar-home {
+    font-size: 14px;
+    font-weight: 600;
+    color: #58a6ff;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+  }
+
+  .sidebar-home:hover {
+    color: #79c0ff;
+  }
+
+  .sidebar-section {
+    margin-bottom: 8px;
+  }
+
+  .sidebar-heading {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    color: #8b949e;
+    padding: 0 16px;
+    margin: 12px 0 4px;
+  }
+
+  .sidebar-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .sidebar-item {
+    margin: 0;
+  }
+
+  .sidebar-link {
+    display: block;
+    padding: 5px 16px;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #c9d1d9;
+    text-decoration: none;
+    transition: background 0.15s, color 0.15s;
+    border-left: 3px solid transparent;
+  }
+
+  .sidebar-link:hover {
+    background: #161b22;
+    color: #58a6ff;
+  }
+
+  .sidebar-link--active {
+    color: #58a6ff;
+    background: #161b22;
+    border-left-color: #58a6ff;
+    font-weight: 600;
+  }
+
+  /* ── Mobile (≤768px) ── */
+  @media (max-width: 768px) {
+    .sidebar-toggle-label {
+      display: flex;
+    }
+
+    .sidebar {
+      transform: translateX(-100%);
+      transition: transform 0.25s ease;
+      width: 260px;
+    }
+
+    .sidebar-toggle-input:checked ~ .sidebar {
+      transform: translateX(0);
+    }
+
+    .sidebar-toggle-input:checked ~ .sidebar-toggle-label {
+      left: 272px;
+    }
+
+    /* overlay when open */
+    .sidebar-toggle-input:checked::after {
+      content: '';
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: -1;
+    }
+  }
+</style>
