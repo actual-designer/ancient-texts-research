@@ -124,6 +124,75 @@ EGYPTIAN THEATER (Pyramid Texts -- parallel roster; source: audit/analyses/pyram
     └── The deceased king (Unis, Teti, Pepi I, etc.) -- Biological human upgraded to akh (operator-tier)
 ```
 
+### Organization Chart (Visual)
+
+```mermaid
+flowchart TD
+    %% TIER 1: Command Authority (Orbital) — Gold/Amber
+    subgraph T1["TIER 1: COMMAND AUTHORITY (Orbital)"]
+        direction TB
+        Anu["Anu / The Most High / Lord of Spirits"]
+        Council["Council / Assembly of the Gods"]
+    end
+
+    %% TIER 2: Senior Operatives (Surface Operations) — Blue/Cyan
+    subgraph T2["TIER 2: SENIOR OPERATIVES (Surface Operations)"]
+        direction TB
+        Enlil["Enlil (Ellil) — Ground Ops Commander"]
+        Enki["Enki (Ea) — Chief Scientist / Engineer"]
+        Nintu["Nintu (Mami / Aruru) — Bioengineering Lead"]
+        Archangels["Michael / Uriel / Raphael / Gabriel — Dept. Heads"]
+        Shamash["Shamash (Utu) — Solar / Surveillance Ops"]
+        Ishtar["Ishtar (Inanna) — Political / Reproductive Authority"]
+    end
+
+    %% TIER 3: Operational Workforce (Subsurface / Restricted) — Purple/Magenta
+    subgraph T3["TIER 3: OPERATIONAL WORKFORCE (Subsurface / Restricted)"]
+        direction TB
+        Igigi["Igigi — Pre-human labor force (revolted)"]
+        Watchers["200 Watchers — Rogue unit (unauthorized descent)"]
+        Cherubim["Cherubim / Living Beings — Autonomous systems"]
+        Angels["Various named angels — Specialist personnel"]
+    end
+
+    %% Command flow
+    T1 --> T2
+    T2 --> T3
+    Anu --> Council
+    Council -.-> Enlil
+    Council -.-> Enki
+    Council -.-> Nintu
+    Council -.-> Archangels
+    Council -.-> Shamash
+    Council -.-> Ishtar
+    Enlil --> Igigi
+    Enlil --> Watchers
+    Enki --> Cherubim
+
+    %% Tier styles
+    style T1 fill:#0d0a00,stroke:#ffd700,stroke-width:2px,color:#ffd700
+    style T2 fill:#000d0d,stroke:#00bfff,stroke-width:2px,color:#00bfff
+    style T3 fill:#0d000d,stroke:#dda0dd,stroke-width:2px,color:#dda0dd
+
+    %% Node styles — Tier 1
+    style Anu fill:#3d2e00,stroke:#ffd700,color:#ffe066
+    style Council fill:#3d2e00,stroke:#ffd700,color:#ffe066
+
+    %% Node styles — Tier 2
+    style Enlil fill:#003d4d,stroke:#00bfff,color:#80e5ff
+    style Enki fill:#003d4d,stroke:#00bfff,color:#80e5ff
+    style Nintu fill:#003d4d,stroke:#00bfff,color:#80e5ff
+    style Archangels fill:#003d4d,stroke:#00bfff,color:#80e5ff
+    style Shamash fill:#003d4d,stroke:#00bfff,color:#80e5ff
+    style Ishtar fill:#003d4d,stroke:#00bfff,color:#80e5ff
+
+    %% Node styles — Tier 3
+    style Igigi fill:#3d003d,stroke:#dda0dd,color:#eeb0ee
+    style Watchers fill:#3d003d,stroke:#dda0dd,color:#eeb0ee
+    style Cherubim fill:#3d003d,stroke:#dda0dd,color:#eeb0ee
+    style Angels fill:#3d003d,stroke:#dda0dd,color:#eeb0ee
+```
+
 ---
 
 ## TIER 1: Supreme Command

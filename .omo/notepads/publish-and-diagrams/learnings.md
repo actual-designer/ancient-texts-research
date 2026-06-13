@@ -31,3 +31,9 @@
   - `dist/audit/verification/` and `dist/audit/analyses/agents/` correctly excluded
 - Sidebar hrefs updated: all now include `audit/` prefix (e.g., `01-entity-registry` → `audit/01-entity-registry`)
 - `remark-link-rewrite.mjs` updated: handles `file://` URL paths from content layer (via `fileURLToPath`)
+## 2026-06-13 Wave 1 — Task 7: Mermaid Organization Chart in audit/01-entity-registry.md
+- Inserted `### Organization Chart (Visual)` section with `flowchart TD` after ASCII diagram (line 125)
+- 3 subgraphs: TIER 1 (gold/amber, orbital), TIER 2 (blue/cyan, surface ops), TIER 3 (purple/magenta, subsurface/restricted)
+- Nodes colored per-tier, dashed lines from Council to Tier 2 operatives, solid lines for command flow
+- Existing ASCII diagram left untouched; existing analytical content unchanged
+- Build: 29 pages, 921ms, clean
