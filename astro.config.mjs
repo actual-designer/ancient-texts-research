@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config';
+import remarkLinkRewrite from './src/remark-link-rewrite.mjs';
 
 // https://astro.build/config
 export default defineConfig({
@@ -15,7 +16,7 @@ export default defineConfig({
   srcDir: './src',
   outDir: './dist',
   markdown: {
-    remarkPlugins: [],
-    rehypePlugins: [],
+    remarkPlugins: [remarkLinkRewrite],
+    rehypePlugins: ['rehype-slug'],
   },
 });

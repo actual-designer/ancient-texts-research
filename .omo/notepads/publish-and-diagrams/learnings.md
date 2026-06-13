@@ -7,3 +7,10 @@
 - PLAN.md updated: Phases 1-4 COMPLETED, 5 IN PROGRESS, 6 DEFERRED, 7 CURRENT, 8-9 added
 - Parallel execution of Tasks 1, 2, 3, 5 was successful — all completed in ~5 min
 - Task 2 and Task 3 had overlapping scope (both created layout/sidebar) but converged cleanly
+- Task 4: remark-link-rewrite.mjs created — AST-based .md→/ link rewriter using unist-util-visit
+  - Handles: same-dir, parent-dir (../), subdir, root-relative (/), anchor fragments (#section)
+  - External/anchor-only links left untouched; code blocks safe via AST traversal
+  - 13/13 unit tests pass covering all link patterns
+  - Wired into astro.config.mjs: markdown.remarkPlugins + rehype-slug
+  - rehype-slug was already installed (v6.0.0)
+  - Build succeeds, zero `href="*.md"` in dist/
