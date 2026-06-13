@@ -1,0 +1,77 @@
+---
+// The Chronos Archive — Audit content route (syntheses)
+// Renders audit/*.md files (direct children of audit/) via BaseLayout.
+// Uses pre-rendered HTML from the content layer (entry.rendered.html).
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { rewriteMdLinks } from '../../utils/rewrite-html-links.mjs';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('audit');
+  const filtered = entries.filter(
+    (e) =>
+      !e.id.startsWith('verification/') &&
+      e.id !== 'analyses/agents' &&  // glob loader lowercases entry IDs
+      !e.id.includes('/')  // Only files at audit/ root (syntheses)
+  );
+
+  return filtered.map((entry) => ({
+    params: { slug: entry.id.replace(/\.md$/, '') },
+    props: { entryId: entry.id },
+  }));
+}
+
+const { entryId } = Astro.props;
+
+// Derive a readable title from the entry id when no frontmatter title exists
+function titleFromId(id: string): string {
+  const name = id.replace(/\.md$/, '').split('/').pop() || id;
+  return name
+    .replace(/^(\d{2})-(.+)$/, '$1 — $2')
+    .replace(/-/g, ' ')
+    .replace(/\b\w/g, (c) => c.toUpperCase())
+    .replace(/\b(Nhi|Nde|Index)\b/gi, (m) => m.toUpperCase());
+}
+
+// Re-fetch entry from content layer to get rendered HTML
+const allEntries = await getCollection('audit');
+const entry = allEntries.find((e) => e.id === entryId);
+
+let pageTitle = 'Not Found';
+let pageDescription = '';
+let contentHtml = '';
+
+if (entry) {
+  pageTitle = entry.data.title || titleFromId(entry.id);
+  pageDescription = entry.data.description || '';
+  contentHtml = rewriteMdLinks(entry.rendered?.html || '', entryId);
+}
+
+if (!contentHtml) {
+  Astro.response.status = 404;
+  pageTitle = 'Not Found — The Chronos Archive';
+}
+---
+
+{
+  contentHtml ? (
+    <BaseLayout title={pageTitle} description={pageDescription}>
+      <article class="md-content" set:html={contentHtml} />
+    </BaseLayout>
+  ) : (
+    <BaseLayout title={pageTitle}>
+      <h1>Document Not Found</h1>
+      <p>
+        The requested page does not exist in the Archive.
+        <br />
+        <a href={import.meta.env.BASE_URL || '/'}>Return to the Index</a>
+      </p>
+    </BaseLayout>
+  )
+}
+
+<style>
+  .md-content {
+    max-width: 100%;
+  }
+</style>

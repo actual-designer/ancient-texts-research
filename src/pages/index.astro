@@ -1,34 +1,109 @@
 ---
-// Minimal landing page for chronos-archive
-// Lists all content entries from the audit collection
+// The Chronos Archive — Landing Page
+import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
-// Filter out verification/ and AGENTS.md at query time
+const base = import.meta.env.BASE_URL || '/';
+
 const allEntries = await getCollection('audit');
 const entries = allEntries.filter(
-  (entry) =>
-    !entry.id.startsWith('verification/') &&
-    entry.id !== 'analyses/AGENTS.md'
+  (e) =>
+    !e.id.startsWith('verification/') &&
+    e.id !== 'analyses/agents'  // glob loader lowercases entry IDs
 );
+
+const synthesisCount = entries.filter(
+  (e) => !e.id.startsWith('analyses/')
+).length;
+const analysisCount = entries.filter((e) =>
+  e.id.startsWith('analyses/')
+).length;
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Chronos Archive</title>
-  </head>
-  <body>
-    <h1>Chronos Archive</h1>
-    <p>Research corpus: <strong>{entries.length}</strong> documents</p>
-    <ul>
-      {
-        entries.map((entry) => (
-          <li>
-            <a href={`/${entry.id.replace(/\.md$/, '/')}`}>{entry.id}</a>
-          </li>
-        ))
-      }
-    </ul>
-  </body>
-</html>
+<BaseLayout
+  title="The Chronos Archive"
+  description="A forensic, technological reconstruction of humanity's forgotten history — reverse-engineering ancient texts as corrupted technical manuals."
+>
+  <h1>The Chronos Archive</h1>
+
+  <p class="tagline">
+    Humanity isn't evolving. It's remembering.
+  </p>
+
+  <p>
+    Our <q>myths</q>, <q>scriptures</q>, and <q>miracles</q> are not metaphors,
+    poems, or delusions. They are <strong>corrupted technical manuals</strong> —
+    eyewitness accounts of a high-tech precursor civilization, recorded by
+    observers who lacked the vocabulary to describe what they were seeing.
+  </p>
+
+  <p>
+    The Archive applies a forensic, technological lens to ancient texts,
+    stripping away the religious varnish to uncover the hardware beneath.
+    <strong>{entries.length}</strong> documents across{' '}
+    <strong>{synthesisCount}</strong> cross-cutting syntheses and{' '}
+    <strong>{analysisCount}</strong> per-text deep dives.
+  </p>
+
+  <h2>Start Here</h2>
+
+  <ul>
+    <li>
+      <a href={`${base}audit/00-index/`}>Master Index</a> — Complete map of
+      every document in the Archive
+    </li>
+    <li>
+      <a href={`${base}audit/11-unified-hypothesis/`}>Unified Hypothesis</a> — The
+      full reconstruction across seven chapters
+    </li>
+    <li>
+      <a href={`${base}audit/07-the-human-project/`}>The Human Project</a> — We
+      weren't made in a garden. We were made to solve a labor dispute.
+    </li>
+  </ul>
+
+  <h2>Key Syntheses</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Document</th>
+        <th>Subject</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href={`${base}audit/01-entity-registry/`}>Entity Registry</a></td>
+        <td>Taxonomy of non-human actors across all sources</td>
+      </tr>
+      <tr>
+        <td><a href={`${base}audit/02-technology-catalog/`}>Technology Catalog</a></td>
+        <td>Every miracle mapped to a plausible mechanism</td>
+      </tr>
+      <tr>
+        <td><a href={`${base}audit/03-event-timeline/`}>Event Timeline</a></td>
+        <td>Unified chronology from deep antiquity to projected terminal sequence</td>
+      </tr>
+      <tr>
+        <td><a href={`${base}audit/04-cross-references/`}>Cross-References</a></td>
+        <td>Parallel accounts across geographically isolated traditions</td>
+      </tr>
+      <tr>
+        <td><a href={`${base}audit/05-great-reset/`}>Great Reset</a></td>
+        <td>The Flood as deliberate multi-vector sterilization protocol</td>
+      </tr>
+      <tr>
+        <td><a href={`${base}audit/06-weapons-doctrine/`}>Weapons Doctrine</a></td>
+        <td>Weapons authorization hierarchy and dual-key controls</td>
+      </tr>
+      <tr>
+        <td><a href={`${base}audit/13-nde-correlation/`}>NDE Correlation</a></td>
+        <td>Modern NDE research converging on the same post-mortem infrastructure</td>
+      </tr>
+      <tr>
+        <td><a href={`${base}audit/12-nhi-correlation/`}>NHI Correlation</a></td>
+        <td>Connecting the Archive's findings to modern UFO/UAP discourse</td>
+      </tr>
+    </tbody>
+  </table>
+</BaseLayout>

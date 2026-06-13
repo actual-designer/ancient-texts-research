@@ -14,3 +14,20 @@
   - Wired into astro.config.mjs: markdown.remarkPlugins + rehype-slug
   - rehype-slug was already installed (v6.0.0)
   - Build succeeds, zero `href="*.md"` in dist/
+## 2026-06-13 Wave 1 — Task 6: Content Collections + Catch-All Pages
+- Astro 4.x rest params (`[...slug]`) reject arrays in `getStaticPaths` param values; used separate `[slug]` route files per directory level instead
+  - `src/pages/audit/[slug].astro` for syntheses (single segment under audit/)
+  - `src/pages/audit/analyses/[slug].astro` for analyses (single segment under audit/analyses/)
+- Content layer (`experimental.contentLayer: true`) entries are `DataEntry` objects — no `.render()` method
+  - Pre-rendered HTML available as `entry.rendered.html` (populated by glob loader during sync)
+  - Rendered via `<article set:html={html} />` in Astro template
+- Content layer markdown rendering (`@astrojs/markdown-remark`) does NOT apply `astro.config.mjs` remark plugins — `remarkLinkRewrite` plugin is bypassed
+  - Fixed: post-process `entry.rendered.html` with `src/utils/rewrite-html-links.mjs`
+  - Regex-based `href` rewriter that resolves .md links relative to the source file's directory
+- Glob loader lowercases entry IDs: `analyses/AGENTS.md` → entry ID `analyses/agents`
+  - All `e.id !== 'analyses/AGENTS.md'` filters needed updating to `analyses/agents`
+- Output: 29 pages (1 landing + 14 syntheses + 14 analyses)
+  - `dist/index.html`, `dist/audit/00-INDEX/ ... 13-nde-correlation/`, `dist/audit/analyses/atrahasis/ ... zoroastrian-gathas/`
+  - `dist/audit/verification/` and `dist/audit/analyses/agents/` correctly excluded
+- Sidebar hrefs updated: all now include `audit/` prefix (e.g., `01-entity-registry` → `audit/01-entity-registry`)
+- `remark-link-rewrite.mjs` updated: handles `file://` URL paths from content layer (via `fileURLToPath`)

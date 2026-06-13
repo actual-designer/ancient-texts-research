@@ -1,0 +1,79 @@
+---
+// The Chronos Archive — Audit analyses content route
+// Renders audit/analyses/*.md files via BaseLayout.
+// Uses pre-rendered HTML from the content layer (entry.rendered.html).
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { rewriteMdLinks } from '../../../utils/rewrite-html-links.mjs';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('audit');
+  const filtered = entries.filter(
+    (e) =>
+      !e.id.startsWith('verification/') &&
+      e.id !== 'analyses/agents' &&  // glob loader lowercases entry IDs
+      e.id.startsWith('analyses/')
+  );
+
+  return filtered.map((entry) => {
+    // entry.id: "analyses/gilgamesh.md" → slug: "gilgamesh"
+    const slug = entry.id.replace(/\.md$/, '').replace('analyses/', '');
+    return {
+      params: { slug },
+      props: { entryId: entry.id },
+    };
+  });
+}
+
+const { entryId } = Astro.props;
+
+// Derive a readable title from the entry id
+function titleFromId(id: string): string {
+  const name = id.replace(/\.md$/, '').split('/').pop() || id;
+  return name
+    .replace(/-/g, ' ')
+    .replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
+// Re-fetch entry from content layer to get rendered HTML
+const allEntries = await getCollection('audit');
+const entry = allEntries.find((e) => e.id === entryId);
+
+let pageTitle = 'Not Found';
+let pageDescription = '';
+let contentHtml = '';
+
+if (entry) {
+  pageTitle = entry.data.title || titleFromId(entry.id);
+  pageDescription = entry.data.description || '';
+  contentHtml = rewriteMdLinks(entry.rendered?.html || '', entryId);
+}
+
+if (!contentHtml) {
+  Astro.response.status = 404;
+  pageTitle = 'Not Found — The Chronos Archive';
+}
+---
+
+{
+  contentHtml ? (
+    <BaseLayout title={pageTitle} description={pageDescription}>
+      <article class="md-content" set:html={contentHtml} />
+    </BaseLayout>
+  ) : (
+    <BaseLayout title={pageTitle}>
+      <h1>Document Not Found</h1>
+      <p>
+        The requested page does not exist in the Archive.
+        <br />
+        <a href={import.meta.env.BASE_URL || '/'}>Return to the Index</a>
+      </p>
+    </BaseLayout>
+  )
+}
+
+<style>
+  .md-content {
+    max-width: 100%;
+  }
+</style>
