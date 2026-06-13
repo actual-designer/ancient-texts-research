@@ -13,6 +13,7 @@ import os
 import re
 import sys
 from pathlib import Path
+from typing import Optional
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 AUDIT_DIR = REPO_ROOT / "audit"
@@ -20,10 +21,20 @@ TEXTS_DIR = REPO_ROOT / "texts"
 
 
 def find_markdown_files(root: Path) -> list[Path]:
-    """Return all .md files under root recursively."""
+    """Return all .md files under root recursively.
+
+    Excludes:
+      - audit/verification/  (QA evidence, not published)
+      - audit/analyses/AGENTS.md  (internal template, not published)
+    """
     if not root.exists():
         return []
-    return sorted(root.rglob("*.md"))
+    all_files = sorted(root.rglob("*.md"))
+    return [
+        f for f in all_files
+        if f.relative_to(root).parts[0] != 'verification'
+        and f.name != 'AGENTS.md'
+    ]
 
 
 def extract_links(filepath: Path) -> list[tuple[int, str, str]]:
@@ -56,7 +67,7 @@ def extract_links(filepath: Path) -> list[tuple[int, str, str]]:
     return links
 
 
-def resolve_target(source_file: Path, target_path: str) -> Path | None:
+def resolve_target(source_file: Path, target_path: str) -> Optional[Path]:
     """Resolve a relative link target to an absolute path.
 
     Links may be:

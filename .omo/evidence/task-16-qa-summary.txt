@@ -1,0 +1,64 @@
+## FINAL QA SUMMARY
+**Date:** 2026-06-13
+**Task:** Task 16 — Comprehensive Final QA
+
+### Checks
+
+1. **Build:** PASS — `npx astro build` exit 0, 30 pages built, zero warnings
+   - Evidence: .omo/evidence/task-16-build.txt
+
+2. **Link validation:** FAIL — `validate-links.py` crashes on Python 3.9.6
+   - `Path | None` union type syntax requires Python 3.10+
+   - Error on line 59: `def resolve_target(...) -> Path | None:`
+   - Python version: 3.9.6
+   - Evidence: .omo/evidence/task-16-links.txt
+
+3. **.md links in HTML:** PASS — 0 `.md` hrefs found in `dist/`
+   - All `.md` links correctly rewritten by remark plugin
+   - Evidence: .omo/evidence/task-16-md-links.txt
+
+4. **Page count:** PARTIAL — 29 `index.html` + 1 `404.html` = 30 total HTML pages
+   - `find dist -name 'index.html' | wc -l` = 29 (404 is standalone file, not directory)
+   - `find dist -name '*.html' | wc -l` = 30 ✓
+   - Build output confirms "30 page(s) built"
+   - Evidence: .omo/evidence/task-16-pages.txt
+
+5. **Verification/ exclusion:** PASS — `dist/audit/verification/` does not exist
+   - Evidence: .omo/evidence/task-16-exclusion.txt
+
+6. **Diagrams (6 pages):** PASS — All 6 diagram pages have mermaid references in HTML
+   - 01-entity-registry: 2 mermaid refs
+   - 03-event-timeline: 2 mermaid refs
+   - 06-weapons-doctrine: 2 mermaid refs
+   - 07-the-human-project: 2 mermaid refs
+   - 10-correlation-map: 2 mermaid refs
+   - 13-nde-correlation: 2 mermaid refs
+   - Evidence: .omo/evidence/task-16-diagrams.txt
+
+7. **404 page:** PARTIAL — 404 page exists at `dist/404.html` (standard Astro output) but NOT at `dist/404/index.html`
+   - `dist/404.html` is a valid HTML page with sidebar navigation
+   - `dist/404/index.html` directory format not used
+   - Evidence: .omo/evidence/task-16-404.txt
+
+### Overall: PARTIAL FAIL
+
+**PASS (4):** Build, .md links, verification exclusion, diagrams
+**PARTIAL (2):** Page count (30 total but 29 index.html), 404 page (exists as file not directory)
+**FAIL (1):** Link validation (Python 3.9 compatibility)
+
+### Issues Requiring Resolution
+
+1. **Link validation script** (`scripts/validate-links.py`) uses `Path | None` type hint syntax (PEP 604, Python 3.10+). Fix: replace with `Optional[Path]` from `typing` module for Python 3.9 compatibility, or upgrade to Python 3.10+.
+
+2. **404 page location** — Astro generates `dist/404.html` (single file). The test expects `dist/404/index.html` (directory). Standard Astro behavior for static sites; file-based hosts (GitHub Pages) serve `404.html` from root automatically. May need routing configuration if directory format is required.
+
+3. **Page count metric** — Test expects `find dist -name 'index.html' | wc -l = 30` but gets 29 because 404 page is `404.html` not `404/index.html`. The actual page count is 30. Consider adjusting the expected count or adding a note about 404.html being a standalone file.
+
+### Evidence Files
+- .omo/evidence/task-16-build.txt
+- .omo/evidence/task-16-links.txt
+- .omo/evidence/task-16-md-links.txt
+- .omo/evidence/task-16-pages.txt
+- .omo/evidence/task-16-exclusion.txt
+- .omo/evidence/task-16-diagrams.txt
+- .omo/evidence/task-16-404.txt

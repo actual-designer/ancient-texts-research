@@ -1,0 +1,18 @@
+Verification for task-7: Reduce prose em dashes in audit/09-location-registry.md
+
+Date: 2026-05-17
+
+Changes made:
+- Replaced 4 prose em dashes outside table cells with colons or semicolons
+- Lines affected: 4, 14, 15, 238
+- Table cells, table formatting, headings, and factual content preserved
+
+Counts:
+- Table cell markers (| — |): 87 (unchanged)
+- Total em dashes in file: 91 (reduced from 95)
+- Reduction: 4 prose em dashes removed
+
+Breakdown of remaining 91 em dashes:
+- 87 in table cell markers (| — |)
+- 1 in table cell description (Soma station — omphalos/navel concept)
+- 3 in headings (Location Registry —, Axis Mundi Analysis —, Underworld / Post-Mortem Processing Facilities —)

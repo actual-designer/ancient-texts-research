@@ -1,0 +1,14 @@
+Verification: audit/08-translation-key.md
+=====================================
+
+Initial em dash count: 69
+Final em dash count: 69
+Prose em dashes removed: 0
+
+Analysis:
+- 1 em dash in document title heading (line 1) — untouched per guardrail
+- 68 em dashes in table cells — untouched per guardrail
+- Zero prose paragraphs with em dashes found outside tables
+
+Zero table cell markers modified.
+All factual content preserved.

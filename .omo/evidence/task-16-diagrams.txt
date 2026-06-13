@@ -1,0 +1,12 @@
+=== Entity Hierarchy ===
+dist/audit/01-entity-registry/index.html: 2
+=== Event Timeline ===
+dist/audit/03-event-timeline/index.html: 2
+=== Weapons Doctrine ===
+dist/audit/06-weapons-doctrine/index.html: 2
+=== Human Project ===
+dist/audit/07-the-human-project/index.html: 2
+=== Correlation Map ===
+dist/audit/10-correlation-map/index.html: 2
+=== NDE Correlation ===
+dist/audit/13-nde-correlation/index.html: 2

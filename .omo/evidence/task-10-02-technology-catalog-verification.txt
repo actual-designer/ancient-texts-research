@@ -1,0 +1,13 @@
+Verification: audit/02-technology-catalog.md
+=====================================
+
+Initial em dash count: 13
+Final em dash count: 13
+Prose em dashes removed: 0
+
+Analysis:
+- All 13 em dashes are inside table cells (Description, Reconstruction, Modern analog columns)
+- Zero prose paragraphs with em dashes found outside tables
+
+Zero table cell markers modified.
+All factual content preserved.

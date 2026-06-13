@@ -1,0 +1,17 @@
+Verification: audit/03-event-timeline.md
+=====================================
+
+Initial em dash count: 31
+Final em dash count: 29
+Prose em dashes removed: 2
+
+Changes made:
+1. Line 19: "archive — events" → "archive: events" (explanatory dash replaced with colon)
+2. Line 358: "future/pending** — forecast" → "future/pending**, forecast" (explanatory dash replaced with comma)
+
+Remaining em dashes (29 total):
+- 10 in heading lines (### Phase X — Description) — untouched per guardrail
+- 19 in table cells — untouched per guardrail
+
+Zero table cell markers modified.
+All factual content preserved.
