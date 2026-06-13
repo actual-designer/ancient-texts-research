@@ -54,6 +54,30 @@ All traditions describe weapons that are keyed to their operators:
 
 ---
 
+### 1.4 Weapons Authorization Flow (Visual)
+
+```mermaid
+flowchart LR
+    CMD["Command Authority (Tier 1)"] -->|"Policy Authorization"| SNR["Senior Operative (Tier 2)"]
+    SNR -->|"Deployment Orders"| FLD["Field Operator (Tier 3)"]
+    SNR -.->|"Conditional Access"| HYB["Hybrid / Human (Restricted)"]
+
+    DK["Dual-Key Custody<br/>2+ independent inputs required"] -.-> CMD
+    OL["Operator Lock<br/>Biometric / Lineage / Initiation"] -.-> FLD
+
+    ET["Escalation Trigger"] -->|"ROE Erosion"| CMD
+    ET -->|"ROE Erosion"| FLD
+
+    CMD -->|"Authorized"| SR["Strategic-Grade Release"]
+    FLD -->|"Unauthorized"| SR
+
+    SR --> RR["Regret / Remorse<br/>Institutional Post-Mortem"]
+    RR --> TC["Tighter Custody & Reform"]
+    TC -.->|"Institutional Learning"| CMD
+```
+
+---
+
 ## SECTION 2: The Weapons Taxonomy
 
 ### 2.1 Tactical Grade (Tier 2/3 -- Battlefield Authorization)

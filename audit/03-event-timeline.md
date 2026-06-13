@@ -505,6 +505,60 @@ PROJECTED TERMINAL SEQUENCE (Revelation Briefing -- ~95 CE documentation, timing
   └── New Jerusalem deployed (replacement habitat)
 ```
 
+
+### Visual Timeline
+
+The following Gantt chart visualizes the relative sequence and approximate duration of each major era across all 14 source texts. Dates before Ezekiel's 593 BCE encounters are relative — based on internal textual references rather than independently verified chronology. The horizontal axis is compressed for deep-time eras to render the full arc visible in a single view.
+
+```mermaid
+gantt
+    title Unified Chronology — The Chronos Archive
+    dateFormat YYYY
+    axisFormat %Y
+
+    section Era 0 — Vedic Creation Cycle (Pre-Operational)
+    Pre-Operational State (Rig Veda)    :done, v1, -10000, -8000
+    Entity Generation & Sys. Decomp.    :done, v2, -8000, -6000
+
+    section Era 1 — Pre-Operator / Igigi Period
+    Domain Assignment (Atrahasis)        :done, i1, -5500, -5000
+    Igigi Labor Period (3,600 yrs)      :done, i2, -5000, -1400
+    Igigi Revolt                         :milestone, i3, -1400, 0d
+
+    section Era 2 — Watchers / Nephilim
+    Human Creation (14 prototypes)      :done, w1, -1300, -1200
+    Watchers Descent (200, Enoch)       :crit, done, w2, -1150, -1100
+    Nephilim Crisis & Tech. Transfer    :crit, done, w3, -1100, -1000
+    Command Intervention (Binding)       :milestone, w4, -1000, 0d
+
+    section Era 3 — Flood / Great Reset
+    Population Control Attempts          :done, f1, -990, -975
+    Flood Sterilization Protocol         :crit, done, f2, -975, -970
+    Ark / Genetic Preservation (All)    :done, f3, -975, -965
+
+    section Era 4 — Post-Flood / Operator Withdrawal
+    Gilgamesh & Uruk Period              :done, p1, -900, -750
+    Mahābhārata Theater                  :done, p2, -750, -600
+    Zoroastrian Gathas                   :done, p3, -1000, -500
+    Norse & Greek Theaters               :done, p4, -600, -500
+    Egyptian Post-Mortem Pipeline        :done, p5, -2350, 500
+    Operator Withdrawal                   :done, p6, -700, -593
+
+    section Era 5 — Final Contact to Present
+    Ezekiel Encounters (593 BCE)        :crit, done, e1, -593, -573
+    Yoga Sutras / Consciousness Lock     :done, e2, 200, 400
+    Reduced Contact / Silent Period      :done, e3, -573, 1975
+
+    section Era 6 — Contemporary
+    NDE Research & Processing Infra.     :active, c1, 1975, 2026
+
+    section Projected — Terminal Sequence
+    Seven Seals & Four Horsemen          :crit, proj1, 2026, 2030
+    Trumpets / Vials / Armageddon        :crit, proj2, 2030, 2035
+    Millennium (1,000 yr containment)    :crit, proj3, 2035, 3035
+    New Jerusalem Deployed               :milestone, proj4, 3035, 0d
+```
+
 ---
 
 ## ERA 7: CONTEMPORARY PROCESSING INFRASTRUCTURE (Modern Era)

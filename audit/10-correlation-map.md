@@ -406,6 +406,35 @@ Extensive location data exists across all 14 texts. Key cross-tradition parallel
 
 ---
 
+### 2.9 Thematic Correlation Network
+
+The following diagram visualizes the eight thematic clusters identified in the correlation inventory above. The central convergence node connects to each cluster, and each cluster node lists the source traditions that provide supporting evidence from the archive.
+
+```mermaid
+flowchart TD
+    classDef center fill:#1a1a3e,stroke:#ffd700,stroke-width:3px,color:#fff
+    classDef c1 fill:#0a1a2e,stroke:#4488ff,stroke-width:2px,color:#aaccff
+    classDef c2 fill:#0a1e0a,stroke:#44cc44,stroke-width:2px,color:#aaffaa
+    classDef c3 fill:#1a0a2e,stroke:#aa44ff,stroke-width:2px,color:#ccaaff
+    classDef c4 fill:#1e0e0a,stroke:#ff8844,stroke-width:2px,color:#ffccaa
+    classDef c5 fill:#1e0a0a,stroke:#ff4444,stroke-width:2px,color:#ffaaaa
+    classDef c6 fill:#1a0a1e,stroke:#ff44aa,stroke-width:2px,color:#ffaacc
+    classDef c7 fill:#0a1e1a,stroke:#44dddd,stroke-width:2px,color:#aaffee
+    classDef c8 fill:#1e1e0a,stroke:#aaaa44,stroke-width:2px,color:#eeeeaa
+
+    CENTER["THEMATIC CONVERGENCE"]:::center
+    CENTER --> C1["Creation & Engineering<br/>Atrahasis · Popol Vuh · Theogony · Gilgamesh · Enoch · Mahabharata"]:::c1
+    CENTER --> C2["Entity Hierarchy & Command<br/>Atrahasis · Enoch · Theogony · Revelation · Gathas · Mahabharata"]:::c2
+    CENTER --> C3["Aerospace Vehicles & Facilities<br/>Ezekiel · Enoch · Revelation · Mahabharata · Gilgamesh"]:::c3
+    CENTER --> C4["Flood / Great Reset<br/>Gilgamesh · Atrahasis · Popol Vuh · Theogony"]:::c4
+    CENTER --> C5["Weapons & Conflict<br/>Mahabharata · Gilgamesh · Revelation · Poetic Edda · Theogony"]:::c5
+    CENTER --> C6["Eschaton & Terminal Protocols<br/>Revelation · Poetic Edda · Theogony · Gathas"]:::c6
+    CENTER --> C7["Post-Mortem Processing<br/>Book of Dead · Pyramid Texts · Gathas · Popol Vuh · Revelation"]:::c7
+    CENTER --> C8["Locations Registry<br/>Gilgamesh · Atrahasis · Enoch · Theogony · Revelation · Ezekiel · Poetic Edda · Book of Dead · Pyramid Texts · Popol Vuh · Mahabharata"]:::c8
+```
+
+---
+
 ## 3. Linking Blueprint
 
 This section defines specific insertion points for every document that needs hyperlinks. All links use relative paths:

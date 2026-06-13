@@ -14,6 +14,100 @@ This document reconstructs the complete arc from inception to the latest atteste
 
 ---
 
+## Lifecycle State Diagram
+
+The following state diagram visualizes the Human Project as a complete state machine from inception through operator withdrawal. Each state transition is labeled with the triggering condition that drove it. The post-mortem processing pipeline (Phase 7b) runs continuously in parallel, extracting and processing individual consciousness at biological termination -- the **return path** back to operator-tier integration.
+
+```mermaid
+stateDiagram-v2
+    direction TB
+
+    [*] --> R&amp;D: Council deliberates
+
+    state "Iterative R&amp;D<br/>(Popol Vuh)" as R&amp;D {
+        [*] --> Animal: Run 1
+        Animal --> Mud: no speech
+        Mud --> Wood: dissolves
+        Wood --> Corn: no consciousness
+        Corn --> [*]: cognition throttled
+    }
+
+    R&amp;D --> Creation: Corn prototype succeeds
+
+    state "Creation<br/>(Labor Solution)" as Creation {
+        [*] --> Prototypes: 14 fabricated
+        Prototypes --> Deploy: genome hybridized
+    }
+
+    Creation --> Management: Species fielded
+
+    state "Management Phase" as Management {
+        [*] --> Monitor: surveillance array
+        Monitor --> Control: population overshoot
+        Control --> Liaison: informant model
+    }
+
+    Management --> Contamination: 200 Watchers descend
+    Management --> Crisis: population overshoot
+
+    state "Contamination" as Contamination {
+        [*] --> Hybrids: Nephilim giants
+        Hybrids --> Leak: technology transfer
+    }
+
+    Contamination --> Crisis: species unsalvageable
+
+    state "Crisis Threshold" as Crisis {
+        [*] --> Evaluate: dual trigger active
+        Evaluate --> Decide: council vote
+    }
+
+    Crisis --> Reset: Flood authorized
+
+    state "Reset<br/>(Flood)" as Reset {
+        [*] --> Evacuate: operators to orbit
+        Evacuate --> Sterilize: multi-vector attack
+        Sterilize --> Preserve: seed vault (Enki)
+    }
+
+    Reset --> Rebuild: Utnapishtim lineage
+
+    state "Rebuild v2.0" as Rebuild {
+        [*] --> Kings: hybrid rulers
+        Kings --> Custody: tighter genetic control
+        Custody --> Record: scribe mandate
+    }
+
+    Rebuild --> SecondGen: precision commissions
+
+    state "Second-Gen Programs<br/>(Mahābhārata)" as SecondGen {
+        [*] --> Commission: Pāṇḍavas/Kauravas
+        Commission --> Escalate: astra proliferation
+        Escalate --> ResetLocal: Kurukshetra war
+    }
+
+    SecondGen --> Withdrawal: operator departure
+    Rebuild --> Withdrawal: phased handoff
+
+    state "Withdrawal / Silence" as Withdrawal {
+        [*] --> Direct: pre-Flood governance
+        Direct --> Hybrid: post-Flood kings
+        Hybrid --> Liaison: Kṛṣṇa at war
+        Liaison --> Periodic: Ezekiel (593 BCE)
+        Periodic --> Silent: post-573 BCE
+        Silent --> [*]: autonomous test phase
+    }
+
+    note right of R&amp;D: Popol Vuh: 4 prototype runs<br/>tested and destroyed sequentially
+    note right of Creation: Atrahasis: donor genome extracted<br/>(Geshtu-E, intelligence)
+    note right of Contamination: Enoch: unauthorized ground deployment<br/>by 200 Watcher operators
+    note left of Crisis: Dual trigger:<br/>chronic: population overshoot<br/>acute: contamination
+    note left of Reset: Deliberate multi-vector<br/>environmental sterilization
+    note right of Withdrawal: permanent → selective → liaison<br/>→ periodic → silence
+```
+
+---
+
 ## SECTION 1: The Labor Problem
 
 ### 1.1 The Pre-Human Workforce

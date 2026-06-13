@@ -704,6 +704,41 @@ Both describe a **consciousness-extraction and reassignment pipeline** operated 
 
 ---
 
+### 4.12 The Post-Mortem Processing Pipeline: Comparative Flow Diagram
+
+The following flowchart maps three independent tradition tracks -- Egyptian, modern NDE, and Zoroastrian -- onto parallel pipeline stages. Each tradition describes the same underlying facility architecture from a different observational position: the Egyptian texts as an external procedural manual, the NDE reports as a first-person user experience, and the Zoroastrian material as an ethical-assessment framework. The horizontal alignment of pipeline stages across traditions highlights the structural convergence of the processing sequence.
+
+```mermaid
+flowchart LR
+    %% STYLES — dark theme
+    classDef egypt fill:#0d1f0d,stroke:#4caf50,color:#c8e6c9,stroke-width:2px
+    classDef nde   fill:#0d0d1f,stroke:#42a5f5,color:#bbdefb,stroke-width:2px
+    classDef zor   fill:#1f0d0d,stroke:#ff9800,color:#ffe0b2,stroke-width:2px
+
+    subgraph EG["Egyptian Tradition (Pyramid Texts / Book of the Dead)"]
+        direction LR
+        E1["① Duat<br/>Vacuum Transit Corridor"] --> E2["② Hall of Maati<br/>42 Assessors"] --> E3["③ Weighing of Heart<br/>Identity Comparator"] --> E4["④ Akhet Gates<br/>Gated Transit System"] --> E5["⑤ Field of Reeds<br/>Post-Processing Settlement"]
+    end
+
+    subgraph NDE["Modern NDE Track (Moody / Greyson / van Lommel)"]
+        direction LR
+        N1["① Dark Tunnel<br/>Void Transit Corridor"] --> N2["② Life Review<br/>Panoramic Replay"] --> N3["③ Being of Light<br/>Assessment Authority"] --> N4["④ Boundary / Threshold<br/>Point of No Return"] --> N5["⑤ Transcendent Realm<br/>or Return to Body"]
+    end
+
+    subgraph ZOR["Zoroastrian Tradition (Gathas / Vendidad)"]
+        direction LR
+        Z1["① Chinvat Bridge<br/>Soul's Crossing"] --> Z2["② Three Judges<br/>Mithra, Rashnu, Sraosha"] --> Z3["③ Record Weighing<br/>Thoughts, Words, Deeds"] --> Z4{"④ Judgment<br/>House of Song<br/>or House of Lies"}
+    end
+
+    class E1,E2,E3,E4,E5 egypt
+    class N1,N2,N3,N4,N5 nde
+    class Z1,Z2,Z3,Z4 zor
+```
+
+**Pipeline Key:** Egyptian (green) | NDE (blue) | Zoroastrian (orange). Stages ①-⑤ are numbered to highlight parallel processing functions across traditions. The Zoroastrian track terminates in a binary routing decision (House of Song vs. House of Lies), reflecting its ethical-assessment emphasis. NDE Stage ⑤ is shown as a terminal fork (Transcendent Realm for those who cross the boundary, Return to Body for those turned back). Section 4 above provides the full textual mapping for each stage.
+
+---
+
 ## 5. Entity Encounters
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
