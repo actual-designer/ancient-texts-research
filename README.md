@@ -1,5 +1,8 @@
 # 🏛️ The Chronos Archive
 
+[![Deploy](https://github.com/actual-designer/ancient-texts-research/actions/workflows/deploy.yml/badge.svg)](https://github.com/actual-designer/ancient-texts-research/actions/workflows/deploy.yml)
+**Published Site:** [https://actual-designer.github.io/ancient-texts-research/](https://actual-designer.github.io/ancient-texts-research/)
+
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
 **Status:** Active Investigation
 

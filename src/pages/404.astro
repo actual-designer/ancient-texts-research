@@ -1,0 +1,134 @@
+---
+// The Chronos Archive — 404 Error Page
+// This page does not exist in the Archive.
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const base = import.meta.env.BASE_URL || '/';
+---
+
+<BaseLayout title="404 — Page Not Found — The Chronos Archive" description="The requested page does not exist in the Archive.">
+  <main class="error-container">
+    <header class="error-header">
+      <h1><span class="error-code">404</span> — Page Not Found</h1>
+      <p class="error-message">
+        This page does not exist in the Archive. The signal you're looking for has not been
+        indexed — or never existed in the first place. The amnesia filter does not apply here;
+        this is simply a broken link.
+      </p>
+    </header>
+
+    <section class="diagram-section">
+      <h2>You Have Reached Uncharted Territory</h2>
+      <p>
+        The Archive's infrastructure is organized into three tiers, none of which contain the
+        resource you requested:
+      </p>
+      <pre class="tier-diagram"><code>ORBITAL TIER (Command)
+  └── Heaven of Anu / Seventh Heaven / Throne Room
+      └── Council / Assembly of the Gods
+
+SURFACE TIER (Operations)
+  ├── Enlil — Ground Command / Storm Operations
+  ├── Enki — Subsurface R&D / Bioengineering
+  ├── Nintu — Genetic Fabrication
+  ├── Weapons Custody — Authorized Deployment
+  └── Human Settlements — Managed Zones
+
+SUBSURFACE TIER (Restricted)
+  ├── Apsu / Abzu — Enki's Domain
+  ├── Xibalbá — Trial Facility
+  ├── Duat — Post-Mortem Processing
+  ├── Tartarus / Prison of Stars — Detention
+  └── The Abyss — Terminal Containment</code></pre>
+    </section>
+
+    <hr />
+
+    <nav class="return-nav">
+      <h2>Return to Known Territory</h2>
+      <ul>
+        <li><a href={`${base}`}>🏛️ Home — The Chronos Archive</a></li>
+        <li><a href={`${base}audit/00-index/`}>📖 00-INDEX — Master Map of the Archive</a></li>
+        <li><a href="https://github.com/actual-designer/ancient-texts-research#readme">📄 README — Project Overview</a></li>
+      </ul>
+      <p class="subtitle">
+        If you believe this page should exist, verify the link or
+        <a href="https://github.com/actual-designer/ancient-texts-research/issues">open an issue</a>
+        on the Archive's repository.
+      </p>
+    </nav>
+  </main>
+</BaseLayout>
+
+<style>
+  .error-container {
+    padding-top: 1rem;
+  }
+
+  .error-header {
+    margin-bottom: 2rem;
+  }
+
+  .error-code {
+    color: #f85149;
+    font-weight: 700;
+  }
+
+  .error-message {
+    font-size: 1.1em;
+    color: #8b949e;
+    max-width: 640px;
+  }
+
+  .diagram-section {
+    margin: 2rem 0;
+  }
+
+  .tier-diagram {
+    background: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 20px 24px;
+    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+    font-size: 0.875em;
+    line-height: 1.6;
+    color: #e6edf3;
+    overflow-x: auto;
+  }
+
+  .tier-diagram code {
+    background: none;
+    padding: 0;
+    color: inherit;
+  }
+
+  .return-nav {
+    margin-top: 2rem;
+  }
+
+  .return-nav ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  .return-nav li {
+    margin-bottom: 0.75em;
+    font-size: 1.05em;
+  }
+
+  .return-nav a {
+    color: #58a6ff;
+    text-decoration: none;
+  }
+
+  .return-nav a:hover {
+    color: #79c0ff;
+    text-decoration: underline;
+  }
+
+  .subtitle {
+    margin-top: 1.5rem;
+    color: #8b949e;
+    font-size: 0.95em;
+  }
+</style>
