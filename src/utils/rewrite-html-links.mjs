@@ -16,9 +16,11 @@
  */
 export function rewriteMdLinks(html, entryId) {
   // Derive the source directory from the entry ID
-  // "01-entity-registry.md" → "" (audit root)
+  // "01-entity-registry.md" → "audit" (audit root — content collection glob is audit/**/*.md)
   // "analyses/gilgamesh.md" → "analyses"
-  const srcRelDir = entryId.includes('/') ? entryId.substring(0, entryId.lastIndexOf('/')) : '';
+  const srcRelDir = entryId.includes('/')
+    ? entryId.substring(0, entryId.lastIndexOf('/'))
+    : 'audit';
   const BASE = '/ancient-texts-research';
 
   return html.replace(
