@@ -277,7 +277,7 @@ This is a departmental org chart. Each "angel" is not a spiritual being but a se
 | "Enchantments and root-cuttings" | Pharmacology, possible plant genetic modification |
 | "Constellations, signs of the sun/moon" | Astronomical instrumentation and orbital mechanics |
 | Crystal houses with fire perimeters | Energy-shielded transparent-walled facility (see [revelation.md](revelation.md): sea of glass) |
-| Ceiling "like the path of the stars" | Real-time astronomical display / star chart |
+| Ceiling "like the path of the stars" | Real-time astronomical display / star chart (see [pyramid-texts.md](pyramid-texts.md): celestial geography) |
 | "Hot as fire and cold as ice" | Cryogenic cooling + high-energy systems |
 | Throne with "wheels like the shining sun" | Mobile command platform (Merkabah-class) (see [ezekiel-merkabah.md](ezekiel-merkabah.md)) |
 | "Great Glory" emitting lethal radiation | High-energy entity or radiation-suited commander |
@@ -286,3 +286,27 @@ This is a departmental org chart. Each "angel" is not a spiritual being but a se
 | "Portals of heaven" with winds | Atmospheric control systems or transit gates (see [pyramid-texts.md](pyramid-texts.md): sky portals) |
 | "Closed chambers of the winds" | Environmental control / weather management facility |
 | "Chambers of the sun and moon" | Astronomical observation/tracking stations |
+
+---
+
+## Cross-Cutting Synthesis & Archive Hooks
+
+| Parallel | Enoch Anchor | Partner Document |
+|----------|-------------|------------------|
+| Unauthorized ground deployment | 200 Watchers descend on Mount Hermon under Semjaza | [poetic-edda.md](poetic-edda.md) -- Loki as rogue operator defying command tier |
+| Systematic technology transfer | Azazel curriculum: weapons, metallurgy, cosmetics, astronomy | [02-technology-catalog.md](../02-technology-catalog.md) -- classified knowledge transfer |
+| Technology embargo violation | "Eternal secrets which were in heaven" disclosed to humans | [06-weapons-doctrine.md](../06-weapons-doctrine.md) -- weapons custody escalation |
+| Failed hybridization | Nephilim: oversized, hyperphagic, behaviorally unstable | [07-the-human-project.md](../07-the-human-project.md) -- genetic contamination cycles |
+| Controlled vs uncontrolled bioengineering | Watcher ad hoc breeding vs Atrahasis laboratory protocol | [atrahasis.md](atrahasis.md) -- controlled creation vs wild hybridization |
+| Commissioned births parallel | Nephilim as uncontrolled hybrid offspring | [mahabharata.md](mahabharata.md) -- precision genetic commissions |
+| Transparent-walled energy-shielded facility | Crystal houses with fire perimeters | [ezekiel-merkabah.md](ezekiel-merkabah.md) -- Merkabah throne chamber |
+| Mobile command platform | Throne with wheels like the shining sun | [ezekiel-merkabah.md](ezekiel-merkabah.md) -- wheel within wheel |
+| High-energy entity emitting lethal radiation | Great Glory on the throne | [mahabharata.md](mahabharata.md) -- Viśvarūpa theophany |
+| Command center with attending host | Ten thousand times ten thousand attending the throne | [revelation.md](revelation.md) -- angelic host / throne room |
+| Malfunctioning orbital assets detained | Prison of the stars at "end of heaven and earth" | [revelation.md](revelation.md) -- dragon casts stars / bottomless pit |
+| Long-duration detention facility | Watchers bound for 70 generations / 10,000 years | [theogony-works-and-days.md](theogony-works-and-days.md) -- Tartarus imprisonment |
+| Seven-domain command roster | Uriel, Raphael, Raguel, Michael, Saraqael, Gabriel, Remiel | [zoroastrian-gathas.md](zoroastrian-gathas.md) -- 7 Amesha Spenta |
+| Departmental org chart of non-human operators | Seven holy angels with domain portfolios | [01-entity-registry.md](../01-entity-registry.md) -- non-human actor hierarchy |
+| High-altitude insertion point | Mount Hermon (9,232 ft) as designated LZ | [09-location-registry.md](../09-location-registry.md) -- named geographic zones |
+| Judicial proceedings against rogue operatives | Watchers court-martial and sentencing | [theogony-works-and-days.md](theogony-works-and-days.md) -- Titanomachy |
+| Real-time celestial display technology | Ceiling showing "path of the stars and lightnings" | [pyramid-texts.md](pyramid-texts.md) -- celestial geography |

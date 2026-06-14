@@ -187,6 +187,7 @@ Seven sequential kinetic strikes, each affecting exactly one third of a targeted
 | 5 | Human population (Woe 1) | Aerial drone deployment from the Abyss (see [enoch-watchers.md](enoch-watchers.md): prison of stars) | Targeted torment for 5 months |
 | 6 | Human population (Woe 2) | Large-scale military mobilization from the Euphrates | 200 million-strong force, kills 33% of remaining population |
 | 7 | Atmosphere | Declaration of operational completion | Transition to final phase |
+| Tech Catalog | All domains | Pre-set fractional yields (see [02-technology-catalog.md](../02-technology-catalog.md)) | Weapons system calibration |
 
 The repeated "third part" calibration is not random -- it is a **pre-set yield parameter**, exactly like the "fourth part" in the Four Horsemen (see [06-weapons-doctrine.md](../06-weapons-doctrine.md)). This is a weapons system with adjustable power settings. The 33% effect on each domain suggests a protocol designed to degrade planetary systems without rendering them inoperable.
 
@@ -224,7 +225,7 @@ The "three and a half days" matches the "time, times, and half a time" and "42 m
 
 ### Plausible Mechanism
 
-**Forward-deployed operatives with environmental-control capabilities and a guaranteed extraction protocol.** The 3.5-year mission timeline is consistent with other duration references in the text. The death-reanimation-extraction sequence matches the post-mortem processing pipeline (see [book-of-the-dead.md](book-of-the-dead.md): Weighing of the Heart; [Pyramid Texts](pyramid-texts.md): Duat processing -> akh transformation -> sky transit). The "beast from the bottomless pit" is a competing ground force that intercepts the operatives before their scheduled extraction.
+**Forward-deployed operatives with environmental-control capabilities and a guaranteed extraction protocol.** The 3.5-year mission timeline is consistent with other duration references in the text. The death-reanimation-extraction sequence matches the post-mortem processing pipeline (see [book-of-the-dead.md](book-of-the-dead.md): Opening of the Mouth; [Pyramid Texts](pyramid-texts.md): Duat processing -> akh transformation -> sky transit). The "beast from the bottomless pit" is a competing ground force that intercepts the operatives before their scheduled extraction.
 
 ---
 

@@ -15,6 +15,11 @@ The Atrahasis is arguably the most operationally transparent text in the archive
 3. Population-control measures deployed against the new species when it exceeded parameters (see [05-great-reset.md](../05-great-reset.md))
 4. A catastrophic environmental reset (the Flood) and the survival of a single warned lineage (see [gilgamesh.md](gilgamesh.md))
 
+- Labor dispute among stratified non-human workforce: [enoch-watchers.md](enoch-watchers.md)
+- Bioengineering of a hybrid laborer species: [07-the-human-project.md](../07-the-human-project.md)
+- Population-control measures: [05-great-reset.md](../05-great-reset.md)
+- Catastrophic environmental reset: [gilgamesh.md](gilgamesh.md)
+
 ---
 
 ## INCIDENT 01: The Igigi Labor Revolt
@@ -33,7 +38,7 @@ A mythological explanation for why the gods created humanity -- to relieve their
 
 ### The Archive's Literal Reconstruction
 
-A two-tier non-human workforce operated on Earth for an extended period. The command tier (Anunnaki) delegated physically demanding infrastructure work -- specifically large-scale hydraulic engineering (canal systems, river management) -- to the operational tier (Igigi). The text explicitly names the Tigris and Euphrates as construction projects, not natural formations or divine creations. After 3,600 years of continuous operation, the Igigi workforce reached a breaking point (see [enoch-watchers.md](enoch-watchers.md)).
+A two-tier non-human workforce operated on Earth for an extended period. The command tier (Anunnaki) delegated physically demanding infrastructure work -- specifically large-scale hydraulic engineering (canal systems, river management) -- to the operational tier (Igigi). The text explicitly names the Tigris and Euphrates as construction projects, not natural formations or divine creations. After 3,600 years of continuous operation, the Igigi workforce reached a breaking point [enoch-watchers.md](enoch-watchers.md) — labor revolt parallel (see [enoch-watchers.md](enoch-watchers.md)).
 
 The chain of command is precisely laid out:
 
@@ -48,7 +53,7 @@ The chain of command is precisely laid out:
 
 ### Plausible Mechanism
 
-The scenario describes a colonial engineering operation with a rigid command hierarchy (see [01-entity-registry.md](../01-entity-registry.md)). The "3,600 years" may refer to orbital periods (a *shar* in Sumerian reckoning = 3,600 Earth years) (see [03-event-timeline.md](../03-event-timeline.md)) or be a stylized large number for operational duration. The infrastructure projects -- canals, river channels, marshland management -- are physically real features of Mesopotamia. The labor revolt follows a recognizable pattern: extended exploitation leading to organized resistance, complete with arson ("set fire to their tools") and siege tactics (surrounding Ellil's headquarters at night).
+The scenario describes a colonial engineering operation with a rigid command hierarchy [01-entity-registry.md](../01-entity-registry.md) (see [01-entity-registry.md](../01-entity-registry.md)). The "3,600 years" may refer to orbital periods [03-event-timeline.md](../03-event-timeline.md) (chronometry) (a *shar* in Sumerian reckoning = 3,600 Earth years) (see [03-event-timeline.md](../03-event-timeline.md)) or be a stylized large number for operational duration. The infrastructure projects -- canals, river channels, marshland management -- are physically real features of Mesopotamia. The labor revolt follows a recognizable pattern: extended exploitation leading to organized resistance, complete with arson ("set fire to their tools") and siege tactics (surrounding Ellil's headquarters at night).
 
 ---
 
@@ -75,10 +80,10 @@ An origin myth explaining humanity's purpose as servants of the gods, with the m
 This is a bioengineering protocol described by a non-technical observer. The procedure, stripped to its operational elements:
 
 1. **Decision:** The command tier authorizes creation of a biological labor replacement after the Igigi revolt makes the existing workforce untenable.
-2. **Specialist assigned:** Nintu/Mami, explicitly titled "womb-goddess" -- a reproductive engineering specialist (see [popol-vuh.md](popol-vuh.md): Xmucane as "Midwife").
-3. **Donor selection:** Geshtu-E, described as "a god who had intelligence," is selected and "slaughtered." The text emphasizes that his *intelligence* was the key trait being harvested (see [mahabharata.md](mahabharata.md): Kuntī's mantra-invoked births).
+2. **Specialist assigned:** Nintu/Mami, explicitly titled "womb-goddess" [popol-vuh.md](popol-vuh.md) -- a reproductive engineering specialist (see [popol-vuh.md](popol-vuh.md): Xmucane as "Midwife").
+3. **Donor selection:** Geshtu-E [mahabharata.md](mahabharata.md), described as "a god who had intelligence," is selected and "slaughtered." The text emphasizes that his *intelligence* was the key trait being harvested (see [mahabharata.md](mahabharata.md): Kuntī's mantra-invoked births).
 4. **Genetic material extraction:** "Flesh and blood" are taken from the donor. The term "slaughtered" likely describes a lethal extraction of biological material -- possibly neural tissue, given the emphasis on intelligence.
-5. **Substrate preparation:** "Clay" serves as either a literal growth medium (mineral-rich substrate) or a metaphor for the base biological material (existing hominid stock) (see [gilgamesh.md](gilgamesh.md): Enkidu clay fabrication).
+5. **Substrate preparation:** "Clay" serves as either a literal growth medium (mineral-rich substrate) or a metaphor for the base biological material (existing hominid stock) [gilgamesh.md](gilgamesh.md) (see [gilgamesh.md](gilgamesh.md): Enkidu clay fabrication).
 6. **Hybridization:** "A god and a man will be mixed together in clay" -- the divine genetic material is combined with the terrestrial substrate.
 7. **Quality assurance:** The "spittle" contributed by other Igigi gods onto the clay (Ch. 5, line 36) may represent additional genetic contributions or enzymatic catalysts.
 8. **Result verification:** Mami declares the product functional: intelligence has been transferred, the labor capacity has been created.
@@ -87,7 +92,7 @@ The "purification by washing" on specific calendar days (1st, 7th, 15th of the m
 
 ### Plausible Mechanism
 
-**Genetic engineering using an existing hominid as a substrate** (see [07-the-human-project.md](../07-the-human-project.md)). The "clay" is the base organism -- possibly Homo erectus or another hominid -- and the "god's flesh and blood" is the donor genome carrying enhanced cognitive capacity. The product is a hybrid: strong enough for manual labor, intelligent enough to follow complex instructions, but not so capable as to rival the creators.
+**Genetic engineering using an existing hominid as a substrate** [07-the-human-project.md](../07-the-human-project.md) (see [07-the-human-project.md](../07-the-human-project.md)). The "clay" is the base organism -- possibly Homo erectus or another hominid -- and the "god's flesh and blood" is the donor genome carrying enhanced cognitive capacity. The product is a hybrid: strong enough for manual labor, intelligent enough to follow complex instructions, but not so capable as to rival the creators.
 
 This maps directly to modern concepts:
 - **Somatic cell nuclear transfer** (transferring nuclear material from a donor to a recipient cell)
@@ -108,7 +113,7 @@ A ritual account of the first human births, establishing gender differentiation.
 
 ### The Archive's Literal Reconstruction
 
-The initial production run consisted of fourteen units -- seven male, seven female -- produced simultaneously in a controlled environment. Key observations:
+The initial production run consisted of fourteen units -- seven male, seven female [popol-vuh.md](popol-vuh.md) -- produced simultaneously in a controlled environment. Key observations:
 
 - **Batch production:** Fourteen identical substrate portions ("pieces of clay"), divided symmetrically.
 - **Incubation apparatus:** The "mud brick" placed between the two groups may be a temperature-regulation or nutrient-delivery device separating the male and female batches.
@@ -135,13 +140,13 @@ The gods punish humanity for being too noisy, representing divine impatience wit
 
 After approximately 600 years, the human population exceeded acceptable parameters. The term "noise" (Akkadian *rigmu*) likely denotes not literal sound but population activity levels -- resource consumption, territorial expansion, environmental impact detectable from the command tier's monitoring systems.
 
-Ellil's response is a deliberate biological-warfare measure: the deployment of "suruppu-disease," an ordered pathogen release designed to cull the population (see [gilgamesh.md](gilgamesh.md): Shamash's thirteen winds as calibrated weapons). This is not a natural plague -- it is authorized through the command hierarchy ("Give the order") and has a specific tactical objective (population reduction).
+Ellil's response is a deliberate biological-warfare measure: the deployment of "suruppu-disease," an ordered pathogen release [gilgamesh.md](gilgamesh.md) designed to cull the population (see [gilgamesh.md](gilgamesh.md): Shamash's thirteen winds as calibrated weapons). This is not a natural plague -- it is authorized through the command hierarchy ("Give the order") and has a specific tactical objective (population reduction).
 
-The text then shows **Enki covertly undermining the operation** by advising Atrahasis on countermeasures, establishing a pattern that will repeat through to the Flood: Enki consistently acts as a dissident within the command structure, preserving the human project against Ellil's termination orders (see [gilgamesh.md](gilgamesh.md): Ea warns Utnapishtim).
+The text then shows **Enki covertly undermining the operation** [gilgamesh.md](gilgamesh.md) by advising Atrahasis on countermeasures, establishing a pattern that will repeat through to the Flood: Enki consistently acts as a dissident within the command structure, preserving the human project against Ellil's termination orders (see [gilgamesh.md](gilgamesh.md): Ea warns Utnapishtim).
 
 ### Plausible Mechanism
 
-**Directed biological agent deployment for population management** (see [06-weapons-doctrine.md](../06-weapons-doctrine.md)). The "suruppu-disease" is a weaponized pathogen introduced into the human population on command authority. Enki's counter-strategy -- redirecting worship/offerings to a specific entity (Namtara, associated with plague) to "shame" him into withdrawing -- may describe a diplomatic or technical intervention that neutralized the pathogen.
+**Directed biological agent deployment for population management** [06-weapons-doctrine.md](../06-weapons-doctrine.md) (see [06-weapons-doctrine.md](../06-weapons-doctrine.md)). The "suruppu-disease" is a weaponized pathogen introduced into the human population on command authority. Enki's counter-strategy -- redirecting worship/offerings to a specific entity (Namtara, associated with plague) to "shame" him into withdrawing -- may describe a diplomatic or technical intervention that neutralized the pathogen.
 
 ---
 
@@ -149,7 +154,7 @@ The text then shows **Enki covertly undermining the operation** by advising Atra
 
 ### Source Material
 
-The Atrahasis text breaks off before the full Flood narrative, but Chapter 7 establishes the preconditions: repeated failed population-control attempts (disease, drought) followed by a decision to deploy a terminal environmental measure. The parallel account in [Gilgamesh Tablet XI](gilgamesh.md) provides the complete operational details.
+The Atrahasis text breaks off before the full Flood narrative [gilgamesh.md](gilgamesh.md), but Chapter 7 establishes the preconditions: repeated failed population-control attempts (disease, drought) followed by a decision to deploy a terminal environmental measure. The parallel account in [Gilgamesh Tablet XI](gilgamesh.md) provides the complete operational details.
 
 Key Atrahasis elements:
 
@@ -159,7 +164,7 @@ Key Atrahasis elements:
 
 Enki maintains a covert communication channel with a selected human operative (Atrahasis). When the terminal measure (the Flood) is authorized by the command tier, Enki again violates operational security to warn his agent. The phrase "ear was open to his god Enki" may describe either a communication device implant or simply a trusted informant relationship.
 
-The Flood itself -- detailed in the [Gilgamesh parallel](gilgamesh.md) -- is a deliberate environmental reset, not a natural disaster (see [05-great-reset.md](../05-great-reset.md)). The "gods" retreat to high altitude ("ascending to the heaven of Anu") before the event, and several express remorse afterward, confirming pre-knowledge and intentionality (see [revelation.md](revelation.md): Trumpets/Vials as planned sterilization).
+The Flood itself -- detailed in the [Gilgamesh parallel](gilgamesh.md) -- is a deliberate environmental reset [05-great-reset.md](../05-great-reset.md), not a natural disaster (see [05-great-reset.md](../05-great-reset.md)). The "gods" retreat to high altitude [revelation.md](revelation.md) ("ascending to the heaven of Anu") before the event, and several express remorse afterward, confirming pre-knowledge and intentionality (see [revelation.md](revelation.md): Trumpets/Vials as planned sterilization).
 
 ---
 
@@ -177,6 +182,7 @@ The Flood itself -- detailed in the [Gilgamesh parallel](gilgamesh.md) -- is a d
 | Igigi | Laborer class of gods | Operational workforce tier (pre-human) |
 | Anunnaki | Great gods, command class | Command and governance tier |
 | Atrahasis | Human with "open ear" to Enki | Covert human operative / informant |
+| See also | [01-entity-registry.md](../01-entity-registry.md) | Complete entity taxonomy |
 
 ---
 
@@ -194,3 +200,6 @@ The Flood itself -- detailed in the [Gilgamesh parallel](gilgamesh.md) -- is a d
 | "Counting the years of loads" | Long-duration operational logging / chronometry |
 | "Set fire to their tools" | Destruction of equipment during labor revolt |
 | "Box of lots" for division of domains | Resource/territory allocation protocol |
+| Genetic hybridization protocol | [02-technology-catalog.md](../02-technology-catalog.md) |
+| Directed pathogen deployment | [06-weapons-doctrine.md](../06-weapons-doctrine.md) |
+| Covert communication channel | [book-of-the-dead.md](book-of-the-dead.md) |
