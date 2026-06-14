@@ -271,8 +271,15 @@ The Mahābhārata is the archive's densest operational dossier: a longitudinal r
 | **The Archive's Literal Reconstruction** | Adds detail layer atop INCIDENT 16: **operator-bound stochastic exploit** -- dice keyed to Śakuni's EM signature or ferrous sweat chemistry altering tumble distribution while appearing fair to spectators lacking instrumentation. Cognitive warfare complements kinetic postponement -- delaying Pandava readiness allows procurement cycles favorable to Kurus for upgraded armor bundles sourced via allied kingdom industrial bases (implicit logistics epic rarely sung). |
 | **Plausible Mechanism** | Weight-biased tesserae + practiced throwing kinematics; mundane cheating elevated by bardic inflation -- Archive retains weaker hypothesis pending metallurgical sampling fictionally unavailable. |
 
-## TECHNOLOGY INDEX
-Key technologies: Viśvakarman-fabricated weapons (see [02-technology-catalog.md](../02-technology-catalog.md)), vimanas as field-propulsion aerospace platforms, astras as tier-restricted weapons packages, bio-integrated armor subsystems.
+## TECHNOLOGY INDEX (see [02-technology-catalog.md](../02-technology-catalog.md))
+
+| Description in Text | Archive Interpretation |
+|---------------------|----------------------|
+| Viśvakarman-fabricated weapons | Advanced fabrication AI architecture for weapons production (see [02-technology-catalog.md](../02-technology-catalog.md)) |
+| Vimana field-propulsion aerospace platforms | Vectored-thrust or field-propulsion aerospace vehicles; radiant hull, enclosed cabin, multi-passenger lift |
+| Astra tier-restricted weapons packages | Biometric/speech-linked tier-restricted weapons: kinetic, thermal, atmospheric, radiological analogues |
+| Bio-integrated armor subsystems | Nanocomposite dermal weave plus sensory augmentation (earrings as comm/net and EMP shielding) |
+| Gāṇḍīva precision projectile platform | Electromechanically-assisted composite bow with micro-guidance ammunition and forward ammunition factory pallets (see [02-technology-catalog.md](../02-technology-catalog.md)) |
 
 ---
 
