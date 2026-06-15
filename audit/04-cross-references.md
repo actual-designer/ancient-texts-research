@@ -1,7 +1,7 @@
 # Cross-References -- Parallel Accounts Across Sources
 
 **Classification:** SPECIES WITH AMNESIA -- Working Hypothesis
-**Scope:** All fourteen foundational texts (`audit/analyses/mahabharata.md` for Mahābhārata parallels; `audit/analyses/popol-vuh.md` for Mesoamerican parallels; `audit/analyses/pyramid-texts.md` for Egyptian parallels; `audit/analyses/revelation.md` for projected terminal events; `audit/analyses/book-of-the-dead.md` for Egyptian post-mortem processing; `audit/analyses/poetic-edda.md` for Norse tradition; `audit/analyses/theogony-works-and-days.md` for Greek tradition; `audit/analyses/zoroastrian-gathas.md` for Zoroastrian tradition; `audit/analyses/yoga-sutras.md` for Indian consciousness-training tradition)
+**Scope:** All fourteen foundational texts (`audit/analyses/atrahasis.md` for Mesopotamian creation/flood narrative; `audit/analyses/enoch-watchers.md` for Enochic command conflict; `audit/analyses/gilgamesh.md` for Mesopotamian heroic literature; `audit/analyses/ezekiel-merkabah.md` for Hebrew-prophetic Merkabah vision; `audit/analyses/mahabharata.md` for Mahābhārata parallels; `audit/analyses/popol-vuh.md` for Mesoamerican parallels; `audit/analyses/pyramid-texts.md` for Egyptian parallels; `audit/analyses/revelation.md` for projected terminal events; `audit/analyses/book-of-the-dead.md` for Egyptian post-mortem processing; `audit/analyses/poetic-edda.md` for Norse tradition; `audit/analyses/theogony-works-and-days.md` for Greek tradition; `audit/analyses/zoroastrian-gathas.md` for Zoroastrian tradition; `audit/analyses/yoga-sutras.md` for Indian consciousness-training tradition)
 **Analyst:** The Chronos Archive, Lead Investigator
 
 ---
@@ -36,6 +36,7 @@ Gilgamesh Tablet XI explicitly names Atrahasis as the same person as Utanapishti
 **Atrahasis = Utanapishtim = Noah** -- three names for the same individual across three traditions.
 
 The warning chain is also consistent: a dissenting member of the command tier (Enki/Ea in Mesopotamian sources, Uriel acting on the Most High's behalf in Enoch) warns a selected human in violation of or exception to the secrecy oath.
+(source: [analyses/atrahasis.md](analyses/atrahasis.md); [analyses/gilgamesh.md](analyses/gilgamesh.md))
 
 **Mahābhārata / Indian anchor:** The Archive treats Manu's flood as an independent hydraulic-reset folklore layer compatible with the same terminal remediation pattern (`audit/analyses/mahabharata.md`). Convergence with Mesopotamia + Enoch remains thematic rather than onomastic until primary-text citation pass completes.
 
@@ -94,6 +95,7 @@ Two witnesses, in different centuries and cultural contexts, describe the same c
 This describes either the same vehicle encountered at different times or a standardized command platform (Merkabah-class) used by the same or equivalent operators.
 
 **Mahābhārata anchor:** Viśvarūpa supplies a **battlefield-grade radiation / information-density hazard** beside two throne visions -- same observer injury profile (collapse, trembling) with vocabulary shifted to tactical omniscience (`audit/analyses/mahabharata.md`). Supports a unified class of **high-energy command displays** rather than purely metaphoric theology.
+(source: [analyses/enoch-watchers.md](analyses/enoch-watchers.md); [analyses/ezekiel-merkabah.md](analyses/ezekiel-merkabah.md))
 
 > **Vedic evidence**: Agni is consistently described as "radiant," "white-shining," "refulgent." The Asvins' chariot has "paths red with flame." Surya (the Sun) is a dedicated illumination operator. The Rig Veda treats radiance not as divine attribute but as **thermal and electromagnetic output** of operational systems — Agni's ignition, Surya's illumination, the Asvins' propulsion. (source: `audit/analyses/rig-veda.md`)
 

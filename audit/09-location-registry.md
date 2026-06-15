@@ -227,13 +227,13 @@ Multiple independent traditions describe a **central connective structure** link
 
 | Tradition | Axis Mundi | Type | Tiers Connected | Operators Located At Base |
 |-----------|-----------|------|----------------|---------------------------|
-| Norse | Yggdrasil | World-tree (ash) | Underworld ↔ Surface ↔ Heaven | Norns (Urth, Verthandi, Skuld) at roots |
-| Indian | Mount Meru (cosmic axis, implied in three strides) | Cosmic mountain | Earth ↔ Atmosphere ↔ Heaven | Adityas / Deva assembly |
-| Greek | Olympos (command HQ) / Ouranos canopy | Mountain + Sky canopy | Surface ↔ Heaven | Zeus + Olympians |
-| Hebrew | Temple (architectural axis) | Blueprinted facility | Surface ↔ Heaven (via Merkabah corridor) | Priests / Glory presence |
-| Christian | New Jerusalem (cubic) | Megastructure | Orbital deployment → Surface | Lamb + redeemed |
-| Vedic | Vishnu's three strides (vertical demarcation) | Stride-axis | Earth → Antariksha → Dyaus | Vishnu + Adityas |
-| Egyptian | Winding Canal / Beaten Path of Stars | Sky corridor | Duat → Akhet → Sky | Thoth, Osiris |
+| Norse | Yggdrasil (source: [poetic-edda.md](analyses/poetic-edda.md)) | World-tree (ash) | Underworld ↔ Surface ↔ Heaven | Norns (Urth, Verthandi, Skuld) at roots |
+| Indian | Mount Meru (cosmic axis, implied in three strides) (source: [mahabharata.md](analyses/mahabharata.md)) | Cosmic mountain | Earth ↔ Atmosphere ↔ Heaven | Adityas / Deva assembly |
+| Greek | Olympos (command HQ) / Ouranos canopy (source: [theogony-works-and-days.md](analyses/theogony-works-and-days.md)) | Mountain + Sky canopy | Surface ↔ Heaven | Zeus + Olympians |
+| Hebrew | Temple (architectural axis) (source: [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md)) | Blueprinted facility | Surface ↔ Heaven (via Merkabah corridor) | Priests / Glory presence |
+| Christian | New Jerusalem (cubic) (source: [revelation.md](analyses/revelation.md)) | Megastructure | Orbital deployment → Surface | Lamb + redeemed |
+| Vedic | Vishnu's three strides (vertical demarcation) (source: [rig-veda.md](analyses/rig-veda.md)) | Stride-axis | Earth → Antariksha → Dyaus | Vishnu + Adityas |
+| Egyptian | Winding Canal / Beaten Path of Stars (source: [pyramid-texts.md](analyses/pyramid-texts.md)) | Sky corridor | Duat → Akhet → Sky | Thoth, Osiris |
 
 **Key observation:** Every tradition locates its connective axis at or near a **command/assessment node** staffed by multiple operators. The axis is never unguarded; access requires authentication.
 
@@ -243,7 +243,7 @@ Multiple independent traditions describe a **central connective structure** link
 
 The strongest cross-tradition convergence in the archive is the **multi-chamber assessment facility** located beneath the surface. Five independent traditions describe structurally parallel facilities:
 
-| Feature | Egyptian (Duat→Akhet→Sky) | Mesoamerican (Xibalbá) | Hebrew (Sheol/Tartarus) | Greek (Tartarus) | Norse (Hel) |
+| Feature | Egyptian (Duat→Akhet→Sky) (source: [book-of-the-dead.md](analyses/book-of-the-dead.md), [pyramid-texts.md](analyses/pyramid-texts.md)) | Mesoamerican (Xibalbá) (source: [popol-vuh.md](analyses/popol-vuh.md)) | Hebrew (Sheol/Tartarus) (source: [enoch-watchers.md](analyses/enoch-watchers.md)) | Greek (Tartarus) (source: [theogony-works-and-days.md](analyses/theogony-works-and-days.md)) | Norse (Hel) (source: [poetic-edda.md](analyses/poetic-edda.md)) |
 |---------|--------------------------|----------------------|------------------------|-----------------|-------------|
 | Entry requirement | 4-factor gate auth | Decoy road selection | — | — | — |
 | Sequential chambers | 21 gates / 7 Arit halls | 6 test houses | — | — | — |
@@ -263,11 +263,11 @@ The strongest cross-tradition convergence in the archive is the **multi-chamber 
 
 | Tradition | Survivor | Vessel | Landing Site | Feature |
 |-----------|----------|--------|-------------|---------|
-| Mesopotamian (Gilgamesh) | Utanapishtim | Cubic vessel (120 cubits) | Mount Nimush | Held firm 7 days |
-| Hebrew (Enoch/Noah) | Noah | Ark (detailed specs) | Mountains of Ararat | — |
-| Greek (Works and Days) | Deucalion | Ark/chest | Mount Parnassus | 9 days sailing |
-| Indian (Mahābhārata tradition) | Manu | Boat | Mountain top | Fish-guided |
-| Mesoamerican (Popol Vuh) | — (wood people destroyed) | — | — | Total destruction |
+| Mesopotamian (Gilgamesh) (source: [gilgamesh.md](analyses/gilgamesh.md)) | Utanapishtim | Cubic vessel (120 cubits) | Mount Nimush | Held firm 7 days |
+| Hebrew (Enoch/Noah) (source: [enoch-watchers.md](analyses/enoch-watchers.md)) | Noah | Ark (detailed specs) | Mountains of Ararat | — |
+| Greek (Works and Days) (source: [theogony-works-and-days.md](analyses/theogony-works-and-days.md)) | Deucalion | Ark/chest | Mount Parnassus | 9 days sailing |
+| Indian (Mahābhārata tradition) (source: [mahabharata.md](analyses/mahabharata.md)) | Manu | Boat | Mountain top | Fish-guided |
+| Mesoamerican (Popol Vuh) (source: [popol-vuh.md](analyses/popol-vuh.md)) | — (wood people destroyed) | — | — | Total destruction |
 
 ---
 
@@ -275,14 +275,14 @@ The strongest cross-tradition convergence in the archive is the **multi-chamber 
 
 | Gate | Tradition | Function | Authentication Required |
 |------|-----------|----------|------------------------|
-| Portals of Heaven | Hebrew (Enoch) | Domain transit | — |
-| The East Gate | Hebrew (Ezekiel) | Merkabah entry | Locked after entry |
-| 21 Gates / 7 Arit Halls | Egyptian (Book of Dead) | Processing pipeline | 4-factor (name of gate + porter + watchman + messenger) |
-| Portal of Nu | Egyptian (Pyramid Texts) | High-security access | Specific address |
-| Bifröst | Norse | Atmospheric transit | Rainbow bridge; guarded by Heimdall |
-| Chinvat Bridge | Zoroastrian | Soul assessment | 3-judge panel (Mithra, Sraosha, Rashnu) |
-| Four-Roads Intersection | Mesoamerican (Popol Vuh) | Xibalbá entry | Deceptive routing (one correct road) |
-| River of Blood + River of Pus | Mesoamerican (Popol Vuh) | Xibalbá approach | Must cross biological waste channels |
+| Portals of Heaven | Hebrew (Enoch) (source: [enoch-watchers.md](analyses/enoch-watchers.md)) | Domain transit | — |
+| The East Gate | Hebrew (Ezekiel) (source: [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md)) | Merkabah entry | Locked after entry |
+| 21 Gates / 7 Arit Halls | Egyptian (Book of Dead) (source: [book-of-the-dead.md](analyses/book-of-the-dead.md)) | Processing pipeline | 4-factor (name of gate + porter + watchman + messenger) |
+| Portal of Nu | Egyptian (Pyramid Texts) (source: [pyramid-texts.md](analyses/pyramid-texts.md)) | High-security access | Specific address |
+| Bifröst (source: [poetic-edda.md](analyses/poetic-edda.md)) | Norse | Atmospheric transit | Rainbow bridge; guarded by Heimdall |
+| Chinvat Bridge (source: [zoroastrian-gathas.md](analyses/zoroastrian-gathas.md)) | Zoroastrian | Soul assessment | 3-judge panel (Mithra, Sraosha, Rashnu) |
+| Four-Roads Intersection | Mesoamerican (Popol Vuh) (source: [popol-vuh.md](analyses/popol-vuh.md)) | Xibalbá entry | Deceptive routing (one correct road) |
+| River of Blood + River of Pus | Mesoamerican (Popol Vuh) (source: [popol-vuh.md](analyses/popol-vuh.md)) | Xibalbá approach | Must cross biological waste channels |
 
 ---
 
@@ -292,7 +292,7 @@ The strongest cross-tradition convergence in the archive is the **multi-chamber 
 
 | Location | Source | Features |
 |----------|--------|----------|
-| Heaven of Anu | atrahasis, gilgamesh | Orbital command; Flood evacuation destination |
+| Heaven of Anu | [atrahasis](analyses/atrahasis.md), [gilgamesh](analyses/gilgamesh.md) | Orbital command; Flood evacuation destination |
 | Crystal Second House | [enoch-watchers](analyses/enoch-watchers.md) | Mobile throne with lethal radiation |
 | Throne Room | [revelation](analyses/revelation.md) | Rainbow display, sea of glass, 4 living beings, 24 elders |
 | Amarāvatī | [mahabharata](analyses/mahabharata.md) | Indra's celestial capital; high-altitude torus |
@@ -331,28 +331,28 @@ The strongest cross-tradition convergence in the archive is the **multi-chamber 
 ## Tradition Index
 
 ### Mesopotamian (Atrahasis, Gilgamesh, Enoch)
-Heaven of Anu, Earth surface, The Apsu, Tigris, Euphrates, Mesopotamia, Uruk, Uruk-Haven, Cedar Forest, Wilderness, Room of Fate, Mount Hermon, Crystal Houses, Second House, Prison of the Stars, Tartarus, Closed Chambers of Winds, Chambers of Sun and Moon, Portals of Heaven, Paradise, Watcher Detention Site, End of Heaven and Earth
+Heaven of Anu, Earth surface, The Apsu (source: [atrahasis.md](analyses/atrahasis.md)), Tigris, Euphrates, Mesopotamia, Uruk, Uruk-Haven, Cedar Forest (source: [gilgamesh.md](analyses/gilgamesh.md)), Wilderness, Room of Fate, Mount Hermon (source: [enoch-watchers.md](analyses/enoch-watchers.md)), Crystal Houses, Second House, Prison of the Stars, Tartarus (source: [enoch-watchers.md](analyses/enoch-watchers.md)), Closed Chambers of Winds, Chambers of Sun and Moon, Portals of Heaven, Paradise, Watcher Detention Site, End of Heaven and Earth
 
 ### Hebrew (Ezekiel, Enoch-cont.)
-Mount Hermon, Crystal Houses, Second House, Prison of the Stars, Tartarus, Paradise, End of Heaven and Earth, Valley of Dry Bones, Jerusalem, The Temple (Ezekiel blueprint), The Inner Court, The Sanctuary, The Most Holy Place, The East Gate
+Mount Hermon (source: [enoch-watchers.md](analyses/enoch-watchers.md)), Crystal Houses, Second House, Prison of the Stars, Tartarus (source: [enoch-watchers.md](analyses/enoch-watchers.md)), Paradise, End of Heaven and Earth, Valley of Dry Bones (source: [ezekiel-merkabah.md](analyses/ezekiel-merkabah.md)), Jerusalem, The Temple (Ezekiel blueprint), The Inner Court, The Sanctuary, The Most Holy Place, The East Gate
 
 ### Christian (Revelation)
-Heaven, Earth, The Sea, The Abyss/Bottomless Pit, The Euphrates, Armageddon, New Jerusalem, Lake of Fire, The Temple (in heaven), Hell, Gog and Magog, The Camp of the Saints, The Great White Throne, Garden of Eden, New Heaven, New Earth
+Heaven, Earth, The Sea, The Abyss/Bottomless Pit, The Euphrates, Armageddon (source: [revelation.md](analyses/revelation.md)), New Jerusalem (source: [revelation.md](analyses/revelation.md)), Lake of Fire, The Temple (in heaven), Hell, Gog and Magog, The Camp of the Saints, The Great White Throne, Garden of Eden, New Heaven, New Earth
 
 ### Egyptian (Book of the Dead, Pyramid Texts)
-The Tuat, The Hall of Maati, The Field of Reeds (Sekhet Aaru), Sekhet Heteput, The Island of Truth, The Akhet, The Sky, The Outer Darkness, The Kingdom of Osiris, The Gates/Arit (21), Anu (Heliopolis), Khemenu (Hermopolis), Re-stau, Hensu (Heracleopolis), Nu, The Horizon of Amentt, The Great Balance, Duat, Akhet, Sky, Field of Reeds, Field of Offerings, Winding Canal, Isle of Flame, White Palace, Beaten Path of Stars, Portal of Nu, Place of the Four Papyrus-Columns, Undersky, Netherworld, Eastern Side of the Akhet, North of the Field of Reeds
+The Tuat (source: [book-of-the-dead.md](analyses/book-of-the-dead.md)), The Hall of Maati, The Field of Reeds (Sekhet Aaru) (source: [book-of-the-dead.md](analyses/book-of-the-dead.md)), Sekhet Heteput, The Island of Truth, The Akhet, The Sky, The Outer Darkness, The Kingdom of Osiris, The Gates/Arit (21), Anu (Heliopolis), Khemenu (Hermopolis), Re-stau, Hensu (Heracleopolis), Nu, The Horizon of Amentt, The Great Balance, Duat (source: [pyramid-texts.md](analyses/pyramid-texts.md)), Akhet, Sky, Field of Reeds (source: [pyramid-texts.md](analyses/pyramid-texts.md)), Field of Offerings, Winding Canal, Isle of Flame, White Palace, Beaten Path of Stars, Portal of Nu, Place of the Four Papyrus-Columns, Undersky, Netherworld, Eastern Side of the Akhet, North of the Field of Reeds
 
 ### Indian (Mahābhārata, Rig Veda)
-Kurukshetra, Hastināpura, Indraprastha, Laṅkā, Amarāvatī, Pañcāla, Khāṇḍava forest, Virāṭa, Satasringa, Yamunā, Indra's heaven (Svarga), Yama's abode (Yamaloka), akasa, The cosmic ocean, The Nasadiya facility, Hiranyagarbha, Earth (Prithvi), Mid-air (Antariksha), Heaven (Dyaus), Highest place of congregation, Well of meath, The Home of Gods, Central point of heaven, Varuna's aquatic domain
+Kurukshetra, Hastināpura, Indraprastha, Laṅkā, Amarāvatī, Pañcāla, Khāṇḍava forest (source: [mahabharata.md](analyses/mahabharata.md)), Virāṭa, Satasringa, Yamunā, Indra's heaven (Svarga), Yama's abode (Yamaloka), akasa, The cosmic ocean, The Nasadiya facility, Hiranyagarbha, Earth (Prithvi), Mid-air (Antariksha), Heaven (Dyaus), Highest place of congregation, Well of meath, The Home of Gods, Central point of heaven, Varuna's aquatic domain
 
 ### Mesoamerican (Popol Vuh)
-Xibalbá, Dark House, Rattling House, Jaguar House, Bat House, Razor House, River of Blood, River of Pus, Four-Roads Intersection, Calabash Tree, Tulan Zuyva, Surface (Upper World), Forest
+Xibalbá (source: [popol-vuh.md](analyses/popol-vuh.md)), Dark House, Rattling House, Jaguar House, Bat House, Razor House, River of Blood, River of Pus, Four-Roads Intersection, Calabash Tree, Tulan Zuyva, Surface (Upper World), Forest
 
 ### Norse (Poetic Edda)
-Ginnungagap, Yggdrasil, Mimir's well, Urth's well, Hvergelmir, Hel, Valhöll, Bifröst, Suttungr's mountain hall, Midgard, Hall of Hor, Nine worlds/zones, Naglfar
+Ginnungagap, Yggdrasil (source: [poetic-edda.md](analyses/poetic-edda.md)), Mimir's well, Urth's well, Hvergelmir, Hel, Valhöll, Bifröst (source: [poetic-edda.md](analyses/poetic-edda.md)), Suttungr's mountain hall, Midgard, Hall of Hor, Nine worlds/zones, Naglfar
 
 ### Greek (Theogony & Works and Days)
-Chaos, Gaia (Earth), Tartarus, Ouranos (Sky), Pontos (Sea), Aether, Day, Olympos, Mount Othrys, Crete, Delphi, Thebes, Troy, Islands of the Blessed, Parnassus
+Chaos, Gaia (Earth), Tartarus (source: [theogony-works-and-days.md](analyses/theogony-works-and-days.md)), Ouranos (Sky), Pontos (Sea), Aether, Day, Olympos, Mount Othrys, Crete, Delphi, Thebes, Troy, Islands of the Blessed, Parnassus
 
 ### Zoroastrian (Gathas)
-Chinvat Bridge, House of Song, House of Darkness, River of molten metal
+Chinvat Bridge (source: [zoroastrian-gathas.md](analyses/zoroastrian-gathas.md)), House of Song, House of Darkness, River of molten metal

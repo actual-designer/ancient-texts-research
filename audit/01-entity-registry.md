@@ -55,7 +55,7 @@ MESOAMERICAN THEATER (Popol Vuh -- parallel roster; source: audit/analyses/popol
     └── Wing, Packstrap, Bone Staff, Skull Staff -- Subordinate functionaries
 
   COUNTER-OPERATIVES
-    └── Hero Twins (Hunahpu / Xbalanque) -- Exploited facility protocols to dismantle Xibalbá operation
+    └── Hero Twins (Hunahpu / Xbalanque) -- Exploited facility protocols to dismantle Xibalbá operation (source: [analyses/popol-vuh.md](analyses/popol-vuh.md))
 
   FAILED PROTOTYPES
     ├── Animals -- Communication failure; demoted to food source
@@ -206,14 +206,14 @@ flowchart TD
 | **Role** | Supreme authority; ratifies major decisions (Flood, creation of humans, deployment of Bull of Heaven) |
 | **Key actions** | Grants Gilgamesh "totality of knowledge"; deploys Bull of Heaven at Ishtar's request; authorizes the Flood under oath of secrecy; receives Igigi appeals |
 | **Archive classification** | Off-world command authority, rarely present on the surface |
-| **Appears in** | Atrahasis, Gilgamesh, Enoch (as "Most High"), Ezekiel (as "The Lord" on the throne) |
+| **Appears in** | Atrahasis (source: [analyses/atrahasis.md](analyses/atrahasis.md)), Gilgamesh (source: [analyses/gilgamesh.md](analyses/gilgamesh.md)), Enoch (as "Most High") (source: [analyses/enoch-watchers.md](analyses/enoch-watchers.md)), Ezekiel (as "The Lord" on the throne) (source: [analyses/ezekiel-merkabah.md](analyses/ezekiel-merkabah.md)) |
 
 ### The Assembly of the Gods
 
 | Attribute | Detail |
 |-----------|--------|
 | **Names across sources** | "Assembly of the Gods" (Gilgamesh), "The great Anunnaki" (Atrahasis), "The Lord of Spirits and His council" (Enoch) |
-| **Function** | Collective decision-making body; authorizes major operations (Flood, creation of humans, sentencing of Watchers) |
+| **Function** | Collective decision-making body; authorizes major operations (Flood, creation of humans, sentencing of Watchers) (source: [analyses/atrahasis.md](analyses/atrahasis.md), [analyses/gilgamesh.md](analyses/gilgamesh.md), [analyses/enoch-watchers.md](analyses/enoch-watchers.md)) |
 | **Archive classification** | Governing council with executive authority |
 
 ---
@@ -230,7 +230,7 @@ flowchart TD
 | **Personality profile** | Authoritarian, punitive, impatient with human population growth ("losing sleep over their racket") |
 | **Key actions** | Orders suruppu-disease deployment; authorizes the Flood; furious when Utanapishtim survives; ultimately grants him immortality |
 | **Archive classification** | Ground operations commander, hawkish faction |
-| **Appears in** | Atrahasis (primary), Gilgamesh (Flood account), Enoch (implied) |
+| **Appears in** | Atrahasis (primary) (source: [analyses/atrahasis.md](analyses/atrahasis.md)), Gilgamesh (Flood account) (source: [analyses/gilgamesh.md](analyses/gilgamesh.md)), Enoch (implied) (source: [analyses/enoch-watchers.md](analyses/enoch-watchers.md)) |
 
 ### Enki (Ea)
 
@@ -242,7 +242,7 @@ flowchart TD
 | **Personality profile** | Ingenious, empathetic toward humans, willing to break operational security, legally cunning |
 | **Key actions** | Co-designs human creation; covertly warns Atrahasis of disease; warns Utanapishtim of Flood via "reed wall"; defends himself on legal technicality ("I only sent a dream") |
 | **Archive classification** | Chief engineer / scientist, dovish faction, recurring dissident |
-| **Appears in** | Atrahasis (primary), Gilgamesh (Flood account) |
+| **Appears in** | Atrahasis (primary) (source: [analyses/atrahasis.md](analyses/atrahasis.md)), Gilgamesh (Flood account) (source: [analyses/gilgamesh.md](analyses/gilgamesh.md)) |
 
 ### Nintu / Mami / Aruru / Belet-ili
 
@@ -253,13 +253,13 @@ flowchart TD
 | **Role** | Executes the human creation protocol; designs Gilgamesh's body; fabricates Enkidu |
 | **Key actions** | Mixes "clay with flesh and blood" of Geshtu-E; produces 14 prototypes (7M/7F); "pinches off clay" to create Enkidu; "designed the model" for Gilgamesh |
 | **Archive classification** | Bioengineering lead, reproductive technology specialist |
-| **Appears in** | Atrahasis (as Nintu/Mami), Gilgamesh (as Aruru) |
+| **Appears in** | Atrahasis (as Nintu/Mami) (source: [analyses/atrahasis.md](analyses/atrahasis.md)), Gilgamesh (as Aruru) (source: [analyses/gilgamesh.md](analyses/gilgamesh.md)) |
 
 ### Michael
 
 | Attribute | Detail |
 |-----------|--------|
-| **Source** | Enoch |
+| **Source** | Enoch (source: [analyses/enoch-watchers.md](analyses/enoch-watchers.md)) |
 | **Domain** | "Over the best part of mankind and over chaos" |
 | **Role** | Ordered to bind Semjaza and the Watchers; senior enforcement operative |
 | **Archive classification** | Human affairs command and crisis management |
@@ -268,7 +268,7 @@ flowchart TD
 
 | Attribute | Detail |
 |-----------|--------|
-| **Source** | Enoch |
+| **Source** | Enoch (source: [analyses/enoch-watchers.md](analyses/enoch-watchers.md)) |
 | **Domain** | "Over the world and over Tartarus" |
 | **Role** | Guides Enoch through facilities; sent to warn Noah; oversees planetary operations and detention |
 | **Archive classification** | Planetary operations and detention facilities command |
@@ -277,7 +277,7 @@ flowchart TD
 
 | Attribute | Detail |
 |-----------|--------|
-| **Source** | Enoch |
+| **Source** | Enoch (source: [analyses/enoch-watchers.md](analyses/enoch-watchers.md)) |
 | **Domain** | "Over the spirits of men" |
 | **Role** | Ordered to bind Azazel; oversees human biological/medical affairs |
 | **Archive classification** | Human biological and medical oversight |
@@ -286,7 +286,7 @@ flowchart TD
 
 | Attribute | Detail |
 |-----------|--------|
-| **Source** | Enoch |
+| **Source** | Enoch (source: [analyses/enoch-watchers.md](analyses/enoch-watchers.md)) |
 | **Domain** | "Over Paradise, the serpents, and the Cherubim" |
 | **Role** | Ordered to incite the Nephilim to destroy each other; security of restricted zones |
 | **Archive classification** | Security operations, autonomous systems management |
@@ -295,7 +295,7 @@ flowchart TD
 
 | Attribute | Detail |
 |-----------|--------|
-| **Source** | Gilgamesh |
+| **Source** | Gilgamesh (source: [analyses/gilgamesh.md](analyses/gilgamesh.md)) |
 | **Domain** | Sun, surveillance, justice |
 | **Role** | Provides Gilgamesh tactical support against Humbaba (thirteen directed "winds"); monitors the Cedar Forest; sets timing for the Flood vessel sealing |
 | **Archive classification** | Solar/surveillance operations, tactical support provider |
@@ -304,7 +304,7 @@ flowchart TD
 
 | Attribute | Detail |
 |-----------|--------|
-| **Source** | Gilgamesh, Atrahasis (as Inanna) |
+| **Source** | Gilgamesh (source: [analyses/gilgamesh.md](analyses/gilgamesh.md)), Atrahasis (as Inanna) (source: [analyses/atrahasis.md](analyses/atrahasis.md)) |
 | **Domain** | Fertility, warfare, political authority |
 | **Role** | Propositions Gilgamesh; requests Bull of Heaven from Anu; expresses remorse after Flood ("I said evil things in the Assembly") |
 | **Archive classification** | Political and reproductive authority, emotionally volatile |
@@ -317,7 +317,7 @@ flowchart TD
 
 | Attribute | Detail |
 |-----------|--------|
-| **Source** | Atrahasis, referenced in Gilgamesh |
+| **Source** | Atrahasis (source: [analyses/atrahasis.md](analyses/atrahasis.md)), referenced in Gilgamesh (source: [analyses/gilgamesh.md](analyses/gilgamesh.md)) |
 | **Role** | Pre-human labor force; performed infrastructure work (canal digging, river engineering) for 3,600 years |
 | **Key event** | Revolted against Enlil, triggering the creation of humans as replacement laborers |
 | **Designation** | "Evil-minded ones" (Atrahasis editorial gloss) |
@@ -327,7 +327,7 @@ flowchart TD
 
 | Attribute | Detail |
 |-----------|--------|
-| **Source** | Enoch |
+| **Source** | Enoch (source: [analyses/enoch-watchers.md](analyses/enoch-watchers.md)) |
 | **Commander** | Semjaza (Samlazaz) |
 | **Structure** | 200 personnel, organized in squads of 10 under 20 named leaders |
 | **Crime** | Unauthorized descent to Mount Hermon; interbreeding with humans; technology transfer |
@@ -339,7 +339,7 @@ flowchart TD
 
 | Attribute | Detail |
 |-----------|--------|
-| **Source** | Ezekiel (Ch. 1 and Ch. 10), Enoch ("fiery cherubim") |
+| **Source** | Ezekiel (Ch. 1 and Ch. 10) (source: [analyses/ezekiel-merkabah.md](analyses/ezekiel-merkabah.md)), Enoch ("fiery cherubim") (source: [analyses/enoch-watchers.md](analyses/enoch-watchers.md)) |
 | **Description** | Four-faced (man, lion, ox, eagle), four-winged, metallic-appearing, integrated with wheel-propulsion systems |
 | **Function** | Structural/sensor components of the Merkabah vehicle, or autonomous biomechanical systems |
 | **Archive classification** | Autonomous systems, vehicle subsystems, or biomechanical drones |
@@ -348,7 +348,7 @@ flowchart TD
 
 | Attribute | Detail |
 |-----------|--------|
-| **Source** | Gilgamesh |
+| **Source** | Gilgamesh (source: [analyses/gilgamesh.md](analyses/gilgamesh.md)) |
 | **Appointed by** | Enlil |
 | **Function** | Guardian of the Cedar Forest (restricted zone) |
 | **Capabilities** | Changing face, seven removable armor layers, speech and tactical reasoning |
@@ -358,7 +358,7 @@ flowchart TD
 
 | Attribute | Detail |
 |-----------|--------|
-| **Source** | Gilgamesh |
+| **Source** | Gilgamesh (source: [analyses/gilgamesh.md](analyses/gilgamesh.md)) |
 | **Deployed by** | Anu, at Ishtar's request |
 | **Weapon** | Ground-displacement effect (seismic "snorts" opening pits) |
 | **Archive classification** | Deployable seismic weapons platform |
@@ -441,7 +441,7 @@ flowchart TD
 
 | Attribute | Detail |
 |-----------|--------|
-| **Created by** | Enki + Nintu/Mami (Atrahasis protocol) |
+| **Created by** | Enki + Nintu/Mami (Atrahasis protocol) (source: [analyses/atrahasis.md](analyses/atrahasis.md)) |
 | **Substrate** | "Clay" + flesh/blood of Geshtu-E (a "god with intelligence") |
 | **Purpose** | Labor replacement for the revolted Igigi |
 | **Initial batch** | 14 prototypes (7M / 7F) |
@@ -451,7 +451,7 @@ flowchart TD
 
 | Attribute | Detail |
 |-----------|--------|
-| **Source** | Enoch |
+| **Source** | Enoch (source: [analyses/enoch-watchers.md](analyses/enoch-watchers.md)) |
 | **Produced by** | Uncontrolled interbreeding between 200 Watchers and human females |
 | **Phenotype** | Extreme size, excessive metabolism, behavioral instability, aggression |
 | **Outcome** | Failed hybrid organisms; incited to self-destruction by Gabriel; primary trigger for the Flood |
@@ -462,7 +462,7 @@ flowchart TD
 | Attribute | Detail |
 |-----------|--------|
 | **Genome** | 2/3 non-human, 1/3 human (non-standard ratio) |
-| **Designed by** | Aruru ("designed the model for his body") |
+| **Designed by** | Aruru ("designed the model for his body") (source: [analyses/gilgamesh.md](analyses/gilgamesh.md)) |
 | **Parents** | Lugalbanda (father, deified king), Rimat-Ninsun (mother, goddess) |
 | **Function** | King of Uruk -- engineered hybrid ruler |
 | **Limitation** | Mortal despite majority non-human genome |
@@ -471,7 +471,7 @@ flowchart TD
 
 | Attribute | Detail |
 |-----------|--------|
-| **Created by** | Aruru (same specialist who designed Gilgamesh) |
+| **Created by** | Aruru (same specialist who designed Gilgamesh) (source: [analyses/gilgamesh.md](analyses/gilgamesh.md)) |
 | **Method** | Rapid fabrication from clay substrate, deployed into wilderness |
 | **Purpose** | Counterpart/match for Gilgamesh |
 | **Phenotype** | Extreme hairiness, initial animal-level cognition, adult-onset socialization |
@@ -501,6 +501,8 @@ flowchart TD
 ---
 
 ## VEDIC ENTITIES (Rig Veda)
+
+**Source:** `audit/analyses/rig-veda.md`
 
 The Rig Veda presents a distributed command hierarchy with specialized operators, each associated with distinct capabilities and jurisdictions. Unlike the narrative epics (Mahābhārata, Gilgamesh), the Rig Veda is a **liturgical archive**; each hymn is an invocation directed at a named operator, preserving their functional roles across 1,205 hymns.
 
@@ -547,16 +549,16 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **The One on the Throne** | Central command authority seated on crystalline throne with rainbow display | Tier 0: Primary command intelligence |
+| **The One on the Throne** | Central command authority seated on crystalline throne with rainbow display (source: [analyses/revelation.md](analyses/revelation.md)) | Tier 0: Primary command intelligence |
 | **The Lamb (slain)** | Previously processed human who holds the authorization credentials for the scroll | Upgraded human: Completed death-processing pipeline; carries seven-seal clearance |
 
 ### TIER 2: Senior Operatives
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Michael** | Commander of loyalist orbital forces; executes the War in Heaven against the Dragon | Tier 2: Security/operations, orbital counter-insurgency |
+| **Michael** | Commander of loyalist orbital forces; executes the War in Heaven against the Dragon (source: [analyses/revelation.md](analyses/revelation.md)) | Tier 2: Security/operations, orbital counter-insurgency |
 | **24 Elders** | Seated council around the central throne; wear crowns | Tier 2: Command staff/administrators |
-| **4 Living Beings** | Multi-sensor interface units (cf. Ezekiel's cherubim/living beings) | Tier 3: Autonomous interface terminals |
+| **4 Living Beings** | Multi-sensor interface units (cf. Ezekiel's cherubim/living beings) (source: [analyses/revelation.md](analyses/revelation.md)) | Tier 3: Autonomous interface terminals |
 | **Two Witnesses** | Forward-deployed ground operatives with 1,260-day mission; killed then extracted | Tier 2/upgraded: Resurrected entities with guaranteed extraction |
 | **Abaddon/Apollyon** | Commander of the Abyss drone force (fifth trumpet) | Tier 3: Drone-fleet commander |
 | **Seven Angels with Trumpets** | Ordinance delivery personnel | Tier 3: Strike package operators |
@@ -566,8 +568,8 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **The Dragon (Satan/Devil/Serpent)** | Former orbital commander, ejected in War in Heaven; now ground-bound and escalating | Tier 2: Rebel operator; links to Eden serpent and Watcher command |
-| **First Beast (from Sea)** | Global political-military authority; receives authority from Dragon | Tier 3: Puppet governance proxy |
+| **The Dragon (Satan/Devil/Serpent)** | Former orbital commander, ejected in War in Heaven; now ground-bound and escalating (source: [analyses/revelation.md](analyses/revelation.md)) | Tier 2: Rebel operator; links to Eden serpent and Watcher command |
+| **First Beast (from Sea)** | Global political-military authority; receives authority from Dragon (source: [analyses/revelation.md](analyses/revelation.md)) | Tier 3: Puppet governance proxy |
 | **Second Beast (from Earth/False Prophet)** | Propaganda/control apparatus; performs "miracles," enforces the Mark | Tier 3: Propaganda chief, economic surveillance |
 
 ### MANAGED POPULATIONS
@@ -591,13 +593,13 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
 | **Ra (Amen-Ra)** | Solar command authority, King of the Gods | Tier 1: Primary system intelligence |
-| **Osiris (Un-Nefer)** | Lord of the Tuat, judge of the dead; deceased-and-reassembled entity operating the post-mortem facility | Tier 1: Post-mortem processing authority, reconstructed operator |
+| **Osiris (Un-Nefer)** | Lord of the Tuat, judge of the dead; deceased-and-reassembled entity operating the post-mortem facility (source: [analyses/book-of-the-dead.md](analyses/book-of-the-dead.md)) | Tier 1: Post-mortem processing authority, reconstructed operator |
 
 ### TIER 2: Facility Operators
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Thoth** | Scribe of the gods; records the Weighing of the Heart; calibration authority | Tier 2: Data management, system administration |
+| **Thoth** | Scribe of the gods; records the Weighing of the Heart; calibration authority (source: [analyses/book-of-the-dead.md](analyses/book-of-the-dead.md)) | Tier 2: Data management, system administration |
 | **Anubis (Anpu)** | Embalming authority; operator of the Balance | Tier 2: Processing technician, identity comparator operator |
 | **Horus** | Son of Osiris; living executive; escorts approved subjects to the throne | Tier 2: Processing liaison, subject escort |
 | **Isis / Nephthys** | Support operators behind Osiris's throne | Tier 2: Advisory/administrative |
@@ -609,7 +611,7 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **42 Assessors** | Named panel before whom the Negative Confession is recited | Tier 3: Distributed verification operators |
+| **42 Assessors** | Named panel before whom the Negative Confession is recited (source: [analyses/book-of-the-dead.md](analyses/book-of-the-dead.md)) | Tier 3: Distributed verification operators |
 | **Amemit (Eater of the Dead)** | Monster who consumes hearts that fail the balance test | Tier 3: Automated termination/disposal unit |
 | **Porters** | Door mechanism controllers (one per gate) | Tier 3: Access control |
 | **Watchmen** | Subject detection/detection (one per gate) | Tier 3: Detection/screening |
@@ -636,14 +638,14 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Odin (Othin)** | Chief of the Aesir; initiates creation protocols (Ymir dismantlement, Ask/Embla activation), rune-operator upgrade, ritual self-sacrifice | Tier 1: Command authority (surface theater) |
+| **Odin (Othin)** | Chief of the Aesir; initiates creation protocols (Ymir dismantlement, Ask/Embla activation), rune-operator upgrade, ritual self-sacrifice (source: [analyses/poetic-edda.md](analyses/poetic-edda.md)) | Tier 1: Command authority (surface theater) |
 
 ### TIER 2: Senior Operatives
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Thor** | Threat management, Jörmungandr engagement, Mjöllnir-guided weapon operator | Tier 2: Security/weapons specialist |
-| **Loki** | Shape-shifter, saboteur (triggers Baldr termination, engineers system cascade) | Tier 2: Rogue operator (contained) |
+| **Thor** | Threat management, Jörmungandr engagement, Mjöllnir-guided weapon operator (source: [analyses/poetic-edda.md](analyses/poetic-edda.md)) | Tier 2: Security/weapons specialist |
+| **Loki** | Shape-shifter, saboteur (triggers Baldr termination, engineers system cascade) (source: [analyses/poetic-edda.md](analyses/poetic-edda.md)) | Tier 2: Rogue operator (contained) |
 | **Heimdall** | Bifröst watchman, Rígsþula class-engineering deployment, Gjallarhorn alert operator | Tier 2: Perimeter/surveillance |
 | **Baldr** | Honored operator terminated via unhardened component vector (mistletoe) | Tier 2: Eventually retrieved post-Ragnarök |
 | **Frigg** | Odin's consort, intelligence operator | Tier 2: Advisory/intelligence |
@@ -680,17 +682,17 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
 | **Chaos** | Pre-initialization void | Tier 0: Zero state |
-| **Gaia (Earth)** | Planetary platform; self-replicating entity generator | Tier 1: Infrastructure + self-replication |
-| **Ouranos (Sky)** | Orbital/atmospheric command; first active authority | Tier 1: First command authority |
-| **Kronos** | Second-generation command; contained successors at birth | Tier 1: Command (usurpation cycle) |
-| **Zeus** | Third-generation command; current authority; thunderbolt weapons | Tier 1: Current command authority |
+| **Gaia (Earth)** | Planetary platform; self-replicating entity generator (source: [analyses/theogony-works-and-days.md](analyses/theogony-works-and-days.md)) | Tier 1: Infrastructure + self-replication |
+| **Ouranos (Sky)** | Orbital/atmospheric command; first active authority (source: [analyses/theogony-works-and-days.md](analyses/theogony-works-and-days.md)) | Tier 1: First command authority |
+| **Kronos** | Second-generation command; contained successors at birth (source: [analyses/theogony-works-and-days.md](analyses/theogony-works-and-days.md)) | Tier 1: Command (usurpation cycle) |
+| **Zeus** | Third-generation command; current authority; thunderbolt weapons (source: [analyses/theogony-works-and-days.md](analyses/theogony-works-and-days.md)) | Tier 1: Current command authority |
 
 ### TIER 2: Senior Operatives
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
 | **Rhea** | System administrator; substitution decoy (stone) for successor protection | Tier 2: Succession logistics |
-| **Prometheus** | Privileged knowledge liberator; transfers restricted technology (fire) to humans | Tier 2: Dissident, technology leak |
+| **Prometheus** | Privileged knowledge liberator; transfers restricted technology (fire) to humans (source: [analyses/theogony-works-and-days.md](analyses/theogony-works-and-days.md)) | Tier 2: Dissident, technology leak |
 | **Epimetheus** | Deployment coordinator; receives Pandora delivery | Tier 2: Distribution |
 | **Atlas** | Structural load-bearing punishment | Tier 2: Infrastructure duty |
 | **Hundred-Handed Ones** | Contained entities released as allies in Titanomachy | Tier 2: Heavy combat units |
@@ -703,9 +705,9 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Typhoeus** | Multi-modal threat (100 heads, fire eyes); post-Titanomachy countermeasure | Tier 3: Contained in Tartarus |
+| **Typhoeus** | Multi-modal threat (100 heads, fire eyes); post-Titanomachy countermeasure (source: [analyses/theogony-works-and-days.md](analyses/theogony-works-and-days.md)) | Tier 3: Contained in Tartarus |
 | **Erinyes (Furies)** | Protocol-enforcement terminals generated from Ouranos blood | Tier 3: Enforcement/monitoring |
-| **Pandora** | Multi-specialist fabricated delivery agent for *pithos* saturation munition | Tier 3: Saturation-munition carrier |
+| **Pandora** | Multi-specialist fabricated delivery agent for *pithos* saturation munition (source: [analyses/theogony-works-and-days.md](analyses/theogony-works-and-days.md)) | Tier 3: Saturation-munition carrier |
 | **Deucalion** | Flood survivor; repopulates via ark-seed protocol | Tier 3: Survivor lineage |
 | **Pyrrha** | Flood survivor; mate of Deucalion | Tier 3: Survivor lineage |
 | **Tartarus** | Subsurface containment facility (not an entity) | Location: Deep processing/containment |
@@ -722,9 +724,9 @@ The Rig Veda presents a distributed command hierarchy with specialized operators
 
 | Entity | Role | Archive Classification |
 |--------|------|----------------------|
-| **Ahura Mazda** | The Wise Lord; supreme command authority | Tier 1: Supreme command |
+| **Ahura Mazda** | The Wise Lord; supreme command authority (source: [analyses/zoroastrian-gathas.md](analyses/zoroastrian-gathas.md)) | Tier 1: Supreme command |
 | **Spenta Mainyu** | Bounteous/Creative Spirit; executive creative operator | Tier 1: Executive (constructive) |
-| **Angra Mainyu** | Destructive/Hostile Spirit; adversarial counter-operator | Tier 1: Executive (destructive) |
+| **Angra Mainyu** | Destructive/Hostile Spirit; adversarial counter-operator (source: [analyses/zoroastrian-gathas.md](analyses/zoroastrian-gathas.md)) | Tier 1: Executive (destructive) |
 
 ### TIER 2: Functional Terminals (Amesha Spenta)
 

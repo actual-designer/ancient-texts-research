@@ -142,7 +142,7 @@ Rather than negotiate with the Igigi or impose harsher discipline, the command t
 
 The decision reveals the institutional logic: the Igigi were too valuable or too autonomous to coerce indefinitely, so a new species -- cheaper, more compliant, biologically tailored for manual labor -- was commissioned to replace them.
 
-**The entire human project begins as a labor-relations solution.**
+**The entire human project begins as a labor-relations solution.** (see [analyses/atrahasis.md](analyses/atrahasis.md))
 
 ---
 
@@ -176,7 +176,7 @@ Gilgamesh himself represents a third tier:
 
 > "Two-thirds of him is god, one-third of him is human. The Great Goddess designed the model for his body." (Tablet I)
 
-An engineered hybrid with a non-standard genome ratio, designed to specification by the same specialist who built Enkidu (Aruru). Enhanced physical and cognitive traits with mortality deliberately retained -- a **failsafe** or compatibility limitation.
+An engineered hybrid with a non-standard genome ratio, designed to specification by the same specialist who built Enkidu (Aruru). Enhanced physical and cognitive traits with mortality deliberately retained -- a **failsafe** or compatibility limitation. (see [analyses/gilgamesh.md](analyses/gilgamesh.md))
 
 ### 2.4 The Mahābhārata Commissioning Programs
 
@@ -396,6 +396,8 @@ REBUILD UNDER MODIFIED PARAMETERS
 | **[Mahābhārata](analyses/mahabharata.md) theater** | Multi-donor Pāṇḍavas; batch Kauravas; specialist fabrications | Astra proliferation; ROE erosion; night massacre | Kurukshetra war; Brahmāstra deployment; fetal casualties | Parīkṣit revived by Kṛṣṇa; Vyāsa compiles the record | Dharma-diminished Kali Yuga under Parīkṣit's lineage |
 | **[Ezekiel](analyses/ezekiel-merkabah.md) era** | (No new creation documented) | Jerusalem's corruption; temple desecration | Commanded destruction of Jerusalem (Ch. 9) | Ezekiel preserved as witness; Valley of Dry Bones demonstrates reconstruction capability | New facility blueprints dictated (Chs. 40-48) |
 
+Theogony's Five Ages tradition (see [analyses/theogony-works-and-days.md](analyses/theogony-works-and-days.md)) independently documents the same sequential degeneration of human prototypes -- gold through iron -- reinforcing the cyclical pattern as a cross-cultural invariant.
+
 ### 6.3 The Invariants
 
 Across all four instances:
@@ -535,7 +537,7 @@ The corroborating evidence from other traditions now reads as variations of the 
 - **Mahābhārata:** The sheer scale of the record (100,000 ślokas) may itself be an information-burial strategy: operational data hidden in an ocean of narrative.
 - **Popol Vuh:** The "breath upon the face of a mirror" -- a **diffusion filter** applied to human perception itself, throttling sensory bandwidth so that humans can see only "nearby."
 
-If the amnesia is engineered -- and the Popol Vuh provides the most explicit evidence that it is -- then the current project's task is not recovery of lost memory but **penetration of an active cognitive-limitation architecture.**
+If the amnesia is engineered -- and the Popol Vuh provides the most explicit evidence that it is -- then the current project's task is not recovery of lost memory but **penetration of an active cognitive-limitation architecture.** (see [analyses/popol-vuh.md](analyses/popol-vuh.md))
 
 ---
 

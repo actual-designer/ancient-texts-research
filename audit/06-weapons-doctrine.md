@@ -37,7 +37,7 @@ The Archive's most consistent finding is that strategic weapons are **never self
 - Michael, Uriel, Raphael, and Gabriel each hold **departmental portfolios** -- binding Azazel, healing the earth, destroying the Nephilim, announcing the Flood. No archangel executes outside his brief.
 
 **Mahābhārata model:**
-- Astra release requires **lineage training + mnemonic activation + guru-chain initiation**. The Brahmāstra demands specific withdrawal drills. The Pāśupatastra requires a **field promotion exam** (Śiva's ordeal) before SIP codes load. Aśvatthāmā confirms the Nārāyaṇāstra is **single-use**: "If it is summoned again, it will have the life of the one that invokes it" (Menon, Drona Parva, Canto 197).
+- Astra release requires **lineage training + mnemonic activation + guru-chain initiation**. The Brahmāstra demands specific withdrawal drills. The Pāśupatastra requires a **field promotion exam** (Śiva's ordeal) before SIP codes load. Aśvatthāmā confirms the Nārāyaṇāstra is **single-use**: "If it is summoned again, it will have the life of the one that invokes it" (Menon, Drona Parva, Canto 197). Tier-restricted weaponry across elemental to existential grades is a consistent feature of the Mahābhārata (see [analyses/mahabharata.md](analyses/mahabharata.md)).
 
 ### 1.3 The Operator Lock
 
@@ -105,7 +105,7 @@ Weapons requiring elevated authorization. Deployment carries institutional conse
 | **"Fire of God" / Throne Emissions** | Plasma discharges, directed lightning, approach-lethal radiance from command platforms | Ezekiel 1:4-13, Enoch Ch. 5 |
 | **Suruppu-Disease** | Weaponized pathogen deployed against human population by Enlil command | Atrahasis Ch. 7 |
 
-**Signature characteristic:** Area-effect, difficult to contain, aftermath extends beyond tactical window. Deployment triggers institutional review or regret.
+**Signature characteristic:** Area-effect, difficult to contain, aftermath extends beyond tactical window. Deployment triggers institutional review or regret. Theogony's Pandora's jar exemplifies this — a saturation munition whose effects could not be contained once released (see [analyses/theogony-works-and-days.md](analyses/theogony-works-and-days.md)).
 
 ### 2.3 Existential Grade (Tier 1 Exclusive -- Civilizational Reset)
 
@@ -117,7 +117,7 @@ Weapons whose deployment constitutes a policy decision about planetary biosphere
 | **Pāśupatastra** | "Capable of destroying all worlds"; Śiva-custodied; granted only after ordeal verification | Mahābhārata (Menon, Canto 123) |
 | **Tripura Strike** | Śiva fires a single shaft through three orbital cities simultaneously; requires Brahmā's specific boon-geometry | Mahābhārata (Karna Parva, Cantos 33-34) |
 
-**Signature characteristic:** Biosphere-scale or infrastructure-terminal. Authorization requires multi-tier consensus or existential threat verification. The Flood is the Archive's only confirmed deployment at this grade.
+**Signature characteristic:** Biosphere-scale or infrastructure-terminal. Authorization requires multi-tier consensus or existential threat verification. The Flood is the Archive's only confirmed deployment at this grade (see [analyses/revelation.md](analyses/revelation.md) for a projected terminal equivalent).
 
 ---
 
@@ -224,7 +224,7 @@ The regret grammar serves a doctrinal purpose within the texts: it is the **inst
 | Regret Event | New Restriction |
 |-------------|-----------------|
 | Flood remorse (Ishtar, Ea) | Enlil grants Utnapishtim immortality + quarantine; future population control via birth limitation rather than sterilization |
-| Watcher prosecution (Enoch) | Operatives bound; knowledge embargo; Nephilim exterminated; authorized operations tightened |
+| Watcher prosecution (Enoch) | Operatives bound; knowledge embargo (see [analyses/enoch-watchers.md](analyses/enoch-watchers.md)); Nephilim exterminated; authorized operations tightened |
 | Brahmāstra fetal damage | Aśvatthāmā sentenced to permanent quarantine; gem extracted (clearance revocation); Kṛṣṇa personally intervenes to revive Parīkṣit |
 | Kurukshetra total loss | Śānti Parva governance discourse -- institutional redesign from the deathbed of the war's most senior surviving operator |
 

@@ -554,6 +554,15 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Reconstruction** | Identity-substrate locking protocol before the migration process. The subject asserts control over his own identity record to prevent corruption or contestation during the verification process. "Absolute possession" = locking the identity file. |
 | **Modern analog** | Encryption key locking, biometric data lock, identity protection |
 
+### 8.6 Consciousness Transfer Protocol
+
+| Field | Detail |
+|-------|--------|
+| **Source** | Book of the Dead Ch. XXI-XXIII, CXXV (source: [analyses/book-of-the-dead.md](analyses/book-of-the-dead.md)) |
+| **Description** | The Opening of the Mouth activates the post-biological entity (breath, thought, autonomous function). The Weighing of the Heart verifies identity integrity. Successful verification routes the consciousness to the next processing stage; failure results in termination (Amemit). The sahu (spirit-body) separates from the biological substrate and transits the Duat to the Hall of Maati. |
+| **Reconstruction** | Two-stage consciousness migration pipeline: (1) identity extraction and substrate-independent validation via biometric/quantum comparison (Weighing of the Heart), (2) conditional routing — matched identities proceed to the processing facility (Hall of Maati) and onward to post-mortem settlement (Field of Reeds), while mismatched identities are permanently dissolved (Amemit consumption). The Opening of the Mouth initiates the entity boot sequence, enabling autonomous cognition and substrate separation. The entire protocol transforms a biological human into a post-biological operational entity within the non-human facility network. |
+| **Modern analog** | Consciousness uploading pipeline, identity verification gateway, biometric authentication with conditional routing, neural substrate transfer |
+
 ---
 
 ## 9. PROJECTED ENVIRONMENTAL CONTROL AND PLANETARY INTERVENTION (Revelation)
@@ -738,7 +747,7 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | Field | Detail |
 |-------|--------|
 | **Description** | Gaia fabricates a new metal, "grey adamant," and makes a great sickle. Used by Kronos to castrate Ouranos. |
-| **Reconstruction** | Purpose-fabricated tool designed to disable a Tier 1 operator. The material (adamant) is a non-standard alloy or composite developed specifically for this operation. |
+| **Reconstruction** | Purpose-fabricated tool designed to disable a Tier 1 operator. The material (adamant) is a non-standard alloy or composite developed specifically for this operation (source: [analyses/theogony-works-and-days.md](analyses/theogony-works-and-days.md)). |
 | **Modern analog** | Specialized counter-personnel weapon, material designed for specific target vulnerability |
 
 ### 11.3 Pandora's Pithos (Saturation Munition)
@@ -897,3 +906,17 @@ Technologies are grouped by domain. Each entry includes the source text, the ori
 | **Description** | Encounter with a luminous being that communicates telepathically, conveys unconditional love and complete knowing, and conducts an assessment without spoken interrogation. The subject understands concealment is impossible without explicit threat. |
 | **Reconstruction** | A non-human operator entity using an adaptive interface persona optimized for identity verification. The luminous appearance and communicated "love" are interface calibrations to reduce resistance and ensure accurate data extraction. Telepathic communication is identity-to-identity data transfer bypassing language. The being's "complete knowledge" of the subject is database access to the extracted life record. Two modes observed: compassionate assessment (standard calibration) and harsh assessment (distressing NDE variant). Maps to Osiris/Thoth in the Egyptian theater (source: [01-entity-registry.md](01-entity-registry.md): Thoth entry) and Mithra/Sraosha/Rashnu in the Zoroastrian theater (source: [zoroastrian-gathas.md](analyses/zoroastrian-gathas.md), INCIDENT 03). |
 | **Modern analog** | Virtual assistant interface, adaptive UI persona, non-adversarial system authentication, automated identity verification kiosk |
+
+---
+
+## 15. MESOAMERICAN TECHNOLOGY (Popol Vuh)
+
+**Source:** `audit/analyses/popol-vuh.md`
+
+### 15.1 Cognitive Limitation Protocol (Deliberate Perceptual Throttling)
+
+| Field | Detail |
+|-------|--------|
+| **Description** | The fourth human prototype (corn people) initially possesses "perfect sight" — they "beheld that which was in the sky and that which was upon the earth" without needing to move. The operators deem this unacceptable: "It is a mistake that they have become like gods." Heart of Sky intervenes: "Their eyes were merely blurred by Heart of Sky. They were blinded like breath upon the face of a mirror. Thus their eyes were blinded. They could see only nearby... Thus their knowledge was lost." |
+| **Reconstruction** | Deliberate neuro-cognitive throttling applied to a successful prototype that exceeded design specifications for perceptual bandwidth. The corn people achieved full-spectrum awareness (panoptic perception) and the operators actively suppressed it — not by destroying the prototype but by applying a precision cognitive limitation. The "breath upon a mirror" metaphor describes a diffusion filter: perceptual resolution is reduced from panoptic to local-only, while baseline cognitive function is preserved. This is the only text in the Archive that explicitly describes engineered amnesia as a deliberate design decision rather than a consequence of cataclysm (source: [analyses/popol-vuh.md](analyses/popol-vuh.md)). |
+| **Modern analog** | Sensory bandwidth reduction, pharmacological cognitive suppression, optogenetic perceptual dampening, neural pruning of extended sensory integration |

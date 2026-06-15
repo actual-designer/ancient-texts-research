@@ -323,15 +323,15 @@ The Rig Veda preserves the oldest operational account in the archive: events pre
 
 | Event | Source | Detail |
 |-------|--------|--------|
-| Ahura Mazda supreme command identity | Yasna 30-31 | The Wise Lord as uncreated supreme command authority |
-| Two Mainyus (Spenta/Angra) emerge as twins | Yasna 30.3-5 | Dual-operator system — one constructive, one adversarial |
-| Seven Amesha Spenta terminals established | Yasna 47.1-3 | Seven functional terminals with domain-specific jurisdictions |
-| Daevas deviate from operational parameters | Yasna 30.6, 32.3 | Existing worshipped entities identified as corrupted |
-| Zarathushtra issues corruption report | Yasna 32 | First-person whistleblower report of entity deviation |
-| Chinvat Bridge assesses post-body entities | Yasna 46.10-11 | Entity assessment gateway with three evaluation terminals |
-| **Frashokereti** (predicted terminal renewal) | Yasna 30.8-9, 34.14-15 | Universal restoration: all dead resurrected, Druj broken, all immortal |
-| Molten metal purification | Yasna 51.9 | All entities pass through detection/purification medium |
-| Good ultimately succeeds | Yasna 48.1 | Time-limited adversarial principle; absolute good resolution |
+| Ahura Mazda supreme command identity | Yasna 30-31 | The Wise Lord as uncreated supreme command authority (source: [analyses/zoroastrian-gathas.md](analyses/zoroastrian-gathas.md)) |
+| Two Mainyus (Spenta/Angra) emerge as twins | Yasna 30.3-5 | Dual-operator system — one constructive, one adversarial (source: [analyses/zoroastrian-gathas.md](analyses/zoroastrian-gathas.md): Incident 01) |
+| Seven Amesha Spenta terminals established | Yasna 47.1-3 | Seven functional terminals with domain-specific jurisdictions (source: [analyses/zoroastrian-gathas.md](analyses/zoroastrian-gathas.md): Incident 02) |
+| Daevas deviate from operational parameters | Yasna 30.6, 32.3 | Existing worshipped entities identified as corrupted (source: [analyses/zoroastrian-gathas.md](analyses/zoroastrian-gathas.md): Incident 04) |
+| Zarathushtra issues corruption report | Yasna 32 | First-person whistleblower report of entity deviation (source: [analyses/zoroastrian-gathas.md](analyses/zoroastrian-gathas.md): Incident 04) |
+| Chinvat Bridge assesses post-body entities | Yasna 46.10-11 | Entity assessment gateway with three evaluation terminals (source: [analyses/zoroastrian-gathas.md](analyses/zoroastrian-gathas.md): Incident 03) |
+| **Frashokereti** (predicted terminal renewal) | Yasna 30.8-9, 34.14-15 | Universal restoration: all dead resurrected, Druj broken, all immortal (source: [analyses/zoroastrian-gathas.md](analyses/zoroastrian-gathas.md): Incident 05) |
+| Molten metal purification | Yasna 51.9 | All entities pass through detection/purification medium (source: [analyses/zoroastrian-gathas.md](analyses/zoroastrian-gathas.md): Incident 05) |
+| Good ultimately succeeds | Yasna 48.1 | Time-limited adversarial principle; absolute good resolution (source: [analyses/zoroastrian-gathas.md](analyses/zoroastrian-gathas.md): Incident 05) |
 
 ---
 

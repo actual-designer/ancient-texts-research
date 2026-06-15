@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-Four independent textual traditions -- including one from a culture with **zero contact** with the Near Eastern cluster -- preserve overlapping accounts of a deliberately authorized environmental reset that eliminated exposed surface life. When the accounts are merged and stripped of theological overlay, the event does not read as a natural disaster. It reads as a **deliberate sterilization protocol** -- authorized at the highest level of the command hierarchy, executed using multi-vector weapons systems, and preceded by an unauthorized biological preservation operation conducted by a dissenting senior operative.
+Four independent textual traditions -- including one from a culture with **zero contact** with the Near Eastern cluster -- preserve overlapping accounts of a deliberately authorized environmental reset that eliminated exposed surface life (see [analyses/popol-vuh.md](analyses/popol-vuh.md)). When the accounts are merged and stripped of theological overlay, the event does not read as a natural disaster. It reads as a **deliberate sterilization protocol** -- authorized at the highest level of the command hierarchy, executed using multi-vector weapons systems, and preceded by an unauthorized biological preservation operation conducted by a dissenting senior operative.
 
 The survival vessel described in these accounts is not a boat. Its cubic geometry, compartmentalized interior, hermetic sealing, and cargo manifest are consistent with a **genetic seed vault**: a hardened containment facility designed to preserve biological diversity at the cellular level through a total surface-clearance event.
 
@@ -22,7 +22,7 @@ This document reconstructs the operation phase by phase, evaluates the evidence 
 
 The Flood was not an unexpected event. It was voted on, sworn to, and executed through a formal chain of command.
 
-**Gilgamesh Tablet XI:**
+**Gilgamesh Tablet XI:** (see [analyses/gilgamesh.md](analyses/gilgamesh.md))
 
 > "The hearts of the Great Gods moved them to inflict the Flood. Their Father Anu uttered the oath of secrecy, Valiant Enlil was their Adviser, Ninurta was their Chamberlain, Ennugi was their Minister of Canals."
 
@@ -40,7 +40,7 @@ The oath of secrecy is the decisive detail. Natural disasters do not require non
 
 ### 1.2 The Escalation Pattern
 
-The Flood was not a first resort. It was the terminal measure in a sequence of failed population-control operations.
+The Flood was not a first resort. It was the terminal measure in a sequence of failed population-control operations (see [analyses/atrahasis.md](analyses/atrahasis.md)).
 
 **[Atrahasis](analyses/atrahasis.md) Ch. 7:**
 
@@ -106,7 +106,7 @@ Enlil's fury at Utanapishtim's survival is the single most important line in the
 - The survival of even one lineage constitutes mission failure
 - This was not a punishment, correction, or warning -- it was **sterilization**
 
-A natural flood kills indiscriminately but does not express anger when someone survives. Only a deliberate operator, executing a protocol with a defined success criterion (total extinction), reacts with fury at an exception.
+A natural flood kills indiscriminately but does not express anger when someone survives. Only a deliberate operator, executing a protocol with a defined success criterion (total extinction), reacts with fury at an exception (see [analyses/theogony-works-and-days.md](analyses/theogony-works-and-days.md)).
 
 ### 1.6 Classification
 
