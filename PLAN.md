@@ -77,7 +77,7 @@
 
 ## Phase 5: Visual Assets
 
-**Status:** IN PROGRESS — Scope expanded from 4 to 6 planned diagrams
+**Status:** COMPLETED — 6 Mermaid diagrams deployed to published site
 
 ### 5.1 Mermaid Diagrams
 - Entity hierarchy diagram → embed in `01-entity-registry.md`
@@ -102,7 +102,7 @@
 
 ## Phase 7: Publishing Pipeline
 
-**Status:** CURRENT — Active development phase
+**Status:** COMPLETED — Astro site live at actual-designer.github.io/ancient-texts-research/
 
 ### 7.1 Static Site Generator
 - Evaluate MkDocs, Jekyll, or Astro for static site generation
@@ -176,6 +176,6 @@ Phases 1-4 are completed. Phase 5 (Mermaid diagrams) is in progress. Phase 7 (Pu
 - [x] Validation scripts pass with zero errors
 - [x] At least 2 new traditions added (Norse, Greek, Zoroastrian)
 - [x] Location registry with 20+ entries
-- [ ] Mermaid diagrams in 6+ documents
+- [x] Mermaid diagrams in 6 documents — deployed and verified
 - [ ] YAML frontmatter on all analyses (deferred to Phase 9)
-- [ ] Static site deploys from main branch
+- [x] Static site deploys from main branch — live at actual-designer.github.io/ancient-texts-research/
