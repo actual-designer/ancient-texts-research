@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.8.2] — 2026-06-15
+
+### Fixed
+
+- **`src/remark-link-rewrite.mjs`** — Normalise `file.path` from Astro content layer: content collection entries pass the path as a `file://` URL, causing `path.dirname` to produce an invalid root directory. Added `fileURLToPath` conversion to handle both plain filesystem paths and URL-encoded paths.
+
+### Updated
+
+- **`PLAN.md`** — Phase 5 (Visual Assets) and Phase 7 (Publishing Pipeline) marked COMPLETED. All 6 Mermaid diagrams deployed and verified; static site live at `actual-designer.github.io/ancient-texts-research/`.
+
+---
+
 ## [0.8.1] — 2026-05-25
 
 ### Added
