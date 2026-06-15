@@ -17,13 +17,19 @@
 
 import { visit } from 'unist-util-visit';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 const BASE = '/ancient-texts-research';
 
 /** @type {import('unified').Plugin} */
 export default function remarkLinkRewrite() {
   return (tree, file) => {
-    const srcDir = path.dirname(file.path);
+    // Normalise file.path: handle file:// URLs (content layer) and plain paths
+    let rawPath = file.path;
+    if (typeof rawPath === 'string' && rawPath.startsWith('file://')) {
+      rawPath = fileURLToPath(rawPath);
+    }
+    const srcDir = path.dirname(rawPath);
     const rootDir = file.cwd || process.cwd();
 
     visit(tree, 'link', (node) => {
