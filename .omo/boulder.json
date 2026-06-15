@@ -1,0 +1,273 @@
+{
+  "active_plan": "/Users/andre/Documents/Git/ancient-texts-research/.omo/plans/publish-and-diagrams.md",
+  "started_at": "2026-06-13T12:25:34.000Z",
+  "session_ids": [
+    "opencode:ses_13fcafbffffePcOKkp0uYI4Xvb"
+  ],
+  "session_origins": {
+    "opencode:ses_13fcafbffffePcOKkp0uYI4Xvb": "direct"
+  },
+  "plan_name": "publish-and-diagrams",
+  "agent": "atlas",
+  "task_sessions": {
+    "todo:1": {
+      "task_key": "todo:1",
+      "task_label": "1",
+      "task_title": "Create .gitignore + .nvmrc + directory scaffold",
+      "session_id": "opencode:ses_13f0d0c87ffei9F019CkJzPgz2",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "started_at": "2026-06-13T12:26:44.478Z",
+      "status": "completed",
+      "updated_at": "2026-06-13T12:32:38.954Z",
+      "ended_at": "2026-06-13T12:32:38.954Z",
+      "elapsed_ms": 354476
+    },
+    "todo:4": {
+      "task_key": "todo:4",
+      "task_label": "4",
+      "task_title": "Create remark plugin for link rewriting + Mermaid component",
+      "session_id": "opencode:ses_13f07004bfferSV5uZKbrE3nhz",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "updated_at": "2026-06-13T12:38:36.029Z",
+      "started_at": "2026-06-13T12:37:58.180Z",
+      "status": "completed",
+      "ended_at": "2026-06-13T12:38:36.029Z",
+      "elapsed_ms": 37849
+    },
+    "todo:6": {
+      "task_key": "todo:6",
+      "task_label": "6",
+      "task_title": "Configure content collections + page generation",
+      "session_id": "opencode:ses_13f013395ffeFATxEvkxVE1e7n",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "updated_at": "2026-06-13T12:51:33.292Z",
+      "started_at": "2026-06-13T12:50:24.347Z",
+      "status": "completed",
+      "ended_at": "2026-06-13T12:51:33.292Z",
+      "elapsed_ms": 68945
+    },
+    "todo:7": {
+      "task_key": "todo:7",
+      "task_label": "7",
+      "task_title": "Entity Hierarchy Mermaid → 01-entity-registry.md",
+      "session_id": "opencode:ses_13ef61620ffebWCdKETEKCYnGa",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "updated_at": "2026-06-13T12:53:32.701Z",
+      "started_at": "2026-06-13T12:53:08.663Z",
+      "status": "completed",
+      "ended_at": "2026-06-13T12:53:32.701Z",
+      "elapsed_ms": 24038
+    },
+    "todo:8": {
+      "task_key": "todo:8",
+      "task_label": "8",
+      "task_title": "Event Timeline Mermaid → 03-event-timeline.md",
+      "session_id": "opencode:ses_13ef4661fffeUDmxgsZSfLD0PO",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "updated_at": "2026-06-13T12:57:27.206Z",
+      "started_at": "2026-06-13T12:57:08.635Z",
+      "status": "completed",
+      "ended_at": "2026-06-13T12:57:27.206Z",
+      "elapsed_ms": 18571
+    },
+    "todo:13": {
+      "task_key": "todo:13",
+      "task_label": "13",
+      "task_title": "Create GitHub Actions workflow",
+      "session_id": "opencode:ses_13ef0c009ffe1NFs1zlPLAU839",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-06-13T12:58:45.657Z",
+      "started_at": "2026-06-13T12:58:09.122Z",
+      "status": "completed",
+      "ended_at": "2026-06-13T12:58:45.657Z",
+      "elapsed_ms": 36535
+    },
+    "todo:16": {
+      "task_key": "todo:16",
+      "task_label": "16",
+      "task_title": "Full QA run — build + links + diagrams + deploy",
+      "session_id": "opencode:ses_13eef7d77ffebYS6s10WLx8EZq",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-high",
+      "updated_at": "2026-06-13T13:02:04.669Z",
+      "started_at": "2026-06-13T13:00:42.034Z",
+      "status": "completed",
+      "ended_at": "2026-06-13T13:02:04.669Z",
+      "elapsed_ms": 82635
+    },
+    "final-wave:f1": {
+      "task_key": "final-wave:f1",
+      "task_label": "F1",
+      "task_title": "**Plan Compliance Audit** — `oracle`",
+      "session_id": "opencode:ses_13c9243eeffe4unMwy1QYg4P0K",
+      "agent": "oracle",
+      "updated_at": "2026-06-14T00:10:08.092Z",
+      "started_at": "2026-06-14T00:03:01.190Z",
+      "status": "completed",
+      "ended_at": "2026-06-14T00:10:08.092Z",
+      "elapsed_ms": 426902
+    },
+    "final-wave:f2": {
+      "task_key": "final-wave:f2",
+      "task_label": "F2",
+      "task_title": "**Code Quality Review** — Perform a fresh code quality audit of the Chronos Archive Astro site after fixes for two previously-identified issues (content body link path resolution bug, missing favicon).",
+      "session_id": "opencode:ses_13c8b5a2cffej026SzO9fKZseu",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-high",
+      "updated_at": "2026-06-14T00:10:08.093Z",
+      "started_at": "2026-06-14T00:08:46.899Z",
+      "status": "completed",
+      "ended_at": "2026-06-14T00:10:08.093Z",
+      "elapsed_ms": 81194
+    }
+  },
+  "schema_version": 2,
+  "active_work_id": "publish-and-diagrams",
+  "works": {
+    "publish-and-diagrams": {
+      "work_id": "publish-and-diagrams",
+      "active_plan": "/Users/andre/Documents/Git/ancient-texts-research/.omo/plans/publish-and-diagrams.md",
+      "plan_name": "publish-and-diagrams",
+      "started_at": "2026-06-13T12:25:34.000Z",
+      "session_ids": [
+        "opencode:ses_13fcafbffffePcOKkp0uYI4Xvb"
+      ],
+      "session_origins": {
+        "opencode:ses_13fcafbffffePcOKkp0uYI4Xvb": "direct"
+      },
+      "agent": "atlas",
+      "task_sessions": {
+        "todo:1": {
+          "task_key": "todo:1",
+          "task_label": "1",
+          "task_title": "Create .gitignore + .nvmrc + directory scaffold",
+          "session_id": "opencode:ses_13f0d0c87ffei9F019CkJzPgz2",
+          "agent": "Sisyphus-Junior",
+          "category": "quick",
+          "started_at": "2026-06-13T12:26:44.478Z",
+          "status": "completed",
+          "updated_at": "2026-06-13T12:32:38.954Z",
+          "ended_at": "2026-06-13T12:32:38.954Z",
+          "elapsed_ms": 354476
+        },
+        "todo:4": {
+          "task_key": "todo:4",
+          "task_label": "4",
+          "task_title": "Create remark plugin for link rewriting + Mermaid component",
+          "session_id": "opencode:ses_13f07004bfferSV5uZKbrE3nhz",
+          "agent": "Sisyphus-Junior",
+          "category": "deep",
+          "updated_at": "2026-06-13T12:38:36.029Z",
+          "started_at": "2026-06-13T12:37:58.180Z",
+          "status": "completed",
+          "ended_at": "2026-06-13T12:38:36.029Z",
+          "elapsed_ms": 37849
+        },
+        "todo:6": {
+          "task_key": "todo:6",
+          "task_label": "6",
+          "task_title": "Configure content collections + page generation",
+          "session_id": "opencode:ses_13f013395ffeFATxEvkxVE1e7n",
+          "agent": "Sisyphus-Junior",
+          "category": "deep",
+          "updated_at": "2026-06-13T12:51:33.292Z",
+          "started_at": "2026-06-13T12:50:24.347Z",
+          "status": "completed",
+          "ended_at": "2026-06-13T12:51:33.292Z",
+          "elapsed_ms": 68945
+        },
+        "todo:7": {
+          "task_key": "todo:7",
+          "task_label": "7",
+          "task_title": "Entity Hierarchy Mermaid → 01-entity-registry.md",
+          "session_id": "opencode:ses_13ef61620ffebWCdKETEKCYnGa",
+          "agent": "Sisyphus-Junior",
+          "category": "deep",
+          "updated_at": "2026-06-13T12:53:32.701Z",
+          "started_at": "2026-06-13T12:53:08.663Z",
+          "status": "completed",
+          "ended_at": "2026-06-13T12:53:32.701Z",
+          "elapsed_ms": 24038
+        },
+        "todo:8": {
+          "task_key": "todo:8",
+          "task_label": "8",
+          "task_title": "Event Timeline Mermaid → 03-event-timeline.md",
+          "session_id": "opencode:ses_13ef4661fffeUDmxgsZSfLD0PO",
+          "agent": "Sisyphus-Junior",
+          "category": "deep",
+          "updated_at": "2026-06-13T12:57:27.206Z",
+          "started_at": "2026-06-13T12:57:08.635Z",
+          "status": "completed",
+          "ended_at": "2026-06-13T12:57:27.206Z",
+          "elapsed_ms": 18571
+        },
+        "todo:13": {
+          "task_key": "todo:13",
+          "task_label": "13",
+          "task_title": "Create GitHub Actions workflow",
+          "session_id": "opencode:ses_13ef0c009ffe1NFs1zlPLAU839",
+          "agent": "Sisyphus-Junior",
+          "category": "quick",
+          "updated_at": "2026-06-13T12:58:45.657Z",
+          "started_at": "2026-06-13T12:58:09.122Z",
+          "status": "completed",
+          "ended_at": "2026-06-13T12:58:45.657Z",
+          "elapsed_ms": 36535
+        },
+        "todo:16": {
+          "task_key": "todo:16",
+          "task_label": "16",
+          "task_title": "Full QA run — build + links + diagrams + deploy",
+          "session_id": "opencode:ses_13eef7d77ffebYS6s10WLx8EZq",
+          "agent": "Sisyphus-Junior",
+          "category": "unspecified-high",
+          "updated_at": "2026-06-13T13:02:04.669Z",
+          "started_at": "2026-06-13T13:00:42.034Z",
+          "status": "completed",
+          "ended_at": "2026-06-13T13:02:04.669Z",
+          "elapsed_ms": 82635
+        },
+        "final-wave:f1": {
+          "task_key": "final-wave:f1",
+          "task_label": "F1",
+          "task_title": "**Plan Compliance Audit** — `oracle`",
+          "session_id": "opencode:ses_13c9243eeffe4unMwy1QYg4P0K",
+          "agent": "oracle",
+          "updated_at": "2026-06-14T00:10:08.092Z",
+          "started_at": "2026-06-14T00:03:01.190Z",
+          "status": "completed",
+          "ended_at": "2026-06-14T00:10:08.092Z",
+          "elapsed_ms": 426902
+        },
+        "final-wave:f2": {
+          "task_key": "final-wave:f2",
+          "task_label": "F2",
+          "task_title": "**Code Quality Review** — Perform a fresh code quality audit of the Chronos Archive Astro site after fixes for two previously-identified issues (content body link path resolution bug, missing favicon).",
+          "session_id": "opencode:ses_13c8b5a2cffej026SzO9fKZseu",
+          "agent": "Sisyphus-Junior",
+          "category": "unspecified-high",
+          "updated_at": "2026-06-14T00:10:08.093Z",
+          "started_at": "2026-06-14T00:08:46.899Z",
+          "status": "completed",
+          "ended_at": "2026-06-14T00:10:08.093Z",
+          "elapsed_ms": 81194
+        }
+      },
+      "updated_at": "2026-06-14T00:10:35.619Z",
+      "ended_at": "2026-06-14T00:10:35.619Z",
+      "elapsed_ms": 42301619,
+      "status": "completed"
+    }
+  },
+  "updated_at": "2026-06-14T00:10:35.619Z",
+  "status": "completed",
+  "ended_at": "2026-06-14T00:10:35.619Z",
+  "elapsed_ms": 42301619
+}
