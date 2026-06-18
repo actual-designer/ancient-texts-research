@@ -65,6 +65,7 @@
 | [11-unified-hypothesis.md](11-unified-hypothesis.md) | Capstone argument: singular hypothesis unifying all fourteen texts and all synthesis documents; seven numbered findings; predictions and falsifiability; complete arc timeline |
 | [12-NHI-correlation.md](12-NHI-correlation.md) | NHI/Archive correlation synthesis — maps modern UFO/NHI discourse to unified hypothesis; correlation methodology, timeline analysis, counterargument treatment, falsification criteria |
 | [13-nde-correlation.md](13-nde-correlation.md) | NDE Correlation — Near-Death Experiences as modern evidentiary track parallel to ancient texts; covers veridical perception, post-mortem pipeline, entity encounters, cross-cultural patterns, skeptical analysis, after-effects, and SDEs/DBVs |
+| [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) | Broadsheet Celestial Events — Historical celestial phenomenon events (1535-1917 CE) as gap evidence for the Silent Period; signal/noise methodology; parallels to ancient celestial battle accounts |
 
 ---
 

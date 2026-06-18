@@ -150,6 +150,8 @@ The modern NHI discourse, if verified, provides empirical data the Archive canno
 
 The Archive does not currently have access to verified NHI biological samples, institutional documentation, or operator testimony. If such evidence becomes available, it will be evaluated against this discrimination framework. Until then, both readings remain live hypotheses.
 
+The Archive's companion analysis ([14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md)) applies this discrimination framework to the first witness-account evidence from within the gap period itself — seven historical celestial phenomenon events (1535-1917 CE) documented in the European broadsheet tradition and modern mass-sighting records. The broadsheet evidence is assessed as ambiguous between Reading A and Reading B but establishes that the "Silent Period" was not fully silent.
+
 ---
 
 ---

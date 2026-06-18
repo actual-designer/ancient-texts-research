@@ -434,6 +434,8 @@ This silence is not evidence that the operators never existed. It is evidence th
 
 But silence is not absence. Four scenarios remain consistent with the data (see Chapter V). The most defensible position is that we are in an **autonomous test phase** — the operators have withdrawn to evaluate whether the species can self-govern.
 
+> See [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) for witness-account evidence from within the Silent Period (1535–1917 CE). These are ambient observations, not operator-to-human contacts; the "autonomous test phase" finding holds.
+
 ### The Amnesia Architecture Is Still Active
 
 The [Popol Vuh](analyses/popol-vuh.md) documents that the amnesia was engineered as a design modification: "Their eyes were merely blurred... they could see only nearby." This was not a one-time event. It was a **cognitive limitation architecture** applied to the production run.

@@ -352,6 +352,23 @@ The Rig Veda preserves the oldest operational account in the archive: events pre
 
 ---
 
+## ERA 6.5: BROADSHEET ERA — Intermittent Witness Accounts (1535-1917 CE)
+
+> **Source Material:** [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md)
+
+The first witness-account evidence from within the "Reduced Contact / Silent Period." These events represent anomalous celestial observations and atmospheric phenomena recorded by observers who lacked the vocabulary to describe aerospace activity — the same amnesia-filter pattern observed in all prior eras.
+
+| Date | Event | Location | Signal | Cross-Reference |
+|------|-------|----------|--------|-----------------|
+| 1535 | Stockholm Vädersolstavlan | Stockholm, Sweden | CONTROL | [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) §3 |
+| 1554 | Waldeck Castle + Plech | Germany | CONTEXT | [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) §8 |
+| 1561 | Nuremberg Celestial Phenomenon | Nuremberg, Germany | HIGH | [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) §4 |
+| 1566 | Basel Celestial Phenomenon | Basel, Switzerland | HIGH | [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) §5 |
+| 1665 | Stralsund Celestial Phenomenon | Stralsund, Germany | HIGH | [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) §6 |
+| 1917 | Fátima Miracle of the Sun | Fátima, Portugal | COMPLEX | [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) §7 |
+
+---
+
 ## ERA X: PROJECTED TERMINAL EVENTS (The Revelation Briefing)
 
 **Documentation:** ~95 CE (written by John of Patmos)
@@ -485,6 +502,17 @@ HISTORICAL PERIOD
   ├── 585 BCE: Valley of Dry Bones
   └── 573 BCE: Temple blueprints dictated
          │
+         ├── (~millennia pass; operators withdraw to intermittent contact)
+         │
+BROADSHEET ERA (Intermittent Witness Accounts -- 1535-1917)
+  │
+  ├── 1535: Stockholm Vädersolstavlan
+  ├── 1554: Waldeck Castle + Plech
+  ├── 1561: Nuremberg Celestial Phenomenon
+  ├── 1566: Basel Celestial Phenomenon
+  ├── 1665: Stralsund Celestial Phenomenon
+  └── 1917: Fátima Miracle of the Sun
+         │
          ├── (~continuous: Egyptian post-mortem processing operation -- see Book of the Dead)
          │
 PROJECTED TERMINAL SEQUENCE (Revelation Briefing -- ~95 CE documentation, timing undetermined)
@@ -548,6 +576,7 @@ gantt
     Ezekiel Encounters (593 BCE)        :crit, done, e1, -593, -573
     Yoga Sutras / Consciousness Lock     :done, e2, 200, 400
     Reduced Contact / Silent Period      :done, e3, -573, 1975
+    Broadsheet events (1535-1917)        :milestone, bb1, 1535, 0d
 
     section Era 6 — Contemporary
     NDE Research & Processing Infra.     :active, c1, 1975, 2026

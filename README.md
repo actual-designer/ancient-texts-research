@@ -147,6 +147,7 @@ This is not cosmology. It is deployed infrastructure.
 - [`11-unified-hypothesis.md`](audit/11-unified-hypothesis.md) — The capstone. Singular hypothesis unifying all fourteen texts across seven chapters, with findings, predictions, and falsifiability.
 - [`12-NHI-correlation.md`](audit/12-NHI-correlation.md) — Addendum correlating modern NHI/UFO disclosure discourse (Vallée, Keel, Grusch, AARO) with the Archive's unified hypothesis across all prior syntheses.
 - [`13-nde-correlation.md`](audit/13-nde-correlation.md) — Addendum analyzing Near-Death Experiences as a modern evidentiary track parallel to ancient texts: veridical perception, post-mortem pipeline homology, entity encounters, cross-cultural patterns, skeptical analysis, after-effects, and integration synthesis.
+- [`14-broadsheet-celestial-events.md`](audit/14-broadsheet-celestial-events.md) — Historical celestial phenomenon events (1535–1917 CE) as gap evidence for the Silent Period; signal/noise methodology; parallels to ancient celestial battle accounts.
 
 ## First Doorways
 
@@ -161,6 +162,7 @@ Not sure where to start? Pick a thread.
 | The Arsenal | [`06-weapons-doctrine.md`](audit/06-weapons-doctrine.md) | Ancient dual-key authorization. Someone was afraid of exactly who was pointing what at whom. |
 | The Unified Hypothesis | [`11-unified-hypothesis.md`](audit/11-unified-hypothesis.md) | The full reconstruction. Seven chapters from the pre-operational void through the engineered amnesia to the autonomous test phase we're in now. |
 | The Modern Evidence | [`13-nde-correlation.md`](audit/13-nde-correlation.md) | Modern NDE research converges on the same post-mortem processing infrastructure the ancients described — now with medical documentation and veridical perception cases. |
+| The Silent Period | [`14-broadsheet-celestial-events.md`](audit/14-broadsheet-celestial-events.md) | The Silent Period wasn't silent. Celestial event records (1535–1917 CE) show continued ambient activity — operational signatures without direct contact. |
 | The Index | [`00-INDEX.md`](audit/00-INDEX.md) | All 14 analyses, all syntheses, one map. Start here if you want the full picture. |
 
 ## The Goal

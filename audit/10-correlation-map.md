@@ -277,6 +277,20 @@ Each of the 14 per-text analyses views the shared operational reality through a 
 
 ---
 
+### 1.14 Broadsheet of Celestial Events
+
+**Unique angle:** Gap-evidence from within the Silent Period (1535–1917 CE): documented celestial phenomena (comets, bolides, auroras, luminous events) interpreted as ambient operational signatures — not direct operator-to-human contact, but observable manifestations of continued activity during the post-573 BCE withdrawal phase.
+
+| Key Correlations | Parallel Text(s) |
+|-----------------|-------------------|
+| Celestial battle analogs | [12-NHI-correlation.md](12-NHI-correlation.md) (modern NHI/UAP operational signatures); [04-cross-references.md](04-cross-references.md) (ancient celestial conflict accounts) |
+| Signal/noise methodology for gap evidence | [03-event-timeline.md](03-event-timeline.md) (gap entries 573 BCE → present); [11-unified-hypothesis.md](11-unified-hypothesis.md) (autonomous test phase) |
+| Ambient vs. directed contact distinction | [13-nde-correlation.md](13-nde-correlation.md) (modern NDE as parallel evidence track); [11-unified-hypothesis.md](11-unified-hypothesis.md) Finding 7 |
+
+**Relevant synthesis docs:** [12-NHI-correlation.md](12-NHI-correlation.md) (gap evidence framework), [13-nde-correlation.md](13-nde-correlation.md) (parallel modern-evidence track), [03-event-timeline.md](03-event-timeline.md) (gap period chronology), [04-cross-references.md](04-cross-references.md) (ancient celestial parallels), [11-unified-hypothesis.md](11-unified-hypothesis.md) (autonomous test phase)
+
+---
+
 ## 2. Thematic Correlation Clusters
 
 ### 2.1 Creation & Engineering of Humans
@@ -406,9 +420,22 @@ Extensive location data exists across all 14 texts. Key cross-tradition parallel
 
 ---
 
-### 2.9 Thematic Correlation Network
+### 2.9 Silent Period & Gap Evidence
 
-The following diagram visualizes the eight thematic clusters identified in the correlation inventory above. The central convergence node connects to each cluster, and each cluster node lists the source traditions that provide supporting evidence from the archive.
+| Element | [Broadsheet](14-broadsheet-celestial-events.md) | [12-NHI](12-NHI-correlation.md) | [13-NDE](13-nde-correlation.md) | [03-Timeline](03-event-timeline.md) | [04-Cross-Refs](04-cross-references.md) |
+|---------|--------|---------|---------|---------|---------|
+| Gap period evidence | Historical celestial record 1535–1917 CE | Modern UAP/NHI encounter patterns | NDEs as continuous interface evidence | Gap entries post-573 BCE | Ancient celestial battle parallels |
+| Signal/noise distinction | Ambient operational signature vs. direct contact | NHI vs. UAP taxonomy | Veridical perception vs. anomalous experience | — | — |
+| Autonomous test phase | Activity during withdrawal; no direct contact | NHI as passive observers | NDE pipeline as ongoing extraction | — | — |
+| Ancient parallels | — | — | — | — | Celestial wars in Enoch, Revelation, Mahabharata |
+
+**Links to build:** [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) → [12-NHI-correlation.md](12-NHI-correlation.md) (gap evidence), [13-nde-correlation.md](13-nde-correlation.md) (modern parallel), [03-event-timeline.md](03-event-timeline.md) (gap entries), [04-cross-references.md](04-cross-references.md) (celestial parallels), [11-unified-hypothesis.md](11-unified-hypothesis.md) (autonomous test phase)
+
+---
+
+### 2.10 Thematic Correlation Network
+
+The following diagram visualizes the nine thematic clusters identified in the correlation inventory above. The central convergence node connects to each cluster, and each cluster node lists the source traditions that provide supporting evidence from the archive.
 
 ```mermaid
 flowchart TD
@@ -431,6 +458,7 @@ flowchart TD
     CENTER --> C6["Eschaton & Terminal Protocols<br/>Revelation · Poetic Edda · Theogony · Gathas"]:::c6
     CENTER --> C7["Post-Mortem Processing<br/>Book of Dead · Pyramid Texts · Gathas · Popol Vuh · Revelation"]:::c7
     CENTER --> C8["Locations Registry<br/>Gilgamesh · Atrahasis · Enoch · Theogony · Revelation · Ezekiel · Poetic Edda · Book of Dead · Pyramid Texts · Popol Vuh · Mahabharata"]:::c8
+    CENTER --> C9["Silent Period / Gap Evidence<br/>Broadsheet · 12-NHI · 13-NDE · Timeline · Cross-Refs"]:::c9
 ```
 
 ---
@@ -797,12 +825,15 @@ These documents already have hyperlinks but have gaps that should be filled:
 |---|--------------|--------------------------|-------------------|
 | 1 | 01-entity-registry.md | 12 | Add inline source citations for entity claims in entity descriptions (e.g., "Dragon" cite Revelation, "Loki" cite Poetic Edda, "Ahura Mazda" cite Zoroastrian) |
 | 2 | 02-technology-catalog.md | 31 | Already well-linked; add Book of the Dead (consciousness transfer), Popol Vuh (cognitive limitation), Theogony (adamantine sickle) entries |
-| 3 | 03-event-timeline.md | 20 | Already well-linked; add Zoroastrian timeline references |
-| 4 | 04-cross-references.md | 31 | Already well-linked; verify all 13 sources referenced |
+| 3 | 03-event-timeline.md | 20 | Already well-linked; add Zoroastrian timeline references; link gap-period entries to [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) |
+| 4 | 04-cross-references.md | 31 | Already well-linked; verify all 13 sources referenced; link celestial event parallels to [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) |
 | 5 | 05-great-reset.md | 1 | Add inline links: Atrahasis flood, Gilgamesh Tablet XI, Popol Vuh wood people flood, Theogony Deucalion flood |
 | 6 | 06-weapons-doctrine.md | 1 | Add inline links: Revelation Trumpets/Vials, Mahabharata astras, Enoch technology embargo, Theogony Pandora's jar |
 | 7 | 07-the-human-project.md | 0 | Add inline links: Atrahasis creation, Popol Vuh cognitive limitation, Theogony Five Ages, Gilgamesh hybrid rulers |
 | 8 | 09-location-registry.md | 0 | Add inline links: per-text analysis citations for each location entry |
+| 9 | 12-NHI-correlation.md | — | Link gap-evidence conclusions to [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md); cite broadsheet as primary gap-period evidence source |
+| 10 | 13-nde-correlation.md | — | Cite [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) as parallel modern-evidence track (ambient vs. directed contact distinction) |
+| 11 | 14-broadsheet-celestial-events.md | — | New synthesis document; link to [03-event-timeline.md](03-event-timeline.md) (gap entries), [04-cross-references.md](04-cross-references.md) (celestial parallels), [12-NHI-correlation.md](12-NHI-correlation.md) (gap evidence framework), [13-nde-correlation.md](13-nde-correlation.md) (modern parallel), [11-unified-hypothesis.md](11-unified-hypothesis.md) (autonomous test phase) |
 
 ---
 
@@ -826,5 +857,5 @@ These documents already have hyperlinks but have gaps that should be filled:
 | popol-vuh.md | 10 | +4 | 14 |
 | *Subtotal (linked)* | *50+* | *+19* | *69+* |
 | **TOTAL (per-text analyses)** | **50+** | **+237** | **287+** |
-| Synthesis docs (inline links) | ~110 | +60 | ~170 |
-| **GRAND TOTAL** | **~160** | **+297** | **~457** |
+| Synthesis docs (inline links) | ~110 | +69 | ~179 |
+| **GRAND TOTAL** | **~160** | **+306** | **~466** |

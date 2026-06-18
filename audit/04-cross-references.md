@@ -531,6 +531,32 @@ Mesopotamian, Hebrew-prophetic, and Sanskrit epic strata all encode **catalogued
 
 ---
 
+## CROSS-REFERENCE 25: Celestial Battle Accounts — Ancient Texts and Broadsheet Reports
+
+**Convergence strength: HIGH** -- Ancient texts describe structured aerial combat between non-human operators; 16th-century broadsheets describe structured objects fighting in the sky; modern NHI reports describe craft performing coordinated maneuvers. The operational signature is identical across all three temporal bands.
+
+> **Framing**: "Ancient texts describe 'gods fighting in the sky'; broadsheets describe 'objects fighting in the sky'; modern NHI describes 'craft performing maneuvers.' Same operational signature, different cultural vocabulary."
+
+### Source Comparison
+
+| Element | Revelation 12:7-9 | Mahābhārata (`audit/analyses/mahabharata.md`) | Ezekiel 1 (`audit/analyses/ezekiel-merkabah.md`) | Popol Vuh (`audit/analyses/popol-vuh.md`) | Broadsheet Reports (`14-broadsheet-celestial-events.md`) |
+|---------|------------------|----------------------------------------------|--------------------------------------------------|-----------------------------------|---------------------------------------|
+| **Event type** | Michael and angels fighting the dragon — war in heaven | Vimāna aerial platform combat; Astra exchange volleys between opposing operators | Structured Merkabah vehicle with discrete components (wheels, wings, creatures) | Heart of Sky manifestations producing atmospheric/celestial displays | Nuremberg 1561: cylinders, crosses, globes fighting; Basel 1566: spheres, crosses, halos engaged; Stralsund: crosses and globes in structured engagement |
+| **Participants** | Michael (loyalist faction) vs. Dragon/angels (ejected faction) | Karna vs. Arjuna; Indra vs. hostile operators; fire-weapon exchanges in aerial theater | Multi-component platform: 4 living beings, 4 wheels, wings, "eyes" on wheels | Heart of Sky (Huracan) and associated operators active in atmospheric layer | Multiple distinct object types: cylindrical, spherical, cross-shaped, halo/saucer forms |
+| **Engagement description** | "War broke out in heaven; Michael and his angels fought against the dragon" | "Weapons crossed like brilliant birds in flight"; structured aerial duels; Indra's thunderbolt deployments | Discrete structured components moving in coordinated patterns; "wheel within a wheel" | Atmospheric manifestations as expressions of operator activity | "Objects fighting" — direct witness language; multiple simultaneous engagements |
+| **Outcome** | Dragon cast to earth; angels ejected from heaven | Tactical exchanges resolved; surviving operators retain position | Prophetic observation; platform departs via "chariot of fire" | Demonstrations of operational superiority over underworld facility | Objects depart or are consumed; witnesses recover |
+| **Observer framing** | Apocalyptic warfare | Heroic warfare | Architectural-technical observation | Mythic instruction | Proto-scientific proto-journalistic |
+
+### Key Finding
+
+Four ancient sources and three 16th-century broadsheet accounts describe the same operational pattern: **structured objects engaging in aerial combat**. The ancient sources use the vocabulary available to their respective cultures — divine warfare, vimāna combat, celestial vehicles, Heart of Sky manifestations — while the broadsheet witnesses, lacking both the mythological vocabulary and the modern technical vocabulary, simply described what they saw: "cylinders," "crosses," "globes," and "spheres" fighting in the sky.
+
+The structural consistency across these accounts — multiple distinct object types, coordinated engagement, organized departure — points to a common operational reality observed through different cultural filters. The broadsheet witnesses are neither inventing nor hallucinating; they are describing, in the only terms available to them, what they witnessed. The ancient texts are not metaphorically describing weather events; they are describing the same category of phenomena with the vocabulary appropriate to their respective civilizations.
+
+**Broadsheet anchor:** The Nuremberg 1561, Basel 1566, and Stralsund accounts represent the most temporally proximate and geographically specific set of witnesses to this operational pattern before the modern NHI disclosure era. They provide the missing middle evidence between ancient divine warfare accounts and contemporary craft-maneuver reports (`14-broadsheet-celestial-events.md`).
+
+---
+
 ## SUMMARY OF CONVERGENCE
 
 | Cross-Reference | Sources | Strength | Significance |

@@ -7,6 +7,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.9.0] — 2026-06-18
+
+### Added
+
+- **Broadsheet Celestial Events synthesis** (`audit/14-broadsheet-celestial-events.md`) — Gap-evidence analysis for the "Silent Period" (573 BCE – 1975 CE), examining seven historical celestial phenomenon events recorded in European broadsheets and one mass-witness phenomenon (1535–1917 CE). 10 numbered findings covering: signal/noise methodology adapted from NHI correlation framework, control baseline (Stockholm Vädersolstavlan 1535), high-signal events (Nuremberg 1561, Basel 1566, Stralsund 1665), complex signal (Fátima 1917), source credibility context (Hans Glaser's broadsheet pattern), and gap-evidence integration with the unified hypothesis. ~828 lines, 8 sections.
+- **Control baseline document** (`audit/control-baseline-vadersolstavlan.md`) — Full forensic analysis of the 1535 Stockholm sun dog painting as the control baseline for pre-modern atmospheric-optics depiction. Establishes the upper bound of "mundane" accuracy achievable by 16th-century observers against which anomalous claims are measured.
+- **Research notes** (`audit/research-notes-broadsheet-methodology.md`) — Scholarly frameworks for historical celestial broadsheet analysis: Vallée's "stock myth" / propaganda hypothesis, Aubeck's *Wonders in the Sky* dataset, Magin's source-critical methodology, and modern halo-simulation cross-validation.
+- **ERA 6.5: BROADSHEET ERA** in `audit/03-event-timeline.md` — New timeline era inserting intermittent witness accounts (1535–1917 CE) between the Reduced Contact / Silent Period and the Contemporary Processing Infrastructure era. Includes 6 events with signal-strength classification and cross-references. ASCII timeline and Gantt chart updated.
+- **CROSS-REFERENCE 25: Celestial Battle Accounts** in `audit/04-cross-references.md` — Five-column comparison (Revelation, Mahābhārata, Ezekiel, Popol Vuh, Broadsheet Reports) demonstrating structural homology between ancient "divine warfare" accounts and 16th-century broadsheet "objects fighting in the sky" reports. Convergence strength: HIGH.
+- **Section 1.14: Broadsheet of Celestial Events** in `audit/10-correlation-map.md` — Per-text perspective inventory entry with key correlations (celestial battle analogs, signal/noise methodology, ambient vs. directed contact distinction).
+- **Thematic Cluster 2.9: Silent Period & Gap Evidence** in `audit/10-correlation-map.md` — New correlation cluster linking broadsheet evidence with NHI correlation, NDE correlation, timeline gap entries, and ancient celestial battle parallels. Mermaid diagram updated to 9 clusters.
+- **Linking blueprint updates** in `audit/10-correlation-map.md` — Phase 2 hyperlink retrofit extended: 11 new link targets across synthesis documents connecting broadsheet analysis to timeline, cross-references, NHI correlation, NDE correlation, and unified hypothesis.
+
+### Updated
+
+- `README.md` — `14-broadsheet-celestial-events.md` added to Cross-Cutting Syntheses list and First Doorways table ("The Silent Period" entry).
+- `audit/00-INDEX.md` — `14-broadsheet-celestial-events.md` entry added to cross-cutting synthesis table.
+- `audit/11-unified-hypothesis.md` — Added broadsheet reference in Chapter VII (autonomous test phase) acknowledging ambient observations during the Silent Period.
+- `audit/12-NHI-correlation.md` — Added broadsheet reference in the two-readings framework, establishing the broadsheet record as the first witness-account evidence from within the gap period itself.
+- `.omo/boulder.json` — Boulder state updated for broadsheet workstream completion.
+
+---
+
 ## [0.8.2] — 2026-06-15
 
 ### Fixed
