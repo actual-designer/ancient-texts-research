@@ -1,0 +1,103 @@
+---
+// The Chronos Archive — Top Bar
+// Mobile-only slim header: hamburger (opens sidebar drawer), wordmark,
+// and theme toggle. Keeps theme switching reachable without opening the drawer.
+import ThemeToggle from './ThemeToggle.astro';
+
+const base = import.meta.env.BASE_URL || '/';
+---
+
+<header class="topbar">
+  <button class="hamburger-btn" aria-label="Open navigation menu" aria-expanded="false" aria-controls="archive-sidebar">
+    <span class="hamburger"></span>
+  </button>
+  <a href={base} class="topbar-wordmark">The Chronos Archive</a>
+  <ThemeToggle />
+</header>
+
+<style>
+  .topbar {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: var(--topbar-height);
+    z-index: 90;
+    align-items: center;
+    gap: var(--space-sm);
+    padding: 0 12px;
+    background: color-mix(in srgb, var(--bg-secondary) 88%, transparent);
+    backdrop-filter: saturate(160%) blur(10px);
+    -webkit-backdrop-filter: saturate(160%) blur(10px);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .topbar-wordmark {
+    flex: 1;
+    font-family: var(--font-heading);
+    font-size: var(--step-1);
+    font-weight: 700;
+    color: var(--accent);
+    text-decoration: none;
+    letter-spacing: 0.4px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .topbar-wordmark:hover {
+    color: var(--accent-hover);
+  }
+
+  /* ── Hamburger ── */
+  .hamburger-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    flex: 0 0 auto;
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    padding: 0;
+    color: var(--text-primary);
+    transition: border-color var(--transition-fast), color var(--transition-fast);
+  }
+
+  .hamburger-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .hamburger,
+  .hamburger::before,
+  .hamburger::after {
+    display: block;
+    width: 18px;
+    height: 2px;
+    background: currentColor;
+    border-radius: 1px;
+    position: relative;
+    transition: transform var(--transition-fast), opacity var(--transition-fast);
+  }
+
+  .hamburger::before,
+  .hamburger::after {
+    content: '';
+    position: absolute;
+    left: 0;
+  }
+
+  .hamburger::before { top: -6px; }
+  .hamburger::after { top: 6px; }
+
+  /* ── Mobile only ── */
+  @media (max-width: 768px) {
+    .topbar {
+      display: flex;
+    }
+  }
+</style>

@@ -1,0 +1,114 @@
+---
+// The Chronos Archive — Mermaid runtime
+// Bundles Mermaid from npm (lazy dynamic import so diagram-free pages stay
+// light), transforms Astro/Shiki `pre[data-language="mermaid"]` blocks into
+// render targets, and re-renders on theme change so diagrams recolor live.
+---
+
+<script>
+  function getTheme(): 'default' | 'dark' {
+    return document.documentElement.getAttribute('data-theme') === 'light' ? 'default' : 'dark';
+  }
+
+  // Collect mermaid sources and replace highlighted code blocks with render
+  // targets. Returns the list of `.mermaid` elements to render.
+  function collectDiagrams(): HTMLElement[] {
+    const nodes: HTMLElement[] = [];
+
+    const makeTarget = (source: string) => {
+      const figure = document.createElement('figure');
+      figure.className = 'mermaid-figure';
+      const target = document.createElement('pre');
+      target.className = 'mermaid';
+      target.setAttribute('data-src', source);
+      target.textContent = source;
+      figure.appendChild(target);
+      return { figure, target };
+    };
+
+    // 1) Astro (Shiki) output: <pre data-language="mermaid"><code>…</code></pre>
+    document.querySelectorAll('pre[data-language="mermaid"]').forEach((pre) => {
+      const code = pre.querySelector('code');
+      const source = (code ? code.textContent : pre.textContent) || '';
+      if (!source.trim()) return;
+      const { figure, target } = makeTarget(source);
+      pre.replaceWith(figure);
+      nodes.push(target);
+    });
+
+    // 2) Fallback: Prism-style <pre><code class="language-mermaid">…</code></pre>
+    document.querySelectorAll('code.language-mermaid').forEach((code) => {
+      const pre = code.closest('pre');
+      const source = code.textContent || '';
+      if (!pre || !source.trim()) return;
+      const { figure, target } = makeTarget(source);
+      pre.replaceWith(figure);
+      nodes.push(target);
+    });
+
+    // 3) Already-authored <pre class="mermaid"> / <div class="mermaid">
+    document.querySelectorAll('.mermaid:not([data-src])').forEach((el) => {
+      const source = el.textContent || '';
+      if (!source.trim()) return;
+      el.setAttribute('data-src', source);
+      nodes.push(el as HTMLElement);
+    });
+
+    return nodes;
+  }
+
+  async function initMermaid() {
+    const nodes = collectDiagrams();
+    if (!nodes.length) return;
+
+    let mermaid;
+    try {
+      mermaid = (await import('mermaid')).default;
+    } catch (err) {
+      console.error('[Chronos] Mermaid failed to load:', err);
+      return;
+    }
+
+    const render = async () => {
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: getTheme(),
+        securityLevel: 'strict',
+        fontFamily: 'Inter, system-ui, sans-serif',
+      });
+
+      // Reset each target back to its raw source so re-renders are clean.
+      nodes.forEach((el) => {
+        const src = el.getAttribute('data-src') || '';
+        el.removeAttribute('data-processed');
+        el.innerHTML = '';
+        el.textContent = src;
+      });
+
+      try {
+        await mermaid.run({ nodes });
+      } catch (err) {
+        console.error('[Chronos] Mermaid render error:', err);
+      }
+    };
+
+    await render();
+
+    // Re-render on theme change (debounced via rAF).
+    let raf = 0;
+    const observer = new MutationObserver(() => {
+      cancelAnimationFrame(raf);
+      raf = requestAnimationFrame(render);
+    });
+    observer.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ['data-theme'],
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initMermaid);
+  } else {
+    initMermaid();
+  }
+</script>

@@ -1,13 +1,15 @@
 /* ═══════════════════════════════════════════════════════════════════
    The Chronos Archive — Design Tokens
    Light theme ("Reading Room") & Dark theme ("Archive Vault")
-   ═══════════════════════════════════════════════════════════════════ */
 
-/* ── Google Fonts ── */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600&family=JetBrains+Mono:ital,wght@0,400;0,500;1,400&display=swap');
+   Fonts are loaded via <link> tags in BaseLayout.astro (non-blocking)
+   rather than an @import here, to avoid render-blocking CSS.
+   ═══════════════════════════════════════════════════════════════════ */
 
 /* ── Dark theme (default) — "Archive Vault" ── */
 :root {
+  color-scheme: dark;
+
   /* Surfaces */
   --bg-primary: #0d0e12;
   --bg-secondary: #14161b;
@@ -15,52 +17,65 @@
   --bg-elevated: #1c1f27;
 
   /* Text */
-  --text-primary: #e4dcc8;
-  --text-secondary: #9d9683;
-  --text-heading: #f0ead6;
-  --text-muted: #6b6559;
+  --text-primary: #e6decb;
+  --text-secondary: #a39a85;
+  --text-heading: #f3edda;
+  --text-muted: #756e60;
 
-  /* Accent */
+  /* Accent — burnished gold */
   --accent: #d4aa4e;
-  --accent-hover: #e8c76a;
+  --accent-hover: #ecc973;
   --accent-muted: rgba(212, 170, 78, 0.12);
-  --accent-glow: rgba(212, 170, 78, 0.25);
+  --accent-soft: rgba(212, 170, 78, 0.06);
+  --accent-glow: rgba(212, 170, 78, 0.28);
 
   /* Borders & Dividers */
-  --border: #2a2d35;
+  --border: #2c2f38;
+  --border-strong: #3a3e49;
   --border-light: #1f2229;
-  --divider: #21242b;
+  --divider: #22252d;
 
   /* Code */
   --code-bg: #111318;
   --code-border: #2a2d35;
-  --code-text: #e4dcc8;
+  --code-text: #e6decb;
+  --code-inline-bg: rgba(212, 170, 78, 0.10);
+  --code-inline-text: #ecc973;
+
+  /* Callouts */
+  --callout-bg: rgba(212, 170, 78, 0.07);
+  --callout-border: rgba(212, 170, 78, 0.5);
 
   /* Shadows */
-  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
-  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
-  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.5);
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 6px 18px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 14px 38px rgba(0, 0, 0, 0.55);
+
+  /* Focus ring */
+  --ring: rgba(212, 170, 78, 0.65);
 
   /* Selection */
   --selection-bg: rgba(212, 170, 78, 0.3);
-  --selection-text: #f0ead6;
+  --selection-text: #f3edda;
 
   /* Scrollbar */
-  --scrollbar-track: #0d0e12;
-  --scrollbar-thumb: #2a2d35;
-  --scrollbar-thumb-hover: #3a3d45;
+  --scrollbar-track: transparent;
+  --scrollbar-thumb: #33373f;
+  --scrollbar-thumb-hover: #474c57;
 
   /* Vignette */
-  --vignette-color: rgba(0, 0, 0, 0.4);
-  --vignette-strength: 80%;
+  --vignette-color: rgba(0, 0, 0, 0.45);
+  --vignette-strength: 78%;
 }
 
 /* ── Light theme — "Reading Room" ── */
 [data-theme="light"] {
+  color-scheme: light;
+
   /* Surfaces */
   --bg-primary: #faf7f0;
-  --bg-secondary: #f2ede2;
-  --bg-tertiary: #e8e0d0;
+  --bg-secondary: #f2ece0;
+  --bg-tertiary: #e8e0cf;
   --bg-elevated: #fffdf7;
 
   /* Text */
@@ -69,39 +84,50 @@
   --text-heading: #1a1410;
   --text-muted: #8c7d6b;
 
-  /* Accent */
-  --accent: #a0522d;
-  --accent-hover: #b8653a;
-  --accent-muted: rgba(160, 82, 45, 0.08);
-  --accent-glow: rgba(160, 82, 45, 0.15);
+  /* Accent — sienna ink */
+  --accent: #9c4a23;
+  --accent-hover: #b85c30;
+  --accent-muted: rgba(156, 74, 35, 0.10);
+  --accent-soft: rgba(156, 74, 35, 0.05);
+  --accent-glow: rgba(156, 74, 35, 0.18);
 
   /* Borders & Dividers */
   --border: #d9ceb8;
+  --border-strong: #c4b79e;
   --border-light: #e8e0d0;
   --divider: #ddd3c0;
 
   /* Code */
-  --code-bg: #ede6d8;
+  --code-bg: #f0e9da;
   --code-border: #d9ceb8;
   --code-text: #2c2416;
+  --code-inline-bg: rgba(156, 74, 35, 0.09);
+  --code-inline-text: #8a3f1d;
+
+  /* Callouts */
+  --callout-bg: rgba(156, 74, 35, 0.06);
+  --callout-border: rgba(156, 74, 35, 0.45);
 
   /* Shadows */
-  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.06);
-  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
-  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.1);
+  --shadow-sm: 0 1px 2px rgba(60, 40, 15, 0.08);
+  --shadow-md: 0 6px 18px rgba(60, 40, 15, 0.10);
+  --shadow-lg: 0 14px 38px rgba(60, 40, 15, 0.14);
+
+  /* Focus ring */
+  --ring: rgba(156, 74, 35, 0.6);
 
   /* Selection */
-  --selection-bg: rgba(160, 82, 45, 0.2);
+  --selection-bg: rgba(156, 74, 35, 0.2);
   --selection-text: #1a1410;
 
   /* Scrollbar */
-  --scrollbar-track: #faf7f0;
-  --scrollbar-thumb: #d9ceb8;
-  --scrollbar-thumb-hover: #c4b79e;
+  --scrollbar-track: transparent;
+  --scrollbar-thumb: #d4c8b0;
+  --scrollbar-thumb-hover: #c0b193;
 
   /* Vignette */
-  --vignette-color: rgba(0, 0, 0, 0.08);
-  --vignette-strength: 40%;
+  --vignette-color: rgba(70, 50, 20, 0.07);
+  --vignette-strength: 42%;
 }
 
 /* ── Typography Scale (fluid) ── */
@@ -129,9 +155,11 @@
   --space-3xl: 4rem;
 
   /* Layout */
-  --sidebar-width: 260px;
-  --content-max-width: 780px;
-  --content-padding: clamp(1rem, 3vw, 3rem);
+  --sidebar-width: 264px;
+  --topbar-height: 56px;
+  --toc-width: 232px;
+  --content-max-width: 760px;
+  --content-padding: clamp(1.25rem, 3vw, 3rem);
 
   /* Transitions */
   --transition-fast: 150ms ease;
@@ -142,15 +170,34 @@
   /* Borders */
   --radius-sm: 4px;
   --radius-md: 8px;
-  --radius-lg: 12px;
+  --radius-lg: 14px;
+  --radius-pill: 999px;
 }
 
 /* ── Theme transition (only when class is present) ── */
+html.theme-transitioning,
 html.theme-transitioning *,
 html.theme-transitioning *::before,
 html.theme-transitioning *::after {
   transition: background-color var(--transition-theme),
               color var(--transition-theme),
               border-color var(--transition-theme),
-              box-shadow var(--transition-theme) !important;
+              box-shadow var(--transition-theme),
+              fill var(--transition-theme),
+              stroke var(--transition-theme) !important;
+}
+
+/* ── Reduced motion ── */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto !important;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
 }

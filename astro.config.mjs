@@ -18,5 +18,15 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [remarkLinkRewrite],
     rehypePlugins: ['rehype-slug'],
+    shikiConfig: {
+      // Dual themes: emit both palettes as CSS variables so code blocks
+      // follow the site's light/dark theme (see src/styles/global.css).
+      themes: {
+        light: 'github-light',
+        dark: 'github-dark',
+      },
+      defaultColor: false,
+      wrap: false,
+    },
   },
 });

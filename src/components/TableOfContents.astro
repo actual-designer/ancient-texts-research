@@ -1,0 +1,121 @@
+---
+// The Chronos Archive — Table of Contents
+// Builds an in-page nav from h2/h3 headings extracted from the rendered
+// Markdown. Sticky on the right rail at wide viewports; includes scrollspy.
+export interface Props {
+  headings: { depth: number; id: string; text: string }[];
+}
+const { headings } = Astro.props;
+---
+
+{headings.length > 0 && (
+  <aside class="toc" aria-label="Table of contents">
+    <p class="toc-title">On this page</p>
+    <nav>
+      <ul class="toc-list">
+        {headings.map((h) => (
+          <li class:list={['toc-item', { 'toc-item--sub': h.depth === 3 }]}>
+            <a href={`#${h.id}`} class="toc-link" data-toc-link={h.id}>{h.text}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </aside>
+)}
+
+<style>
+  .toc {
+    position: sticky;
+    top: calc(var(--space-2xl));
+    max-height: calc(100vh - var(--space-3xl));
+    overflow-y: auto;
+    font-family: var(--font-ui);
+    padding-left: var(--space-md);
+    border-left: 1px solid var(--divider);
+  }
+
+  .toc-title {
+    margin: 0 0 var(--space-sm);
+    font-size: var(--step--1);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--text-muted);
+  }
+
+  .toc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+  }
+
+  .toc-item {
+    margin: 0;
+  }
+
+  .toc-item--sub {
+    padding-left: var(--space-md);
+  }
+
+  .toc-link {
+    display: block;
+    padding: 3px 0;
+    font-size: var(--step--1);
+    line-height: 1.4;
+    color: var(--text-secondary);
+    text-decoration: none;
+    border-left: 2px solid transparent;
+    margin-left: -2px;
+    padding-left: 10px;
+    transition: color var(--transition-fast), border-color var(--transition-fast);
+  }
+
+  .toc-link:hover {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  .toc-link.is-active {
+    color: var(--accent);
+    border-left-color: var(--accent);
+    font-weight: 600;
+  }
+</style>
+
+<script>
+  const links = Array.from(document.querySelectorAll('.toc-link')) as HTMLAnchorElement[];
+  if (links.length) {
+    const byId = new Map<string, HTMLAnchorElement>();
+    links.forEach((l) => {
+      const id = l.getAttribute('data-toc-link');
+      if (id) byId.set(id, l);
+    });
+
+    const targets = Array.from(byId.keys())
+      .map((id) => document.getElementById(id))
+      .filter((el): el is HTMLElement => !!el);
+
+    let activeId: string | null = null;
+    const setActive = (id: string | null) => {
+      if (id === activeId) return;
+      activeId = id;
+      links.forEach((l) => l.classList.remove('is-active'));
+      if (id && byId.has(id)) byId.get(id)!.classList.add('is-active');
+    };
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        const visible = entries
+          .filter((e) => e.isIntersecting)
+          .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+        if (visible.length) {
+          setActive(visible[0].target.id);
+        }
+      },
+      { rootMargin: '-10% 0px -70% 0px', threshold: 0 }
+    );
+
+    targets.forEach((t) => observer.observe(t));
+  }
+</script>

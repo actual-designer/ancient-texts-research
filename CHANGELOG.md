@@ -7,6 +7,36 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.11.0] — 2026-06-19
+
+A structural UI/UX redesign ("declassified forensic dossier") plus a complete rebuild of the Mermaid pipeline.
+
+### Added
+
+- **Bundled, theme-aware Mermaid** (`src/components/Mermaid.astro`) — Mermaid is now an npm dependency (`mermaid@^11`) bundled by Astro and **lazy-loaded via dynamic `import()`** (diagram-free pages stay light; it is code-split into its own chunk). The runtime resiliently selects diagram blocks (`pre[data-language="mermaid"]` with Prism/legacy fallbacks), renders with `startOnLoad: false` + `mermaid.run()`, and **re-renders on theme toggle** via a `MutationObserver` on `data-theme` so diagrams recolor live. Diagrams sit in a horizontally-scrollable `.mermaid-figure`.
+- **Global content stylesheet** (`src/styles/global.css`) — Base reset + content typography moved here so it reliably styles Markdown injected via `set:html` (previously these rules were component-scoped and never reached the content). Includes manuscript blockquotes, themed code blocks, sticky-header/scroll-shadow tables, heading-anchor styles, a `.callout` utility, and the Mermaid container.
+- **Top bar** (`src/components/TopBar.astro`) — Mobile slim header with hamburger, wordmark, and theme toggle, so theme switching is reachable without opening the drawer.
+- **Table of contents** (`src/components/TableOfContents.astro`) — Right-rail TOC built from h2/h3 headings, sticky at ≥1200px, with IntersectionObserver scrollspy. Heading anchor links injected during post-processing.
+- **Skip-to-content link** and a single `<main>` landmark.
+- **Shiki dual-theme code blocks** — `astro.config.mjs` now emits `github-light`/`github-dark` as CSS variables (`defaultColor: false`); code blocks follow the site theme instead of always rendering dark.
+
+### Changed
+
+- **`theme.css`** — Refined dark/light palettes (improved contrast), added `color-scheme`, focus `--ring`, layout tokens (`--topbar-height`, `--toc-width`, `--content-max-width`), a global `:focus-visible` ring, and a `prefers-reduced-motion` block. Render-blocking Google Fonts `@import` replaced with non-blocking `<link rel="preconnect/stylesheet">` (with `display=swap`) in the layout head.
+- **`BaseLayout.astro`** — Reworked into a 3-zone responsive shell: sidebar + centered reading column (≈72ch) + optional sticky TOC rail. Single `<meta name="theme-color">` now follows the manual toggle. Removed the Mermaid CDN `<script>` and inline init.
+- **`Sidebar.astro`** — Cleaner grouping with a new **Field Notes** group; nav now lists every built page (added `14 — Celestial Events`, `Control Baseline`, `Broadsheet Methodology`). Refined active state and mobile drawer.
+- **`ThemeToggle.astro`** — Binds all toggle instances, syncs the `theme-color` meta, sets `aria-pressed`, and respects reduced motion.
+- **`index.astro`** — Hero gains CTAs ("Enter the Archive" / "Read the Hypothesis"); Key Syntheses table wrapped for responsive scroll.
+- **Content post-processor** (`src/utils/rewrite-html-links.mjs`) — Added `extractHeadings()` (TOC source) and `enhanceContentHtml()` (wrap tables, append heading anchors).
+
+### Fixed
+
+- **Mermaid diagrams now render reliably** — The previous CDN + `DOMContentLoaded` approach was replaced entirely; flowcharts, state diagrams, and the gantt all render and recolor with the theme. *(Note: the deep-time gantt in `03-event-timeline` renders but is visually compressed because its axis spans ~12,000 years with year-granularity dates — a data characteristic, not a pipeline issue.)*
+- **Nested `<main>`** removed from `404.astro` (it now sits inside BaseLayout's single `<main>`).
+- **Markdown content was previously unstyled** for most block elements (component-scoped rules didn't apply to `set:html` output); content typography now applies correctly.
+
+---
+
 ## [0.10.1] — 2026-06-19
 
 ### Fixed

@@ -59,9 +59,13 @@ const doorways = [
 >
   <!-- Hero Section -->
   <section class="hero">
-    <p class="hero-classification">Classification: SPECIES WITH AMNESIA — Working Hypothesis</p>
+    <p class="hero-classification">Classification: Species with Amnesia — Working Hypothesis</p>
     <h1 class="hero-title">Humanity isn't evolving.<br/>It's remembering.</h1>
     <p class="hero-subtitle">A forensic, technological reconstruction of humanity's forgotten history — reverse-engineering ancient texts as corrupted technical manuals.</p>
+    <div class="hero-actions">
+      <a class="btn btn--primary" href={`${base}audit/00-index/`}>Enter the Archive</a>
+      <a class="btn btn--ghost" href={`${base}audit/11-unified-hypothesis/`}>Read the Hypothesis</a>
+    </div>
     <div class="hero-rule"></div>
   </section>
 
@@ -101,6 +105,7 @@ const doorways = [
   <!-- Key Syntheses Table -->
   <h2>Key Syntheses</h2>
 
+  <div class="table-scroll">
   <table>
     <thead>
       <tr>
@@ -143,6 +148,7 @@ const doorways = [
       </tr>
     </tbody>
   </table>
+  </div>
 
   <!-- Footer -->
   <footer class="archive-footer">
@@ -191,6 +197,57 @@ const doorways = [
     max-width: 640px;
     margin: 0 auto;
     font-weight: 400;
+  }
+
+  /* ── Hero actions ── */
+  .hero-actions {
+    display: flex;
+    gap: var(--space-md);
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: var(--space-xl);
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.65em 1.4em;
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border-radius: var(--radius-sm);
+    border: 1px solid transparent;
+    text-decoration: none;
+    transition: transform var(--transition-fast), background var(--transition-fast), color var(--transition-fast), border-color var(--transition-fast), box-shadow var(--transition-fast);
+  }
+
+  .btn--primary {
+    background: var(--accent);
+    color: #0d0e12;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .btn--primary:hover {
+    background: var(--accent-hover);
+    color: #0d0e12;
+    text-decoration: none;
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+  }
+
+  .btn--ghost {
+    color: var(--accent);
+    border-color: var(--border-strong);
+  }
+
+  .btn--ghost:hover {
+    border-color: var(--accent);
+    color: var(--accent-hover);
+    text-decoration: none;
+    transform: translateY(-1px);
   }
 
   .hero-rule {

@@ -4,7 +4,7 @@
 // Uses pre-rendered HTML from the content layer (entry.rendered.html).
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { rewriteMdLinks } from '../../../utils/rewrite-html-links.mjs';
+import { rewriteMdLinks, enhanceContentHtml, extractHeadings } from '../../../utils/rewrite-html-links.mjs';
 
 export async function getStaticPaths() {
   const entries = await getCollection('audit');
@@ -42,11 +42,14 @@ const entry = allEntries.find((e) => e.id === entryId);
 let pageTitle = 'Not Found';
 let pageDescription = '';
 let contentHtml = '';
+let headings: { depth: number; id: string; text: string }[] = [];
 
 if (entry) {
   pageTitle = entry.data.title || titleFromId(entry.id);
   pageDescription = entry.data.description || '';
-  contentHtml = rewriteMdLinks(entry.rendered?.html || '', entryId);
+  const linked = rewriteMdLinks(entry.rendered?.html || '', entryId);
+  headings = extractHeadings(linked);
+  contentHtml = enhanceContentHtml(linked);
 }
 
 if (!contentHtml) {
@@ -57,7 +60,7 @@ if (!contentHtml) {
 
 {
   contentHtml ? (
-    <BaseLayout title={pageTitle} description={pageDescription}>
+    <BaseLayout title={pageTitle} description={pageDescription} headings={headings}>
       <article class="md-content" set:html={contentHtml} />
     </BaseLayout>
   ) : (

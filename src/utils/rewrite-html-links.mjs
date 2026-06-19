@@ -66,3 +66,59 @@ export function rewriteMdLinks(html, entryId) {
     }
   );
 }
+
+/**
+ * extractHeadings — Pull h2/h3 headings (with ids) from rendered HTML for a TOC.
+ *
+ * rehype-slug already adds `id` attributes to headings during content-layer
+ * rendering, so we simply read them here.
+ *
+ * @param {string} html
+ * @returns {{ depth: number, id: string, text: string }[]}
+ */
+export function extractHeadings(html) {
+  const headings = [];
+  const re = /<(h[23])\b[^>]*\bid="([^"]+)"[^>]*>([\s\S]*?)<\/\1>/g;
+  let m;
+  while ((m = re.exec(html)) !== null) {
+    const depth = m[1] === 'h2' ? 2 : 3;
+    const id = m[2];
+    const text = m[3]
+      .replace(/<[^>]+>/g, '') // strip inline tags (em, code, anchors)
+      .replace(/&amp;/g, '&')
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&#39;/g, "'")
+      .replace(/&quot;/g, '"')
+      .trim();
+    if (text) headings.push({ depth, id, text });
+  }
+  return headings;
+}
+
+/**
+ * enhanceContentHtml — Post-process rendered Markdown HTML:
+ *   1. Wrap <table> elements in a horizontally-scrollable container.
+ *   2. Append subtle anchor links to headings that carry an id.
+ *
+ * @param {string} html
+ * @returns {string}
+ */
+export function enhanceContentHtml(html) {
+  let out = html;
+
+  // 1. Wrap tables for responsive horizontal scroll (no nested tables in MD)
+  out = out.replace(
+    /<table\b([\s\S]*?)<\/table>/g,
+    '<div class="table-scroll"><table$1</table></div>'
+  );
+
+  // 2. Heading anchor links (only headings that already have an id)
+  out = out.replace(
+    /<(h[1-4])\b([^>]*\bid="([^"]+)"[^>]*)>([\s\S]*?)<\/\1>/g,
+    (_match, tag, attrs, id, inner) =>
+      `<${tag}${attrs}>${inner}<a class="heading-anchor" href="#${id}" aria-label="Link to this section">#</a></${tag}>`
+  );
+
+  return out;
+}
