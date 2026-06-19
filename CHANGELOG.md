@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.10.1] — 2026-06-19
+
+### Fixed
+
+- **Mermaid diagram rendering** — Replaced the fragile `defer` + `onload` initialization pattern with a consolidated `DOMContentLoaded` handler. The transform (Shiki `<pre>` → raw `<pre class="mermaid">`) and `mermaid.initialize()` now both run inside a single `DOMContentLoaded` listener, guaranteeing that all deferred scripts (including the Mermaid CDN) have fully executed before the DOM is scanned for `.mermaid` elements. This eliminates the timing gap where the synchronous transform script at end of body would run before the deferred Mermaid library had loaded.
+
+---
+
 ## [0.10.0] — 2026-06-19
 
 ### Added

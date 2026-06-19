@@ -44,10 +44,8 @@ const base = import.meta.env.BASE_URL || '/';
       })();
     </script>
 
-    <!-- Mermaid CDN -->
-    <script defer src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"
-      onload="(function(){var t=document.documentElement.getAttribute('data-theme')==='light'?'default':'dark';mermaid.initialize({startOnLoad:true,theme:t})})()">
-    </script>
+    <!-- Mermaid CDN (deferred — loads in background, executes after HTML parse) -->
+    <script defer src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
   </head>
   <body>
     <Sidebar />
@@ -60,15 +58,24 @@ const base = import.meta.env.BASE_URL || '/';
     <BackToTop />
 
     <script is:inline>
-      // Transform Shiki-highlighted mermaid blocks into raw <pre class="mermaid">
-      // Must run before Mermaid's deferred init (which is in <head> with defer)
-      document.querySelectorAll('pre[data-language="mermaid"]').forEach(function(pre) {
-        var code = pre.querySelector('code');
-        if (!code) return;
-        var wrapper = document.createElement('pre');
-        wrapper.className = 'mermaid';
-        wrapper.textContent = code.textContent;
-        pre.replaceWith(wrapper);
+      // Transform Shiki-highlighted mermaid blocks + initialize Mermaid.
+      // Uses DOMContentLoaded to guarantee the DOM is fully parsed AND all
+      // deferred scripts (including the Mermaid CDN above) have executed.
+      document.addEventListener('DOMContentLoaded', function () {
+        var blocks = document.querySelectorAll('pre[data-language="mermaid"]');
+        for (var i = 0; i < blocks.length; i++) {
+          var pre = blocks[i];
+          var code = pre.querySelector('code');
+          if (!code) continue;
+          var wrapper = document.createElement('pre');
+          wrapper.className = 'mermaid';
+          wrapper.textContent = code.textContent;
+          pre.replaceWith(wrapper);
+        }
+        if (typeof mermaid !== 'undefined') {
+          var theme = document.documentElement.getAttribute('data-theme') === 'light' ? 'default' : 'dark';
+          mermaid.initialize({ startOnLoad: true, theme: theme });
+        }
       });
     </script>
   </body>
