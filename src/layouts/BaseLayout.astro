@@ -3,6 +3,7 @@
 // Provides HTML shell, Mermaid CDN, theme system, and dark Archive aesthetic.
 import Sidebar from '../components/Sidebar.astro';
 import ReadingProgress from '../components/ReadingProgress.astro';
+import BackToTop from '../components/BackToTop.astro';
 import '../styles/theme.css';
 
 export interface Props {
@@ -20,7 +21,8 @@ const base = import.meta.env.BASE_URL || '/';
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
-    <meta name="theme-color" content="#0d0e12" />
+    <meta name="theme-color" content="#0d0e12" media="(prefers-color-scheme: dark)">
+    <meta name="theme-color" content="#faf7f0" media="(prefers-color-scheme: light)">
 
     <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site || 'https://actual-designer.github.io/ancient-texts-research').href} />
@@ -30,8 +32,12 @@ const base = import.meta.env.BASE_URL || '/';
     <!-- Prevent flash of wrong theme -->
     <script is:inline>
       (function() {
-        const saved = localStorage.getItem('chronos-theme');
+        var saved = localStorage.getItem('chronos-theme');
         if (saved === 'light') {
+          document.documentElement.setAttribute('data-theme', 'light');
+        } else if (saved === 'dark') {
+          // explicit dark: keep default (no attribute = dark)
+        } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
           document.documentElement.setAttribute('data-theme', 'light');
         }
         document.documentElement.classList.remove('no-js');
@@ -40,7 +46,7 @@ const base = import.meta.env.BASE_URL || '/';
 
     <!-- Mermaid CDN -->
     <script defer src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"
-      onload="mermaid.initialize({startOnLoad:true, theme:'dark', themeVariables:{darkMode:true}})">
+      onload="(function(){var t=document.documentElement.getAttribute('data-theme')==='light'?'default':'dark';mermaid.initialize({startOnLoad:true,theme:t})})()">
     </script>
   </head>
   <body>
@@ -51,6 +57,20 @@ const base = import.meta.env.BASE_URL || '/';
     </main>
 
     <ReadingProgress />
+    <BackToTop />
+
+    <script is:inline>
+      // Transform Shiki-highlighted mermaid blocks into raw <pre class="mermaid">
+      // Must run before Mermaid's deferred init (which is in <head> with defer)
+      document.querySelectorAll('pre[data-language="mermaid"]').forEach(function(pre) {
+        var code = pre.querySelector('code');
+        if (!code) return;
+        var wrapper = document.createElement('pre');
+        wrapper.className = 'mermaid';
+        wrapper.textContent = code.textContent;
+        pre.replaceWith(wrapper);
+      });
+    </script>
   </body>
 </html>
 
@@ -271,6 +291,15 @@ const base = import.meta.env.BASE_URL || '/';
     display: block;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+    /* Scroll shadow on right edge when content overflows */
+    background:
+      linear-gradient(to right, var(--bg-primary) 30%, transparent),
+      linear-gradient(to right, transparent, var(--bg-primary) 70%) 100% 0,
+      linear-gradient(to right, var(--border) 0%, transparent 50%),
+      linear-gradient(to left, var(--border) 0%, transparent 50%) 100% 0;
+    background-repeat: no-repeat;
+    background-size: 40px 100%, 40px 100%, 14px 100%, 14px 100%;
+    background-attachment: local, local, scroll, scroll;
   }
 
   /* ── Images ── */
