@@ -50,15 +50,15 @@ function isActive(href: string): boolean {
 }
 ---
 
+<button class="hamburger-btn" aria-label="Toggle navigation menu" aria-expanded="false">
+  <span class="hamburger"></span>
+</button>
+<div class="sidebar-overlay" aria-hidden="true"></div>
 <nav class="sidebar" aria-label="Archive Navigation">
-  <input type="checkbox" id="sidebar-toggle" class="sidebar-toggle-input" aria-hidden="true" />
-  <label for="sidebar-toggle" class="sidebar-toggle-label" aria-label="Toggle navigation menu">
-    <span class="hamburger"></span>
-  </label>
-
   <div class="sidebar-content">
     <div class="sidebar-header">
       <a href={base} class="sidebar-home">The Chronos Archive</a>
+      <button class="sidebar-close" aria-label="Close navigation menu">&times;</button>
       <ThemeToggle />
     </div>
 
@@ -107,7 +107,7 @@ function isActive(href: string): boolean {
     top: 0;
     left: 0;
     bottom: 0;
-    width: var(--sidebar-width);
+    width: min(var(--sidebar-width), 85vw);
     background: var(--bg-secondary);
     border-right: 1px solid var(--border);
     overflow-y: auto;
@@ -116,12 +116,8 @@ function isActive(href: string): boolean {
     flex-direction: column;
   }
 
-  /* ── Toggle (hidden on desktop) ── */
-  .sidebar-toggle-input {
-    display: none;
-  }
-
-  .sidebar-toggle-label {
+  /* ── Hamburger Button (hidden on desktop) ── */
+  .hamburger-btn {
     display: none;
     position: fixed;
     top: 12px;
@@ -135,6 +131,7 @@ function isActive(href: string): boolean {
     cursor: pointer;
     align-items: center;
     justify-content: center;
+    padding: 0;
   }
 
   .hamburger,
@@ -164,6 +161,39 @@ function isActive(href: string): boolean {
     top: 6px;
   }
 
+  /* ── Sidebar Overlay ── */
+  .sidebar-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    z-index: 99;
+  }
+
+  .sidebar-overlay[data-visible] {
+    display: block;
+  }
+
+  /* ── Sidebar Close Button ── */
+  .sidebar-close {
+    display: none;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    color: var(--text-secondary);
+    cursor: pointer;
+    width: 32px;
+    height: 32px;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+  }
+
   /* ── Sidebar Content ── */
   .sidebar-content {
     padding: 16px 0;
@@ -179,6 +209,7 @@ function isActive(href: string): boolean {
     padding: 0 16px 16px;
     border-bottom: 1px solid var(--divider);
     margin-bottom: 12px;
+    position: relative;
   }
 
   .sidebar-home {
@@ -261,35 +292,61 @@ function isActive(href: string): boolean {
 
   /* ── Mobile (≤768px) ── */
   @media (max-width: 768px) {
-    .sidebar-toggle-label {
+    .hamburger-btn {
       display: flex;
     }
 
     .sidebar {
       transform: translateX(-100%);
       transition: transform 0.25s ease;
-      width: var(--sidebar-width);
+      width: min(var(--sidebar-width), 85vw);
     }
 
-    .sidebar-toggle-input:checked ~ .sidebar {
+    .sidebar[data-sidebar-open] {
       transform: translateX(0);
     }
 
-    .sidebar-toggle-input:checked ~ .sidebar-toggle-label {
-      left: 272px;
-    }
-
-    /* overlay when open */
-    .sidebar-toggle-input:checked::after {
-      content: '';
-      position: fixed;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: rgba(0, 0, 0, 0.5);
-      backdrop-filter: blur(4px);
-      z-index: -1;
+    .sidebar-close {
+      display: flex;
     }
   }
 </style>
+
+<script>
+  const sidebar = document.querySelector('.sidebar');
+  const hamburgerBtn = document.querySelector('.hamburger-btn');
+  const overlay = document.querySelector('.sidebar-overlay');
+  const closeBtn = document.querySelector('.sidebar-close');
+
+  function openSidebar() {
+    sidebar.setAttribute('data-sidebar-open', '');
+    hamburgerBtn.setAttribute('aria-expanded', 'true');
+    overlay.setAttribute('data-visible', '');
+    document.body.style.overflow = 'hidden';
+    const activeLink = sidebar.querySelector('.sidebar-link--active');
+    if (activeLink) {
+      activeLink.scrollIntoView({ block: 'center' });
+    }
+  }
+
+  function closeSidebar() {
+    sidebar.removeAttribute('data-sidebar-open');
+    hamburgerBtn.setAttribute('aria-expanded', 'false');
+    overlay.removeAttribute('data-visible');
+    document.body.style.overflow = '';
+  }
+
+  hamburgerBtn.addEventListener('click', openSidebar);
+  closeBtn.addEventListener('click', closeSidebar);
+  overlay.addEventListener('click', closeSidebar);
+
+  sidebar.querySelectorAll('.sidebar-link').forEach(function(link) {
+    link.addEventListener('click', closeSidebar);
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      closeSidebar();
+    }
+  });
+</script>
