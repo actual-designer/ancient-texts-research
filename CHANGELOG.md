@@ -25,6 +25,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.10.1] — 2026-06-19
+
+### Fixed
+
+- **Mobile sidebar** (`src/components/Sidebar.astro`) — Replaced CSS-only checkbox hack with JavaScript-driven open/close. New implementation adds backdrop overlay with blur, close button, Escape key handling, body scroll lock, and auto-scroll active link into view. Sidebar width capped at `85vw` on small viewports.
+- **Mermaid diagrams** (`src/layouts/BaseLayout.astro`) — Mermaid now initializes with `default` or `dark` theme based on `data-theme` attribute. Shiki-highlighted `<pre data-language="mermaid">` blocks are transformed to raw `<pre class="mermaid">` before Mermaid's deferred render.
+- **Code block scroll shadows** (`src/layouts/BaseLayout.astro`) — Added gradient-based scroll shadows on overflowing `<pre>` blocks to indicate hidden content.
+- **Anti-flash script** (`src/layouts/BaseLayout.astro`) — Now respects `prefers-color-scheme` media query when no explicit `localStorage` preference is set.
+- **Hero text alignment** (`src/pages/index.astro`) — Removed redundant `text-align: left` override on mobile that broke centered hero layout.
+
+### Changed
+
+- **Accent colour palette** — Dark theme accent shifted from `#c9a64e` to `#d4aa4e` (warmer gold); light theme accent from `#8b4513` to `#a0522d` (sienna). Corresponding hover, muted, glow, and selection values updated across `src/styles/theme.css` and `public/favicon.svg`.
+- **`src/layouts/BaseLayout.astro`** — Added `BackToTop` component import and placement, dual `<meta name="theme-color">` tags for dark/light modes, improved anti-flash script with `prefers-color-scheme` detection, Mermaid theme-follows-data-theme initialization, Mermaid block transform for Shiki output, and scroll-shadow CSS on overflowing code blocks.
+
+### Added
+
+- **`src/components/BackToTop.astro`** — New floating button that appears on scroll past one viewport height. Smoothly scrolls to top on click.
+
+---
+
 ## [0.9.0] — 2026-06-18
 
 ### Added
