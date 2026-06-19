@@ -22,9 +22,9 @@ The following state diagram visualizes the Human Project as a complete state mac
 stateDiagram-v2
     direction TB
 
-    [*] --> R&amp;D: Council deliberates
+    [*] --> RD: Council deliberates
 
-    state "Iterative R&amp;D<br/>(Popol Vuh)" as R&amp;D {
+    state "Iterative R&D (Popol Vuh)" as RD {
         [*] --> Animal: Run 1
         Animal --> Mud: no speech
         Mud --> Wood: dissolves
@@ -32,9 +32,9 @@ stateDiagram-v2
         Corn --> [*]: cognition throttled
     }
 
-    R&amp;D --> Creation: Corn prototype succeeds
+    RD --> Creation: Corn prototype succeeds
 
-    state "Creation<br/>(Labor Solution)" as Creation {
+    state "Creation (Labor Solution)" as Creation {
         [*] --> Prototypes: 14 fabricated
         Prototypes --> Deploy: genome hybridized
     }
@@ -64,7 +64,7 @@ stateDiagram-v2
 
     Crisis --> Reset: Flood authorized
 
-    state "Reset<br/>(Flood)" as Reset {
+    state "Reset (Flood)" as Reset {
         [*] --> Evacuate: operators to orbit
         Evacuate --> Sterilize: multi-vector attack
         Sterilize --> Preserve: seed vault (Enki)
@@ -80,7 +80,7 @@ stateDiagram-v2
 
     Rebuild --> SecondGen: precision commissions
 
-    state "Second-Gen Programs<br/>(Mahābhārata)" as SecondGen {
+    state "Second-Gen Programs (Mahābhārata)" as SecondGen {
         [*] --> Commission: Pāṇḍavas/Kauravas
         Commission --> Escalate: astra proliferation
         Escalate --> ResetLocal: Kurukshetra war
@@ -98,12 +98,31 @@ stateDiagram-v2
         Silent --> [*]: autonomous test phase
     }
 
-    note right of R&amp;D: Popol Vuh: 4 prototype runs<br/>tested and destroyed sequentially
-    note right of Creation: Atrahasis: donor genome extracted<br/>(Geshtu-E, intelligence)
-    note right of Contamination: Enoch: unauthorized ground deployment<br/>by 200 Watcher operators
-    note left of Crisis: Dual trigger:<br/>chronic: population overshoot<br/>acute: contamination
-    note left of Reset: Deliberate multi-vector<br/>environmental sterilization
-    note right of Withdrawal: permanent → selective → liaison<br/>→ periodic → silence
+    note right of RD
+        Popol Vuh — 4 prototype runs
+        tested and destroyed sequentially
+    end note
+    note right of Creation
+        Atrahasis — donor genome extracted
+        Geshtu-E intelligence donor
+    end note
+    note right of Contamination
+        Enoch — unauthorized ground deployment
+        by 200 Watcher operators
+    end note
+    note left of Crisis
+        Dual trigger
+        chronic — population overshoot
+        acute — contamination
+    end note
+    note left of Reset
+        Deliberate multi-vector
+        environmental sterilization
+    end note
+    note right of Withdrawal
+        permanent → selective → liaison
+        → periodic → silence
+    end note
 ```
 
 ---

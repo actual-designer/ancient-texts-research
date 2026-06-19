@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.11.1] — 2026-06-19
+
+### Fixed
+
+- **Lifecycle State Diagram syntax error** (`audit/07-the-human-project.md`) — The Human Project state diagram failed to render with Mermaid v11's "Syntax error in text" overlay. Root cause: HTML entities (`R&amp;D`) in the diagram source and inline `note` lines with embedded colons and `<br/>` tags that the v11 parser rejects. Fixed by renaming the state id to `RD`, converting notes to block `note … end note` format, and simplifying state labels.
+- **Mermaid HTML entity normalization** (`src/components/Mermaid.astro`) — Added `normalizeMermaidSource()` to decode HTML entities (e.g. `&amp;` → `&`) from Shiki code-block `textContent` before passing source to `mermaid.run()`, preventing similar parse failures in other diagrams.
+
+---
+
 ## [0.11.0] — 2026-06-19
 
 A structural UI/UX redesign ("declassified forensic dossier") plus a complete rebuild of the Mermaid pipeline.

@@ -10,6 +10,14 @@
     return document.documentElement.getAttribute('data-theme') === 'light' ? 'default' : 'dark';
   }
 
+  // Decode HTML entities that can leak into Shiki/code-block textContent
+  // (e.g. R&amp;D) so Mermaid receives valid diagram syntax.
+  function normalizeMermaidSource(source: string): string {
+    const textarea = document.createElement('textarea');
+    textarea.innerHTML = source;
+    return textarea.value;
+  }
+
   // Collect mermaid sources and replace highlighted code blocks with render
   // targets. Returns the list of `.mermaid` elements to render.
   function collectDiagrams(): HTMLElement[] {
@@ -29,7 +37,8 @@
     // 1) Astro (Shiki) output: <pre data-language="mermaid"><code>…</code></pre>
     document.querySelectorAll('pre[data-language="mermaid"]').forEach((pre) => {
       const code = pre.querySelector('code');
-      const source = (code ? code.textContent : pre.textContent) || '';
+      const raw = (code ? code.textContent : pre.textContent) || '';
+      const source = normalizeMermaidSource(raw);
       if (!source.trim()) return;
       const { figure, target } = makeTarget(source);
       pre.replaceWith(figure);
@@ -39,7 +48,8 @@
     // 2) Fallback: Prism-style <pre><code class="language-mermaid">…</code></pre>
     document.querySelectorAll('code.language-mermaid').forEach((code) => {
       const pre = code.closest('pre');
-      const source = code.textContent || '';
+      const raw = code.textContent || '';
+      const source = normalizeMermaidSource(raw);
       if (!pre || !source.trim()) return;
       const { figure, target } = makeTarget(source);
       pre.replaceWith(figure);
@@ -48,7 +58,7 @@
 
     // 3) Already-authored <pre class="mermaid"> / <div class="mermaid">
     document.querySelectorAll('.mermaid:not([data-src])').forEach((el) => {
-      const source = el.textContent || '';
+      const source = normalizeMermaidSource(el.textContent || '');
       if (!source.trim()) return;
       el.setAttribute('data-src', source);
       nodes.push(el as HTMLElement);
