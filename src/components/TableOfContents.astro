@@ -26,16 +26,23 @@ const { headings } = Astro.props;
 <style>
   .toc {
     position: sticky;
-    top: calc(var(--space-2xl));
-    max-height: calc(100vh - var(--space-3xl));
+    top: var(--space-xl);
+    max-height: calc(100vh - 2 * var(--space-xl));
     overflow-y: auto;
+    overscroll-behavior: contain;
     font-family: var(--font-ui);
     padding-left: var(--space-md);
     border-left: 1px solid var(--divider);
+    scrollbar-width: thin;
   }
 
   .toc-title {
+    position: sticky;
+    top: 0;
+    z-index: 1;
     margin: 0 0 var(--space-sm);
+    padding-bottom: var(--space-xs);
+    background: var(--bg-primary);
     font-size: var(--step--1);
     font-weight: 700;
     text-transform: uppercase;
@@ -97,11 +104,19 @@ const { headings } = Astro.props;
       .filter((el): el is HTMLElement => !!el);
 
     let activeId: string | null = null;
+    const tocPanel = document.querySelector('.toc') as HTMLElement | null;
     const setActive = (id: string | null) => {
       if (id === activeId) return;
       activeId = id;
       links.forEach((l) => l.classList.remove('is-active'));
-      if (id && byId.has(id)) byId.get(id)!.classList.add('is-active');
+      if (id && byId.has(id)) {
+        const link = byId.get(id)!;
+        link.classList.add('is-active');
+        if (tocPanel) {
+          const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+          link.scrollIntoView({ block: 'nearest', behavior: reduce ? 'auto' : 'smooth' });
+        }
+      }
     };
 
     const observer = new IntersectionObserver(

@@ -123,11 +123,14 @@ const hasToc = headings.length > 0;
       display: grid;
       grid-template-columns: minmax(0, 1fr) var(--toc-width);
       gap: var(--space-2xl);
-      align-items: start;
+      /* Stretch the TOC rail to the full article height so position:sticky
+         on .toc has room to stay pinned for the entire scroll. */
+      align-items: stretch;
     }
 
     .reading-shell.has-toc .toc-rail {
       display: block;
+      min-height: 0;
     }
   }
 

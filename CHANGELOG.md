@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.11.2] — 2026-06-19
+
+### Fixed
+
+- **Sticky table of contents** (`TableOfContents.astro`, `BaseLayout.astro`) — The right-rail TOC now stays pinned while scrolling long articles. The grid TOC column stretches to the full article height (fixing `align-items: start` preventing sticky from working), the nav scrolls internally when longer than the viewport, and scrollspy keeps the active section in view.
+
+---
+
 ## [0.11.1] — 2026-06-19
 
 ### Fixed
