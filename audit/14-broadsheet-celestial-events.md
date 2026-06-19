@@ -149,6 +149,10 @@ But noise is not total signal cancellation. The same medium that produced Glaser
 
 The upper portion of the painting depicts the halo display with geometric accuracy recognizable to modern atmospheric optics. The artist rendered the sky in an approximately azimuthal or stereographic projection -- akin to a modern fish-eye lens -- showing the entire sky dome (source: Les Cowley, "Stockholm 1535 halos," *Atmospheric Optics*).
 
+![Vädersolstavlan (1636 copy by Jacob Elbfas), primary depiction of the 1535 Stockholm halo display](/images/broadsheets/vadersolstavlan-1535.jpg)
+
+*Source: Jacob Heinrich Elbfas (copyist), after Urban målare (1535 original). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:V%C3%A4dersoltavlan_cropped.JPG).*
+
 ### Mainstream Interpretation
 
 A well-documented natural atmospheric optics display caused by ice crystal refraction and reflection in cirrus or cirrostratus clouds -- universally accepted by meteorologists, art historians, and atmospheric physicists.
@@ -227,6 +231,10 @@ The broadsheet text, translated by Ilse Von Jacobi:
 **Combat description:** "Started to fight among themselves... flew out... flew into the sun... fought vehemently with each other for over an hour."
 
 **Crash description:** "Fell from the sun down upon the earth 'as if they all burned'... wasted away on the earth with immense smoke."
+
+![Primary depiction: Hans Glaser broadsheet woodcut, Nuremberg, 14 April 1561](/images/broadsheets/nuremberg-1561.jpg)
+
+*Source: Hans Glaser, woodcut broadsheet (1566 impression). Zentralbibliothek Zürich. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg).*
 
 ### Mainstream Interpretation
 
@@ -335,6 +343,10 @@ Original German:
 >
 > -- Coccius broadsheet, printed by Apiarius, Basel 1566. Cited in Wikipedia.
 
+![Primary depiction: Basel 1566 celestial phenomenon broadsheet by Samuel Coccius](/images/broadsheets/basel-1566.jpg)
+
+*Source: Samuel Coccius, printed by Samuel Apiarius, Basel 1566. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LinkSeltsame_Gestalt_so_in_disem_MDLXVI_Jar.jpg).*
+
 ### Mainstream Interpretation
 
 Multiple competing hypotheses without scholarly consensus: meteor showers, bolides, cometary fragments, aurora borealis, optical illusions from uncommon atmospheric conditions (e.g., Sahara dust), or rare planetary arrangement. The Swiss National Museum blog (2024) notes: "Historians and scientists, nonetheless, are still left wondering what exactly caused the celestial event over Basel in 1566" (source: Swiss National Museum, "A Celestial Phenomenon over Basel," 2024).
@@ -423,6 +435,10 @@ The broadsheet describes two distinct components:
 > -- Original German text of broadsheet. Cited in Wikipedia.
 
 **Physical Aftereffects:** Witnesses reported trembling and pain in head and limbs the following day.
+
+![Primary depiction: Stralsund 1665 celestial phenomenon broadsheet woodcut](/images/broadsheets/stralsund-1665.jpg)
+
+*Source: Broadsheet woodcut, 1665. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1665_stralsund_celestial_phenomena.jpg).*
 
 ### Mainstream Interpretation
 
@@ -805,7 +821,7 @@ The broadsheet gap-evidence hypothesis is falsified if any of the following occu
 ### Web and Institutional Sources
 
 - Cowley, Les. "Stockholm 1535 halos." *Atmospheric Optics*. https://atoptics.co.uk/blog/stockholm-1535-halos/ (accessed 2026-06-18).
-- Public Domain Review. "Signs and Wonders: Celestial Phenomena in 16th-Century Germany." https://publicdomainreview.org/ (accessed 2026-06-18).
+- Public Domain Review. "Signs and Wonders: Celestial Phenomena in 16th-Century Germany." https://publicdomainreview.org/collection/celestial-phenomena-16th-century-germany (accessed 2026-06-18).
 - Swiss National Museum. "A Celestial Phenomenon over Basel." Blog post, 2024.
 - University of Chicago Library. *Media Revolutions Then & Now*. https://www.lib.uchicago.edu/ (accessed 2026-06-18).
 - Wikipedia contributors. "1561 celestial phenomenon over Nuremberg." *Wikipedia, The Free Encyclopedia*. https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg (accessed 2026-06-18).

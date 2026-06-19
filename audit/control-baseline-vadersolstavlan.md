@@ -22,6 +22,10 @@ On the morning of **20 April 1535**, between approximately **7:00 and 9:00 AM**,
 
 The painting, known as *Vädersolstavlan* (Swedish: "The Sundog Painting" or literally "The Weather Sun Painting"), is named after the sun dogs (*vädersol*) visible in the upper portion. It is chiefly noted for being **the oldest color depiction of Stockholm** and arguably the oldest Swedish landscape painting and the oldest known depiction of sun dogs.[^1]
 
+![Vädersolstavlan (1636 copy by Jacob Elbfas), depicting sun dogs and halo arcs over Stockholm, 20 April 1535](/images/broadsheets/vadersolstavlan-1535.jpg)
+
+*Source: Jacob Heinrich Elbfas (copyist), after Urban målare (1535 original). Storkyrkan, Stockholm. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:V%C3%A4dersoltavlan_cropped.JPG).*
+
 > "In the year 1535 A.D. the twentieth of April was seen in the city of Stockholm such a sign in heaven, from the seventh farm, the hour from Noon to the ninth o'clock."
 > — Inscription on the painting's frame (Latin, Swedish, German)[^1]
 
@@ -110,6 +114,10 @@ The critical comparison is with the **1561 Nuremberg broadsheet** by **Hans Glas
 | **Artist's intent** | Documentary (despite religious framing) | Sensational/religious broadsheet ("popular religiously-themed reading material, more akin to tabloids")[^6] |
 | **Relationship to source** | Direct depiction of observed event | Likely amalgam of hearsay, religious symbolism, and artistic license |
 | **Utility to analysis** | Baseline for "accurate natural depiction" | Demonstrates what stylized/constructed reporting looks like |
+
+![Control baseline: Vädersolstavlan (1535), geometrically accurate halo depiction](/images/broadsheets/vadersolstavlan-1535.jpg)
+
+![Contrast: Hans Glaser Nuremberg broadsheet (1561), stylized celestial battle woodcut](/images/broadsheets/nuremberg-1561.jpg)
 
 > "Sun dogs and related phenomena had been known since antiquity and painted with geometric accuracy in Europe before Hans Glaser's broadsheet, such as in the famous Swedish painting Vädersolstavlan. This stands in stark contrast to the woodcuts and underscores the purpose of Glaser's abstract and mass-produced interpretation."[^6]
 

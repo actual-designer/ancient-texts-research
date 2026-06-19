@@ -97,23 +97,85 @@ export function extractHeadings(html) {
 }
 
 /**
- * enhanceContentHtml — Post-process rendered Markdown HTML:
- *   1. Wrap <table> elements in a horizontally-scrollable container.
- *   2. Append subtle anchor links to headings that carry an id.
+ * Normalize Astro BASE_URL to a path prefix without a trailing slash.
+ * @param {string} base
+ */
+function normalizeBase(base) {
+  if (!base || base === '/') return '';
+  return base.endsWith('/') ? base.slice(0, -1) : base;
+}
+
+/**
+ * Rewrite local image src paths so they resolve under Astro's configured base.
+ * Markdown should use root-relative paths like `/images/foo.jpg`.
+ *
+ * @param {string} html
+ * @param {string} base - import.meta.env.BASE_URL
+ * @returns {string}
+ */
+export function rewriteAssetPaths(html, base) {
+  const baseNorm = normalizeBase(base);
+
+  return html.replace(/\bsrc="([^"]+)"/g, (match, src) => {
+    if (/^(https?:|data:|mailto:|tel:|#)/.test(src)) return match;
+    if (baseNorm && src.startsWith(`${baseNorm}/`)) return match;
+
+    let path = src;
+    if (path.startsWith('/ancient-texts-research/')) {
+      path = path.slice('/ancient-texts-research'.length);
+    }
+    if (!path.startsWith('/')) return match;
+
+    return `src="${baseNorm}${path}"`;
+  });
+}
+
+/**
+ * Wrap markdown-rendered images in semantic figure elements. When an image is
+ * immediately followed by an italic caption paragraph, pair them as figcaption.
  *
  * @param {string} html
  * @returns {string}
  */
-export function enhanceContentHtml(html) {
+export function wrapContentFigures(html) {
+  let out = html.replace(
+    /<p><img([^>]*?)><\/p>\s*<p><em>([\s\S]*?)<\/em><\/p>/g,
+    (_match, imgAttrs, caption) =>
+      `<figure class="content-figure"><img${imgAttrs}><figcaption>${caption}</figcaption></figure>`
+  );
+
+  out = out.replace(
+    /<p><img([^>]*?)><\/p>/g,
+    (_match, imgAttrs) => `<figure class="content-figure"><img${imgAttrs}></figure>`
+  );
+
+  return out;
+}
+
+/**
+ * enhanceContentHtml — Post-process rendered Markdown HTML:
+ *   1. Rewrite local image paths for Astro base URL.
+ *   2. Wrap images in contextual <figure> elements.
+ *   3. Wrap <table> elements in a horizontally-scrollable container.
+ *   4. Append subtle anchor links to headings that carry an id.
+ *
+ * @param {string} html
+ * @param {string} [base='/ancient-texts-research/'] - import.meta.env.BASE_URL
+ * @returns {string}
+ */
+export function enhanceContentHtml(html, base = '/ancient-texts-research/') {
   let out = html;
 
-  // 1. Wrap tables for responsive horizontal scroll (no nested tables in MD)
+  out = rewriteAssetPaths(out, base);
+  out = wrapContentFigures(out);
+
+  // Wrap tables for responsive horizontal scroll (no nested tables in MD)
   out = out.replace(
     /<table\b([\s\S]*?)<\/table>/g,
     '<div class="table-scroll"><table$1</table></div>'
   );
 
-  // 2. Heading anchor links (only headings that already have an id)
+  // Heading anchor links (only headings that already have an id)
   out = out.replace(
     /<(h[1-4])\b([^>]*\bid="([^"]+)"[^>]*)>([\s\S]*?)<\/\1>/g,
     (_match, tag, attrs, id, inner) =>

@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.11.3] — 2026-06-19
+
+### Added
+
+- **Broadsheet primary depictions** — Self-hosted images for the four key celestial-event sources (Vädersolstavlan 1535, Nuremberg 1561, Basel 1566, Stralsund 1665) in `public/images/broadsheets/`, embedded contextually in the broadsheet methodology notes, celestial-events synthesis, and control-baseline documents.
+- **Contextual figure rendering** (`src/utils/rewrite-html-links.mjs`) — Audit content post-processor now rewrites local image paths through Astro's `BASE_URL`, wraps images in `<figure class="content-figure">`, and pairs following italic captions as `<figcaption>`.
+- **Figure styles** (`src/styles/global.css`) — Bordered card layout for in-article source depictions with caption bar.
+
+### Fixed
+
+- **Broken Public Domain Review link** (`audit/14-broadsheet-celestial-events.md`) — Updated to the correct collection URL for "Signs and Wonders: Celestial Phenomena in 16th-Century Germany."
+
+---
+
 ## [0.11.2] — 2026-06-19
 
 ### Fixed

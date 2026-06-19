@@ -47,7 +47,7 @@ if (entry) {
   pageDescription = entry.data.description || '';
   const linked = rewriteMdLinks(entry.rendered?.html || '', entryId);
   headings = extractHeadings(linked);
-  contentHtml = enhanceContentHtml(linked);
+  contentHtml = enhanceContentHtml(linked, import.meta.env.BASE_URL);
 }
 
 if (!contentHtml) {

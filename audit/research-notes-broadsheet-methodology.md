@@ -142,6 +142,14 @@ Franz Mauelshagen, climate historian and Wickiana scholar, notes: **"Fake news e
 ### The Vädersolstavlan Counter-Example
 The Swedish painting *Vädersolstavlan* (1535), depicting sun dogs over Stockholm, is critical for source evaluation. It was painted with **geometric accuracy** and is accepted by scholars as a faithful depiction of a parhelion display. This stands in **stark contrast** to Hans Glaser's abstract, mass-produced woodcut, underscoring that 16th-century artists *could* depict atmospheric optics accurately when they chose to. The difference is genre intent: the Stockholm painting is documentary; the Nuremberg broadsheet is homiletic.
 
+![Vädersolstavlan (1636 copy by Jacob Elbfas), depicting sun dogs and halo arcs over Stockholm, 20 April 1535](/images/broadsheets/vadersolstavlan-1535.jpg)
+
+*Source: Jacob Heinrich Elbfas (copyist), after Urban målare (1535 original). Storkyrkan, Stockholm. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:V%C3%A4dersoltavlan_cropped.JPG).*
+
+![Hans Glaser broadsheet woodcut, celestial phenomenon over Nuremberg, 14 April 1561](/images/broadsheets/nuremberg-1561.jpg)
+
+*Source: Hans Glaser, woodcut broadsheet (1566 impression). Zentralbibliothek Zürich. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg).*
+
 > "Sun dogs and related phenomena had been known since antiquity and painted with geometric accuracy in Europe before Hans Glaser's broadsheet, such as in the famous Swedish painting Vädersolstavlan. This stands in stark contrast to the woodcuts and underscores the purpose of Glaser's abstract and mass-produced interpretation."
 >
 > — English Wikipedia, "1561 celestial phenomenon over Nuremberg."
@@ -157,6 +165,8 @@ Meteorologists and atmospheric physicists have identified **many broadsheet even
 
 #### (a) Nuremberg 1561: The Frank Johnson Reanalysis
 **Source:** Frank Johnson. "Nuremburg 1561 UFO 'Battle' Debunked." *Ancient Aliens Debunked*, 12 December 2012. Archived at: https://web.archive.org/web/20121214172708/http://ancientaliensdebunked.com/nuremburg-ufo-battle-debunked/
+
+![Primary depiction: Hans Glaser woodcut of the 1561 Nuremberg celestial phenomenon](/images/broadsheets/nuremberg-1561.jpg)
 
 Johnson, a UFO skeptic, proposes that the Nuremberg event was a **complex parhelion (sun dog) display** combined with other atmospheric effects:
 
@@ -190,6 +200,10 @@ These demonstrate that **the broadsheet medium was capable of accurate atmospher
 #### (c) Stralsund 1665: The Fata Morgana Explanation
 **Source:** Staatliche Museen zu Berlin. *UFO 1665: Die Luftschlacht von Stralsund* exhibition, 2023. Curated by Moritz Wullen.
 
+![Primary depiction: Stralsund 1665 celestial phenomenon broadsheet woodcut](/images/broadsheets/stralsund-1665.jpg)
+
+*Source: Broadsheet woodcut, 1665. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1665_stralsund_celestial_phenomena.jpg).*
+
 The Stralsund event — six fishermen witnessing aerial warships battling over the Baltic — has been definitively identified by museum scholars as a **Fata Morgana** (complex atmospheric mirage) projecting a **real naval battle occurring beyond the horizon**.
 
 > "The general public could not have known that what had actually been witnessed was an atmospheric reflection of a sea battle that was raging just beyond the horizon. Instead, they were convinced that the universe was ruled by a god who had the power to project visions of impending disaster into the sky."
@@ -201,7 +215,13 @@ This is the strongest case of a broadsheet event **fully resolved** by atmospher
 ### Phenomena That DO NOT Clearly Fit Atmospheric Optics
 
 #### (a) Basel 1566: Multiple Competing Hypotheses
-The Basel broadsheet (Samuel Coccius, Samuel Apiarius) describes three separate events in July–August 1566: a blood-red sun and moon, and black spheres fighting before the sun. Scholars have proposed:
+The Basel broadsheet (Samuel Coccius, Samuel Apiarius) describes three separate events in July–August 1566: a blood-red sun and moon, and black spheres fighting before the sun.
+
+![Primary depiction: Basel 1566 celestial phenomenon broadsheet by Samuel Coccius](/images/broadsheets/basel-1566.jpg)
+
+*Source: Samuel Coccius, printed by Samuel Apiarius, Basel 1566. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LinkSeltsame_Gestalt_so_in_disem_MDLXVI_Jar.jpg).*
+
+Scholars have proposed:
 
 - Meteor showers
 - Bolide (bright meteor/fireball)
