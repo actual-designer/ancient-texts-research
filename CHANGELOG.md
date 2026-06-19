@@ -7,6 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.10.0] — 2026-06-19
+
+### Added
+
+- **Design token system** (`src/styles/theme.css`) — Centralized CSS custom properties for light/dark theming. Two palettes: "Archive Vault" dark theme (warm deep blacks, amber gold `#c9a64e` accent) and "Reading Room" light theme (warm ivory `#faf7f0`, saddle brown `#8b4513` accent). Fluid typography scale, spacing, shadow, scrollbar, and transition tokens. Google Fonts import: Cormorant Garamond (headings), Source Serif 4 (body), Inter (UI), JetBrains Mono (code).
+- **Theme toggle** (`src/components/ThemeToggle.astro`) — Moon/sun SVG button in the sidebar header. Persists choice to `localStorage` as `chronos-theme`. Toggles `data-theme="light"` on `<html>`. Smooth 300ms crossfade via `theme-transitioning` class.
+- **Reading progress bar** (`src/components/ReadingProgress.astro`) — Fixed 3px accent-colored bar at viewport top with glow shadow. Passive `requestAnimationFrame`-throttled scroll tracking.
+
+### Changed
+
+- **`BaseLayout.astro`** — Replaced all hardcoded GitHub-dark colors with theme.css design tokens. Added inline anti-flash `<script>` that reads `localStorage` before first paint. Added radial vignette pseudo-element on body, `::selection` colors in accent, smooth scroll. Typography now uses serif families: Cormorant Garamond for h1–h6, Source Serif 4 for body, JetBrains Mono for code. Tables, blockquotes, scrollbars all use theme tokens. Z-index layering for vignette vs content.
+- **`Sidebar.astro`** — Header now uses serif font (Cormorant Garamond, 700 weight, accent color) with ThemeToggle in flexbox row. Section headings gain 30px accent-colored decorative rules. Nav links use Inter font with improved active state (accent-muted background + left border). Footer line with © added at bottom. Mobile overlay uses `backdrop-filter: blur(4px)`. All colors migrated to CSS custom properties.
+- **`index.astro`** — Complete landing page redesign. Hero section: small-caps classification label, italic Cormorant Garamond tagline at fluid display size, subtitle, accent divider rule. Statistics bar: live document/synthesis/analysis/tradition counts in serif numerals. "First Doorways" section: 6-card grid with quote hooks, hover lift animation, and arrow indicators. Archive footer: thematic tagline, GitHub + index links, open-source credit. Responsive: left-aligned hero on mobile, single-column card grid, wrapped stats.
+- **`404.astro`** — Giant "404" watermark at 6% opacity in Cormorant Garamond behind content. Tier diagram styled with accent-muted border. Return links converted to card grid with hover lift matching doorway card pattern. All colors use theme tokens.
+- **`favicon.svg`** — Accent color updated from blue (`#58a6ff`) to amber gold (`#c9a64e`), background from `#0d1117` to `#0d0e12`.
+
+---
+
 ## [0.9.0] — 2026-06-18
 
 ### Added

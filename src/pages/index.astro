@@ -18,50 +18,87 @@ const synthesisCount = entries.filter(
 const analysisCount = entries.filter((e) =>
   e.id.startsWith('analyses/')
 ).length;
+
+const doorways = [
+  {
+    title: 'The Arc',
+    href: `${base}audit/07-the-human-project/`,
+    quote: '"We weren\'t made in a garden. We were made to solve a labor dispute."',
+  },
+  {
+    title: 'The Sterilization',
+    href: `${base}audit/05-great-reset/`,
+    quote: '"The Flood wasn\'t divine punishment — it was a deliberate environmental sterilization protocol."',
+  },
+  {
+    title: 'The Operators',
+    href: `${base}audit/01-entity-registry/`,
+    quote: '"The gods had departments, chains of command, and a rogue unit that conducted an unauthorized ground deployment."',
+  },
+  {
+    title: 'The Hardware',
+    href: `${base}audit/02-technology-catalog/`,
+    quote: '"Bioprinting. Directed-energy. Orbital platforms. Consciousness upload. Every miracle reverse-engineered."',
+  },
+  {
+    title: 'The Arsenal',
+    href: `${base}audit/06-weapons-doctrine/`,
+    quote: '"Ancient dual-key authorization. Someone was afraid of exactly who was pointing what at whom."',
+  },
+  {
+    title: 'The Unified Hypothesis',
+    href: `${base}audit/11-unified-hypothesis/`,
+    quote: '"The full reconstruction. Seven chapters from the pre-operational void through the engineered amnesia to the autonomous test phase."',
+  },
+];
 ---
 
 <BaseLayout
   title="The Chronos Archive"
   description="A forensic, technological reconstruction of humanity's forgotten history — reverse-engineering ancient texts as corrupted technical manuals."
 >
-  <h1>The Chronos Archive</h1>
+  <!-- Hero Section -->
+  <section class="hero">
+    <p class="hero-classification">Classification: SPECIES WITH AMNESIA — Working Hypothesis</p>
+    <h1 class="hero-title">Humanity isn't evolving.<br/>It's remembering.</h1>
+    <p class="hero-subtitle">A forensic, technological reconstruction of humanity's forgotten history — reverse-engineering ancient texts as corrupted technical manuals.</p>
+    <div class="hero-rule"></div>
+  </section>
 
-  <p class="tagline">
-    Humanity isn't evolving. It's remembering.
-  </p>
+  <!-- Statistics Bar -->
+  <div class="stats-bar">
+    <div class="stat">
+      <span class="stat-number">{entries.length}</span>
+      <span class="stat-label">Documents</span>
+    </div>
+    <div class="stat">
+      <span class="stat-number">{synthesisCount}</span>
+      <span class="stat-label">Syntheses</span>
+    </div>
+    <div class="stat">
+      <span class="stat-number">{analysisCount}</span>
+      <span class="stat-label">Text Analyses</span>
+    </div>
+    <div class="stat">
+      <span class="stat-number">8</span>
+      <span class="stat-label">Traditions</span>
+    </div>
+  </div>
 
-  <p>
-    Our <q>myths</q>, <q>scriptures</q>, and <q>miracles</q> are not metaphors,
-    poems, or delusions. They are <strong>corrupted technical manuals</strong> —
-    eyewitness accounts of a high-tech precursor civilization, recorded by
-    observers who lacked the vocabulary to describe what they were seeing.
-  </p>
+  <!-- First Doorways -->
+  <h2>First Doorways</h2>
+  <p class="section-intro">Not sure where to start? Pick a thread.</p>
+  <div class="doorway-grid">
+    {doorways.map((d) => (
+      <a href={d.href} class="doorway-card">
+        <h3>{d.title}</h3>
+        <p>{d.quote}</p>
+        <span class="doorway-arrow">&rarr;</span>
+      </a>
+    ))}
+  </div>
 
-  <p>
-    The Archive applies a forensic, technological lens to ancient texts,
-    stripping away the religious varnish to uncover the hardware beneath.
-    <strong>{entries.length}</strong> documents across{' '}
-    <strong>{synthesisCount}</strong> cross-cutting syntheses and{' '}
-    <strong>{analysisCount}</strong> per-text deep dives.
-  </p>
-
-  <h2>Start Here</h2>
-
-  <ul>
-    <li>
-      <a href={`${base}audit/00-index/`}>Master Index</a> — Complete map of
-      every document in the Archive
-    </li>
-    <li>
-      <a href={`${base}audit/11-unified-hypothesis/`}>Unified Hypothesis</a> — The
-      full reconstruction across seven chapters
-    </li>
-    <li>
-      <a href={`${base}audit/07-the-human-project/`}>The Human Project</a> — We
-      weren't made in a garden. We were made to solve a labor dispute.
-    </li>
-  </ul>
-
+  <!-- Key Syntheses Table -->
   <h2>Key Syntheses</h2>
 
   <table>
@@ -106,4 +143,203 @@ const analysisCount = entries.filter((e) =>
       </tr>
     </tbody>
   </table>
+
+  <!-- Footer -->
+  <footer class="archive-footer">
+    <p class="footer-tagline">Stop praying. Start calculating.</p>
+    <nav class="footer-links">
+      <a href="https://github.com/actual-designer/ancient-texts-research">GitHub Repository</a>
+      <a href={`${base}audit/00-index/`}>Master Index</a>
+    </nav>
+    <p class="footer-credit">The Chronos Archive — Open-source investigation</p>
+  </footer>
 </BaseLayout>
+
+<style>
+  /* ── Hero ── */
+  .hero {
+    padding-top: var(--space-3xl);
+    padding-bottom: var(--space-2xl);
+    text-align: center;
+  }
+
+  .hero-classification {
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--accent);
+    margin-bottom: var(--space-md);
+  }
+
+  .hero-title {
+    font-family: var(--font-heading);
+    font-size: var(--step-5);
+    font-weight: 600;
+    font-style: italic;
+    color: var(--text-heading);
+    line-height: 1.15;
+    margin-bottom: var(--space-lg);
+    border: none;
+    padding: 0;
+  }
+
+  .hero-subtitle {
+    font-family: var(--font-body);
+    font-size: var(--step-1);
+    color: var(--text-secondary);
+    max-width: 640px;
+    margin: 0 auto;
+    font-weight: 400;
+  }
+
+  .hero-rule {
+    width: 80px;
+    height: 3px;
+    background: var(--accent);
+    margin: var(--space-xl) auto 0;
+    opacity: 0.6;
+  }
+
+  /* ── Stats Bar ── */
+  .stats-bar {
+    display: flex;
+    gap: var(--space-xl);
+    justify-content: center;
+    padding: var(--space-lg) 0;
+    border-top: 1px solid var(--divider);
+    border-bottom: 1px solid var(--divider);
+    margin-bottom: var(--space-2xl);
+  }
+
+  .stat {
+    text-align: center;
+  }
+
+  .stat-number {
+    display: block;
+    font-family: var(--font-heading);
+    font-size: var(--step-3);
+    font-weight: 700;
+    color: var(--accent);
+  }
+
+  .stat-label {
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  /* ── Section Intro ── */
+  .section-intro {
+    color: var(--text-secondary);
+    font-style: italic;
+    margin-bottom: var(--space-lg);
+  }
+
+  /* ── Doorway Grid ── */
+  .doorway-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-lg);
+    margin-bottom: var(--space-2xl);
+  }
+
+  .doorway-card {
+    display: block;
+    padding: var(--space-lg);
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    transition: transform var(--transition-base), box-shadow var(--transition-base), border-color var(--transition-base);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .doorway-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--accent);
+  }
+
+  .doorway-card:hover .doorway-arrow {
+    transform: translateX(4px);
+  }
+
+  .doorway-card h3 {
+    font-family: var(--font-heading);
+    font-size: var(--step-1);
+    color: var(--text-heading);
+    margin: 0 0 var(--space-sm);
+  }
+
+  .doorway-card p {
+    font-family: var(--font-body);
+    font-size: var(--step-0);
+    color: var(--text-secondary);
+    font-style: italic;
+    margin: 0 0 var(--space-md);
+  }
+
+  .doorway-arrow {
+    color: var(--accent);
+    font-size: var(--step-1);
+    transition: transform var(--transition-fast);
+  }
+
+  /* ── Footer ── */
+  .archive-footer {
+    margin-top: var(--space-3xl);
+    padding-top: var(--space-xl);
+    border-top: 1px solid var(--divider);
+    text-align: center;
+  }
+
+  .footer-tagline {
+    font-family: var(--font-heading);
+    font-size: var(--step-1);
+    color: var(--accent);
+    font-style: italic;
+  }
+
+  .footer-links {
+    display: flex;
+    gap: var(--space-lg);
+    justify-content: center;
+    margin: var(--space-md) 0;
+  }
+
+  .footer-links a {
+    color: var(--text-secondary);
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+  }
+
+  .footer-links a:hover {
+    color: var(--accent);
+  }
+
+  .footer-credit {
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+    color: var(--text-muted);
+  }
+
+  /* ── Mobile ── */
+  @media (max-width: 768px) {
+    .hero {
+      text-align: left;
+    }
+
+    .stats-bar {
+      flex-wrap: wrap;
+      gap: var(--space-md);
+    }
+
+    .doorway-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

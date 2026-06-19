@@ -8,6 +8,8 @@ const base = import.meta.env.BASE_URL || '/';
 
 <BaseLayout title="404 — Page Not Found — The Chronos Archive" description="The requested page does not exist in the Archive.">
   <main class="error-container">
+    <div class="error-watermark" aria-hidden="true">404</div>
+
     <header class="error-header">
       <h1><span class="error-code">404</span> — Page Not Found</h1>
       <p class="error-message">
@@ -46,11 +48,23 @@ SUBSURFACE TIER (Restricted)
 
     <nav class="return-nav">
       <h2>Return to Known Territory</h2>
-      <ul>
-        <li><a href={`${base}`}>🏛️ Home — The Chronos Archive</a></li>
-        <li><a href={`${base}audit/00-index/`}>📖 00-INDEX — Master Map of the Archive</a></li>
-        <li><a href="https://github.com/actual-designer/ancient-texts-research#readme">📄 README — Project Overview</a></li>
-      </ul>
+      <div class="return-cards">
+        <a href={base} class="return-card">
+          <span class="return-card-title">Home</span>
+          <span class="return-card-desc">The Chronos Archive</span>
+          <span class="return-card-arrow">&rarr;</span>
+        </a>
+        <a href={`${base}audit/00-index/`} class="return-card">
+          <span class="return-card-title">00-INDEX</span>
+          <span class="return-card-desc">Master Map of the Archive</span>
+          <span class="return-card-arrow">&rarr;</span>
+        </a>
+        <a href="https://github.com/actual-designer/ancient-texts-research#readme" class="return-card">
+          <span class="return-card-title">README</span>
+          <span class="return-card-desc">Project Overview</span>
+          <span class="return-card-arrow">&rarr;</span>
+        </a>
+      </div>
       <p class="subtitle">
         If you believe this page should exist, verify the link or
         <a href="https://github.com/actual-designer/ancient-texts-research/issues">open an issue</a>
@@ -63,20 +77,36 @@ SUBSURFACE TIER (Restricted)
 <style>
   .error-container {
     padding-top: 1rem;
+    position: relative;
+  }
+
+  .error-watermark {
+    position: absolute;
+    top: -0.3em;
+    left: -0.1em;
+    font-family: var(--font-heading);
+    font-size: calc(var(--step-5) * 2.5);
+    font-weight: 700;
+    color: var(--text-heading);
+    opacity: 0.06;
+    line-height: 1;
+    pointer-events: none;
+    user-select: none;
   }
 
   .error-header {
     margin-bottom: 2rem;
+    position: relative;
   }
 
   .error-code {
-    color: #f85149;
+    color: var(--accent);
     font-weight: 700;
   }
 
   .error-message {
-    font-size: 1.1em;
-    color: #8b949e;
+    font-size: var(--step-1);
+    color: var(--text-secondary);
     max-width: 640px;
   }
 
@@ -85,20 +115,21 @@ SUBSURFACE TIER (Restricted)
   }
 
   .tier-diagram {
-    background: #0d1117;
-    border: 1px solid #30363d;
-    border-radius: 8px;
+    background: var(--code-bg);
+    border: 1px solid var(--accent-muted);
+    border-radius: var(--radius-md);
     padding: 20px 24px;
-    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+    font-family: var(--font-mono);
     font-size: 0.875em;
     line-height: 1.6;
-    color: #e6edf3;
+    color: var(--code-text);
     overflow-x: auto;
   }
 
   .tier-diagram code {
     background: none;
     padding: 0;
+    border: none;
     color: inherit;
   }
 
@@ -106,29 +137,72 @@ SUBSURFACE TIER (Restricted)
     margin-top: 2rem;
   }
 
-  .return-nav ul {
-    list-style: none;
-    padding-left: 0;
+  .return-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: var(--space-md);
+    margin-bottom: var(--space-lg);
   }
 
-  .return-nav li {
-    margin-bottom: 0.75em;
-    font-size: 1.05em;
-  }
-
-  .return-nav a {
-    color: #58a6ff;
+  .return-card {
+    display: block;
+    padding: var(--space-md) var(--space-lg);
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
     text-decoration: none;
+    transition: transform var(--transition-base), box-shadow var(--transition-base), border-color var(--transition-base);
+    box-shadow: var(--shadow-sm);
   }
 
-  .return-nav a:hover {
-    color: #79c0ff;
-    text-decoration: underline;
+  .return-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--accent);
+  }
+
+  .return-card:hover .return-card-arrow {
+    transform: translateX(4px);
+  }
+
+  .return-card-title {
+    display: block;
+    font-family: var(--font-heading);
+    font-size: var(--step-1);
+    color: var(--text-heading);
+    font-weight: 600;
+    margin-bottom: var(--space-xs);
+  }
+
+  .return-card-desc {
+    display: block;
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+    color: var(--text-secondary);
+  }
+
+  .return-card-arrow {
+    color: var(--accent);
+    transition: transform var(--transition-fast);
   }
 
   .subtitle {
     margin-top: 1.5rem;
-    color: #8b949e;
-    font-size: 0.95em;
+    color: var(--text-muted);
+    font-size: var(--step--1);
+  }
+
+  .subtitle a {
+    color: var(--accent);
+  }
+
+  .subtitle a:hover {
+    color: var(--accent-hover);
+  }
+
+  @media (max-width: 768px) {
+    .return-cards {
+      grid-template-columns: 1fr;
+    }
   }
 </style>
