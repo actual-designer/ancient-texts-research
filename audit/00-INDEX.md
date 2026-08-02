@@ -66,6 +66,7 @@
 | [12-NHI-correlation.md](12-NHI-correlation.md) | NHI/Archive correlation synthesis — maps modern UFO/NHI discourse to unified hypothesis; correlation methodology, timeline analysis, counterargument treatment, falsification criteria |
 | [13-nde-correlation.md](13-nde-correlation.md) | NDE Correlation — Near-Death Experiences as modern evidentiary track parallel to ancient texts; covers veridical perception, post-mortem pipeline, entity encounters, cross-cultural patterns, skeptical analysis, after-effects, and SDEs/DBVs |
 | [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) | Broadsheet Celestial Events — Historical celestial phenomenon events (1535-1917 CE) as gap evidence for the Silent Period; signal/noise methodology; parallels to ancient celestial battle accounts |
+| [15-martian-operator-hypothesis.md](15-martian-operator-hypothesis.md) | Martian Operator Hypothesis — Candidate answer to the open operator-origin question: operators as survivors of a destroyed Martian civilization who engineered humanity and split into integrated and subterranean factions; graded scientific corroboration; two-faction Reading C for the Timeline Tension; falsifiability criteria. Source verification: [research-notes-martian-hypothesis-sources.md](research-notes-martian-hypothesis-sources.md) |
 
 ---
 

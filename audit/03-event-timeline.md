@@ -367,6 +367,8 @@ The first witness-account evidence from within the "Reduced Contact / Silent Per
 | 1665 | Stralsund Celestial Phenomenon | Stralsund, Germany | HIGH | [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) §6 |
 | 1917 | Fátima Miracle of the Sun | Fátima, Portugal | COMPLEX | [14-broadsheet-celestial-events.md](14-broadsheet-celestial-events.md) §7 |
 
+> **External framing (not a timeline entry):** The Martian Operator Hypothesis proposes a *prior* event before this timeline's deep-ancient start -- the destruction of a Martian civilization whose survivors became the operators -- and a "Resident Remnant" reading of the Silent Period (a persistent subterranean population, 573 BCE–present). These are external hypotheses about the timeline's boundary conditions, not attested source-text events, and are evaluated in [15-martian-operator-hypothesis.md](15-martian-operator-hypothesis.md) §4–5. The Archive's timeline remains built exclusively from the source-text corpus.
+
 ---
 
 ## ERA X: PROJECTED TERMINAL EVENTS (The Revelation Briefing)

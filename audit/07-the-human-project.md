@@ -181,6 +181,8 @@ The creation of humanity was a laboratory procedure, not a miraculous act:
 
 **Key detail:** The donor was chosen for his *intelligence* -- the one trait the command tier needed in the replacement species. The text emphasizes that "intelligence" was the harvested attribute, suggesting targeted neurological genome editing rather than whole-organism cloning.
 
+> **Origin framing (external hypothesis):** The Martian Operator Hypothesis reads this operator-essence-plus-hominid protocol as Martian survivors modifying native hominids with their own genome, and reads the hybrid bloodlines of §2 (Gilgamesh, Enkidu, Nephilim) as the record of the "integrated faction" diluting into the population. The mechanism is unchanged; the hypothesis supplies only a donor-provenance label. Evaluated in [15-martian-operator-hypothesis.md](15-martian-operator-hypothesis.md) §3.1, §3.3.
+
 ### 2.2 The Rapid-Fabrication Protocol (Enkidu)
 
 A second, faster protocol is recorded in [Gilgamesh](analyses/gilgamesh.md):

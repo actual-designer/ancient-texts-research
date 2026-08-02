@@ -24,10 +24,13 @@ audit/                        # Research output — Markdown synthesis documents
   06-weapons-doctrine.md      # Weapons authorization hierarchy
   07-the-human-project.md     # Complete arc: creation/management/reset
   08-nephilim-reassessment.md # Nephilim as deliberate transhumanist program
-  09-soma-analysis.md         # Soma as controlled substance technology
-  10-vedic-weapon-taxonomy.md # Vedic astra weapon classification
-  11-timeline-revision.md     # Refined event chronology
-  12-nhi-correlation.md       # Non-human intelligence pattern alignment
+  09-location-registry.md     # Named zones, facilities, gates, underworld comparisons
+  10-correlation-map.md       # Thematic correlation clusters + linking blueprint
+  11-unified-hypothesis.md    # Capstone argument unifying all texts
+  12-NHI-correlation.md       # Modern UFO/NHI discourse mapped to the hypothesis
+  13-nde-correlation.md       # Near-death experiences as a parallel evidentiary track
+  14-broadsheet-celestial-events.md # Historical celestial events (1535-1917) as gap evidence
+  15-martian-operator-hypothesis.md # Candidate operator-origin (Martian survivors) analysis
   analyses/                   # Per-text deep dives (14 files)
 scripts/
   validate-links.py           # Cross-reference link validator
@@ -41,7 +44,7 @@ scripts/
 | Quick overview | `README.md` | Project premise, scope, architecture |
 | Source text list | `audit/00-INDEX.md` | Master index with source table |
 | Per-text deep dive | `audit/analyses/` | 14 files, one per source text |
-| Cross-cutting synthesis | `audit/` | 12 numbered docs, 00-INDEX through 12-NHI |
+| Cross-cutting synthesis | `audit/` | 15 numbered docs, 00-INDEX through 15-martian-operator-hypothesis |
 | Feature roadmap | `PLAN.md` | Content gaps, infrastructure, expansion |
 | Link validation | `scripts/validate-links.py` | `python3 scripts/validate-links.py` |
 

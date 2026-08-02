@@ -129,6 +129,8 @@ Both readings are consistent with every document in the Archive. Neither require
 
 Reading A is supported by the longevity and detail of the Egyptian post-mortem pipeline, the explicit engineering of the amnesia architecture in the Popol Vuh, and the institutional pattern of operator withdrawal documented after every prior intervention. Reading B is supported by the structural repetition of contamination cycles, the specific trigger thresholds documented in Mesopotamian and Indian sources, and the existence of a standing terminal-sequence plan in Revelation.
 
+A structurally distinct third reading -- **Reading C (Resident Remnant)** -- has since been proposed by the Martian Operator Hypothesis: a continuously resident subterranean non-human population that neither withdrew nor operates primarily through a post-mortem pipeline, surfacing intermittently to produce the modern NHI record. It is derived and evaluated in [15-martian-operator-hypothesis.md](15-martian-operator-hypothesis.md) §4 and is held at the same neutral distance as Readings A and B; the Archive cannot distinguish the three on current evidence.
+
 The Archive's dataset has a **hard temporal boundary at 573 BCE**. Everything after that date is inference, not attestation. The timeline in `03-event-timeline.md` marks the period after Ezekiel as "(~continuous: Egyptian post-mortem processing operation)" but that continuity is inferred from the Egyptian textual corpus, not from ongoing operator documentation. The Archive does not possess a contemporary operator report from 2026 CE. It cannot confirm whether the pipeline is continuous or reactivated.
 
 This is the argument's most vulnerable point, and the Archive owns it honestly.

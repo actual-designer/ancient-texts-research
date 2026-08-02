@@ -111,6 +111,8 @@ What we do not know, and the archive should not pretend to:
 
 The archive's position is agnostic on origin and ontology. The operators were a **non-human intelligence**: biological, organized, technologically advanced, operating on Earth across an extended timescale. Whether they came from elsewhere, from another time, from another dimensional frame, or from Earth itself, the operational record is the same. The question of origin is separate from the question of what they did.
 
+> **Candidate origin (external, under evaluation):** The Martian Operator Hypothesis proposes a specific solar-system-terrestrial answer to this open question -- operators as survivors of a destroyed Martian civilization. It is mapped, graded, and held at neutral evidentiary distance in [15-martian-operator-hypothesis.md](15-martian-operator-hypothesis.md). It is recorded as a candidate, not adopted; the archive's origin agnosticism stands.
+
 ### The Internal Fractures
 
 The command tier is never monolithic. Every tradition records internal conflict:

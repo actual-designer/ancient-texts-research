@@ -7,6 +7,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.12.0] — 2026-08-02
+
+A new numbered synthesis evaluating the "Martian Anunnaki Hypothesis" as a candidate answer to the Archive's open operator-origin question, with full source verification.
+
+### Added
+
+- **`audit/15-martian-operator-hypothesis.md`** — Neutral mapping and grading of the Martian Operator Hypothesis (operators as survivors of a destroyed Martian civilization who engineered humanity and split into integrated and subterranean factions), triggered by the 2026 *The Archivist's Journal* video and the 2025 academia.edu paper it cites. Includes 8 numbered findings; a Composite-Claim Rule separating load-bearing textual evidence from corroborative science; four-part-framework mappings of engineered creation (Atrahasis), Enki's Abzu, and hybrid bloodlines; a structurally distinct **Reading C (Resident Remnant)** for the 573 BCE Timeline Tension alongside 12-NHI's Readings A/B; the Mars destruction evaluated as a prior reset archetype; graded scientific corroboration; and explicit falsifiability/disconfirmation criteria. The hypothesis is recorded as a candidate under evaluation, not adopted doctrine.
+- **`audit/research-notes-martian-hypothesis-sources.md`** — Source-critical verification of every external claim before inclusion: Cheyava Falls/Sapphire Canyon (*Nature* 645:332, 2025 — documented, cautious), Brandenburg's xenon-129 nuclear hypothesis (APS 2014 / J. Cosmology — documented, fringe), human circadian period (Czeisler, *Science* 284:2177, 1999 — value real, Mars inference speculative), the 223-genes claim (HGP 2001; Salzberg 2001; *Genome Biology* 2017 — documented, largely refuted, disqualified as load-bearing), Human Accelerated Regions (Pollard 2006; Girskis 2021 — documented), and the academia.edu paper (located, retrieval-limited). Includes a verification summary table.
+- **Sidebar navigation** (`src/components/Sidebar.astro`) — Added `15 — Martian Hypothesis` to Syntheses and `Martian Hypothesis Sources` to Field Notes.
+- **Cross-references** — Origin-candidate note in `audit/11-unified-hypothesis.md` §(origin agnosticism); Reading C note in `audit/12-NHI-correlation.md` §3.4; boundary-conditions note in `audit/03-event-timeline.md` (Broadsheet era); Abzu subsurface-engineering note in `audit/09-location-registry.md`; donor-provenance note in `audit/07-the-human-project.md` §2.1; index row in `audit/00-INDEX.md`.
+
+### Changed
+
+- **`AGENTS.md`** — Refreshed the stale synthesis-doc listing (was 00–12; now 00–15) and the "Where to look" count.
+
+---
+
 ## [0.11.3] — 2026-06-19
 
 ### Added

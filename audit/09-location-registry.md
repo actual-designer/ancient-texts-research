@@ -85,6 +85,8 @@ The archive's texts document a consistent geographic ontology across independent
 |----------|--------|-----------|-------------|-----------------|
 | The Apsu | [atrahasis](analyses/atrahasis.md) | Mesopotamian | Enki's subsurface/aquatic domain | Abzu, Tehom (Hebrew) |
 | The Apsu | [gilgamesh](analyses/gilgamesh.md) | Mesopotamian | Deep water domain; anti-aging plant location | Abzu, Tehom |
+
+> **Note (external hypothesis):** The Abzu/Apsu subsurface pattern is a load-bearing component of the Martian Operator Hypothesis, which reads Enki's underground residence as habitability-driven subsurface engineering learned on a dying home world. Evaluated in [15-martian-operator-hypothesis.md](15-martian-operator-hypothesis.md) §3.2.
 | Tartarus | [enoch-watchers](analyses/enoch-watchers.md) | Hebrew | Uriel's detention facility | Tartarus (Greek), Abyss (Rev) |
 | The Abyss / Bottomless Pit | [revelation](analyses/revelation.md) | Christian | Deep subsurface facility; drone deployment shaft and Dragon prison | Tuat (Egyptian), Xibalbá (Maya) |
 | Hell | [revelation](analyses/revelation.md) | Christian | Domain of the dead; contained in Lake of Fire | Tuat (Egyptian) |
